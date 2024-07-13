@@ -10,5 +10,6 @@
   in {
     packages.x86_64-linux = import ./packages.nix { inherit pkgs lib; };
     lib = lib;
+    apps.x86_64-linux.default = { type = "app"; program = "${self.packages.x86_64-linux.fetchModrinthMods}/bin/fetch-modrinth-mods.nu"; };
   };
 }

@@ -1,8 +1,8 @@
 { pkgs, ... }: {
-  buildMinecraftMod = pkgs.lib.makeOverridable ({ pname, version, url, sha256, ... }: 
-    pkgs.stdenv.mkDerivation {
+  buildMinecraftMod = pkgs.lib.makeOverridable ({ pname, version, url, sha512, meta, ... }: 
+    pkgs.stdenvNoCC.mkDerivation {
       name = "${pname}-${version}";
-      src = pkgs.fetchurl { inherit url sha256; };
+      src = pkgs.fetchurl { inherit url sha512; };
 
       dontUnpack = true;
       preferLocalBuild = true;
@@ -11,6 +11,8 @@
         mkdir -p $out/bin
         cp $src $out/bin/
       '';
+
+      inherit meta;
     }
   );
 }
