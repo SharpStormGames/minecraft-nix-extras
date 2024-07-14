@@ -35,6 +35,6 @@ Add the mod to the update script, `/lib/update-modrinth.nu`
 #!/usr/bin/env nu
 
 # ...
-./lib/fetch-modrinth.nu P7dR8mSH fabric-api
+^$sh P7dR8mSH fabric-api
 # ...
 ```
