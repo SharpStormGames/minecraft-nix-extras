@@ -23,6 +23,6 @@ def main [id, name] {
 "} | to text)
   echo $"{ lib, ... }: {
 ($packages)
-}" | save -f $"./mods/($name).nix"
+}" | save -f $"./pkg/mods/($name).nix"
 
 }
