@@ -35,6 +35,8 @@ jobs:
       with:
         extra_nix_config: |
           experimental-features = nix-command flakes
+    - name: Install Nu
+      uses: hustcer/setup-nu@v3
     - name: Update Metadata
       run: nix run .#update
     - name: Pull
