@@ -1,4 +1,4 @@
-{pkgs, ... }: {
+{ pkgs, ... }: {
  fetchModrinthMods = pkgs.stdenvNoCC.mkDerivation {
   name = "fetch-modrinth-mods";
   version = "0.1.0";
@@ -23,5 +23,4 @@
    chmod +x $out/bin/update-modrinth.nu
   '';
  };
- import = [ ./mods.nix ];
 }
