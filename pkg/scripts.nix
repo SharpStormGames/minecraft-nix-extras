@@ -2,7 +2,7 @@
  fetchModrinthMods = pkgs.stdenvNoCC.mkDerivation {
   name = "fetch-modrinth-mods";
   version = "0.1.0";
-  src = ./nu/fetch-modrinth.nu;
+  src = ../lib/fetch-modrinth.nu;
   dontUnpack = true;
   installPhase = ''
    mkdir $out/bin -p
@@ -14,7 +14,7 @@
  updateModrinthMods = pkgs.stdenvNoCC.mkDerivation {
   name = "update-modrinth-mods";
   version = "0.1.0";
-  src = ./nu/update-modrinth.nu;
+  src = ../lib/update-modrinth.nu;
   dontUnpack = true;
   installPhase = ''
    mkdir $out/bin -p
