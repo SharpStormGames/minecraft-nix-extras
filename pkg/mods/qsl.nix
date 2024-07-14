@@ -1,4 +1,16 @@
 { lib, ... }: {
+"PNhUOnZI" = lib.buildMinecraftMod {
+  pname = "[1.21] QFAPI 11.0.0-alpha.3 and QSL 10.0.0-alpha.1";
+  version = "11.0.0-alpha.3+0.100.7-1.21";
+  url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/PNhUOnZI/quilted-fabric-api-11.0.0-alpha.3%2B0.100.7-1.21.jar";
+  sha512 = "d5788b50cdf75374fd80700d5c28817e989bf4b74595062252cd6b7c5689fb9d81edd0210d6f4e9b524ab0f8c2e0dc3a7c9b73c663690b0167664022bd2f6c26";
+
+  meta = {
+    gameVersions = [ ''1.21'' ];
+    loaders = [ ''quilt'' ];
+  };
+};
+
 "zEhzQDsY" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.6.0 and QSL 6.2.0";
   version = "7.6.0+0.92.2-1.20.1";
