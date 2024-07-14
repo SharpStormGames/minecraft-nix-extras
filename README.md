@@ -23,18 +23,18 @@ nix run .#fetch P7dR8mSH fabric-api
 
 This will generate the file `/pkg/mods/fabric-api.nix` with all the available versions.
 
-To package the mod, import it in `/lib/mods.nix`
+To package the mod, import it in `/pkg/mods.nix`
 
 ```nix
-fabric-api = import ../pkg/mods/fabric-api.nix { inherit lib; };
+fabric-api = import ./mods/fabric-api.nix { inherit lib; };
 ```
 
-Add the mod to the update script, `/lib/nu/update-modrinth.nu`
+Add the mod to the update script, `/lib/update-modrinth.nu`
 
 ```shell
 #!/usr/bin/env nu
 
 # ...
-./lib/nu/fetch-modrinth.nu P7dR8mSH fabric-api
+./lib/fetch-modrinth.nu P7dR8mSH fabric-api
 # ...
 ```
