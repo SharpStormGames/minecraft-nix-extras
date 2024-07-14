@@ -1,4 +1,4 @@
-{ pkgs, ... }: {
+{ pkgs, inputs, ... }: {
  buildMinecraftMod = pkgs.lib.makeOverridable ({ pname, version, url, sha512, meta, ... }: 
   pkgs.stdenvNoCC.mkDerivation {
    name = "${pname}-${version}";
@@ -12,4 +12,5 @@
    inherit meta;
   }
  );
+ writeNushellScript = inputs.nix-functions.lib.writeNushellScript;
 }
