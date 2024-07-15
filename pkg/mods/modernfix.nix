@@ -1,5 +1,5 @@
 { lib, ... }: {
-"Ujn5wrXH" = lib.buildMinecraftMod {
+"Ujn5wrXH" = lib.buildMinecraftFile {
   pname = "5.18.8+mc1.21";
   version = "5.18.8+mc1.21";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/Ujn5wrXH/modernfix-fabric-5.18.8%2Bmc1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"omk9tj4N" = lib.buildMinecraftMod {
+"omk9tj4N" = lib.buildMinecraftFile {
   pname = "5.18.7+mc1.21";
   version = "5.18.7+mc1.21";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/omk9tj4N/modernfix-fabric-5.18.7%2Bmc1.21.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"NUPJxyji" = lib.buildMinecraftMod {
+"NUPJxyji" = lib.buildMinecraftFile {
   pname = "5.18.6+mc1.21";
   version = "5.18.6+mc1.21";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/NUPJxyji/modernfix-fabric-5.18.6%2Bmc1.21.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"wZo2xGP6" = lib.buildMinecraftMod {
+"wZo2xGP6" = lib.buildMinecraftFile {
   pname = "5.18.6+mc1.20.1";
   version = "5.18.6+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/wZo2xGP6/modernfix-fabric-5.18.6%2Bmc1.20.1.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"Tx3ph266" = lib.buildMinecraftMod {
+"Tx3ph266" = lib.buildMinecraftFile {
   pname = "5.18.5+mc1.21";
   version = "5.18.5+mc1.21";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/Tx3ph266/modernfix-fabric-5.18.5%2Bmc1.21.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"R8Z329pv" = lib.buildMinecraftMod {
+"R8Z329pv" = lib.buildMinecraftFile {
   pname = "5.18.4+mc1.21";
   version = "5.18.4+mc1.21";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/R8Z329pv/modernfix-fabric-5.18.4%2Bmc1.21.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"AFvoBfkx" = lib.buildMinecraftMod {
+"AFvoBfkx" = lib.buildMinecraftFile {
   pname = "5.18.3+mc1.21";
   version = "5.18.3+mc1.21";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/AFvoBfkx/modernfix-fabric-5.18.3%2Bmc1.21.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"f3UzsGPb" = lib.buildMinecraftMod {
+"f3UzsGPb" = lib.buildMinecraftFile {
   pname = "5.18.2+mc1.21";
   version = "5.18.2+mc1.21";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/f3UzsGPb/modernfix-fabric-5.18.2%2Bmc1.21.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"CB2UOpt3" = lib.buildMinecraftMod {
+"CB2UOpt3" = lib.buildMinecraftFile {
   pname = "5.18.1+mc1.20.1";
   version = "5.18.1+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/CB2UOpt3/modernfix-fabric-5.18.1%2Bmc1.20.1.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"kawuAd17" = lib.buildMinecraftMod {
+"kawuAd17" = lib.buildMinecraftFile {
   pname = "5.18.1+mc1.21";
   version = "5.18.1+mc1.21";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/kawuAd17/modernfix-fabric-5.18.1%2Bmc1.21.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"QA8FnfC2" = lib.buildMinecraftMod {
+"QA8FnfC2" = lib.buildMinecraftFile {
   pname = "5.18.0+mc1.19.2";
   version = "5.18.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/QA8FnfC2/modernfix-fabric-5.18.0%2Bmc1.19.2.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"LJ5N4YSl" = lib.buildMinecraftMod {
+"LJ5N4YSl" = lib.buildMinecraftFile {
   pname = "5.18.0+mc1.18.2";
   version = "5.18.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/LJ5N4YSl/modernfix-fabric-5.18.0%2Bmc1.18.2.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"dUdr6D7I" = lib.buildMinecraftMod {
+"dUdr6D7I" = lib.buildMinecraftFile {
   pname = "5.18.0+mc1.20.6";
   version = "5.18.0+mc1.20.6";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/dUdr6D7I/modernfix-fabric-5.18.0%2Bmc1.20.6.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"3rl50He4" = lib.buildMinecraftMod {
+"3rl50He4" = lib.buildMinecraftFile {
   pname = "5.18.0+mc1.20.1";
   version = "5.18.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/3rl50He4/modernfix-fabric-5.18.0%2Bmc1.20.1.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"mDqpjmKe" = lib.buildMinecraftMod {
+"mDqpjmKe" = lib.buildMinecraftFile {
   pname = "5.18.0+mc1.16.5";
   version = "5.18.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/mDqpjmKe/modernfix-fabric-5.18.0%2Bmc1.16.5.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"xlt4bcjj" = lib.buildMinecraftMod {
+"xlt4bcjj" = lib.buildMinecraftFile {
   pname = "5.17.3+mc1.20.6";
   version = "5.17.3+mc1.20.6";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/xlt4bcjj/modernfix-fabric-5.17.3%2Bmc1.20.6.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"mX9P5IWG" = lib.buildMinecraftMod {
+"mX9P5IWG" = lib.buildMinecraftFile {
   pname = "5.17.2+mc1.20.6";
   version = "5.17.2+mc1.20.6";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/mX9P5IWG/modernfix-fabric-5.17.2%2Bmc1.20.6.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"kGQbFg0p" = lib.buildMinecraftMod {
+"kGQbFg0p" = lib.buildMinecraftFile {
   pname = "5.17.0+mc1.19.2";
   version = "5.17.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/kGQbFg0p/modernfix-fabric-5.17.0%2Bmc1.19.2.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"KNI1HSwE" = lib.buildMinecraftMod {
+"KNI1HSwE" = lib.buildMinecraftFile {
   pname = "5.17.0+mc1.18.2";
   version = "5.17.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/KNI1HSwE/modernfix-fabric-5.17.0%2Bmc1.18.2.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"tmmvhxCF" = lib.buildMinecraftMod {
+"tmmvhxCF" = lib.buildMinecraftFile {
   pname = "5.17.0+mc1.20.5";
   version = "5.17.0+mc1.20.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/tmmvhxCF/modernfix-fabric-5.17.0%2Bmc1.20.5.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"fh7tdNlS" = lib.buildMinecraftMod {
+"fh7tdNlS" = lib.buildMinecraftFile {
   pname = "5.17.0+mc1.20.1";
   version = "5.17.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/fh7tdNlS/modernfix-fabric-5.17.0%2Bmc1.20.1.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"CV2Vtn5m" = lib.buildMinecraftMod {
+"CV2Vtn5m" = lib.buildMinecraftFile {
   pname = "5.17.0+mc1.20.4";
   version = "5.17.0+mc1.20.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/CV2Vtn5m/modernfix-fabric-5.17.0%2Bmc1.20.4.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"zVCpSwRk" = lib.buildMinecraftMod {
+"zVCpSwRk" = lib.buildMinecraftFile {
   pname = "5.17.0+mc1.16.5";
   version = "5.17.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/zVCpSwRk/modernfix-fabric-5.17.0%2Bmc1.16.5.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"EL78UqrQ" = lib.buildMinecraftMod {
+"EL78UqrQ" = lib.buildMinecraftFile {
   pname = "5.16.1+mc1.20.4";
   version = "5.16.1+mc1.20.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/EL78UqrQ/modernfix-fabric-5.16.1%2Bmc1.20.4.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"Nez10x5y" = lib.buildMinecraftMod {
+"Nez10x5y" = lib.buildMinecraftFile {
   pname = "5.16.1+mc1.18.2";
   version = "5.16.1+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/Nez10x5y/modernfix-fabric-5.16.1%2Bmc1.18.2.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"caijz5kw" = lib.buildMinecraftMod {
+"caijz5kw" = lib.buildMinecraftFile {
   pname = "5.16.1+mc1.20.1";
   version = "5.16.1+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/caijz5kw/modernfix-fabric-5.16.1%2Bmc1.20.1.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"qFKeDWer" = lib.buildMinecraftMod {
+"qFKeDWer" = lib.buildMinecraftFile {
   pname = "5.16.1+mc1.19.2";
   version = "5.16.1+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/qFKeDWer/modernfix-fabric-5.16.1%2Bmc1.19.2.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"VABjk2B2" = lib.buildMinecraftMod {
+"VABjk2B2" = lib.buildMinecraftFile {
   pname = "5.16.0+mc1.19.2";
   version = "5.16.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/VABjk2B2/modernfix-fabric-5.16.0%2Bmc1.19.2.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"rYozV85S" = lib.buildMinecraftMod {
+"rYozV85S" = lib.buildMinecraftFile {
   pname = "5.16.0+mc1.16.5";
   version = "5.16.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/rYozV85S/modernfix-fabric-5.16.0%2Bmc1.16.5.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"8fdApWNK" = lib.buildMinecraftMod {
+"8fdApWNK" = lib.buildMinecraftFile {
   pname = "5.16.0+mc1.18.2";
   version = "5.16.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/8fdApWNK/modernfix-fabric-5.16.0%2Bmc1.18.2.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"cGTUis9q" = lib.buildMinecraftMod {
+"cGTUis9q" = lib.buildMinecraftFile {
   pname = "5.16.0+mc1.20.4";
   version = "5.16.0+mc1.20.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/cGTUis9q/modernfix-fabric-5.16.0%2Bmc1.20.4.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"peqGje5u" = lib.buildMinecraftMod {
+"peqGje5u" = lib.buildMinecraftFile {
   pname = "5.16.0+mc1.20.1";
   version = "5.16.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/peqGje5u/modernfix-fabric-5.16.0%2Bmc1.20.1.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"OS3nKgb9" = lib.buildMinecraftMod {
+"OS3nKgb9" = lib.buildMinecraftFile {
   pname = "ModernFix 5.16.0-beta.1+mc24w14a";
   version = "5.16.0-beta.1+mc24w14a";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/OS3nKgb9/modernfix-fabric-5.10.3-beta.51%2Bmc24w14a.23bb.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"jXMYPayd" = lib.buildMinecraftMod {
+"jXMYPayd" = lib.buildMinecraftFile {
   pname = "5.15.0+mc1.18.2";
   version = "5.15.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/jXMYPayd/modernfix-fabric-5.15.0%2Bmc1.18.2.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"lQs9avbD" = lib.buildMinecraftMod {
+"lQs9avbD" = lib.buildMinecraftFile {
   pname = "5.15.0+mc1.20.4";
   version = "5.15.0+mc1.20.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/lQs9avbD/modernfix-fabric-5.15.0%2Bmc1.20.4.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"jZcXXRiU" = lib.buildMinecraftMod {
+"jZcXXRiU" = lib.buildMinecraftFile {
   pname = "5.15.0+mc1.16.5";
   version = "5.15.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/jZcXXRiU/modernfix-fabric-5.15.0%2Bmc1.16.5.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"5LHKYBfs" = lib.buildMinecraftMod {
+"5LHKYBfs" = lib.buildMinecraftFile {
   pname = "5.15.0+mc1.19.2";
   version = "5.15.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/5LHKYBfs/modernfix-fabric-5.15.0%2Bmc1.19.2.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"zlah1a6M" = lib.buildMinecraftMod {
+"zlah1a6M" = lib.buildMinecraftFile {
   pname = "5.15.0+mc1.20.1";
   version = "5.15.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/zlah1a6M/modernfix-fabric-5.15.0%2Bmc1.20.1.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"b9EwaQ8h" = lib.buildMinecraftMod {
+"b9EwaQ8h" = lib.buildMinecraftFile {
   pname = "5.14.0+mc1.19.2";
   version = "5.14.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/b9EwaQ8h/modernfix-fabric-5.14.0%2Bmc1.19.2.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"J3SmQdYi" = lib.buildMinecraftMod {
+"J3SmQdYi" = lib.buildMinecraftFile {
   pname = "5.14.0+mc1.18.2";
   version = "5.14.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/J3SmQdYi/modernfix-fabric-5.14.0%2Bmc1.18.2.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"JEenvxf5" = lib.buildMinecraftMod {
+"JEenvxf5" = lib.buildMinecraftFile {
   pname = "5.14.0+mc1.20.1";
   version = "5.14.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/JEenvxf5/modernfix-fabric-5.14.0%2Bmc1.20.1.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"oRGm8e3F" = lib.buildMinecraftMod {
+"oRGm8e3F" = lib.buildMinecraftFile {
   pname = "5.14.0+mc1.16.5";
   version = "5.14.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/oRGm8e3F/modernfix-fabric-5.14.0%2Bmc1.16.5.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"o6bFEv8x" = lib.buildMinecraftMod {
+"o6bFEv8x" = lib.buildMinecraftFile {
   pname = "5.14.0+mc1.20.4";
   version = "5.14.0+mc1.20.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/o6bFEv8x/modernfix-fabric-5.14.0%2Bmc1.20.4.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"xgdNEjjn" = lib.buildMinecraftMod {
+"xgdNEjjn" = lib.buildMinecraftFile {
   pname = "5.13.0+mc24w09a";
   version = "5.10.3-beta.28+mc24w09a.eaca";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/xgdNEjjn/modernfix-fabric-5.10.3-beta.28%2Bmc24w09a.eaca.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"Id3z4wMh" = lib.buildMinecraftMod {
+"Id3z4wMh" = lib.buildMinecraftFile {
   pname = "5.13.0+mc1.18.2";
   version = "5.13.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/Id3z4wMh/modernfix-fabric-5.13.0%2Bmc1.18.2.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"vHzDHEDN" = lib.buildMinecraftMod {
+"vHzDHEDN" = lib.buildMinecraftFile {
   pname = "5.13.0+mc1.19.2";
   version = "5.13.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/vHzDHEDN/modernfix-fabric-5.13.0%2Bmc1.19.2.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"oJUG6agJ" = lib.buildMinecraftMod {
+"oJUG6agJ" = lib.buildMinecraftFile {
   pname = "5.13.0+mc1.20.1";
   version = "5.13.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/oJUG6agJ/modernfix-fabric-5.13.0%2Bmc1.20.1.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"Btq1HFzk" = lib.buildMinecraftMod {
+"Btq1HFzk" = lib.buildMinecraftFile {
   pname = "5.13.0+mc1.20.4";
   version = "5.13.0+mc1.20.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/Btq1HFzk/modernfix-fabric-5.13.0%2Bmc1.20.4.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"JeFLzIkV" = lib.buildMinecraftMod {
+"JeFLzIkV" = lib.buildMinecraftFile {
   pname = "5.13.0+mc1.16.5";
   version = "5.13.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/JeFLzIkV/modernfix-fabric-5.13.0%2Bmc1.16.5.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"OOAMFEGB" = lib.buildMinecraftMod {
+"OOAMFEGB" = lib.buildMinecraftFile {
   pname = "5.12.2-beta.16+mc24w04a.f244";
   version = "5.10.3-beta.16+mc24w04a.f244";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/OOAMFEGB/modernfix-fabric-5.10.3-beta.16%2Bmc24w04a.f244.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"fktvkFSD" = lib.buildMinecraftMod {
+"fktvkFSD" = lib.buildMinecraftFile {
   pname = "5.12.1+mc1.20.1";
   version = "5.12.1+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/fktvkFSD/modernfix-fabric-5.12.1%2Bmc1.20.1.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"4BFceRG4" = lib.buildMinecraftMod {
+"4BFceRG4" = lib.buildMinecraftFile {
   pname = "5.12.1+mc1.20.4";
   version = "5.12.1+mc1.20.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/4BFceRG4/modernfix-fabric-5.12.1%2Bmc1.20.4.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"9rqtpYwE" = lib.buildMinecraftMod {
+"9rqtpYwE" = lib.buildMinecraftFile {
   pname = "5.12.0+mc1.18.2";
   version = "5.12.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/9rqtpYwE/modernfix-fabric-5.12.0%2Bmc1.18.2.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"s3eeVFK8" = lib.buildMinecraftMod {
+"s3eeVFK8" = lib.buildMinecraftFile {
   pname = "5.12.0+mc1.16.5";
   version = "5.12.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/s3eeVFK8/modernfix-fabric-5.12.0%2Bmc1.16.5.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"MAghxxfz" = lib.buildMinecraftMod {
+"MAghxxfz" = lib.buildMinecraftFile {
   pname = "5.12.0+mc1.20.4";
   version = "5.12.0+mc1.20.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/MAghxxfz/modernfix-fabric-5.12.0%2Bmc1.20.4.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"2HMvqcxJ" = lib.buildMinecraftMod {
+"2HMvqcxJ" = lib.buildMinecraftFile {
   pname = "5.12.0+mc1.19.2";
   version = "5.12.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/2HMvqcxJ/modernfix-fabric-5.12.0%2Bmc1.19.2.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"SjO7r0li" = lib.buildMinecraftMod {
+"SjO7r0li" = lib.buildMinecraftFile {
   pname = "5.12.0+mc1.20.1";
   version = "5.12.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/SjO7r0li/modernfix-fabric-5.12.0%2Bmc1.20.1.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"D74K2SYQ" = lib.buildMinecraftMod {
+"D74K2SYQ" = lib.buildMinecraftFile {
   pname = "5.11.1+mc1.18.2";
   version = "5.11.1+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/D74K2SYQ/modernfix-fabric-5.11.1%2Bmc1.18.2.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"6Tz5Moit" = lib.buildMinecraftMod {
+"6Tz5Moit" = lib.buildMinecraftFile {
   pname = "5.11.1+mc1.19.2";
   version = "5.11.1+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/6Tz5Moit/modernfix-fabric-5.11.1%2Bmc1.19.2.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"1FrMon6Q" = lib.buildMinecraftMod {
+"1FrMon6Q" = lib.buildMinecraftFile {
   pname = "5.11.1+mc1.20.1";
   version = "5.11.1+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/1FrMon6Q/modernfix-fabric-5.11.1%2Bmc1.20.1.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"gJzUanvd" = lib.buildMinecraftMod {
+"gJzUanvd" = lib.buildMinecraftFile {
   pname = "5.11.1+mc1.16.5";
   version = "5.11.1+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/gJzUanvd/modernfix-fabric-5.11.1%2Bmc1.16.5.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"2FN93J80" = lib.buildMinecraftMod {
+"2FN93J80" = lib.buildMinecraftFile {
   pname = "5.11.1+mc1.20.4";
   version = "5.11.1+mc1.20.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/2FN93J80/modernfix-fabric-5.11.1%2Bmc1.20.4.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"oylrfPkW" = lib.buildMinecraftMod {
+"oylrfPkW" = lib.buildMinecraftFile {
   pname = "5.11.0+mc1.19.2";
   version = "5.11.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/oylrfPkW/modernfix-fabric-5.11.0%2Bmc1.19.2.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"giQyDXGo" = lib.buildMinecraftMod {
+"giQyDXGo" = lib.buildMinecraftFile {
   pname = "5.11.0+mc1.20.1";
   version = "5.11.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/giQyDXGo/modernfix-fabric-5.11.0%2Bmc1.20.1.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"npSYUF6U" = lib.buildMinecraftMod {
+"npSYUF6U" = lib.buildMinecraftFile {
   pname = "5.11.0+mc1.18.2";
   version = "5.11.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/npSYUF6U/modernfix-fabric-5.11.0%2Bmc1.18.2.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"DAzGqP8u" = lib.buildMinecraftMod {
+"DAzGqP8u" = lib.buildMinecraftFile {
   pname = "5.11.0+mc1.20.4";
   version = "5.11.0+mc1.20.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/DAzGqP8u/modernfix-fabric-5.11.0%2Bmc1.20.4.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"d6XtsgBG" = lib.buildMinecraftMod {
+"d6XtsgBG" = lib.buildMinecraftFile {
   pname = "5.11.0+mc1.16.5";
   version = "5.11.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/d6XtsgBG/modernfix-fabric-5.11.0%2Bmc1.16.5.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"MypV6XBd" = lib.buildMinecraftMod {
+"MypV6XBd" = lib.buildMinecraftFile {
   pname = "5.10.2+mc1.20.4";
   version = "5.10.2+mc1.20.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/MypV6XBd/modernfix-fabric-5.10.2%2Bmc1.20.4.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"7fJivtJU" = lib.buildMinecraftMod {
+"7fJivtJU" = lib.buildMinecraftFile {
   pname = "5.10.1+mc1.19.2";
   version = "5.10.1+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/7fJivtJU/modernfix-fabric-5.10.1%2Bmc1.19.2.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"pAWJdjPp" = lib.buildMinecraftMod {
+"pAWJdjPp" = lib.buildMinecraftFile {
   pname = "5.10.1+mc1.20.1";
   version = "5.10.1+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/pAWJdjPp/modernfix-fabric-5.10.1%2Bmc1.20.1.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"rRcwOsPa" = lib.buildMinecraftMod {
+"rRcwOsPa" = lib.buildMinecraftFile {
   pname = "5.10.1+mc1.20.2";
   version = "5.10.1+mc1.20.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/rRcwOsPa/modernfix-fabric-5.10.1%2Bmc1.20.2.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"8hPIV7NS" = lib.buildMinecraftMod {
+"8hPIV7NS" = lib.buildMinecraftFile {
   pname = "5.10.1+mc1.20.4";
   version = "5.10.1+mc1.20.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/8hPIV7NS/modernfix-fabric-5.10.1%2Bmc1.20.4.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"T3un6Ool" = lib.buildMinecraftMod {
+"T3un6Ool" = lib.buildMinecraftFile {
   pname = "5.10.1+mc1.16.5";
   version = "5.10.1+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/T3un6Ool/modernfix-fabric-5.10.1%2Bmc1.16.5.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"vxDb5tOq" = lib.buildMinecraftMod {
+"vxDb5tOq" = lib.buildMinecraftFile {
   pname = "5.10.0+mc1.20.3";
   version = "5.10.0+mc1.20.3";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/vxDb5tOq/modernfix-fabric-5.10.0%2Bmc1.20.3.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"P8w71zv8" = lib.buildMinecraftMod {
+"P8w71zv8" = lib.buildMinecraftFile {
   pname = "5.10.0+mc1.18.2";
   version = "5.10.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/P8w71zv8/modernfix-fabric-5.10.0%2Bmc1.18.2.jar";
@@ -899,7 +899,7 @@
   };
 };
 
-"bT6gZuTb" = lib.buildMinecraftMod {
+"bT6gZuTb" = lib.buildMinecraftFile {
   pname = "5.10.0+mc1.19.2";
   version = "5.10.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/bT6gZuTb/modernfix-fabric-5.10.0%2Bmc1.19.2.jar";
@@ -911,7 +911,7 @@
   };
 };
 
-"IC7LBv4d" = lib.buildMinecraftMod {
+"IC7LBv4d" = lib.buildMinecraftFile {
   pname = "5.10.0+mc1.20.2";
   version = "5.10.0+mc1.20.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/IC7LBv4d/modernfix-fabric-5.10.0%2Bmc1.20.2.jar";
@@ -923,7 +923,7 @@
   };
 };
 
-"9GyqQvmB" = lib.buildMinecraftMod {
+"9GyqQvmB" = lib.buildMinecraftFile {
   pname = "5.10.0+mc1.20.1";
   version = "5.10.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/9GyqQvmB/modernfix-fabric-5.10.0%2Bmc1.20.1.jar";
@@ -935,7 +935,7 @@
   };
 };
 
-"ZNaGDoHa" = lib.buildMinecraftMod {
+"ZNaGDoHa" = lib.buildMinecraftFile {
   pname = "5.10.0+mc1.16.5";
   version = "5.10.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/ZNaGDoHa/modernfix-fabric-5.10.0%2Bmc1.16.5.jar";
@@ -947,7 +947,7 @@
   };
 };
 
-"WzGrDsBM" = lib.buildMinecraftMod {
+"WzGrDsBM" = lib.buildMinecraftFile {
   pname = "5.9.3+mc1.18.2";
   version = "5.9.3+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/WzGrDsBM/modernfix-fabric-5.9.3%2Bmc1.18.2.jar";
@@ -959,7 +959,7 @@
   };
 };
 
-"5TGI84hb" = lib.buildMinecraftMod {
+"5TGI84hb" = lib.buildMinecraftFile {
   pname = "5.9.3+mc1.19.2";
   version = "5.9.3+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/5TGI84hb/modernfix-fabric-5.9.3%2Bmc1.19.2.jar";
@@ -971,7 +971,7 @@
   };
 };
 
-"2ewMnB7e" = lib.buildMinecraftMod {
+"2ewMnB7e" = lib.buildMinecraftFile {
   pname = "5.9.3+mc1.16.5";
   version = "5.9.3+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/2ewMnB7e/modernfix-fabric-5.9.3%2Bmc1.16.5.jar";
@@ -983,7 +983,7 @@
   };
 };
 
-"nYh2qee4" = lib.buildMinecraftMod {
+"nYh2qee4" = lib.buildMinecraftFile {
   pname = "5.9.3+mc1.20.2";
   version = "5.9.3+mc1.20.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/nYh2qee4/modernfix-fabric-5.9.3%2Bmc1.20.2.jar";
@@ -995,7 +995,7 @@
   };
 };
 
-"cuMfXHwk" = lib.buildMinecraftMod {
+"cuMfXHwk" = lib.buildMinecraftFile {
   pname = "5.9.3+mc1.20.1";
   version = "5.9.3+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/cuMfXHwk/modernfix-fabric-5.9.3%2Bmc1.20.1.jar";
@@ -1007,7 +1007,7 @@
   };
 };
 
-"WrH5h6hR" = lib.buildMinecraftMod {
+"WrH5h6hR" = lib.buildMinecraftFile {
   pname = "5.8.2-beta.23+mc23w45a.464c";
   version = "5.8.2-beta.23+mc23w45a.464c";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/WrH5h6hR/modernfix-fabric-5.8.2-beta.23%2Bmc23w45a.464c.jar";
@@ -1019,7 +1019,7 @@
   };
 };
 
-"8cRA5hIs" = lib.buildMinecraftMod {
+"8cRA5hIs" = lib.buildMinecraftFile {
   pname = "5.9.2+mc1.18.2";
   version = "5.9.2+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/8cRA5hIs/modernfix-fabric-5.9.2%2Bmc1.18.2.jar";
@@ -1031,7 +1031,7 @@
   };
 };
 
-"g2qIraQ1" = lib.buildMinecraftMod {
+"g2qIraQ1" = lib.buildMinecraftFile {
   pname = "5.9.2+mc1.20.1";
   version = "5.9.2+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/g2qIraQ1/modernfix-fabric-5.9.2%2Bmc1.20.1.jar";
@@ -1043,7 +1043,7 @@
   };
 };
 
-"5vWEqiOB" = lib.buildMinecraftMod {
+"5vWEqiOB" = lib.buildMinecraftFile {
   pname = "5.9.2+mc1.19.2";
   version = "5.9.2+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/5vWEqiOB/modernfix-fabric-5.9.2%2Bmc1.19.2.jar";
@@ -1055,7 +1055,7 @@
   };
 };
 
-"aIrZFfMA" = lib.buildMinecraftMod {
+"aIrZFfMA" = lib.buildMinecraftFile {
   pname = "5.9.2+mc1.16.5";
   version = "5.9.2+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/aIrZFfMA/modernfix-fabric-5.9.2%2Bmc1.16.5.jar";
@@ -1067,7 +1067,7 @@
   };
 };
 
-"r62BNWkZ" = lib.buildMinecraftMod {
+"r62BNWkZ" = lib.buildMinecraftFile {
   pname = "5.9.2+mc1.20.2";
   version = "5.9.2+mc1.20.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/r62BNWkZ/modernfix-fabric-5.9.2%2Bmc1.20.2.jar";
@@ -1079,7 +1079,7 @@
   };
 };
 
-"19lQhQ2Q" = lib.buildMinecraftMod {
+"19lQhQ2Q" = lib.buildMinecraftFile {
   pname = "5.9.1+mc1.20.1";
   version = "5.9.1+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/19lQhQ2Q/modernfix-fabric-5.9.1%2Bmc1.20.1.jar";
@@ -1091,7 +1091,7 @@
   };
 };
 
-"ge00Oz2v" = lib.buildMinecraftMod {
+"ge00Oz2v" = lib.buildMinecraftFile {
   pname = "5.9.1+mc1.19.2";
   version = "5.9.1+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/ge00Oz2v/modernfix-fabric-5.9.1%2Bmc1.19.2.jar";
@@ -1103,7 +1103,7 @@
   };
 };
 
-"AW2Wv8MN" = lib.buildMinecraftMod {
+"AW2Wv8MN" = lib.buildMinecraftFile {
   pname = "5.9.1+mc1.18.2";
   version = "5.9.1+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/AW2Wv8MN/modernfix-fabric-5.9.1%2Bmc1.18.2.jar";
@@ -1115,7 +1115,7 @@
   };
 };
 
-"hV2WSfLx" = lib.buildMinecraftMod {
+"hV2WSfLx" = lib.buildMinecraftFile {
   pname = "5.9.1+mc1.16.5";
   version = "5.9.1+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/hV2WSfLx/modernfix-fabric-5.9.1%2Bmc1.16.5.jar";
@@ -1127,7 +1127,7 @@
   };
 };
 
-"9e1ulwtU" = lib.buildMinecraftMod {
+"9e1ulwtU" = lib.buildMinecraftFile {
   pname = "5.9.1+mc1.20.2";
   version = "5.9.1+mc1.20.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/9e1ulwtU/modernfix-fabric-5.9.1%2Bmc1.20.2.jar";
@@ -1139,7 +1139,7 @@
   };
 };
 
-"hIcEK3Ks" = lib.buildMinecraftMod {
+"hIcEK3Ks" = lib.buildMinecraftFile {
   pname = "5.9.0+mc1.16.5";
   version = "5.9.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/hIcEK3Ks/modernfix-fabric-5.9.0%2Bmc1.16.5.jar";
@@ -1151,7 +1151,7 @@
   };
 };
 
-"FDGaMHFj" = lib.buildMinecraftMod {
+"FDGaMHFj" = lib.buildMinecraftFile {
   pname = "5.9.0+mc1.20.1";
   version = "5.9.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/FDGaMHFj/modernfix-fabric-5.9.0%2Bmc1.20.1.jar";
@@ -1163,7 +1163,7 @@
   };
 };
 
-"qNrVNwfw" = lib.buildMinecraftMod {
+"qNrVNwfw" = lib.buildMinecraftFile {
   pname = "5.9.0+mc1.18.2";
   version = "5.9.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/qNrVNwfw/modernfix-fabric-5.9.0%2Bmc1.18.2.jar";
@@ -1175,7 +1175,7 @@
   };
 };
 
-"b1FKKAz8" = lib.buildMinecraftMod {
+"b1FKKAz8" = lib.buildMinecraftFile {
   pname = "5.9.0+mc1.19.2";
   version = "5.9.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/b1FKKAz8/modernfix-fabric-5.9.0%2Bmc1.19.2.jar";
@@ -1187,7 +1187,7 @@
   };
 };
 
-"DDQyvO7M" = lib.buildMinecraftMod {
+"DDQyvO7M" = lib.buildMinecraftFile {
   pname = "5.9.0+mc1.16.5";
   version = "5.9.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/DDQyvO7M/modernfix-fabric-5.9.0%2Bmc1.16.5.jar";
@@ -1199,7 +1199,7 @@
   };
 };
 
-"6jU8mhig" = lib.buildMinecraftMod {
+"6jU8mhig" = lib.buildMinecraftFile {
   pname = "5.9.0+mc1.20.2";
   version = "5.9.0+mc1.20.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/6jU8mhig/modernfix-fabric-5.9.0%2Bmc1.20.2.jar";
@@ -1211,7 +1211,7 @@
   };
 };
 
-"vQ1eqwUT" = lib.buildMinecraftMod {
+"vQ1eqwUT" = lib.buildMinecraftFile {
   pname = "5.8.2-beta.5+mc23w43a.472e";
   version = "5.8.2-beta.5+mc23w43a.472e";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/vQ1eqwUT/modernfix-fabric-5.8.2-beta.5%2Bmc23w43a.472e.jar";
@@ -1223,7 +1223,7 @@
   };
 };
 
-"I019kuJ8" = lib.buildMinecraftMod {
+"I019kuJ8" = lib.buildMinecraftFile {
   pname = "5.8.2-beta.2+mc23w42a.231c";
   version = "5.8.2-beta.2+mc23w42a.231c";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/I019kuJ8/modernfix-fabric-5.8.2-beta.2%2Bmc23w42a.231c.jar";
@@ -1235,7 +1235,7 @@
   };
 };
 
-"h06WI6hI" = lib.buildMinecraftMod {
+"h06WI6hI" = lib.buildMinecraftFile {
   pname = "5.8.1+mc1.19.2";
   version = "5.8.1+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/h06WI6hI/modernfix-fabric-5.8.1%2Bmc1.19.2.jar";
@@ -1247,7 +1247,7 @@
   };
 };
 
-"gDr0pa5m" = lib.buildMinecraftMod {
+"gDr0pa5m" = lib.buildMinecraftFile {
   pname = "5.8.1+mc1.20.1";
   version = "5.8.1+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/gDr0pa5m/modernfix-fabric-5.8.1%2Bmc1.20.1.jar";
@@ -1259,7 +1259,7 @@
   };
 };
 
-"8bcOcx2u" = lib.buildMinecraftMod {
+"8bcOcx2u" = lib.buildMinecraftFile {
   pname = "5.8.1+mc1.16.5";
   version = "5.8.1+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/8bcOcx2u/modernfix-fabric-5.8.1%2Bmc1.16.5.jar";
@@ -1271,7 +1271,7 @@
   };
 };
 
-"iMK8fcT3" = lib.buildMinecraftMod {
+"iMK8fcT3" = lib.buildMinecraftFile {
   pname = "5.8.1+mc1.18.2";
   version = "5.8.1+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/iMK8fcT3/modernfix-fabric-5.8.1%2Bmc1.18.2.jar";
@@ -1283,7 +1283,7 @@
   };
 };
 
-"5YONh7M3" = lib.buildMinecraftMod {
+"5YONh7M3" = lib.buildMinecraftFile {
   pname = "5.8.1+mc1.20.2";
   version = "5.8.1+mc1.20.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/5YONh7M3/modernfix-fabric-5.8.1%2Bmc1.20.2.jar";
@@ -1295,7 +1295,7 @@
   };
 };
 
-"ziFdyRZU" = lib.buildMinecraftMod {
+"ziFdyRZU" = lib.buildMinecraftFile {
   pname = "5.8.0+mc1.19.2";
   version = "5.8.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/ziFdyRZU/modernfix-fabric-5.8.0%2Bmc1.19.2.jar";
@@ -1307,7 +1307,7 @@
   };
 };
 
-"HZze6q1Z" = lib.buildMinecraftMod {
+"HZze6q1Z" = lib.buildMinecraftFile {
   pname = "5.8.0+mc1.20.1";
   version = "5.8.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/HZze6q1Z/modernfix-fabric-5.8.0%2Bmc1.20.1.jar";
@@ -1319,7 +1319,7 @@
   };
 };
 
-"SHRLUukI" = lib.buildMinecraftMod {
+"SHRLUukI" = lib.buildMinecraftFile {
   pname = "5.8.0+mc1.18.2";
   version = "5.8.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/SHRLUukI/modernfix-fabric-5.8.0%2Bmc1.18.2.jar";
@@ -1331,7 +1331,7 @@
   };
 };
 
-"GREykag1" = lib.buildMinecraftMod {
+"GREykag1" = lib.buildMinecraftFile {
   pname = "5.8.0+mc1.16.5";
   version = "5.8.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/GREykag1/modernfix-fabric-5.8.0%2Bmc1.16.5.jar";
@@ -1343,7 +1343,7 @@
   };
 };
 
-"NZfBUD1x" = lib.buildMinecraftMod {
+"NZfBUD1x" = lib.buildMinecraftFile {
   pname = "5.8.0+mc1.20.2";
   version = "5.8.0+mc1.20.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/NZfBUD1x/modernfix-fabric-5.8.0%2Bmc1.20.2.jar";
@@ -1355,7 +1355,7 @@
   };
 };
 
-"ADyFF3WV" = lib.buildMinecraftMod {
+"ADyFF3WV" = lib.buildMinecraftFile {
   pname = "5.7.5+mc1.20.2";
   version = "5.7.5+mc1.20.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/ADyFF3WV/modernfix-fabric-5.7.5%2Bmc1.20.2.jar";
@@ -1367,7 +1367,7 @@
   };
 };
 
-"RtHWz3X8" = lib.buildMinecraftMod {
+"RtHWz3X8" = lib.buildMinecraftFile {
   pname = "5.7.5+mc1.20.1";
   version = "5.7.5+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/RtHWz3X8/modernfix-fabric-5.7.5%2Bmc1.20.1.jar";
@@ -1379,7 +1379,7 @@
   };
 };
 
-"7wRCZYa1" = lib.buildMinecraftMod {
+"7wRCZYa1" = lib.buildMinecraftFile {
   pname = "5.7.4+mc1.19.2";
   version = "5.7.4+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/7wRCZYa1/modernfix-fabric-5.7.4%2Bmc1.19.2.jar";
@@ -1391,7 +1391,7 @@
   };
 };
 
-"v9acGUOX" = lib.buildMinecraftMod {
+"v9acGUOX" = lib.buildMinecraftFile {
   pname = "5.7.4+mc1.20.1";
   version = "5.7.4+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/v9acGUOX/modernfix-fabric-5.7.4%2Bmc1.20.1.jar";
@@ -1403,7 +1403,7 @@
   };
 };
 
-"xedGgIRE" = lib.buildMinecraftMod {
+"xedGgIRE" = lib.buildMinecraftFile {
   pname = "5.7.4+mc1.18.2";
   version = "5.7.4+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/xedGgIRE/modernfix-fabric-5.7.4%2Bmc1.18.2.jar";
@@ -1415,7 +1415,7 @@
   };
 };
 
-"16qY2NJU" = lib.buildMinecraftMod {
+"16qY2NJU" = lib.buildMinecraftFile {
   pname = "5.7.4+mc1.16.5";
   version = "5.7.4+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/16qY2NJU/modernfix-fabric-5.7.4%2Bmc1.16.5.jar";
@@ -1427,7 +1427,7 @@
   };
 };
 
-"9R9LPE4L" = lib.buildMinecraftMod {
+"9R9LPE4L" = lib.buildMinecraftFile {
   pname = "5.7.3+mc1.20.2";
   version = "5.7.3+mc1.20.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/9R9LPE4L/modernfix-fabric-5.7.3%2Bmc1.20.2.jar";
@@ -1439,7 +1439,7 @@
   };
 };
 
-"oYMb8L0w" = lib.buildMinecraftMod {
+"oYMb8L0w" = lib.buildMinecraftFile {
   pname = "5.7.3-beta.1+mc1.20.2-pre3";
   version = "5.7.3-beta.1+mc1.20.2-pre3";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/oYMb8L0w/modernfix-fabric-5.7.3-beta.1%2Bmc1.20.2-pre3.cb28.jar";
@@ -1451,7 +1451,7 @@
   };
 };
 
-"GaKeTHbJ" = lib.buildMinecraftMod {
+"GaKeTHbJ" = lib.buildMinecraftFile {
   pname = "5.7.2+mc1.18.2";
   version = "5.7.2+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/GaKeTHbJ/modernfix-fabric-5.7.2%2Bmc1.18.2.jar";
@@ -1463,7 +1463,7 @@
   };
 };
 
-"zny6etkd" = lib.buildMinecraftMod {
+"zny6etkd" = lib.buildMinecraftFile {
   pname = "5.7.2+mc1.20.1";
   version = "5.7.2+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/zny6etkd/modernfix-fabric-5.7.2%2Bmc1.20.1.jar";
@@ -1475,7 +1475,7 @@
   };
 };
 
-"LXlsO4Vo" = lib.buildMinecraftMod {
+"LXlsO4Vo" = lib.buildMinecraftFile {
   pname = "5.7.2+mc1.19.4";
   version = "5.7.2+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/LXlsO4Vo/modernfix-fabric-5.7.2%2Bmc1.19.4.jar";
@@ -1487,7 +1487,7 @@
   };
 };
 
-"TtNOTwgu" = lib.buildMinecraftMod {
+"TtNOTwgu" = lib.buildMinecraftFile {
   pname = "5.7.2+mc1.16.5";
   version = "5.7.2+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/TtNOTwgu/modernfix-fabric-5.7.2%2Bmc1.16.5.jar";
@@ -1499,7 +1499,7 @@
   };
 };
 
-"88ksqzbj" = lib.buildMinecraftMod {
+"88ksqzbj" = lib.buildMinecraftFile {
   pname = "5.7.2+mc1.19.2";
   version = "5.7.2+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/88ksqzbj/modernfix-fabric-5.7.2%2Bmc1.19.2.jar";
@@ -1511,7 +1511,7 @@
   };
 };
 
-"XDyibw2U" = lib.buildMinecraftMod {
+"XDyibw2U" = lib.buildMinecraftFile {
   pname = "5.7.1+mc1.20.1";
   version = "5.7.1+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/XDyibw2U/modernfix-fabric-5.7.1%2Bmc1.20.1.jar";
@@ -1523,7 +1523,7 @@
   };
 };
 
-"oqeQjBRP" = lib.buildMinecraftMod {
+"oqeQjBRP" = lib.buildMinecraftFile {
   pname = "5.7.1+mc1.19.4";
   version = "5.7.1+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/oqeQjBRP/modernfix-fabric-5.7.1%2Bmc1.19.4.jar";
@@ -1535,7 +1535,7 @@
   };
 };
 
-"9ca4pizA" = lib.buildMinecraftMod {
+"9ca4pizA" = lib.buildMinecraftFile {
   pname = "5.7.1+mc1.16.5";
   version = "5.7.1+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/9ca4pizA/modernfix-fabric-5.7.1%2Bmc1.16.5.jar";
@@ -1547,7 +1547,7 @@
   };
 };
 
-"wS8BEj1H" = lib.buildMinecraftMod {
+"wS8BEj1H" = lib.buildMinecraftFile {
   pname = "5.7.1+mc1.18.2";
   version = "5.7.1+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/wS8BEj1H/modernfix-fabric-5.7.1%2Bmc1.18.2.jar";
@@ -1559,7 +1559,7 @@
   };
 };
 
-"2Gz3u7pY" = lib.buildMinecraftMod {
+"2Gz3u7pY" = lib.buildMinecraftFile {
   pname = "5.7.1+mc1.19.2";
   version = "5.7.1+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/2Gz3u7pY/modernfix-fabric-5.7.1%2Bmc1.19.2.jar";
@@ -1571,7 +1571,7 @@
   };
 };
 
-"wz12hVLM" = lib.buildMinecraftMod {
+"wz12hVLM" = lib.buildMinecraftFile {
   pname = "5.7.0+mc1.19.2";
   version = "5.7.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/wz12hVLM/modernfix-fabric-5.7.0%2Bmc1.19.2.jar";
@@ -1583,7 +1583,7 @@
   };
 };
 
-"f1dYaEYt" = lib.buildMinecraftMod {
+"f1dYaEYt" = lib.buildMinecraftFile {
   pname = "5.7.0+mc1.19.4";
   version = "5.7.0+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/f1dYaEYt/modernfix-fabric-5.7.0%2Bmc1.19.4.jar";
@@ -1595,7 +1595,7 @@
   };
 };
 
-"ohh21bah" = lib.buildMinecraftMod {
+"ohh21bah" = lib.buildMinecraftFile {
   pname = "5.7.0+mc1.18.2";
   version = "5.7.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/ohh21bah/modernfix-fabric-5.7.0%2Bmc1.18.2.jar";
@@ -1607,7 +1607,7 @@
   };
 };
 
-"xJbpSSiw" = lib.buildMinecraftMod {
+"xJbpSSiw" = lib.buildMinecraftFile {
   pname = "5.7.0+mc1.20.1";
   version = "5.7.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/xJbpSSiw/modernfix-fabric-5.7.0%2Bmc1.20.1.jar";
@@ -1619,7 +1619,7 @@
   };
 };
 
-"rigrXobp" = lib.buildMinecraftMod {
+"rigrXobp" = lib.buildMinecraftFile {
   pname = "5.7.0+mc1.16.5";
   version = "5.7.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/rigrXobp/modernfix-fabric-5.7.0%2Bmc1.16.5.jar";
@@ -1631,7 +1631,7 @@
   };
 };
 
-"LJrDWFEH" = lib.buildMinecraftMod {
+"LJrDWFEH" = lib.buildMinecraftFile {
   pname = "5.4.3-beta.24+mc23w33a.8d10";
   version = "5.4.3-beta.24+mc23w33a.8d10";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/LJrDWFEH/modernfix-fabric-5.4.3-beta.24%2Bmc23w33a.8d10.jar";
@@ -1643,7 +1643,7 @@
   };
 };
 
-"PJlRMp4v" = lib.buildMinecraftMod {
+"PJlRMp4v" = lib.buildMinecraftFile {
   pname = "5.6.1+mc1.20.1";
   version = "5.6.1+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/PJlRMp4v/modernfix-fabric-5.6.1%2Bmc1.20.1.jar";
@@ -1655,7 +1655,7 @@
   };
 };
 
-"YRcPOXZH" = lib.buildMinecraftMod {
+"YRcPOXZH" = lib.buildMinecraftFile {
   pname = "5.6.1+mc1.19.2";
   version = "5.6.1+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/YRcPOXZH/modernfix-fabric-5.6.1%2Bmc1.19.2.jar";
@@ -1667,7 +1667,7 @@
   };
 };
 
-"QlqkSEup" = lib.buildMinecraftMod {
+"QlqkSEup" = lib.buildMinecraftFile {
   pname = "5.6.1+mc1.19.4";
   version = "5.6.1+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/QlqkSEup/modernfix-fabric-5.6.1%2Bmc1.19.4.jar";
@@ -1679,7 +1679,7 @@
   };
 };
 
-"B26rDrrz" = lib.buildMinecraftMod {
+"B26rDrrz" = lib.buildMinecraftFile {
   pname = "5.6.1+mc1.18.2";
   version = "5.6.1+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/B26rDrrz/modernfix-fabric-5.6.1%2Bmc1.18.2.jar";
@@ -1691,7 +1691,7 @@
   };
 };
 
-"edDrlUuk" = lib.buildMinecraftMod {
+"edDrlUuk" = lib.buildMinecraftFile {
   pname = "5.6.1+mc1.16.5";
   version = "5.6.1+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/edDrlUuk/modernfix-fabric-5.6.1%2Bmc1.16.5.jar";
@@ -1703,7 +1703,7 @@
   };
 };
 
-"WmXK2piP" = lib.buildMinecraftMod {
+"WmXK2piP" = lib.buildMinecraftFile {
   pname = "5.4.3-beta.22+mc23w32a.8614";
   version = "5.4.3-beta.22+mc23w32a.8614";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/WmXK2piP/modernfix-fabric-5.4.3-beta.22%2Bmc23w32a.8614.jar";
@@ -1715,7 +1715,7 @@
   };
 };
 
-"tI8jU427" = lib.buildMinecraftMod {
+"tI8jU427" = lib.buildMinecraftFile {
   pname = "5.6.0+mc1.19.4";
   version = "5.6.0+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/tI8jU427/modernfix-fabric-5.6.0%2Bmc1.19.4.jar";
@@ -1727,7 +1727,7 @@
   };
 };
 
-"YzYQ1W8W" = lib.buildMinecraftMod {
+"YzYQ1W8W" = lib.buildMinecraftFile {
   pname = "5.6.0+mc1.18.2";
   version = "5.6.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/YzYQ1W8W/modernfix-fabric-5.6.0%2Bmc1.18.2.jar";
@@ -1739,7 +1739,7 @@
   };
 };
 
-"IDCtf2Pk" = lib.buildMinecraftMod {
+"IDCtf2Pk" = lib.buildMinecraftFile {
   pname = "5.6.0+mc1.20.1";
   version = "5.6.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/IDCtf2Pk/modernfix-fabric-5.6.0%2Bmc1.20.1.jar";
@@ -1751,7 +1751,7 @@
   };
 };
 
-"YWxJmxJY" = lib.buildMinecraftMod {
+"YWxJmxJY" = lib.buildMinecraftFile {
   pname = "5.6.0+mc1.19.2";
   version = "5.6.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/YWxJmxJY/modernfix-fabric-5.6.0%2Bmc1.19.2.jar";
@@ -1763,7 +1763,7 @@
   };
 };
 
-"Z9Nf1tw4" = lib.buildMinecraftMod {
+"Z9Nf1tw4" = lib.buildMinecraftFile {
   pname = "5.6.0+mc1.16.5";
   version = "5.6.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/Z9Nf1tw4/modernfix-fabric-5.6.0%2Bmc1.16.5.jar";
@@ -1775,7 +1775,7 @@
   };
 };
 
-"nemKhyeF" = lib.buildMinecraftMod {
+"nemKhyeF" = lib.buildMinecraftFile {
   pname = "5.5.1+mc1.19.2";
   version = "5.5.1+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/nemKhyeF/modernfix-fabric-5.5.1%2Bmc1.19.2.jar";
@@ -1787,7 +1787,7 @@
   };
 };
 
-"wYHO5U66" = lib.buildMinecraftMod {
+"wYHO5U66" = lib.buildMinecraftFile {
   pname = "5.5.0 beta port for 23w31a";
   version = "5.4.3-beta.19+mc23w31a.3716";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/wYHO5U66/modernfix-fabric-5.4.3-beta.19%2Bmc23w31a.3716.jar";
@@ -1799,7 +1799,7 @@
   };
 };
 
-"GLv15259" = lib.buildMinecraftMod {
+"GLv15259" = lib.buildMinecraftFile {
   pname = "5.5.0+mc1.16.5";
   version = "5.5.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/GLv15259/modernfix-fabric-5.5.0%2Bmc1.16.5.jar";
@@ -1811,7 +1811,7 @@
   };
 };
 
-"4GPZ0uWs" = lib.buildMinecraftMod {
+"4GPZ0uWs" = lib.buildMinecraftFile {
   pname = "5.5.0+mc1.18.2";
   version = "5.5.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/4GPZ0uWs/modernfix-fabric-5.5.0%2Bmc1.18.2.jar";
@@ -1823,7 +1823,7 @@
   };
 };
 
-"Ve0iT3SL" = lib.buildMinecraftMod {
+"Ve0iT3SL" = lib.buildMinecraftFile {
   pname = "5.5.0+mc1.19.4";
   version = "5.5.0+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/Ve0iT3SL/modernfix-fabric-5.5.0%2Bmc1.19.4.jar";
@@ -1835,7 +1835,7 @@
   };
 };
 
-"RIRMMnjp" = lib.buildMinecraftMod {
+"RIRMMnjp" = lib.buildMinecraftFile {
   pname = "5.5.0+mc1.20.1";
   version = "5.5.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/RIRMMnjp/modernfix-fabric-5.5.0%2Bmc1.20.1.jar";
@@ -1847,7 +1847,7 @@
   };
 };
 
-"Ggtcd6Lc" = lib.buildMinecraftMod {
+"Ggtcd6Lc" = lib.buildMinecraftFile {
   pname = "5.4.2+mc1.19.4";
   version = "5.4.2+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/Ggtcd6Lc/modernfix-fabric-5.4.2%2Bmc1.19.4.jar";
@@ -1859,7 +1859,7 @@
   };
 };
 
-"WYn556RC" = lib.buildMinecraftMod {
+"WYn556RC" = lib.buildMinecraftFile {
   pname = "5.4.2+mc1.20.1";
   version = "5.4.2+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/WYn556RC/modernfix-fabric-5.4.2%2Bmc1.20.1.jar";
@@ -1871,7 +1871,7 @@
   };
 };
 
-"jHaVrcbU" = lib.buildMinecraftMod {
+"jHaVrcbU" = lib.buildMinecraftFile {
   pname = "5.4.2+mc1.16.5";
   version = "5.4.2+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/jHaVrcbU/modernfix-fabric-5.4.2%2Bmc1.16.5.jar";
@@ -1883,7 +1883,7 @@
   };
 };
 
-"RPmoiZHT" = lib.buildMinecraftMod {
+"RPmoiZHT" = lib.buildMinecraftFile {
   pname = "5.4.1+mc1.20.1";
   version = "5.4.1+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/RPmoiZHT/modernfix-fabric-5.4.1%2Bmc1.20.1.jar";
@@ -1895,7 +1895,7 @@
   };
 };
 
-"gpXn0fGj" = lib.buildMinecraftMod {
+"gpXn0fGj" = lib.buildMinecraftFile {
   pname = "5.4.1+mc1.19.4";
   version = "5.4.1+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/gpXn0fGj/modernfix-fabric-5.4.1%2Bmc1.19.4.jar";
@@ -1907,7 +1907,7 @@
   };
 };
 
-"YDyqtNIH" = lib.buildMinecraftMod {
+"YDyqtNIH" = lib.buildMinecraftFile {
   pname = "5.4.1+mc1.19.2";
   version = "5.4.1+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/YDyqtNIH/modernfix-fabric-5.4.1%2Bmc1.19.2.jar";
@@ -1919,7 +1919,7 @@
   };
 };
 
-"FGNCOJKF" = lib.buildMinecraftMod {
+"FGNCOJKF" = lib.buildMinecraftFile {
   pname = "5.4.1+mc1.18.2";
   version = "5.4.1+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/FGNCOJKF/modernfix-fabric-5.4.1%2Bmc1.18.2.jar";
@@ -1931,7 +1931,7 @@
   };
 };
 
-"orPjIEAx" = lib.buildMinecraftMod {
+"orPjIEAx" = lib.buildMinecraftFile {
   pname = "5.4.1+mc1.16.5";
   version = "5.4.1+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/orPjIEAx/modernfix-fabric-5.4.1%2Bmc1.16.5.jar";
@@ -1943,7 +1943,7 @@
   };
 };
 
-"YufYRxqH" = lib.buildMinecraftMod {
+"YufYRxqH" = lib.buildMinecraftFile {
   pname = "5.4.0+mc1.19.4";
   version = "5.4.0+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/YufYRxqH/modernfix-fabric-5.4.0%2Bmc1.19.4.jar";
@@ -1955,7 +1955,7 @@
   };
 };
 
-"Jw8xBmGc" = lib.buildMinecraftMod {
+"Jw8xBmGc" = lib.buildMinecraftFile {
   pname = "5.4.0+mc1.16.5";
   version = "5.4.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/Jw8xBmGc/modernfix-fabric-5.4.0%2Bmc1.16.5.jar";
@@ -1967,7 +1967,7 @@
   };
 };
 
-"GPUrRuDK" = lib.buildMinecraftMod {
+"GPUrRuDK" = lib.buildMinecraftFile {
   pname = "5.4.0+mc1.18.2";
   version = "5.4.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/GPUrRuDK/modernfix-fabric-5.4.0%2Bmc1.18.2.jar";
@@ -1979,7 +1979,7 @@
   };
 };
 
-"xYsH89XA" = lib.buildMinecraftMod {
+"xYsH89XA" = lib.buildMinecraftFile {
   pname = "5.4.0+mc1.19.2";
   version = "5.4.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/xYsH89XA/modernfix-fabric-5.4.0%2Bmc1.19.2.jar";
@@ -1991,7 +1991,7 @@
   };
 };
 
-"synysXtc" = lib.buildMinecraftMod {
+"synysXtc" = lib.buildMinecraftFile {
   pname = "5.4.0+mc1.20.1";
   version = "5.4.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/synysXtc/modernfix-fabric-5.4.0%2Bmc1.20.1.jar";
@@ -2003,7 +2003,7 @@
   };
 };
 
-"DDGA4vbS" = lib.buildMinecraftMod {
+"DDGA4vbS" = lib.buildMinecraftFile {
   pname = "5.3.2+mc1.19.4";
   version = "5.3.2+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/DDGA4vbS/modernfix-fabric-5.3.2%2Bmc1.19.4.jar";
@@ -2015,7 +2015,7 @@
   };
 };
 
-"x3K80mPd" = lib.buildMinecraftMod {
+"x3K80mPd" = lib.buildMinecraftFile {
   pname = "5.3.2+mc1.16.5";
   version = "5.3.2+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/x3K80mPd/modernfix-fabric-5.3.2%2Bmc1.16.5.jar";
@@ -2027,7 +2027,7 @@
   };
 };
 
-"zDXxoYbt" = lib.buildMinecraftMod {
+"zDXxoYbt" = lib.buildMinecraftFile {
   pname = "5.3.2+mc1.18.2";
   version = "5.3.2+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/zDXxoYbt/modernfix-fabric-5.3.2%2Bmc1.18.2.jar";
@@ -2039,7 +2039,7 @@
   };
 };
 
-"sWajyf3d" = lib.buildMinecraftMod {
+"sWajyf3d" = lib.buildMinecraftFile {
   pname = "5.3.2+mc1.19.2";
   version = "5.3.2+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/sWajyf3d/modernfix-fabric-5.3.2%2Bmc1.19.2.jar";
@@ -2051,7 +2051,7 @@
   };
 };
 
-"9HGXIyEe" = lib.buildMinecraftMod {
+"9HGXIyEe" = lib.buildMinecraftFile {
   pname = "5.3.2+mc1.20.1";
   version = "5.3.2+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/9HGXIyEe/modernfix-fabric-5.3.2%2Bmc1.20.1.jar";
@@ -2063,7 +2063,7 @@
   };
 };
 
-"S2KHHn3O" = lib.buildMinecraftMod {
+"S2KHHn3O" = lib.buildMinecraftFile {
   pname = "5.3.1+mc1.18.2";
   version = "5.3.1+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/S2KHHn3O/modernfix-fabric-5.3.1%2Bmc1.18.2.jar";
@@ -2075,7 +2075,7 @@
   };
 };
 
-"sBZ9FlQW" = lib.buildMinecraftMod {
+"sBZ9FlQW" = lib.buildMinecraftFile {
   pname = "5.3.1+mc1.19.2";
   version = "5.3.1+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/sBZ9FlQW/modernfix-fabric-5.3.1%2Bmc1.19.2.jar";
@@ -2087,7 +2087,7 @@
   };
 };
 
-"9uRdxCNg" = lib.buildMinecraftMod {
+"9uRdxCNg" = lib.buildMinecraftFile {
   pname = "5.3.1+mc1.19.4";
   version = "5.3.1+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/9uRdxCNg/modernfix-fabric-5.3.1%2Bmc1.19.4.jar";
@@ -2099,7 +2099,7 @@
   };
 };
 
-"sZJM5bCM" = lib.buildMinecraftMod {
+"sZJM5bCM" = lib.buildMinecraftFile {
   pname = "5.3.1+mc1.16.5";
   version = "5.3.1+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/sZJM5bCM/modernfix-fabric-5.3.1%2Bmc1.16.5.jar";
@@ -2111,7 +2111,7 @@
   };
 };
 
-"yRHXqAyS" = lib.buildMinecraftMod {
+"yRHXqAyS" = lib.buildMinecraftFile {
   pname = "5.3.1+mc1.20.1";
   version = "5.3.1+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/yRHXqAyS/modernfix-fabric-5.3.1%2Bmc1.20.1.jar";
@@ -2123,7 +2123,7 @@
   };
 };
 
-"3otSD6Ai" = lib.buildMinecraftMod {
+"3otSD6Ai" = lib.buildMinecraftFile {
   pname = "5.3.0+mc1.18.2";
   version = "5.3.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/3otSD6Ai/modernfix-fabric-5.3.0%2Bmc1.18.2.jar";
@@ -2135,7 +2135,7 @@
   };
 };
 
-"jdCqC43M" = lib.buildMinecraftMod {
+"jdCqC43M" = lib.buildMinecraftFile {
   pname = "5.3.0+mc1.19.2";
   version = "5.3.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/jdCqC43M/modernfix-fabric-5.3.0%2Bmc1.19.2.jar";
@@ -2147,7 +2147,7 @@
   };
 };
 
-"Ixz7TNCN" = lib.buildMinecraftMod {
+"Ixz7TNCN" = lib.buildMinecraftFile {
   pname = "5.3.0+mc1.19.4";
   version = "5.3.0+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/Ixz7TNCN/modernfix-fabric-5.3.0%2Bmc1.19.4.jar";
@@ -2159,7 +2159,7 @@
   };
 };
 
-"sk9kFgqw" = lib.buildMinecraftMod {
+"sk9kFgqw" = lib.buildMinecraftFile {
   pname = "5.3.0+mc1.16.5";
   version = "5.3.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/sk9kFgqw/modernfix-fabric-5.3.0%2Bmc1.16.5.jar";
@@ -2171,7 +2171,7 @@
   };
 };
 
-"PV5hrdhD" = lib.buildMinecraftMod {
+"PV5hrdhD" = lib.buildMinecraftFile {
   pname = "5.3.0+mc1.20.1";
   version = "5.3.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/PV5hrdhD/modernfix-fabric-5.3.0%2Bmc1.20.1.jar";
@@ -2183,7 +2183,7 @@
   };
 };
 
-"okrRsbRZ" = lib.buildMinecraftMod {
+"okrRsbRZ" = lib.buildMinecraftFile {
   pname = "5.2.5+mc1.18.2";
   version = "5.2.5+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/okrRsbRZ/modernfix-fabric-5.2.5%2Bmc1.18.2.jar";
@@ -2195,7 +2195,7 @@
   };
 };
 
-"BmneBBYa" = lib.buildMinecraftMod {
+"BmneBBYa" = lib.buildMinecraftFile {
   pname = "5.2.5+mc1.20.1";
   version = "5.2.5+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/BmneBBYa/modernfix-fabric-5.2.5%2Bmc1.20.1.jar";
@@ -2207,7 +2207,7 @@
   };
 };
 
-"XjunZE7n" = lib.buildMinecraftMod {
+"XjunZE7n" = lib.buildMinecraftFile {
   pname = "5.2.5+mc1.19.4";
   version = "5.2.5+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/XjunZE7n/modernfix-fabric-5.2.5%2Bmc1.19.4.jar";
@@ -2219,7 +2219,7 @@
   };
 };
 
-"GOlEdlgS" = lib.buildMinecraftMod {
+"GOlEdlgS" = lib.buildMinecraftFile {
   pname = "5.2.5+mc1.19.2";
   version = "5.2.5+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/GOlEdlgS/modernfix-fabric-5.2.5%2Bmc1.19.2.jar";
@@ -2231,7 +2231,7 @@
   };
 };
 
-"A7VJZ2sj" = lib.buildMinecraftMod {
+"A7VJZ2sj" = lib.buildMinecraftFile {
   pname = "5.2.5+mc1.16.5";
   version = "5.2.5+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/A7VJZ2sj/modernfix-fabric-5.2.5%2Bmc1.16.5.jar";
@@ -2243,7 +2243,7 @@
   };
 };
 
-"Lbh7ndyf" = lib.buildMinecraftMod {
+"Lbh7ndyf" = lib.buildMinecraftFile {
   pname = "5.2.4+mc1.18.2";
   version = "5.2.4+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/Lbh7ndyf/modernfix-fabric-5.2.4%2Bmc1.18.2.jar";
@@ -2255,7 +2255,7 @@
   };
 };
 
-"51N1kQ5P" = lib.buildMinecraftMod {
+"51N1kQ5P" = lib.buildMinecraftFile {
   pname = "5.2.4+mc1.19.2";
   version = "5.2.4+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/51N1kQ5P/modernfix-fabric-5.2.4%2Bmc1.19.2.jar";
@@ -2267,7 +2267,7 @@
   };
 };
 
-"YMq1FhHc" = lib.buildMinecraftMod {
+"YMq1FhHc" = lib.buildMinecraftFile {
   pname = "5.2.4+mc1.19.4";
   version = "5.2.4+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/YMq1FhHc/modernfix-fabric-5.2.4%2Bmc1.19.4.jar";
@@ -2279,7 +2279,7 @@
   };
 };
 
-"WJnAag75" = lib.buildMinecraftMod {
+"WJnAag75" = lib.buildMinecraftFile {
   pname = "5.2.4+mc1.20.1";
   version = "5.2.4+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/WJnAag75/modernfix-fabric-5.2.4%2Bmc1.20.1.jar";
@@ -2291,7 +2291,7 @@
   };
 };
 
-"ZqhmgF0E" = lib.buildMinecraftMod {
+"ZqhmgF0E" = lib.buildMinecraftFile {
   pname = "5.2.4+mc1.16.5";
   version = "5.2.4+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/ZqhmgF0E/modernfix-fabric-5.2.4%2Bmc1.16.5.jar";
@@ -2303,7 +2303,7 @@
   };
 };
 
-"97pLchRn" = lib.buildMinecraftMod {
+"97pLchRn" = lib.buildMinecraftFile {
   pname = "5.2.3+mc1.18.2";
   version = "5.2.3+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/97pLchRn/modernfix-fabric-5.2.3%2Bmc1.18.2.jar";
@@ -2315,7 +2315,7 @@
   };
 };
 
-"uOTQ9aSd" = lib.buildMinecraftMod {
+"uOTQ9aSd" = lib.buildMinecraftFile {
   pname = "5.2.3+mc1.16.5";
   version = "5.2.3+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/uOTQ9aSd/modernfix-fabric-5.2.3%2Bmc1.16.5.jar";
@@ -2327,7 +2327,7 @@
   };
 };
 
-"eUxKumbO" = lib.buildMinecraftMod {
+"eUxKumbO" = lib.buildMinecraftFile {
   pname = "5.2.3+mc1.19.2";
   version = "5.2.3+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/eUxKumbO/modernfix-fabric-5.2.3%2Bmc1.19.2.jar";
@@ -2339,7 +2339,7 @@
   };
 };
 
-"ZAuuntw4" = lib.buildMinecraftMod {
+"ZAuuntw4" = lib.buildMinecraftFile {
   pname = "5.2.3+mc1.19.4";
   version = "5.2.3+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/ZAuuntw4/modernfix-fabric-5.2.3%2Bmc1.19.4.jar";
@@ -2351,7 +2351,7 @@
   };
 };
 
-"c0IRQDNy" = lib.buildMinecraftMod {
+"c0IRQDNy" = lib.buildMinecraftFile {
   pname = "5.2.3+mc1.20.1";
   version = "5.2.3+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/c0IRQDNy/modernfix-fabric-5.2.3%2Bmc1.20.1.jar";
@@ -2363,7 +2363,7 @@
   };
 };
 
-"gBP4wtrN" = lib.buildMinecraftMod {
+"gBP4wtrN" = lib.buildMinecraftFile {
   pname = "5.2.2+mc1.18.2";
   version = "5.2.2+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/gBP4wtrN/modernfix-fabric-5.2.2%2Bmc1.18.2.jar";
@@ -2375,7 +2375,7 @@
   };
 };
 
-"4ZIvpHca" = lib.buildMinecraftMod {
+"4ZIvpHca" = lib.buildMinecraftFile {
   pname = "5.2.2+mc1.20.1";
   version = "5.2.2+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/4ZIvpHca/modernfix-fabric-5.2.2%2Bmc1.20.1.jar";
@@ -2387,7 +2387,7 @@
   };
 };
 
-"v9uT5wj5" = lib.buildMinecraftMod {
+"v9uT5wj5" = lib.buildMinecraftFile {
   pname = "5.2.2+mc1.19.2";
   version = "5.2.2+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/v9uT5wj5/modernfix-fabric-5.2.2%2Bmc1.19.2.jar";
@@ -2399,7 +2399,7 @@
   };
 };
 
-"qlVWBKgU" = lib.buildMinecraftMod {
+"qlVWBKgU" = lib.buildMinecraftFile {
   pname = "5.2.2+mc1.19.4";
   version = "5.2.2+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/qlVWBKgU/modernfix-fabric-5.2.2%2Bmc1.19.4.jar";
@@ -2411,7 +2411,7 @@
   };
 };
 
-"zaaC7slX" = lib.buildMinecraftMod {
+"zaaC7slX" = lib.buildMinecraftFile {
   pname = "5.2.2+mc1.16.5";
   version = "5.2.2+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/zaaC7slX/modernfix-fabric-5.2.2%2Bmc1.16.5.jar";
@@ -2423,7 +2423,7 @@
   };
 };
 
-"OFdWh7vx" = lib.buildMinecraftMod {
+"OFdWh7vx" = lib.buildMinecraftFile {
   pname = "5.2.1+mc1.20.1";
   version = "5.2.1+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/OFdWh7vx/modernfix-fabric-5.2.1%2Bmc1.20.1.jar";
@@ -2435,7 +2435,7 @@
   };
 };
 
-"1QLOTz4V" = lib.buildMinecraftMod {
+"1QLOTz4V" = lib.buildMinecraftFile {
   pname = "5.2.1+mc1.18.2";
   version = "5.2.1+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/1QLOTz4V/modernfix-fabric-5.2.1%2Bmc1.18.2.jar";
@@ -2447,7 +2447,7 @@
   };
 };
 
-"wYFiI0CR" = lib.buildMinecraftMod {
+"wYFiI0CR" = lib.buildMinecraftFile {
   pname = "5.2.1+mc1.19.2";
   version = "5.2.1+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/wYFiI0CR/modernfix-fabric-5.2.1%2Bmc1.19.2.jar";
@@ -2459,7 +2459,7 @@
   };
 };
 
-"cwTG6hyQ" = lib.buildMinecraftMod {
+"cwTG6hyQ" = lib.buildMinecraftFile {
   pname = "5.2.1+mc1.19.4";
   version = "5.2.1+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/cwTG6hyQ/modernfix-fabric-5.2.1%2Bmc1.19.4.jar";
@@ -2471,7 +2471,7 @@
   };
 };
 
-"41RDuPe2" = lib.buildMinecraftMod {
+"41RDuPe2" = lib.buildMinecraftFile {
   pname = "5.2.1+mc1.16.5";
   version = "5.2.1+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/41RDuPe2/modernfix-fabric-5.2.1%2Bmc1.16.5.jar";
@@ -2483,7 +2483,7 @@
   };
 };
 
-"jiSgqiXH" = lib.buildMinecraftMod {
+"jiSgqiXH" = lib.buildMinecraftFile {
   pname = "5.2.0+mc1.20.1";
   version = "5.2.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/jiSgqiXH/modernfix-fabric-5.2.0%2Bmc1.20.1.jar";
@@ -2495,7 +2495,7 @@
   };
 };
 
-"linysjCw" = lib.buildMinecraftMod {
+"linysjCw" = lib.buildMinecraftFile {
   pname = "5.2.0+mc1.19.2";
   version = "5.2.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/linysjCw/modernfix-fabric-5.2.0%2Bmc1.19.2.jar";
@@ -2507,7 +2507,7 @@
   };
 };
 
-"RMzc2zgT" = lib.buildMinecraftMod {
+"RMzc2zgT" = lib.buildMinecraftFile {
   pname = "5.2.0+mc1.19.4";
   version = "5.2.0+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/RMzc2zgT/modernfix-fabric-5.2.0%2Bmc1.19.4.jar";
@@ -2519,7 +2519,7 @@
   };
 };
 
-"e4ytl9KT" = lib.buildMinecraftMod {
+"e4ytl9KT" = lib.buildMinecraftFile {
   pname = "5.2.0+mc1.18.2";
   version = "5.2.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/e4ytl9KT/modernfix-fabric-5.2.0%2Bmc1.18.2.jar";
@@ -2531,7 +2531,7 @@
   };
 };
 
-"H7mnYOML" = lib.buildMinecraftMod {
+"H7mnYOML" = lib.buildMinecraftFile {
   pname = "5.2.0+mc1.16.5";
   version = "5.2.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/H7mnYOML/modernfix-fabric-5.2.0%2Bmc1.16.5.jar";
@@ -2543,7 +2543,7 @@
   };
 };
 
-"btaNfyRK" = lib.buildMinecraftMod {
+"btaNfyRK" = lib.buildMinecraftFile {
   pname = "5.1.1+mc1.19.4";
   version = "5.1.1+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/btaNfyRK/modernfix-fabric-5.1.1%2Bmc1.19.4.jar";
@@ -2555,7 +2555,7 @@
   };
 };
 
-"QVSzLhRT" = lib.buildMinecraftMod {
+"QVSzLhRT" = lib.buildMinecraftFile {
   pname = "5.1.1+mc1.20.1";
   version = "5.1.1+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/QVSzLhRT/modernfix-fabric-5.1.1%2Bmc1.20.1.jar";
@@ -2567,7 +2567,7 @@
   };
 };
 
-"G5B0BoGA" = lib.buildMinecraftMod {
+"G5B0BoGA" = lib.buildMinecraftFile {
   pname = "5.1.0+mc1.20.1";
   version = "5.1.0+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/G5B0BoGA/modernfix-fabric-5.1.0%2Bmc1.20.1.jar";
@@ -2579,7 +2579,7 @@
   };
 };
 
-"jqteDlfX" = lib.buildMinecraftMod {
+"jqteDlfX" = lib.buildMinecraftFile {
   pname = "5.1.0+mc1.19.4";
   version = "5.1.0+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/jqteDlfX/modernfix-fabric-5.1.0%2Bmc1.19.4.jar";
@@ -2591,7 +2591,7 @@
   };
 };
 
-"NQFTTsi6" = lib.buildMinecraftMod {
+"NQFTTsi6" = lib.buildMinecraftFile {
   pname = "5.1.0+mc1.18.2";
   version = "5.1.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/NQFTTsi6/modernfix-fabric-5.1.0%2Bmc1.18.2.jar";
@@ -2603,7 +2603,7 @@
   };
 };
 
-"gRSAAIUU" = lib.buildMinecraftMod {
+"gRSAAIUU" = lib.buildMinecraftFile {
   pname = "5.1.0+mc1.19.2";
   version = "5.1.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/gRSAAIUU/modernfix-fabric-5.1.0%2Bmc1.19.2.jar";
@@ -2615,7 +2615,7 @@
   };
 };
 
-"JqdfKm8N" = lib.buildMinecraftMod {
+"JqdfKm8N" = lib.buildMinecraftFile {
   pname = "5.1.0+mc1.16.5";
   version = "5.1.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/JqdfKm8N/modernfix-fabric-5.1.0%2Bmc1.16.5.jar";
@@ -2627,7 +2627,7 @@
   };
 };
 
-"uzk1oBWH" = lib.buildMinecraftMod {
+"uzk1oBWH" = lib.buildMinecraftFile {
   pname = "5.0.4+mc1.16.5";
   version = "5.0.4+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/uzk1oBWH/modernfix-fabric-5.0.4%2Bmc1.16.5.jar";
@@ -2639,7 +2639,7 @@
   };
 };
 
-"lJnMKe8e" = lib.buildMinecraftMod {
+"lJnMKe8e" = lib.buildMinecraftFile {
   pname = "5.0.4+mc1.19.2";
   version = "5.0.4+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/lJnMKe8e/modernfix-fabric-5.0.4%2Bmc1.19.2.jar";
@@ -2651,7 +2651,7 @@
   };
 };
 
-"CS1MpLrX" = lib.buildMinecraftMod {
+"CS1MpLrX" = lib.buildMinecraftFile {
   pname = "5.0.4+mc1.19.4";
   version = "5.0.4+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/CS1MpLrX/modernfix-fabric-5.0.4%2Bmc1.19.4.jar";
@@ -2663,7 +2663,7 @@
   };
 };
 
-"PKKqdqS8" = lib.buildMinecraftMod {
+"PKKqdqS8" = lib.buildMinecraftFile {
   pname = "5.0.4+mc1.18.2";
   version = "5.0.4+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/PKKqdqS8/modernfix-fabric-5.0.4%2Bmc1.18.2.jar";
@@ -2675,7 +2675,7 @@
   };
 };
 
-"9MmJorda" = lib.buildMinecraftMod {
+"9MmJorda" = lib.buildMinecraftFile {
   pname = "5.0.4+mc1.20.1";
   version = "5.0.4+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/9MmJorda/modernfix-fabric-5.0.4%2Bmc1.20.1.jar";
@@ -2687,7 +2687,7 @@
   };
 };
 
-"DHw0yfjn" = lib.buildMinecraftMod {
+"DHw0yfjn" = lib.buildMinecraftFile {
   pname = "5.0.3+mc1.20.1";
   version = "5.0.3+mc1.20.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/DHw0yfjn/modernfix-fabric-5.0.3%2Bmc1.20.1.jar";
@@ -2699,7 +2699,7 @@
   };
 };
 
-"iO9FlOIm" = lib.buildMinecraftMod {
+"iO9FlOIm" = lib.buildMinecraftFile {
   pname = "5.0.3+mc1.16.5";
   version = "5.0.3+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/iO9FlOIm/modernfix-fabric-5.0.3%2Bmc1.16.5.jar";
@@ -2711,7 +2711,7 @@
   };
 };
 
-"1gWqXFaX" = lib.buildMinecraftMod {
+"1gWqXFaX" = lib.buildMinecraftFile {
   pname = "5.0.2+mc1.19.2";
   version = "5.0.2+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/1gWqXFaX/modernfix-fabric-5.0.2%2Bmc1.19.2.jar";
@@ -2723,7 +2723,7 @@
   };
 };
 
-"D2athySH" = lib.buildMinecraftMod {
+"D2athySH" = lib.buildMinecraftFile {
   pname = "5.0.2+mc1.18.2";
   version = "5.0.2+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/D2athySH/modernfix-fabric-5.0.2%2Bmc1.18.2.jar";
@@ -2735,7 +2735,7 @@
   };
 };
 
-"KvbeSuS1" = lib.buildMinecraftMod {
+"KvbeSuS1" = lib.buildMinecraftFile {
   pname = "5.0.2+mc1.19.4";
   version = "5.0.2+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/KvbeSuS1/modernfix-fabric-5.0.2%2Bmc1.19.4.jar";
@@ -2747,7 +2747,7 @@
   };
 };
 
-"WENf7fmL" = lib.buildMinecraftMod {
+"WENf7fmL" = lib.buildMinecraftFile {
   pname = "5.0.2+mc1.20";
   version = "5.0.2+mc1.20";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/WENf7fmL/modernfix-fabric-5.0.2%2Bmc1.20.jar";
@@ -2759,7 +2759,7 @@
   };
 };
 
-"BTaK8vvw" = lib.buildMinecraftMod {
+"BTaK8vvw" = lib.buildMinecraftFile {
   pname = "5.0.2+mc1.16.5";
   version = "5.0.2+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/BTaK8vvw/modernfix-fabric-5.0.2%2Bmc1.16.5.jar";
@@ -2771,7 +2771,7 @@
   };
 };
 
-"ZopebhEU" = lib.buildMinecraftMod {
+"ZopebhEU" = lib.buildMinecraftFile {
   pname = "5.0.1+mc1.19.2";
   version = "5.0.1+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/ZopebhEU/modernfix-fabric-5.0.1%2Bmc1.19.2.jar";
@@ -2783,7 +2783,7 @@
   };
 };
 
-"qbRB2wZ2" = lib.buildMinecraftMod {
+"qbRB2wZ2" = lib.buildMinecraftFile {
   pname = "5.0.1+mc1.16.5";
   version = "5.0.1+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/qbRB2wZ2/modernfix-fabric-5.0.1%2Bmc1.16.5.jar";
@@ -2795,7 +2795,7 @@
   };
 };
 
-"p9S1UnOj" = lib.buildMinecraftMod {
+"p9S1UnOj" = lib.buildMinecraftFile {
   pname = "5.0.1+mc1.20";
   version = "5.0.1+mc1.20";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/p9S1UnOj/modernfix-fabric-5.0.1%2Bmc1.20.jar";
@@ -2807,7 +2807,7 @@
   };
 };
 
-"P6rbJql2" = lib.buildMinecraftMod {
+"P6rbJql2" = lib.buildMinecraftFile {
   pname = "5.0.1+mc1.18.2";
   version = "5.0.1+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/P6rbJql2/modernfix-fabric-5.0.1%2Bmc1.18.2.jar";
@@ -2819,7 +2819,7 @@
   };
 };
 
-"tr7cCUCK" = lib.buildMinecraftMod {
+"tr7cCUCK" = lib.buildMinecraftFile {
   pname = "5.0.0+mc1.19.4";
   version = "5.0.0+mc1.19.4";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/tr7cCUCK/modernfix-fabric-5.0.0%2Bmc1.19.4.jar";
@@ -2831,7 +2831,7 @@
   };
 };
 
-"fqLJ9uB4" = lib.buildMinecraftMod {
+"fqLJ9uB4" = lib.buildMinecraftFile {
   pname = "5.0.0+mc1.20";
   version = "5.0.0+mc1.20";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/fqLJ9uB4/modernfix-fabric-5.0.0%2Bmc1.20.jar";
@@ -2843,7 +2843,7 @@
   };
 };
 
-"1Mffj87M" = lib.buildMinecraftMod {
+"1Mffj87M" = lib.buildMinecraftFile {
   pname = "5.0.0+mc1.18.2";
   version = "5.0.0+mc1.18.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/1Mffj87M/modernfix-fabric-5.0.0%2Bmc1.18.2.jar";
@@ -2855,7 +2855,7 @@
   };
 };
 
-"f7G7ygPr" = lib.buildMinecraftMod {
+"f7G7ygPr" = lib.buildMinecraftFile {
   pname = "5.0.0+mc1.19.2";
   version = "5.0.0+mc1.19.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/f7G7ygPr/modernfix-fabric-5.0.0%2Bmc1.19.2.jar";
@@ -2867,7 +2867,7 @@
   };
 };
 
-"KuHaMmH1" = lib.buildMinecraftMod {
+"KuHaMmH1" = lib.buildMinecraftFile {
   pname = "5.0.0+mc1.16.5";
   version = "5.0.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/KuHaMmH1/modernfix-fabric-5.0.0%2Bmc1.16.5.jar";
@@ -2879,7 +2879,7 @@
   };
 };
 
-"uMIQRvh7" = lib.buildMinecraftMod {
+"uMIQRvh7" = lib.buildMinecraftFile {
   pname = "4.2.1";
   version = "4.2.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/uMIQRvh7/modernfix-mc1.19.4-fabric-4.2.1.jar";
@@ -2891,7 +2891,7 @@
   };
 };
 
-"Qo4bxua4" = lib.buildMinecraftMod {
+"Qo4bxua4" = lib.buildMinecraftFile {
   pname = "3.7.1";
   version = "3.7.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/Qo4bxua4/modernfix-mc1.19.2-fabric-3.7.1.jar";
@@ -2903,7 +2903,7 @@
   };
 };
 
-"T1YKIVCh" = lib.buildMinecraftMod {
+"T1YKIVCh" = lib.buildMinecraftFile {
   pname = "2.7.1";
   version = "2.7.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/T1YKIVCh/modernfix-mc1.18.2-fabric-2.7.1.jar";
@@ -2915,7 +2915,7 @@
   };
 };
 
-"HfJUDwN3" = lib.buildMinecraftMod {
+"HfJUDwN3" = lib.buildMinecraftFile {
   pname = "1.16.1";
   version = "1.16.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/HfJUDwN3/modernfix-mc1.16.5-fabric-1.16.1.jar";
@@ -2927,7 +2927,7 @@
   };
 };
 
-"kFuRlbS1" = lib.buildMinecraftMod {
+"kFuRlbS1" = lib.buildMinecraftFile {
   pname = "4.2.0";
   version = "4.2.0";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/kFuRlbS1/modernfix-mc1.19.4-fabric-4.2.0.jar";
@@ -2939,7 +2939,7 @@
   };
 };
 
-"pgncb4h9" = lib.buildMinecraftMod {
+"pgncb4h9" = lib.buildMinecraftFile {
   pname = "3.7.0";
   version = "3.7.0";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/pgncb4h9/modernfix-mc1.19.2-fabric-3.7.0.jar";
@@ -2951,7 +2951,7 @@
   };
 };
 
-"z5NtPX4A" = lib.buildMinecraftMod {
+"z5NtPX4A" = lib.buildMinecraftFile {
   pname = "2.7.0";
   version = "2.7.0";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/z5NtPX4A/modernfix-mc1.18.2-fabric-2.7.0.jar";
@@ -2963,7 +2963,7 @@
   };
 };
 
-"42k2MtHD" = lib.buildMinecraftMod {
+"42k2MtHD" = lib.buildMinecraftFile {
   pname = "1.16.0";
   version = "1.16.0";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/42k2MtHD/modernfix-mc1.16.5-fabric-1.16.0.jar";
@@ -2975,7 +2975,7 @@
   };
 };
 
-"qVu4O77q" = lib.buildMinecraftMod {
+"qVu4O77q" = lib.buildMinecraftFile {
   pname = "4.1.0";
   version = "4.1.0";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/qVu4O77q/modernfix-mc1.19.4-fabric-4.1.0.jar";
@@ -2987,7 +2987,7 @@
   };
 };
 
-"t4ArpHYs" = lib.buildMinecraftMod {
+"t4ArpHYs" = lib.buildMinecraftFile {
   pname = "3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/t4ArpHYs/modernfix-mc1.19.2-fabric-3.6.0.jar";
@@ -2999,7 +2999,7 @@
   };
 };
 
-"5cOhMOWI" = lib.buildMinecraftMod {
+"5cOhMOWI" = lib.buildMinecraftFile {
   pname = "2.6.0";
   version = "2.6.0";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/5cOhMOWI/modernfix-mc1.18.2-fabric-2.6.0.jar";
@@ -3011,7 +3011,7 @@
   };
 };
 
-"XWyZT7uo" = lib.buildMinecraftMod {
+"XWyZT7uo" = lib.buildMinecraftFile {
   pname = "1.15.0";
   version = "1.15.0";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/XWyZT7uo/modernfix-mc1.16.5-fabric-1.15.0.jar";
@@ -3023,7 +3023,7 @@
   };
 };
 
-"jTnRrN6H" = lib.buildMinecraftMod {
+"jTnRrN6H" = lib.buildMinecraftFile {
   pname = "3.5.2";
   version = "3.5.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/jTnRrN6H/modernfix-mc1.19.2-fabric-3.5.2.jar";
@@ -3035,7 +3035,7 @@
   };
 };
 
-"yMD6AsFA" = lib.buildMinecraftMod {
+"yMD6AsFA" = lib.buildMinecraftFile {
   pname = "2.5.2";
   version = "2.5.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/yMD6AsFA/modernfix-mc1.18.2-fabric-2.5.2.jar";
@@ -3047,7 +3047,7 @@
   };
 };
 
-"V5JUXqmy" = lib.buildMinecraftMod {
+"V5JUXqmy" = lib.buildMinecraftFile {
   pname = "1.14.2";
   version = "1.14.2";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/V5JUXqmy/modernfix-mc1.16.5-fabric-1.14.2.jar";
@@ -3059,7 +3059,7 @@
   };
 };
 
-"8v4CKHNp" = lib.buildMinecraftMod {
+"8v4CKHNp" = lib.buildMinecraftFile {
   pname = "3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/8v4CKHNp/modernfix-mc1.19.2-fabric-3.5.1.jar";
@@ -3071,7 +3071,7 @@
   };
 };
 
-"fPhurjKv" = lib.buildMinecraftMod {
+"fPhurjKv" = lib.buildMinecraftFile {
   pname = "2.5.1";
   version = "2.5.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/fPhurjKv/modernfix-mc1.18.2-fabric-2.5.1.jar";
@@ -3083,7 +3083,7 @@
   };
 };
 
-"ovFOToAu" = lib.buildMinecraftMod {
+"ovFOToAu" = lib.buildMinecraftFile {
   pname = "1.14.1";
   version = "1.14.1";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/ovFOToAu/modernfix-mc1.16.5-fabric-1.14.1.jar";
@@ -3095,7 +3095,7 @@
   };
 };
 
-"YvfHwxb6" = lib.buildMinecraftMod {
+"YvfHwxb6" = lib.buildMinecraftFile {
   pname = "4.0.0";
   version = "4.0.0";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/YvfHwxb6/modernfix-mc1.19.4-fabric-4.0.0.jar";
@@ -3107,7 +3107,7 @@
   };
 };
 
-"aG83F2oq" = lib.buildMinecraftMod {
+"aG83F2oq" = lib.buildMinecraftFile {
   pname = "3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/aG83F2oq/modernfix-mc1.19.2-fabric-3.5.0.jar";
@@ -3119,7 +3119,7 @@
   };
 };
 
-"yvUZHRTF" = lib.buildMinecraftMod {
+"yvUZHRTF" = lib.buildMinecraftFile {
   pname = "2.5.0";
   version = "2.5.0";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/yvUZHRTF/modernfix-mc1.18.2-fabric-2.5.0.jar";
@@ -3131,7 +3131,7 @@
   };
 };
 
-"JoZVElr5" = lib.buildMinecraftMod {
+"JoZVElr5" = lib.buildMinecraftFile {
   pname = "1.14.0";
   version = "1.14.0";
   url = "https://cdn.modrinth.com/data/nmDcB62a/versions/JoZVElr5/modernfix-mc1.16.5-fabric-1.14.0.jar";

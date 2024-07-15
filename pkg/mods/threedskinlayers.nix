@@ -1,5 +1,5 @@
 { lib, ... }: {
-"8YK20yhu" = lib.buildMinecraftMod {
+"8YK20yhu" = lib.buildMinecraftFile {
   pname = "1.6.6-1.21 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/8YK20yhu/skinlayers3d-fabric-1.6.6-mc1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"WLODYnWa" = lib.buildMinecraftMod {
+"WLODYnWa" = lib.buildMinecraftFile {
   pname = "1.6.6-1.20.6 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/WLODYnWa/skinlayers3d-fabric-1.6.6-mc1.20.6.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"OA6KlbB6" = lib.buildMinecraftMod {
+"OA6KlbB6" = lib.buildMinecraftFile {
   pname = "1.6.6-1.20.4 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/OA6KlbB6/skinlayers3d-fabric-1.6.6-mc1.20.4.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"zLEO6z33" = lib.buildMinecraftMod {
+"zLEO6z33" = lib.buildMinecraftFile {
   pname = "1.6.6-1.20.2 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/zLEO6z33/skinlayers3d-fabric-1.6.6-mc1.20.2.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"nMrKSYUo" = lib.buildMinecraftMod {
+"nMrKSYUo" = lib.buildMinecraftFile {
   pname = "1.6.6-1.20.1 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/nMrKSYUo/skinlayers3d-fabric-1.6.6-mc1.20.1.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"ctp1Gh2G" = lib.buildMinecraftMod {
+"ctp1Gh2G" = lib.buildMinecraftFile {
   pname = "1.6.6-1.19.4 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/ctp1Gh2G/skinlayers3d-fabric-1.6.6-mc1.19.4.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"KYbD1eQ3" = lib.buildMinecraftMod {
+"KYbD1eQ3" = lib.buildMinecraftFile {
   pname = "1.6.6-1.19.3 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/KYbD1eQ3/skinlayers3d-fabric-1.6.6-mc1.19.3.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"FmbnOgJS" = lib.buildMinecraftMod {
+"FmbnOgJS" = lib.buildMinecraftFile {
   pname = "1.6.6-1.19.2 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/FmbnOgJS/skinlayers3d-fabric-1.6.6-mc1.19.2.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"PlHssInI" = lib.buildMinecraftMod {
+"PlHssInI" = lib.buildMinecraftFile {
   pname = "1.6.6-1.18.2 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/PlHssInI/skinlayers3d-fabric-1.6.6-mc1.18.2.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"XwJ7B5lP" = lib.buildMinecraftMod {
+"XwJ7B5lP" = lib.buildMinecraftFile {
   pname = "1.6.6-1.17.1 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/XwJ7B5lP/skinlayers3d-fabric-1.6.6-mc1.17.1.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"ZVYa2GQ7" = lib.buildMinecraftMod {
+"ZVYa2GQ7" = lib.buildMinecraftFile {
   pname = "1.6.6-1.16.5 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/ZVYa2GQ7/skinlayers3d-fabric-1.6.6-mc1.16.5.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"dBnK6e5u" = lib.buildMinecraftMod {
+"dBnK6e5u" = lib.buildMinecraftFile {
   pname = "1.6.5-1.20.6 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/dBnK6e5u/skinlayers3d-fabric-1.6.5-mc1.20.6.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"1lG9wL1E" = lib.buildMinecraftMod {
+"1lG9wL1E" = lib.buildMinecraftFile {
   pname = "1.6.5-1.20.4 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1lG9wL1E/skinlayers3d-fabric-1.6.5-mc1.20.4.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"B2hXmG2p" = lib.buildMinecraftMod {
+"B2hXmG2p" = lib.buildMinecraftFile {
   pname = "1.6.5-1.20.2 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/B2hXmG2p/skinlayers3d-fabric-1.6.5-mc1.20.2.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"iDmr8BMN" = lib.buildMinecraftMod {
+"iDmr8BMN" = lib.buildMinecraftFile {
   pname = "1.6.5-1.20.1 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/iDmr8BMN/skinlayers3d-fabric-1.6.5-mc1.20.1.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"AlCjUtAc" = lib.buildMinecraftMod {
+"AlCjUtAc" = lib.buildMinecraftFile {
   pname = "1.6.5-1.19.4 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/AlCjUtAc/skinlayers3d-fabric-1.6.5-mc1.19.4.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"mnb0HNxT" = lib.buildMinecraftMod {
+"mnb0HNxT" = lib.buildMinecraftFile {
   pname = "1.6.5-1.19.3 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/mnb0HNxT/skinlayers3d-fabric-1.6.5-mc1.19.3.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"GeeOF6nB" = lib.buildMinecraftMod {
+"GeeOF6nB" = lib.buildMinecraftFile {
   pname = "1.6.5-1.19.2 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/GeeOF6nB/skinlayers3d-fabric-1.6.5-mc1.19.2.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"aGX6c8rs" = lib.buildMinecraftMod {
+"aGX6c8rs" = lib.buildMinecraftFile {
   pname = "1.6.5-1.18.2 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/aGX6c8rs/skinlayers3d-fabric-1.6.5-mc1.18.2.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"IyBpkX0A" = lib.buildMinecraftMod {
+"IyBpkX0A" = lib.buildMinecraftFile {
   pname = "1.6.5-1.17.1 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/IyBpkX0A/skinlayers3d-fabric-1.6.5-mc1.17.1.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"ordQD1lA" = lib.buildMinecraftMod {
+"ordQD1lA" = lib.buildMinecraftFile {
   pname = "1.6.5-1.16.5 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/ordQD1lA/skinlayers3d-fabric-1.6.5-mc1.16.5.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"5JRnfHHV" = lib.buildMinecraftMod {
+"5JRnfHHV" = lib.buildMinecraftFile {
   pname = "1.6.4-1.20.6 - Fabric";
   version = "1.6.4";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/5JRnfHHV/skinlayers3d-fabric-1.6.4-mc1.20.6.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"3a5RPvFY" = lib.buildMinecraftMod {
+"3a5RPvFY" = lib.buildMinecraftFile {
   pname = "1.6.4-1.20.4 - Fabric";
   version = "1.6.4";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/3a5RPvFY/skinlayers3d-fabric-1.6.4-mc1.20.4.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"islywdJl" = lib.buildMinecraftMod {
+"islywdJl" = lib.buildMinecraftFile {
   pname = "1.6.4-1.20.2 - Fabric";
   version = "1.6.4";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/islywdJl/skinlayers3d-fabric-1.6.4-mc1.20.2.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"GeQIXZBw" = lib.buildMinecraftMod {
+"GeQIXZBw" = lib.buildMinecraftFile {
   pname = "1.6.4-1.20.1 - Fabric";
   version = "1.6.4";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/GeQIXZBw/skinlayers3d-fabric-1.6.4-mc1.20.1.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"PZKuIBNu" = lib.buildMinecraftMod {
+"PZKuIBNu" = lib.buildMinecraftFile {
   pname = "1.6.4-1.19.4 - Fabric";
   version = "1.6.4";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/PZKuIBNu/skinlayers3d-fabric-1.6.4-mc1.19.4.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"CqGQhbcP" = lib.buildMinecraftMod {
+"CqGQhbcP" = lib.buildMinecraftFile {
   pname = "1.6.4-1.19.3 - Fabric";
   version = "1.6.4";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/CqGQhbcP/skinlayers3d-fabric-1.6.4-mc1.19.3.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"n5MjPW28" = lib.buildMinecraftMod {
+"n5MjPW28" = lib.buildMinecraftFile {
   pname = "1.6.4-1.19.2 - Fabric";
   version = "1.6.4";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/n5MjPW28/skinlayers3d-fabric-1.6.4-mc1.19.2.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"Ugtqmgh0" = lib.buildMinecraftMod {
+"Ugtqmgh0" = lib.buildMinecraftFile {
   pname = "1.6.4-1.18.2 - Fabric";
   version = "1.6.4";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/Ugtqmgh0/skinlayers3d-fabric-1.6.4-mc1.18.2.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"b4zS272S" = lib.buildMinecraftMod {
+"b4zS272S" = lib.buildMinecraftFile {
   pname = "1.6.4-1.17.1 - Fabric";
   version = "1.6.4";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/b4zS272S/skinlayers3d-fabric-1.6.4-mc1.17.1.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"v8QGb8Ef" = lib.buildMinecraftMod {
+"v8QGb8Ef" = lib.buildMinecraftFile {
   pname = "1.6.4-1.16.5 - Fabric";
   version = "1.6.4";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/v8QGb8Ef/skinlayers3d-fabric-1.6.4-mc1.16.5.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"KyLUxGPU" = lib.buildMinecraftMod {
+"KyLUxGPU" = lib.buildMinecraftFile {
   pname = "1.6.3-1.20.5 - Fabric";
   version = "1.6.3";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/KyLUxGPU/skinlayers3d-fabric-1.6.3-mc1.20.5.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"UzkRuhNY" = lib.buildMinecraftMod {
+"UzkRuhNY" = lib.buildMinecraftFile {
   pname = "1.6.3-1.20.4 - Fabric";
   version = "1.6.3";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/UzkRuhNY/skinlayers3d-fabric-1.6.3-mc1.20.4.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"UszeVmE3" = lib.buildMinecraftMod {
+"UszeVmE3" = lib.buildMinecraftFile {
   pname = "1.6.3-1.20.2 - Fabric";
   version = "1.6.3";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/UszeVmE3/skinlayers3d-fabric-1.6.3-mc1.20.2.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"EiRKrXtw" = lib.buildMinecraftMod {
+"EiRKrXtw" = lib.buildMinecraftFile {
   pname = "1.6.3-1.20.1 - Fabric";
   version = "1.6.3";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/EiRKrXtw/skinlayers3d-fabric-1.6.3-mc1.20.1.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"m8e5BE9B" = lib.buildMinecraftMod {
+"m8e5BE9B" = lib.buildMinecraftFile {
   pname = "1.6.3-1.19.4 - Fabric";
   version = "1.6.3";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/m8e5BE9B/skinlayers3d-fabric-1.6.3-mc1.19.4.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"QkrWxtSJ" = lib.buildMinecraftMod {
+"QkrWxtSJ" = lib.buildMinecraftFile {
   pname = "1.6.3-1.19.3 - Fabric";
   version = "1.6.3";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/QkrWxtSJ/skinlayers3d-fabric-1.6.3-mc1.19.3.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"bJzktOtx" = lib.buildMinecraftMod {
+"bJzktOtx" = lib.buildMinecraftFile {
   pname = "1.6.3-1.19.2 - Fabric";
   version = "1.6.3";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/bJzktOtx/skinlayers3d-fabric-1.6.3-mc1.19.2.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"f1GiaIsS" = lib.buildMinecraftMod {
+"f1GiaIsS" = lib.buildMinecraftFile {
   pname = "1.6.3-1.18.2 - Fabric";
   version = "1.6.3";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/f1GiaIsS/skinlayers3d-fabric-1.6.3-mc1.18.2.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"KLPPtEWA" = lib.buildMinecraftMod {
+"KLPPtEWA" = lib.buildMinecraftFile {
   pname = "1.6.3-1.17.1 - Fabric";
   version = "1.6.3";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/KLPPtEWA/skinlayers3d-fabric-1.6.3-mc1.17.1.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"XEFZzsUo" = lib.buildMinecraftMod {
+"XEFZzsUo" = lib.buildMinecraftFile {
   pname = "1.6.3-1.16.5 - Fabric";
   version = "1.6.3";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/XEFZzsUo/skinlayers3d-fabric-1.6.3-mc1.16.5.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"kJmEO0xO" = lib.buildMinecraftMod {
+"kJmEO0xO" = lib.buildMinecraftFile {
   pname = "1.6.2-1.20.4 - Fabric";
   version = "1.6.2";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/kJmEO0xO/skinlayers3d-fabric-1.6.2-mc1.20.4.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"czoUx8H7" = lib.buildMinecraftMod {
+"czoUx8H7" = lib.buildMinecraftFile {
   pname = "1.6.2-1.20.2 - Fabric";
   version = "1.6.2";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/czoUx8H7/skinlayers3d-fabric-1.6.2-mc1.20.2.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"KHhjRppT" = lib.buildMinecraftMod {
+"KHhjRppT" = lib.buildMinecraftFile {
   pname = "1.6.2-1.20.1 - Fabric";
   version = "1.6.2";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/KHhjRppT/skinlayers3d-fabric-1.6.2-mc1.20.1.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"Qjcg7Sz1" = lib.buildMinecraftMod {
+"Qjcg7Sz1" = lib.buildMinecraftFile {
   pname = "1.6.2-1.19.4 - Fabric";
   version = "1.6.2";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/Qjcg7Sz1/skinlayers3d-fabric-1.6.2-mc1.19.4.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"mF64uUAf" = lib.buildMinecraftMod {
+"mF64uUAf" = lib.buildMinecraftFile {
   pname = "1.6.2-1.19.3 - Fabric";
   version = "1.6.2";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/mF64uUAf/skinlayers3d-fabric-1.6.2-mc1.19.3.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"JLg8jqoe" = lib.buildMinecraftMod {
+"JLg8jqoe" = lib.buildMinecraftFile {
   pname = "1.6.2-1.19.2 - Fabric";
   version = "1.6.2";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/JLg8jqoe/skinlayers3d-fabric-1.6.2-mc1.19.2.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"9T0SIigW" = lib.buildMinecraftMod {
+"9T0SIigW" = lib.buildMinecraftFile {
   pname = "1.6.2-1.18.2 - Fabric";
   version = "1.6.2";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/9T0SIigW/skinlayers3d-fabric-1.6.2-mc1.18.2.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"tmCTQZax" = lib.buildMinecraftMod {
+"tmCTQZax" = lib.buildMinecraftFile {
   pname = "1.6.2-1.17.1 - Fabric";
   version = "1.6.2";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/tmCTQZax/skinlayers3d-fabric-1.6.2-mc1.17.1.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"PTmtmBvH" = lib.buildMinecraftMod {
+"PTmtmBvH" = lib.buildMinecraftFile {
   pname = "1.6.2-1.16.5 - Fabric";
   version = "1.6.2";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/PTmtmBvH/skinlayers3d-fabric-1.6.2-mc1.16.5.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"UxVYrBiD" = lib.buildMinecraftMod {
+"UxVYrBiD" = lib.buildMinecraftFile {
   pname = "1.6.1-1.20.4 - Fabric";
   version = "1.6.1";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/UxVYrBiD/skinlayers3d-fabric-1.6.1-mc1.20.4.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"4QoxGfBK" = lib.buildMinecraftMod {
+"4QoxGfBK" = lib.buildMinecraftFile {
   pname = "1.6.1-1.20.2 - Fabric";
   version = "1.6.1";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/4QoxGfBK/skinlayers3d-fabric-1.6.1-mc1.20.2.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"WOJMI2sg" = lib.buildMinecraftMod {
+"WOJMI2sg" = lib.buildMinecraftFile {
   pname = "1.6.1-1.20.1 - Fabric";
   version = "1.6.1";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/WOJMI2sg/skinlayers3d-fabric-1.6.1-mc1.20.1.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"3sUTCIuX" = lib.buildMinecraftMod {
+"3sUTCIuX" = lib.buildMinecraftFile {
   pname = "1.6.1-1.19.4 - Fabric";
   version = "1.6.1";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/3sUTCIuX/skinlayers3d-fabric-1.6.1-mc1.19.4.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"RSHsdNH2" = lib.buildMinecraftMod {
+"RSHsdNH2" = lib.buildMinecraftFile {
   pname = "1.6.1-1.19.3 - Fabric";
   version = "1.6.1";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/RSHsdNH2/skinlayers3d-fabric-1.6.1-mc1.19.3.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"z3aQyep9" = lib.buildMinecraftMod {
+"z3aQyep9" = lib.buildMinecraftFile {
   pname = "1.6.1-1.19.2 - Fabric";
   version = "1.6.1";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/z3aQyep9/skinlayers3d-fabric-1.6.1-mc1.19.2.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"u6RVOqk3" = lib.buildMinecraftMod {
+"u6RVOqk3" = lib.buildMinecraftFile {
   pname = "1.6.1-1.18.2 - Fabric";
   version = "1.6.1";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/u6RVOqk3/skinlayers3d-fabric-1.6.1-mc1.18.2.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"jOBYljkF" = lib.buildMinecraftMod {
+"jOBYljkF" = lib.buildMinecraftFile {
   pname = "1.6.1-1.17.1 - Fabric";
   version = "1.6.1";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/jOBYljkF/skinlayers3d-fabric-1.6.1-mc1.17.1.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"HXGN0JSm" = lib.buildMinecraftMod {
+"HXGN0JSm" = lib.buildMinecraftFile {
   pname = "1.6.1-1.16.5 - Fabric";
   version = "1.6.1";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/HXGN0JSm/skinlayers3d-fabric-1.6.1-mc1.16.5.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"jSNusqNF" = lib.buildMinecraftMod {
+"jSNusqNF" = lib.buildMinecraftFile {
   pname = "1.6.0-1.20.4 - Fabric";
   version = "1.6.0";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/jSNusqNF/skinlayers3d-fabric-1.6.0-mc1.20.4.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"AE6GlajD" = lib.buildMinecraftMod {
+"AE6GlajD" = lib.buildMinecraftFile {
   pname = "1.6.0-1.20.2 - Fabric";
   version = "1.6.0";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/AE6GlajD/skinlayers3d-fabric-1.6.0-mc1.20.2.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"zZ9sloiZ" = lib.buildMinecraftMod {
+"zZ9sloiZ" = lib.buildMinecraftFile {
   pname = "1.6.0-1.20.1 - Fabric";
   version = "1.6.0";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/zZ9sloiZ/skinlayers3d-fabric-1.6.0-mc1.20.1.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"eykER8GY" = lib.buildMinecraftMod {
+"eykER8GY" = lib.buildMinecraftFile {
   pname = "1.6.0-1.19.4 - Fabric";
   version = "1.6.0";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/eykER8GY/skinlayers3d-fabric-1.6.0-mc1.19.4.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"XVqhpiOd" = lib.buildMinecraftMod {
+"XVqhpiOd" = lib.buildMinecraftFile {
   pname = "1.6.0-1.19.3 - Fabric";
   version = "1.6.0";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/XVqhpiOd/skinlayers3d-fabric-1.6.0-mc1.19.3.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"DQECxWqa" = lib.buildMinecraftMod {
+"DQECxWqa" = lib.buildMinecraftFile {
   pname = "1.6.0-1.19.2 - Fabric";
   version = "1.6.0";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/DQECxWqa/skinlayers3d-fabric-1.6.0-mc1.19.2.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"A457aRSE" = lib.buildMinecraftMod {
+"A457aRSE" = lib.buildMinecraftFile {
   pname = "1.6.0-1.18.2 - Fabric";
   version = "1.6.0";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/A457aRSE/skinlayers3d-fabric-1.6.0-mc1.18.2.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"dkKlmXO7" = lib.buildMinecraftMod {
+"dkKlmXO7" = lib.buildMinecraftFile {
   pname = "1.6.0-1.17.1 - Fabric";
   version = "1.6.0";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/dkKlmXO7/skinlayers3d-fabric-1.6.0-mc1.17.1.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"qpKR9w5A" = lib.buildMinecraftMod {
+"qpKR9w5A" = lib.buildMinecraftFile {
   pname = "1.6.0-1.16.5 - Fabric";
   version = "1.6.0";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/qpKR9w5A/skinlayers3d-fabric-1.6.0-mc1.16.5.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"q77puo5I" = lib.buildMinecraftMod {
+"q77puo5I" = lib.buildMinecraftFile {
   pname = "1.5.6-1.20.2 - Fabric";
   version = "1.5.6-1.20.2";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/q77puo5I/3dskinlayers-fabric-1.5.6-mc1.20.2.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"RudceNn0" = lib.buildMinecraftMod {
+"RudceNn0" = lib.buildMinecraftFile {
   pname = "1.5.5-1.20.2 - Fabric";
   version = "1.5.5-1.20.2";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/RudceNn0/3dskinlayers-fabric-1.5.5-mc1.20.2.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"M8d2bZuk" = lib.buildMinecraftMod {
+"M8d2bZuk" = lib.buildMinecraftFile {
   pname = "1.5.4-1.20 - Fabric";
   version = "1.5.4-1.20";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/M8d2bZuk/3dskinlayers-fabric-1.5.4-mc1.20.1.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"gEExwPWP" = lib.buildMinecraftMod {
+"gEExwPWP" = lib.buildMinecraftFile {
   pname = "1.5.3-1.20 - Fabric";
   version = "1.5.3-1.20";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/gEExwPWP/3dskinlayers-fabric-1.5.3-mc1.20.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"rvtgIO5A" = lib.buildMinecraftMod {
+"rvtgIO5A" = lib.buildMinecraftFile {
   pname = "1.5.3-1.19.4 - Fabric";
   version = "1.5.3-1.19.4";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/rvtgIO5A/3dskinlayers-fabric-1.5.3-mc1.19.4.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"p5nYXh23" = lib.buildMinecraftMod {
+"p5nYXh23" = lib.buildMinecraftFile {
   pname = "1.5.3-1.19.3 - Fabric";
   version = "1.5.3-1.19.3";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/p5nYXh23/3dskinlayers-fabric-1.5.3-mc1.19.3.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"lt0gHTA6" = lib.buildMinecraftMod {
+"lt0gHTA6" = lib.buildMinecraftFile {
   pname = "1.5.2 - Fabric 1.19.3";
   version = "1.5.2-1.19.3-fabric";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/lt0gHTA6/3dskinlayers-fabric-1.5.2-mc1.19.3.jar";
@@ -899,7 +899,7 @@
   };
 };
 
-"JHapWF9O" = lib.buildMinecraftMod {
+"JHapWF9O" = lib.buildMinecraftFile {
   pname = "1.5.2 - Fabric 1.19.x";
   version = "1.5.2-fabric-1.19";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/JHapWF9O/3dskinlayers-fabric-1.5.2-mc1.19.1.jar";
@@ -911,7 +911,7 @@
   };
 };
 
-"SuL3Z1P0" = lib.buildMinecraftMod {
+"SuL3Z1P0" = lib.buildMinecraftFile {
   pname = "1.5.2 - Fabric 1.18.x ";
   version = "1.5.2-fabric-1.18";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/SuL3Z1P0/3dskinlayers-fabric-1.5.2-mc1.18.2.jar";
@@ -923,7 +923,7 @@
   };
 };
 
-"KW20Mnwk" = lib.buildMinecraftMod {
+"KW20Mnwk" = lib.buildMinecraftFile {
   pname = "1.5.1 - Fabric 1.19.x";
   version = "1.5.1-fabric-1.19";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.5.1-fabric-1.19/3dskinlayers-fabric-1.5.1-mc1.19.1.jar";
@@ -935,7 +935,7 @@
   };
 };
 
-"rjpN6yq4" = lib.buildMinecraftMod {
+"rjpN6yq4" = lib.buildMinecraftFile {
   pname = "1.5.0 - Fabric 1.19.x ";
   version = "1.5.0-fabric-1.19";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.5.0-fabric-1.19/3dskinlayers-fabric-1.5.0-mc1.19.1.jar";
@@ -947,7 +947,7 @@
   };
 };
 
-"uzmcbsZh" = lib.buildMinecraftMod {
+"uzmcbsZh" = lib.buildMinecraftFile {
   pname = "1.4.7 - Fabric 1.19.x ";
   version = "1.4.7-fabric-1.19";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.4.7-fabric-1.19/3dskinlayers-fabric-1.4.7-mc1.19.jar";
@@ -959,7 +959,7 @@
   };
 };
 
-"BOufxDjE" = lib.buildMinecraftMod {
+"BOufxDjE" = lib.buildMinecraftFile {
   pname = "1.4.6 - Fabric 1.19.x";
   version = "1.4.6-fabric-1.19";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.4.6-fabric-1.19/3dskinlayers-fabric-1.4.6-mc1.19-rc2.jar";
@@ -971,7 +971,7 @@
   };
 };
 
-"KF3i2ecz" = lib.buildMinecraftMod {
+"KF3i2ecz" = lib.buildMinecraftFile {
   pname = "1.4.6 - Fabric 1.18.x";
   version = "1.4.6-fabric-1.18";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.4.6-fabric-1.18/3dskinlayers-fabric-1.4.6-mc1.18.2.jar";
@@ -983,7 +983,7 @@
   };
 };
 
-"oQWsE3Wl" = lib.buildMinecraftMod {
+"oQWsE3Wl" = lib.buildMinecraftFile {
   pname = "1.4.5 - Fabric 1.18.x";
   version = "1.4.5-fabric-1.18";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.4.5-fabric-1.18/3dskinlayers-fabric-1.4.5-mc1.18.2.jar";
@@ -995,7 +995,7 @@
   };
 };
 
-"1OrwaNHG" = lib.buildMinecraftMod {
+"1OrwaNHG" = lib.buildMinecraftFile {
   pname = "1.4.3 - Fabric 1.19-pre1";
   version = "1.4.3-fabric-1.19-pre1";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.4.3-fabric-1.19-pre1/3dskinlayers-fabric-1.4.3-mc1.19-pre1.jar";
@@ -1007,7 +1007,7 @@
   };
 };
 
-"uNvEn98A" = lib.buildMinecraftMod {
+"uNvEn98A" = lib.buildMinecraftFile {
   pname = "1.4.4 - Fabric 1.18.x";
   version = "1.4.4-fabric-1.18";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.4.4-fabric-1.18/3dskinlayers-fabric-1.4.4-mc1.18.2.jar";
@@ -1019,7 +1019,7 @@
   };
 };
 
-"WhqMTFRp" = lib.buildMinecraftMod {
+"WhqMTFRp" = lib.buildMinecraftFile {
   pname = "1.4.3 - Fabric 1.17.x ";
   version = "1.4.3-fabric-1.17";
   url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1.4.3-fabric-1.17/3dSkinLayers-Fabric-1.4.3.jar";

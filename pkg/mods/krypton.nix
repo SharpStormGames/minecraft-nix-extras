@@ -1,5 +1,5 @@
 { lib, ... }: {
-"Acz3ttTp" = lib.buildMinecraftMod {
+"Acz3ttTp" = lib.buildMinecraftFile {
   pname = "Krypton 0.2.8";
   version = "0.2.8";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/Acz3ttTp/krypton-0.2.8.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"PYi5mm1G" = lib.buildMinecraftMod {
+"PYi5mm1G" = lib.buildMinecraftFile {
   pname = "Krypton 0.2.7";
   version = "0.2.7";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/PYi5mm1G/krypton-0.2.7.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"bRcuOnao" = lib.buildMinecraftMod {
+"bRcuOnao" = lib.buildMinecraftFile {
   pname = "Krypton 0.2.6";
   version = "0.2.6";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/bRcuOnao/krypton-0.2.6.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"X2k7QAQS" = lib.buildMinecraftMod {
+"X2k7QAQS" = lib.buildMinecraftFile {
   pname = "0.2.5";
   version = "0.2.5";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/X2k7QAQS/krypton-0.2.5.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"cQ60Ouax" = lib.buildMinecraftMod {
+"cQ60Ouax" = lib.buildMinecraftFile {
   pname = "0.2.4";
   version = "0.2.4";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/cQ60Ouax/krypton-0.2.4.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"jiDwS0W1" = lib.buildMinecraftMod {
+"jiDwS0W1" = lib.buildMinecraftFile {
   pname = "0.2.3";
   version = "0.2.3";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/jiDwS0W1/krypton-0.2.3.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"Tncui9tU" = lib.buildMinecraftMod {
+"Tncui9tU" = lib.buildMinecraftFile {
   pname = "0.2.2";
   version = "0.2.2";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/Tncui9tU/krypton-0.2.2.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"vx0mZa04" = lib.buildMinecraftMod {
+"vx0mZa04" = lib.buildMinecraftFile {
   pname = "0.2.1";
   version = "0.2.1";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.2.1/krypton-0.2.1.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"UJ6FlFnK" = lib.buildMinecraftMod {
+"UJ6FlFnK" = lib.buildMinecraftFile {
   pname = "0.2.0";
   version = "0.2.0";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.2.0/krypton-0.2.0.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"vJQ7plH2" = lib.buildMinecraftMod {
+"vJQ7plH2" = lib.buildMinecraftFile {
   pname = "0.1.9";
   version = "0.1.9";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.9/krypton-0.1.9.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"QmrcLtH3" = lib.buildMinecraftMod {
+"QmrcLtH3" = lib.buildMinecraftFile {
   pname = "0.1.7";
   version = "0.1.7";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.7/krypton-0.1.7.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"kCiWZ1wv" = lib.buildMinecraftMod {
+"kCiWZ1wv" = lib.buildMinecraftFile {
   pname = "0.1.6";
   version = "0.1.6";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.6/krypton-0.1.6.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"AXYWaIE8" = lib.buildMinecraftMod {
+"AXYWaIE8" = lib.buildMinecraftFile {
   pname = "0.1.5";
   version = "0.1.5";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.5/krypton-0.1.5.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"PGovBIXq" = lib.buildMinecraftMod {
+"PGovBIXq" = lib.buildMinecraftFile {
   pname = "0.1.4";
   version = "0.1.4";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.4/krypton-0.1.4.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"Ff90AgU6" = lib.buildMinecraftMod {
+"Ff90AgU6" = lib.buildMinecraftFile {
   pname = "0.1.3";
   version = "0.1.3";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.3/krypton-0.1.3.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"7AwqDL7J" = lib.buildMinecraftMod {
+"7AwqDL7J" = lib.buildMinecraftFile {
   pname = "0.1.2";
   version = "0.1.2";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.2/krypton-0.1.2.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"19624YsD" = lib.buildMinecraftMod {
+"19624YsD" = lib.buildMinecraftFile {
   pname = "0.1.1";
   version = "0.1.1";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.1/krypton-0.1.1.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"tO4HJpLA" = lib.buildMinecraftMod {
+"tO4HJpLA" = lib.buildMinecraftFile {
   pname = "0.1.0";
   version = "0.1.0";
   url = "https://cdn.modrinth.com/data/fQEb0iXm/versions/0.1.0/krypton-0.1.0.jar";

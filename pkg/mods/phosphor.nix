@@ -1,5 +1,5 @@
 { lib, ... }: {
-"Di0Jgej2" = lib.buildMinecraftMod {
+"Di0Jgej2" = lib.buildMinecraftFile {
   pname = "Phosphor 0.8.1 for Minecraft 1.19.x";
   version = "mc1.19.x-0.8.1";
   url = "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.19.x-0.8.1/phosphor-fabric-mc1.19.x-0.8.1.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"HG1UaV1y" = lib.buildMinecraftMod {
+"HG1UaV1y" = lib.buildMinecraftFile {
   pname = "Phosphor 0.8.1 for Minecraft 1.18.x";
   version = "mc1.18.x-0.8.1";
   url = "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.18.x-0.8.1/phosphor-fabric-mc1.18.x-0.8.1.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"7cdD4A3A" = lib.buildMinecraftMod {
+"7cdD4A3A" = lib.buildMinecraftFile {
   pname = "Phosphor 0.8.0 for Minecraft 1.17.x";
   version = "mc1.17.x-0.8.0";
   url = "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.17.x-0.8.0/phosphor-fabric-mc1.17.x-0.8.0.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"nZsp5YpW" = lib.buildMinecraftMod {
+"nZsp5YpW" = lib.buildMinecraftFile {
   pname = "Phosphor 0.8.0 for Minecraft 1.16.2 - 1.16.5";
   version = "mc1.16.2-0.8.0";
   url = "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.2-0.8.0/phosphor-fabric-mc1.16.2-0.8.0.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"1mUlojUQ" = lib.buildMinecraftMod {
+"1mUlojUQ" = lib.buildMinecraftFile {
   pname = "Phosphor 0.7.2 for Minecraft 1.16.2+";
   version = "mc1.16.2-0.7.2";
   url = "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.2-0.7.2/phosphor-fabric-mc1.16.3-0.7.2%2Bbuild.12.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"C9Witfc8" = lib.buildMinecraftMod {
+"C9Witfc8" = lib.buildMinecraftFile {
   pname = "Phosphor 0.7.1";
   version = "mc1.16.2-0.7.1";
   url = "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.2-0.7.1/phosphor-fabric-mc1.16.3-0.7.1%2Bbuild.11.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"tFQASSAx" = lib.buildMinecraftMod {
+"tFQASSAx" = lib.buildMinecraftFile {
   pname = "Phosphor 0.7.0";
   version = "mc1.16.3-0.7.0";
   url = "https://cdn.modrinth.com/data/hEOCdOgW/versions/mc1.16.3-0.7.0/phosphor-fabric-mc1.16.3-0.7.0%2Bbuild.10.jar";

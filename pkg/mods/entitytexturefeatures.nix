@@ -1,5 +1,5 @@
 { lib, ... }: {
-"O3jDICoH" = lib.buildMinecraftMod {
+"O3jDICoH" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1.3";
   version = "6.1.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/O3jDICoH/entity_texture_features_fabric_1.21-6.1.3.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"EDWEfvFs" = lib.buildMinecraftMod {
+"EDWEfvFs" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1.3";
   version = "6.1.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/EDWEfvFs/entity_texture_features_fabric_1.20.6-6.1.3.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"9qagksz6" = lib.buildMinecraftMod {
+"9qagksz6" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1.3";
   version = "6.1.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/9qagksz6/entity_texture_features_fabric_1.20.4-6.1.3.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"1Gi8YY84" = lib.buildMinecraftMod {
+"1Gi8YY84" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1.3";
   version = "6.1.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/1Gi8YY84/entity_texture_features_fabric_1.20.2-6.1.3.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"fqFnWIXs" = lib.buildMinecraftMod {
+"fqFnWIXs" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1.3";
   version = "6.1.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/fqFnWIXs/entity_texture_features_fabric_1.20.1-6.1.3.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"8czGsT2L" = lib.buildMinecraftMod {
+"8czGsT2L" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1.2";
   version = "6.1.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/8czGsT2L/entity_texture_features_fabric_1.21-6.1.2.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"JvRwC1fO" = lib.buildMinecraftMod {
+"JvRwC1fO" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1.1";
   version = "6.1.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/JvRwC1fO/entity_texture_features_fabric_1.21-6.1.1.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"aUpC497W" = lib.buildMinecraftMod {
+"aUpC497W" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1.1";
   version = "6.1.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/aUpC497W/entity_texture_features_fabric_1.20.6-6.1.1.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"Iqpdkpj4" = lib.buildMinecraftMod {
+"Iqpdkpj4" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1.1";
   version = "6.1.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/Iqpdkpj4/entity_texture_features_fabric_1.20.1-6.1.1.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"EHDdciG6" = lib.buildMinecraftMod {
+"EHDdciG6" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1";
   version = "6.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/EHDdciG6/entity_texture_features_fabric_1.21-rc1-6.1.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"pecEuozV" = lib.buildMinecraftMod {
+"pecEuozV" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1";
   version = "6.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/pecEuozV/entity_texture_features_fabric_1.20.6-6.1.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"A9d30Vws" = lib.buildMinecraftMod {
+"A9d30Vws" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1";
   version = "6.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/A9d30Vws/entity_texture_features_fabric_1.20.4-6.1.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"B633wDbe" = lib.buildMinecraftMod {
+"B633wDbe" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1";
   version = "6.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/B633wDbe/entity_texture_features_fabric_1.20.2-6.1.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"YlyRB8o6" = lib.buildMinecraftMod {
+"YlyRB8o6" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.1";
   version = "6.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/YlyRB8o6/entity_texture_features_fabric_1.20.1-6.1.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"LLAlgYfT" = lib.buildMinecraftMod {
+"LLAlgYfT" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0.1";
   version = "6.0.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/LLAlgYfT/entity_texture_features_fabric_1.20.5-6.0.1.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"5a6694zO" = lib.buildMinecraftMod {
+"5a6694zO" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0.1";
   version = "6.0.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/5a6694zO/entity_texture_features_fabric_1.20.4-6.0.1.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"n97nAS3C" = lib.buildMinecraftMod {
+"n97nAS3C" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0.1";
   version = "6.0.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/n97nAS3C/entity_texture_features_fabric_1.20.2-6.0.1.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"jXc7eTKi" = lib.buildMinecraftMod {
+"jXc7eTKi" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0.1";
   version = "6.0.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/jXc7eTKi/entity_texture_features_fabric_1.20.1-6.0.1.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"ItQYro3P" = lib.buildMinecraftMod {
+"ItQYro3P" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0.1";
   version = "6.0.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/ItQYro3P/entity_texture_features_fabric_1.19.4-6.0.1.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"Hek1NTiF" = lib.buildMinecraftMod {
+"Hek1NTiF" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0.1";
   version = "6.0.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/Hek1NTiF/entity_texture_features_fabric_1.19.2-6.0.1.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"MbHYReOp" = lib.buildMinecraftMod {
+"MbHYReOp" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0.1";
   version = "6.0.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/MbHYReOp/entity_texture_features_fabric_1.18.2-6.0.1.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"49aHHHOT" = lib.buildMinecraftMod {
+"49aHHHOT" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0.1";
   version = "6.0.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/49aHHHOT/entity_texture_features_fabric_1.18.2-6.0.1.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"HFGqlRF0" = lib.buildMinecraftMod {
+"HFGqlRF0" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0";
   version = "6.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/HFGqlRF0/entity_texture_features_fabric_1.20.5-6.0.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"6QKgVWs7" = lib.buildMinecraftMod {
+"6QKgVWs7" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0";
   version = "6.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/6QKgVWs7/entity_texture_features_fabric_1.20.4-6.0.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"36v1VCUb" = lib.buildMinecraftMod {
+"36v1VCUb" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0";
   version = "6.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/36v1VCUb/entity_texture_features_fabric_1.20.2-6.0.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"gSrsrmM1" = lib.buildMinecraftMod {
+"gSrsrmM1" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0";
   version = "6.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/gSrsrmM1/entity_texture_features_fabric_1.20.1-6.0.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"NnvvKWlp" = lib.buildMinecraftMod {
+"NnvvKWlp" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0";
   version = "6.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/NnvvKWlp/entity_texture_features_fabric_1.19.4-6.0.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"voFRojSn" = lib.buildMinecraftMod {
+"voFRojSn" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0";
   version = "6.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/voFRojSn/entity_texture_features_fabric_1.19.2-6.0.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"T2VMc813" = lib.buildMinecraftMod {
+"T2VMc813" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 6.0";
   version = "6.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/T2VMc813/entity_texture_features_fabric_1.18.2-6.0.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"qMoPCh9Z" = lib.buildMinecraftMod {
+"qMoPCh9Z" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.3";
   version = "5.2.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/qMoPCh9Z/entity_texture_features_fabric_1.20.4-5.2.3.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"hC5AKKJz" = lib.buildMinecraftMod {
+"hC5AKKJz" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.3";
   version = "5.2.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/hC5AKKJz/entity_texture_features_fabric_1.20.2-5.2.3.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"YnTygVlO" = lib.buildMinecraftMod {
+"YnTygVlO" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.3";
   version = "5.2.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/YnTygVlO/entity_texture_features_fabric_1.20.1-5.2.3.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"yaOnJg8M" = lib.buildMinecraftMod {
+"yaOnJg8M" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.3";
   version = "5.2.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/yaOnJg8M/entity_texture_features_fabric_1.19.4-5.2.3.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"I7SvV3EL" = lib.buildMinecraftMod {
+"I7SvV3EL" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.3";
   version = "5.2.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/I7SvV3EL/entity_texture_features_fabric_1.19.2-5.2.3.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"2udTpE8m" = lib.buildMinecraftMod {
+"2udTpE8m" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.3";
   version = "5.2.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2udTpE8m/entity_texture_features_fabric_1.18.2-5.2.3.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"k30YZ0Zn" = lib.buildMinecraftMod {
+"k30YZ0Zn" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.2";
   version = "5.2.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/k30YZ0Zn/entity_texture_features_fabric_1.20.4-5.2.2.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"VnLAcknD" = lib.buildMinecraftMod {
+"VnLAcknD" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.2";
   version = "5.2.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/VnLAcknD/entity_texture_features_fabric_1.20.1-5.2.2.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"rM5QKUL3" = lib.buildMinecraftMod {
+"rM5QKUL3" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.1";
   version = "5.2.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/rM5QKUL3/entity_texture_features_fabric_1.20.4-5.2.1.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"6Ac6931r" = lib.buildMinecraftMod {
+"6Ac6931r" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.1";
   version = "5.2.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/6Ac6931r/entity_texture_features_fabric_1.20.2-5.2.1.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"PrakWydh" = lib.buildMinecraftMod {
+"PrakWydh" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.1";
   version = "5.2.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/PrakWydh/entity_texture_features_fabric_1.20.1-5.2.1.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"PgeQ36xC" = lib.buildMinecraftMod {
+"PgeQ36xC" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.1";
   version = "5.2.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/PgeQ36xC/entity_texture_features_fabric_1.19.4-5.2.1.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"x8Ir5T4F" = lib.buildMinecraftMod {
+"x8Ir5T4F" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.1";
   version = "5.2.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/x8Ir5T4F/entity_texture_features_fabric_1.19.2-5.2.1.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"gANduojd" = lib.buildMinecraftMod {
+"gANduojd" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.2.1";
   version = "5.2.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/gANduojd/entity_texture_features_fabric_1.18.2-5.2.1.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"Agoi7AFd" = lib.buildMinecraftMod {
+"Agoi7AFd" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.1.2";
   version = "5.1.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/Agoi7AFd/entity_texture_features_fabric_1.20.1-5.1.2.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"r2xjfoD7" = lib.buildMinecraftMod {
+"r2xjfoD7" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.1.2";
   version = "5.1.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/r2xjfoD7/entity_texture_features_fabric_1.20.2-5.1.2.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"DVbS2kIx" = lib.buildMinecraftMod {
+"DVbS2kIx" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.1.2";
   version = "5.1.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/DVbS2kIx/entity_texture_features_fabric_1.20.4-5.1.2.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"1bZPXsmm" = lib.buildMinecraftMod {
+"1bZPXsmm" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.1.1";
   version = "5.1.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/1bZPXsmm/entity_texture_features_fabric_1.20.1-5.1.1.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"GhCAoeBk" = lib.buildMinecraftMod {
+"GhCAoeBk" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.1.1";
   version = "5.1.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/GhCAoeBk/entity_texture_features_fabric_1.20.2-5.1.1.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"tDUk08od" = lib.buildMinecraftMod {
+"tDUk08od" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.1.1";
   version = "5.1.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/tDUk08od/entity_texture_features_fabric_1.20.4-5.1.1.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"nu6lLhfO" = lib.buildMinecraftMod {
+"nu6lLhfO" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.1";
   version = "5.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/nu6lLhfO/entity_texture_features_fabric_1.20.2-5.1.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"9QYcSXx8" = lib.buildMinecraftMod {
+"9QYcSXx8" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.1";
   version = "5.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/9QYcSXx8/entity_texture_features_fabric_1.20.1-5.1.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"y75zt2Q0" = lib.buildMinecraftMod {
+"y75zt2Q0" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.1";
   version = "5.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/y75zt2Q0/entity_texture_features_fabric_1.20.4-5.1.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"XWSoEIYq" = lib.buildMinecraftMod {
+"XWSoEIYq" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.0";
   version = "5.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/XWSoEIYq/entity_texture_features_fabric_1.20.1-5.0.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"JXVDzP1d" = lib.buildMinecraftMod {
+"JXVDzP1d" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.0";
   version = "5.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/JXVDzP1d/entity_texture_features_fabric_1.20.3-5.0.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"pwgniYj5" = lib.buildMinecraftMod {
+"pwgniYj5" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.0";
   version = "5.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/pwgniYj5/entity_texture_features_fabric_1.20.2-5.0.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"eextCads" = lib.buildMinecraftMod {
+"eextCads" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 5.0.beta.3";
   version = "5.0.beta.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/eextCads/entity_texture_features_fabric_1.20.3-5.0.beta.3.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"2zQ0rZri" = lib.buildMinecraftMod {
+"2zQ0rZri" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.6.1";
   version = "4.6.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2zQ0rZri/entity_texture_features_fabric_1.20.2-4.6.1.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"aG9vZFHa" = lib.buildMinecraftMod {
+"aG9vZFHa" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.6.1";
   version = "4.6.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/aG9vZFHa/entity_texture_features_fabric_1.20.1-4.6.1.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"7k32PYDx" = lib.buildMinecraftMod {
+"7k32PYDx" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.6.1";
   version = "4.6.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/7k32PYDx/entity_texture_features_fabric_1.19.4-4.6.1.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"WBLEReJT" = lib.buildMinecraftMod {
+"WBLEReJT" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.6.1";
   version = "4.6.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/WBLEReJT/entity_texture_features_fabric_1.19.2-4.6.1.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"xyMgzx36" = lib.buildMinecraftMod {
+"xyMgzx36" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.6.1";
   version = "4.6.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/xyMgzx36/entity_texture_features_fabric_1.18.2-4.6.1.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"nnUuovth" = lib.buildMinecraftMod {
+"nnUuovth" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.6";
   version = "4.6";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/nnUuovth/entity_texture_features_fabric_1.20.2-4.6.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"Z9uVc7X6" = lib.buildMinecraftMod {
+"Z9uVc7X6" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.6";
   version = "4.6";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/Z9uVc7X6/entity_texture_features_fabric_1.20-4.6.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"P5g3heP4" = lib.buildMinecraftMod {
+"P5g3heP4" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.6";
   version = "4.6";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/P5g3heP4/entity_texture_features_fabric_1.19.4-4.6.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"7VZjYO7s" = lib.buildMinecraftMod {
+"7VZjYO7s" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.6";
   version = "4.6";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/7VZjYO7s/entity_texture_features_fabric_1.19.2-4.6.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"FSl57i99" = lib.buildMinecraftMod {
+"FSl57i99" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.6";
   version = "4.6";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/FSl57i99/entity_texture_features_fabric_1.18.2-4.6.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"1Y3lxOX6" = lib.buildMinecraftMod {
+"1Y3lxOX6" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.5.1";
   version = "4.5.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/1Y3lxOX6/entity_texture_features_fabric_1.20.2-4.5.1.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"UPenaMj3" = lib.buildMinecraftMod {
+"UPenaMj3" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.5.1";
   version = "4.5.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/UPenaMj3/entity_texture_features_fabric_1.20-4.5.1.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"tcUfGg9x" = lib.buildMinecraftMod {
+"tcUfGg9x" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.5.1";
   version = "4.5.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/tcUfGg9x/entity_texture_features_fabric_1.19.4-4.5.1.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"59Fqhpg2" = lib.buildMinecraftMod {
+"59Fqhpg2" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.5.1";
   version = "4.5.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/59Fqhpg2/entity_texture_features_fabric_1.19.3-4.5.1.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"7p3trw3A" = lib.buildMinecraftMod {
+"7p3trw3A" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.5.1";
   version = "4.5.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/7p3trw3A/entity_texture_features_fabric_1.19.2-4.5.1.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"4LF51uza" = lib.buildMinecraftMod {
+"4LF51uza" = lib.buildMinecraftFile {
   pname = "[ETF] Entity Texture Features 4.5.1";
   version = "4.5.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/4LF51uza/entity_texture_features_fabric_1.18.2-4.5.1.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"9Em1LjD2" = lib.buildMinecraftMod {
+"9Em1LjD2" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.5.0";
   version = "4.5.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/9Em1LjD2/entity_texture_features_fabric_1.20-4.5.0.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"yDMz18wR" = lib.buildMinecraftMod {
+"yDMz18wR" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.4.4";
   version = "4.4.4-backport";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/yDMz18wR/entity_texture_features_fabric_1.18.2-4.4.4.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"DpEWP7FH" = lib.buildMinecraftMod {
+"DpEWP7FH" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.4.4";
   version = "4.4.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/DpEWP7FH/entity_texture_features_fabric_1.20-4.4.4.jar";
@@ -899,7 +899,7 @@
   };
 };
 
-"OnEUQPyg" = lib.buildMinecraftMod {
+"OnEUQPyg" = lib.buildMinecraftFile {
   pname = "1.20-pre6 test";
   version = "4.4.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/OnEUQPyg/entity_texture_features_fabric_1.20-pre6-4.4.4.jar";
@@ -911,7 +911,7 @@
   };
 };
 
-"l0EV3qFb" = lib.buildMinecraftMod {
+"l0EV3qFb" = lib.buildMinecraftFile {
   pname = "1.20-pre1 test 4.4.4";
   version = "4.4.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/l0EV3qFb/entity_texture_features_fabric_1.20-pre-4.4.4.jar";
@@ -923,7 +923,7 @@
   };
 };
 
-"FysgUMLL" = lib.buildMinecraftMod {
+"FysgUMLL" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.4.4";
   version = "4.4.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/FysgUMLL/entity_texture_features_fabric_1.19.4-4.4.4.jar";
@@ -935,7 +935,7 @@
   };
 };
 
-"XgIVyuTx" = lib.buildMinecraftMod {
+"XgIVyuTx" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.4.4";
   version = "4.4.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/XgIVyuTx/entity_texture_features_fabric_1.19.3-4.4.4.jar";
@@ -947,7 +947,7 @@
   };
 };
 
-"ASCvruGN" = lib.buildMinecraftMod {
+"ASCvruGN" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.4.4";
   version = "4.4.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/ASCvruGN/entity_texture_features_fabric_1.19.2-4.4.4.jar";
@@ -959,7 +959,7 @@
   };
 };
 
-"3RLtsfa8" = lib.buildMinecraftMod {
+"3RLtsfa8" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.4.3";
   version = "4.4.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3RLtsfa8/entity_texture_features_fabric_1.19.4-4.4.3.jar";
@@ -971,7 +971,7 @@
   };
 };
 
-"KGXpEmat" = lib.buildMinecraftMod {
+"KGXpEmat" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.4.3";
   version = "4.4.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/KGXpEmat/entity_texture_features_fabric_1.19.3-4.4.3.jar";
@@ -983,7 +983,7 @@
   };
 };
 
-"AQ2U68wI" = lib.buildMinecraftMod {
+"AQ2U68wI" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.4.3";
   version = "4.4.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/AQ2U68wI/entity_texture_features_fabric_1.19.2-4.4.3.jar";
@@ -995,7 +995,7 @@
   };
 };
 
-"lUY6MJko" = lib.buildMinecraftMod {
+"lUY6MJko" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.4.0";
   version = "4.4.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/lUY6MJko/entity_texture_features_fabric_1.19.4-4.4.0.jar";
@@ -1007,7 +1007,7 @@
   };
 };
 
-"qDWfufU7" = lib.buildMinecraftMod {
+"qDWfufU7" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.4.0";
   version = "4.4.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/qDWfufU7/entity_texture_features_fabric_1.19.3-4.4.0.jar";
@@ -1019,7 +1019,7 @@
   };
 };
 
-"4DE0PgtE" = lib.buildMinecraftMod {
+"4DE0PgtE" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.4.0";
   version = "4.4.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/4DE0PgtE/entity_texture_features_fabric_1.19.2-4.4.0.jar";
@@ -1031,7 +1031,7 @@
   };
 };
 
-"4WOYtIge" = lib.buildMinecraftMod {
+"4WOYtIge" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.3.5";
   version = "4.3.5.fabric.1.19.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/4WOYtIge/entity_texture_features_fabric_1.19.4-4.3.5.jar";
@@ -1043,7 +1043,7 @@
   };
 };
 
-"yRJhlMwY" = lib.buildMinecraftMod {
+"yRJhlMwY" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.3.4";
   version = "4.3.4.fabric.1.19.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/yRJhlMwY/entity_texture_features_fabric_1.19.4-4.3.4.jar";
@@ -1055,7 +1055,7 @@
   };
 };
 
-"Q9VTlArC" = lib.buildMinecraftMod {
+"Q9VTlArC" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.3.3";
   version = "4.3.3.fabric.1.19.4.p3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/Q9VTlArC/entity_texture_features_fabric_1.19.4-pre3-4.3.3.jar";
@@ -1067,7 +1067,7 @@
   };
 };
 
-"YeIziE6s" = lib.buildMinecraftMod {
+"YeIziE6s" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.3.3";
   version = "4.3.3.fabric.1.19.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/YeIziE6s/entity_texture_features_fabric_1.19.3-4.3.3.jar";
@@ -1079,7 +1079,7 @@
   };
 };
 
-"Mm7KueIp" = lib.buildMinecraftMod {
+"Mm7KueIp" = lib.buildMinecraftFile {
   pname = "Entity Texture Features 4.3.3";
   version = "4.3.3.fabric.1.19.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/Mm7KueIp/entity_texture_features_fabric_1.19.2-4.3.3.jar";
@@ -1091,7 +1091,7 @@
   };
 };
 
-"wxqoWaxp" = lib.buildMinecraftMod {
+"wxqoWaxp" = lib.buildMinecraftFile {
   pname = "ETF 4.3.2";
   version = "4.3.2.fabric.1.19.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/wxqoWaxp/entity_texture_features_fabric_1.19.3-4.3.2.jar";
@@ -1103,7 +1103,7 @@
   };
 };
 
-"zIpRfJGw" = lib.buildMinecraftMod {
+"zIpRfJGw" = lib.buildMinecraftFile {
   pname = "ETF 4.3.2";
   version = "4.3.2.fabric.1.19.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/zIpRfJGw/entity_texture_features_fabric_1.19.2-4.3.2.jar";
@@ -1115,7 +1115,7 @@
   };
 };
 
-"ukr1WwVj" = lib.buildMinecraftMod {
+"ukr1WwVj" = lib.buildMinecraftFile {
   pname = "ETF 4.3.1";
   version = "4.3.1.fabric.1.19.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/ukr1WwVj/entity_texture_features_fabric_1.19.3-4.3.1.jar";
@@ -1127,7 +1127,7 @@
   };
 };
 
-"iBJRmSSb" = lib.buildMinecraftMod {
+"iBJRmSSb" = lib.buildMinecraftFile {
   pname = "ETF 4.3.1";
   version = "4.3.1.fabric.1.19.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/iBJRmSSb/entity_texture_features_fabric_1.19.2-4.3.1.jar";
@@ -1139,7 +1139,7 @@
   };
 };
 
-"kdNqcBQc" = lib.buildMinecraftMod {
+"kdNqcBQc" = lib.buildMinecraftFile {
   pname = "ETF 4.3.1";
   version = "4.3.1.fabric.1.18.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/kdNqcBQc/entity_texture_features_fabric_1.18.2-4.3.1.jar";
@@ -1151,7 +1151,7 @@
   };
 };
 
-"a4YzsmzU" = lib.buildMinecraftMod {
+"a4YzsmzU" = lib.buildMinecraftFile {
   pname = "ETF 4.3.1";
   version = "4.3.1.fabric.1.17";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/a4YzsmzU/entity_texture_features_fabric_1.17.1-4.3.1.jar";
@@ -1163,7 +1163,7 @@
   };
 };
 
-"CMYwvsPh" = lib.buildMinecraftMod {
+"CMYwvsPh" = lib.buildMinecraftFile {
   pname = "ETF 4.3.1";
   version = "4.3.1.fabric.1.16";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/CMYwvsPh/entity_texture_features_fabric_1.16.5-4.3.1.jar";
@@ -1175,7 +1175,7 @@
   };
 };
 
-"aceDD6ip" = lib.buildMinecraftMod {
+"aceDD6ip" = lib.buildMinecraftFile {
   pname = "ETF 4.3.0";
   version = "4.3.0.fabric.1.19.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/aceDD6ip/entity_texture_features_fabric_1.19.3-4.3.0.jar";
@@ -1187,7 +1187,7 @@
   };
 };
 
-"EhGfnoWY" = lib.buildMinecraftMod {
+"EhGfnoWY" = lib.buildMinecraftFile {
   pname = "ETF 4.3.0";
   version = "4.3.0.fabric.1.19.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/EhGfnoWY/entity_texture_features_fabric_1.19.2-4.3.0.jar";
@@ -1199,7 +1199,7 @@
   };
 };
 
-"4OthHiGq" = lib.buildMinecraftMod {
+"4OthHiGq" = lib.buildMinecraftFile {
   pname = "ETF 4.3.0";
   version = "4.3.0.fabric.1.18.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/4OthHiGq/entity_texture_features_fabric_1.18.2-4.3.0.jar";
@@ -1211,7 +1211,7 @@
   };
 };
 
-"zNoUjaus" = lib.buildMinecraftMod {
+"zNoUjaus" = lib.buildMinecraftFile {
   pname = "ETF 4.3.0";
   version = "4.3.0.fabric.1.17.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/zNoUjaus/entity_texture_features_fabric_1.17.1-4.3.0.jar";
@@ -1223,7 +1223,7 @@
   };
 };
 
-"LLomGi3h" = lib.buildMinecraftMod {
+"LLomGi3h" = lib.buildMinecraftFile {
   pname = "ETF 4.3.0";
   version = "4.3.0.fabric.1.16.5";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/LLomGi3h/entity_texture_features_fabric_1.16.5-4.3.0.jar";
@@ -1235,7 +1235,7 @@
   };
 };
 
-"KBKeI45D" = lib.buildMinecraftMod {
+"KBKeI45D" = lib.buildMinecraftFile {
   pname = "[Fabric] Entity Texture Features [V4.2.0.1]-[1.19.3]";
   version = "4.2.0.1.fabric.1.19.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/KBKeI45D/entity_texture_features_fabric_1.19.3-4.2.0.1.jar";
@@ -1247,7 +1247,7 @@
   };
 };
 
-"66q1EPRX" = lib.buildMinecraftMod {
+"66q1EPRX" = lib.buildMinecraftFile {
   pname = "[Fabric] Entity Texture Features [V4.2]-[1.19.2]";
   version = "4.2.0.fabric.1.19";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/66q1EPRX/entity_texture_features_fabric_1.19.2-4.2.0.jar";
@@ -1259,7 +1259,7 @@
   };
 };
 
-"2OehSxqW" = lib.buildMinecraftMod {
+"2OehSxqW" = lib.buildMinecraftFile {
   pname = "[Fabric] Entity Texture Features [V4.2]-[1.18.2]";
   version = "4.2.0.fabric.1.18";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2OehSxqW/entity_texture_features_fabric_1.18.2-4.2.0.jar";
@@ -1271,7 +1271,7 @@
   };
 };
 
-"8XpXayfO" = lib.buildMinecraftMod {
+"8XpXayfO" = lib.buildMinecraftFile {
   pname = "[Fabric] Entity Texture Features [V4.2]-[1.17.1]";
   version = "4.2.0.fabric.1.17";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/8XpXayfO/entity_texture_features_fabric_1.17.1-4.2.0.jar";
@@ -1283,7 +1283,7 @@
   };
 };
 
-"ypX5P3jM" = lib.buildMinecraftMod {
+"ypX5P3jM" = lib.buildMinecraftFile {
   pname = " [Fabric] Entity Texture Features [V4.2]-[1.16.5]";
   version = "4.2.0.fabric.1.16";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/ypX5P3jM/entity_texture_features_fabric_1.16.5-4.2.0.jar";
@@ -1295,7 +1295,7 @@
   };
 };
 
-"QsPxlaAU" = lib.buildMinecraftMod {
+"QsPxlaAU" = lib.buildMinecraftFile {
   pname = " [Fabric] Entity Texture Features [V4.1.1]-[1.19.x]";
   version = "4.1.1.fabric_19";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/QsPxlaAU/entity_texture_features_fabric_1.19.x-4.1.1.jar";
@@ -1307,7 +1307,7 @@
   };
 };
 
-"JPIC9ofE" = lib.buildMinecraftMod {
+"JPIC9ofE" = lib.buildMinecraftFile {
   pname = " [Fabric] Entity Texture Features [V4.1.1]-[1.18.2]";
   version = "4.1.1.fabric_18";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/JPIC9ofE/entity_texture_features_fabric_1.18.2-4.1.1.jar";
@@ -1319,7 +1319,7 @@
   };
 };
 
-"8lkMJvNv" = lib.buildMinecraftMod {
+"8lkMJvNv" = lib.buildMinecraftFile {
   pname = "[Fabric] Entity Texture Features [V4.1.0]-[1.19.x]";
   version = "4.1.0.fabric";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/8lkMJvNv/entity_texture_features_fabric_1.19.x-4.1.0.jar";
@@ -1331,7 +1331,7 @@
   };
 };
 
-"VfJvxmE3" = lib.buildMinecraftMod {
+"VfJvxmE3" = lib.buildMinecraftFile {
   pname = "[Fabric] Entity Texture Features [V4.0.2]-[1.16.5]";
   version = "4.0.2.fabric.1.16";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/4.0.2.fabric.1.16/entity_texture_features_fabric_1.16.5-4.0.2.jar";
@@ -1343,7 +1343,7 @@
   };
 };
 
-"wTmbgEgJ" = lib.buildMinecraftMod {
+"wTmbgEgJ" = lib.buildMinecraftFile {
   pname = "[Fabric] Entity Texture Features [V4.0.2]-[1.17.1]";
   version = "4.0.2.fabric.1.17";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/4.0.2.fabric.1.17/entity_texture_features_fabric_1.17.1-4.0.2.jar";
@@ -1355,7 +1355,7 @@
   };
 };
 
-"IpxKu0s8" = lib.buildMinecraftMod {
+"IpxKu0s8" = lib.buildMinecraftFile {
   pname = "[Fabric] Entity Texture Features [V4.0.2]-[1.18.2]";
   version = "4.0.2.fabric.1.18";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/4.0.2.fabric.1.18/entity_texture_features_fabric_1.18.2-4.0.2.jar";
@@ -1367,7 +1367,7 @@
   };
 };
 
-"eb3qN1Fh" = lib.buildMinecraftMod {
+"eb3qN1Fh" = lib.buildMinecraftFile {
   pname = "[Fabric] Entity Texture Features [V4.0.2]-[1.19]";
   version = "4.0.2.fabric.1.19";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/4.0.2.fabric.1.19/entity_texture_features_fabric_1.19.x-4.0.2.jar";
@@ -1379,7 +1379,7 @@
   };
 };
 
-"XtpLGzEl" = lib.buildMinecraftMod {
+"XtpLGzEl" = lib.buildMinecraftFile {
   pname = " [Fabric] Entity Texture Features [V4.0.1]-[1.19]";
   version = "4.0.1.fabric";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/4.0.1.fabric/entity_texture_features_fabric-4.0.1.jar";
@@ -1391,7 +1391,7 @@
   };
 };
 
-"XSgZG7Of" = lib.buildMinecraftMod {
+"XSgZG7Of" = lib.buildMinecraftFile {
   pname = "[Fabric] Entity Texture Features [V4.0]-[1.19]";
   version = "4.0.0.fabric";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/4.0.0.fabric/entity_texture_features_fabric-4.0.jar";
@@ -1403,7 +1403,7 @@
   };
 };
 
-"tAME1Wi0" = lib.buildMinecraftMod {
+"tAME1Wi0" = lib.buildMinecraftFile {
   pname = "[Fabric] Entity Texture Features [V3.1.4]-[1.18.x]";
   version = "3.1.4-mc1.18";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.4-mc1.18/entity-texture-features-3.1.4-mc1.18.x.jar";
@@ -1415,7 +1415,7 @@
   };
 };
 
-"3B1xFsMB" = lib.buildMinecraftMod {
+"3B1xFsMB" = lib.buildMinecraftFile {
   pname = "[Fabric] Entity Texture Features [V3.1.4]-[1.19]";
   version = "3.1.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.4/entity-texture-features-3.1.4-mc1.19.jar";
@@ -1427,7 +1427,7 @@
   };
 };
 
-"9kpb92ws" = lib.buildMinecraftMod {
+"9kpb92ws" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V3.1.3]-[1.19]";
   version = "3.1.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.3/entity-texture-features-3.1.3-mc1.19.jar";
@@ -1439,7 +1439,7 @@
   };
 };
 
-"bOQr82Zm" = lib.buildMinecraftMod {
+"bOQr82Zm" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V3.1.3]-[1.18.x]";
   version = "3.1.3-mc1.18";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.3-mc1.18/entity-texture-features-3.1.3-mc1.18.x.jar";
@@ -1451,7 +1451,7 @@
   };
 };
 
-"QsuMVUdW" = lib.buildMinecraftMod {
+"QsuMVUdW" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V3.1.2]-[1.19]";
   version = "3.1.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.2/entity-texture-features-3.1.2-mc1.19.jar";
@@ -1463,7 +1463,7 @@
   };
 };
 
-"papGjlzO" = lib.buildMinecraftMod {
+"papGjlzO" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V3.1.2]-[1.18.x]";
   version = "3.1.2-mc1.18";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.2-mc1.18/entity-texture-features-3.1.2-mc1.18.x.jar";
@@ -1475,7 +1475,7 @@
   };
 };
 
-"SKqP2pir" = lib.buildMinecraftMod {
+"SKqP2pir" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V3.1.1]-[1.19]";
   version = "3.1.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.1/entity-texture-features-3.1.1-mc1.19.jar";
@@ -1487,7 +1487,7 @@
   };
 };
 
-"x8Pit8go" = lib.buildMinecraftMod {
+"x8Pit8go" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V3.1.0]-[1.19]";
   version = "3.1.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.0/entity-texture-features-3.1.0-mc1.19.jar";
@@ -1499,7 +1499,7 @@
   };
 };
 
-"APJvLWU9" = lib.buildMinecraftMod {
+"APJvLWU9" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V3.0.4]-[1.18.x]";
   version = "3.0.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.0.4/entity-texture-features-3.0.4-mc1.18.x.jar";
@@ -1511,7 +1511,7 @@
   };
 };
 
-"TaGhdtXR" = lib.buildMinecraftMod {
+"TaGhdtXR" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V3.0.3]-[1.18.x]";
   version = "3.0.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.0.3/entity-texture-features-3.0.3-mc1.18.x.jar";
@@ -1523,7 +1523,7 @@
   };
 };
 
-"d9gMEg0u" = lib.buildMinecraftMod {
+"d9gMEg0u" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V3.0.2]-[1.18.x]";
   version = "3.0.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.0.2/entity-texture-features-3.0.2-mc1.18.x.jar";
@@ -1535,7 +1535,7 @@
   };
 };
 
-"OyYm6CF5" = lib.buildMinecraftMod {
+"OyYm6CF5" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V3.0.1]-[1.18.x]";
   version = "3.0.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.0.1/entity-texture-features-3.0.1-mc1.18.x.jar";
@@ -1547,7 +1547,7 @@
   };
 };
 
-"H7f9f2Hm" = lib.buildMinecraftMod {
+"H7f9f2Hm" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V3.0.0]-[1.19.pre3]";
   version = "3.0.0b";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.0.0b/entity-texture-features-beta-3.0.0-mc1.19.pre3.jar";
@@ -1559,7 +1559,7 @@
   };
 };
 
-"nYzDnjGu" = lib.buildMinecraftMod {
+"nYzDnjGu" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V3.0.0]-[1.18.x]";
   version = "3.0.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.0.0/entity-texture-features-3.0.0-mc1.18.x.jar";
@@ -1571,7 +1571,7 @@
   };
 };
 
-"OL9wO7bF" = lib.buildMinecraftMod {
+"OL9wO7bF" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [Beta V2.6.4]-[1.18.x]";
   version = "2.6.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.6.4/entity-texture-features-beta-2.6.4-mc1.18.x.jar";
@@ -1583,7 +1583,7 @@
   };
 };
 
-"uqLRu1PW" = lib.buildMinecraftMod {
+"uqLRu1PW" = lib.buildMinecraftFile {
   pname = " Entity Texture Features [V2.6.0]-[1.18+]";
   version = "2.6.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.6.0/entity-texture-features-1.18%2B_2.6.0.jar";
@@ -1595,7 +1595,7 @@
   };
 };
 
-"EGdnjG3x" = lib.buildMinecraftMod {
+"EGdnjG3x" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.6.RC2]-[1.18+]";
   version = "2.5.999";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.999/entity-texture-features-1.18%2B_2.6.RC2.jar";
@@ -1607,7 +1607,7 @@
   };
 };
 
-"hPQ5s52n" = lib.buildMinecraftMod {
+"hPQ5s52n" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.6.RC1]-[1.18+]";
   version = "2.5.99";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.99/entity-texture-features-1.18%2B_2.6.RC1.jar";
@@ -1619,7 +1619,7 @@
   };
 };
 
-"7May6Ejt" = lib.buildMinecraftMod {
+"7May6Ejt" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.5.16]-[1.18+]";
   version = "2.5.16";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.16/entity-texture-features-1.18%2B_2.5.16.jar";
@@ -1631,7 +1631,7 @@
   };
 };
 
-"j5mWTLsV" = lib.buildMinecraftMod {
+"j5mWTLsV" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.5.15]-[1.18+]";
   version = "2.5.15";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.15/entity-texture-features-1.18%2B_2.5.15.jar";
@@ -1643,7 +1643,7 @@
   };
 };
 
-"ptpn9s7b" = lib.buildMinecraftMod {
+"ptpn9s7b" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.5.13]-[1.18+]";
   version = "2.5.13";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.13/entity-texture-features-1.18%2B_2.5.13.jar";
@@ -1655,7 +1655,7 @@
   };
 };
 
-"XfchKMdL" = lib.buildMinecraftMod {
+"XfchKMdL" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.5.12]-[1.18+]";
   version = "2.5.12";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.12/entity-texture-features-1.18%2B_2.5.12.jar";
@@ -1667,7 +1667,7 @@
   };
 };
 
-"lq1awVaR" = lib.buildMinecraftMod {
+"lq1awVaR" = lib.buildMinecraftFile {
   pname = " Entity Texture Features [V2.5.10]-[1.18+]";
   version = "2.5.10";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.10/entity-texture-features-1.18%2B_2.5.10.jar";
@@ -1679,7 +1679,7 @@
   };
 };
 
-"6UVt0xKb" = lib.buildMinecraftMod {
+"6UVt0xKb" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.5.9]-[1.18+]";
   version = "2.5.9";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.9/entity-texture-features-1.18%2B-2.5.9.jar";
@@ -1691,7 +1691,7 @@
   };
 };
 
-"mljXTSw5" = lib.buildMinecraftMod {
+"mljXTSw5" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.5.8]-[1.18+]";
   version = "2.5.8";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.8/entity-texture-features-1.18%2B_2.5.8.jar";
@@ -1703,7 +1703,7 @@
   };
 };
 
-"pOLLRXDQ" = lib.buildMinecraftMod {
+"pOLLRXDQ" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.5.6]-[1.18.x]";
   version = "2.5.6";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.6/entity-texture-features-1.18.x-2.5.6.jar";
@@ -1715,7 +1715,7 @@
   };
 };
 
-"zlCVtyS1" = lib.buildMinecraftMod {
+"zlCVtyS1" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.5.5]-[1.18.x]";
   version = "2.5.5";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.5/entity-texture-features-1.18.x-2.5.5.jar";
@@ -1727,7 +1727,7 @@
   };
 };
 
-"CEwUXkFY" = lib.buildMinecraftMod {
+"CEwUXkFY" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.5.4]-[1.18.x]";
   version = "2.5.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.4/entity-texture-features-1.18.x-2.5.4.jar";
@@ -1739,7 +1739,7 @@
   };
 };
 
-"qGxqikLB" = lib.buildMinecraftMod {
+"qGxqikLB" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.5.3]-[1.18.x]";
   version = "2.5.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.3/entity-texture-features-1.18.x-2.5.3.jar";
@@ -1751,7 +1751,7 @@
   };
 };
 
-"j6zaFIbZ" = lib.buildMinecraftMod {
+"j6zaFIbZ" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.5.2]-[1.18.x]";
   version = "2.5.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.2/entity-texture-features-1.18.x-2.5.2.jar";
@@ -1763,7 +1763,7 @@
   };
 };
 
-"wI51X2ac" = lib.buildMinecraftMod {
+"wI51X2ac" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.5.1]-[1.18.x]";
   version = "2.5.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.1/entity-texture-features-%5B1.18.x%5D-2.5.1.jar";
@@ -1775,7 +1775,7 @@
   };
 };
 
-"x6zan49H" = lib.buildMinecraftMod {
+"x6zan49H" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.5.0]-[1.18.x]";
   version = "2.5.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.5.0/entity-texture-features-%5B1.18.x%5D-2.5.0.jar";
@@ -1787,7 +1787,7 @@
   };
 };
 
-"3F0EV29D" = lib.buildMinecraftMod {
+"3F0EV29D" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.4.5]-[1.18.x]";
   version = "2.4.5";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.4.5/entity-texture-features-%5B1.18.0-1%5D-2.4.5.jar";
@@ -1799,7 +1799,7 @@
   };
 };
 
-"h7rIUxdF" = lib.buildMinecraftMod {
+"h7rIUxdF" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.4.4]-[1.18.x]";
   version = "2.4.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.4.4/entity-texture-features-%5B1.18.2%5D-2.4.4.jar";
@@ -1811,7 +1811,7 @@
   };
 };
 
-"WJg60WDZ" = lib.buildMinecraftMod {
+"WJg60WDZ" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.4.2]-[1.18.x]";
   version = "2.4.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.4.3/entity-texture-features-%5B1.18.0-1%5D-2.4.3.jar";
@@ -1823,7 +1823,7 @@
   };
 };
 
-"u3M5ROEs" = lib.buildMinecraftMod {
+"u3M5ROEs" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.4.2]-[1.18.2]";
   version = "2.4.2.001";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.4.2.001/entity-texture-features-%5B1.18.2%5D-2.4.2.jar";
@@ -1835,7 +1835,7 @@
   };
 };
 
-"POlskI3s" = lib.buildMinecraftMod {
+"POlskI3s" = lib.buildMinecraftFile {
   pname = " Entity Texture Features [V2.4.2]-[1.18.0-1]";
   version = "2.4.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.4.2/entity-texture-features-%5B1.18.0-1%5D-2.4.2.jar";
@@ -1847,7 +1847,7 @@
   };
 };
 
-"L3JBkP55" = lib.buildMinecraftMod {
+"L3JBkP55" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.4.1]-[1.18.1]";
   version = "2.4.1.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.4.1.1/entity-texture-features-1.18.1-2.4.1.jar";
@@ -1859,7 +1859,7 @@
   };
 };
 
-"QaiqMN0D" = lib.buildMinecraftMod {
+"QaiqMN0D" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.4.1]-[1.18.2]";
   version = "2.4.1.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.4.1.2/entity-texture-features-1.18.2-2.4.1.jar";
@@ -1871,7 +1871,7 @@
   };
 };
 
-"OdzRH5hf" = lib.buildMinecraftMod {
+"OdzRH5hf" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.4.1]-[1.18.0]";
   version = "2.4.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.4.1/entity-texture-features-1.18.0-2.4.1.jar";
@@ -1883,7 +1883,7 @@
   };
 };
 
-"19voaoNq" = lib.buildMinecraftMod {
+"19voaoNq" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.3.5]";
   version = "2.3.5";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.3.5/entity-texture-features-2.3.5.jar";
@@ -1895,7 +1895,7 @@
   };
 };
 
-"AU8nwgOC" = lib.buildMinecraftMod {
+"AU8nwgOC" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.3.4]";
   version = "2.3.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.3.4/entity-texture-features-2.3.4.jar";
@@ -1907,7 +1907,7 @@
   };
 };
 
-"2w3yK8ef" = lib.buildMinecraftMod {
+"2w3yK8ef" = lib.buildMinecraftFile {
   pname = " Entity Texture Features [V2.3.3]-[1.18.2]";
   version = "2.3.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.3.3/entity-texture-features-2.3.3.jar";
@@ -1919,7 +1919,7 @@
   };
 };
 
-"vo1W0O1c" = lib.buildMinecraftMod {
+"vo1W0O1c" = lib.buildMinecraftFile {
   pname = " Entity Texture Features [V2.3.2]-[1.18.2]";
   version = "2.3.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.3.2/entity-texture-features-2.3.2.jar";
@@ -1931,7 +1931,7 @@
   };
 };
 
-"Og4Fk1Gg" = lib.buildMinecraftMod {
+"Og4Fk1Gg" = lib.buildMinecraftFile {
   pname = " Entity Texture Features [V2.3.1]-[1.18.2]";
   version = "2.3.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.3.1/entity-texture-features-2.3.1.jar";
@@ -1943,7 +1943,7 @@
   };
 };
 
-"rLglVZBD" = lib.buildMinecraftMod {
+"rLglVZBD" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [1.16.5-Backport]-[V2.1.4]]";
   version = "1.16.5-2.1.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/1.16.5-2.1.4/entity_texture_features_1_16_5-2.1.4.jar";
@@ -1955,7 +1955,7 @@
   };
 };
 
-"4DHV11l8" = lib.buildMinecraftMod {
+"4DHV11l8" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [1.17.1-Backport]-[V2.1.4]";
   version = "1.17.1-2.1.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/1.17.1-2.1.4/entity_texture_features_1_17_1-2.1.4.jar";
@@ -1967,7 +1967,7 @@
   };
 };
 
-"YK6hbErS" = lib.buildMinecraftMod {
+"YK6hbErS" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.1.4]";
   version = "2.1.4";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.1.4/entity-texture-features-2.1.4.jar";
@@ -1979,7 +1979,7 @@
   };
 };
 
-"x4cswgvr" = lib.buildMinecraftMod {
+"x4cswgvr" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.1.3]";
   version = "2.1.3";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.1.3/entity-texture-features-2.1.3.jar";
@@ -1991,7 +1991,7 @@
   };
 };
 
-"5tJdClkt" = lib.buildMinecraftMod {
+"5tJdClkt" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.1.2]";
   version = "2.1.2";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.1.2/entity-texture-features-2.1.2.jar";
@@ -2003,7 +2003,7 @@
   };
 };
 
-"iq9aafTJ" = lib.buildMinecraftMod {
+"iq9aafTJ" = lib.buildMinecraftFile {
   pname = "Entity Texture features [V2.1.1]";
   version = "2.1.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.1.1/entity-texture-features-2.1.1.jar";
@@ -2015,7 +2015,7 @@
   };
 };
 
-"cTsJc9mK" = lib.buildMinecraftMod {
+"cTsJc9mK" = lib.buildMinecraftFile {
   pname = "Entity Texture Features";
   version = "2.0.1";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.0.1/entity-texture-features-2.0.1.jar";
@@ -2027,7 +2027,7 @@
   };
 };
 
-"VdCygkuY" = lib.buildMinecraftMod {
+"VdCygkuY" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V2.0]";
   version = "2.0";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/2.0/entity-texture-features-2.0-1.18.1.jar";
@@ -2039,7 +2039,7 @@
   };
 };
 
-"igj1EGYp" = lib.buildMinecraftMod {
+"igj1EGYp" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V1.05]";
   version = "1.05";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/1.05/entity_texture_features_1.05-1.18.1.jar";
@@ -2051,7 +2051,7 @@
   };
 };
 
-"rvORsiwY" = lib.buildMinecraftMod {
+"rvORsiwY" = lib.buildMinecraftFile {
   pname = "Entity Texture Features [V1.04]";
   version = "1.04";
   url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/1.04/entity_texture_features_1.04-1.18.1.jar";

@@ -1,6 +1,6 @@
 #!/usr/bin/env nu
 
-let sh = './lib/fetch-modrinth.nu'
+let sh = './lib/mod-fetch.nu'
 
 ^$sh EsAfCjCV appleskin
 ^$sh lhGA9TYQ architectury-api

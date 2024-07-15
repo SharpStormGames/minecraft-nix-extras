@@ -1,5 +1,5 @@
 { lib, ... }: {
-"riMhCAII" = lib.buildMinecraftMod {
+"riMhCAII" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.21-v2.8.0";
   version = "Fabric-1.21-v2.8.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/riMhCAII/NoChatReports-FABRIC-1.21-v2.8.0.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"MNkuIjea" = lib.buildMinecraftMod {
+"MNkuIjea" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.20.6-v2.7.1";
   version = "Fabric-1.20.6-v2.7.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/MNkuIjea/NoChatReports-FABRIC-1.20.6-v2.7.1.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"FMAZBsZw" = lib.buildMinecraftMod {
+"FMAZBsZw" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.20.6-v2.7.0";
   version = "Fabric-1.20.6-v2.7.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/FMAZBsZw/NoChatReports-FABRIC-1.20.6-v2.7.0.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"Pjto4zdj" = lib.buildMinecraftMod {
+"Pjto4zdj" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.20.4-v2.6.1";
   version = "Fabric-1.20.4-v2.6.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Pjto4zdj/NoChatReports-FABRIC-1.20.4-v2.6.1.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"qCjTB3QT" = lib.buildMinecraftMod {
+"qCjTB3QT" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.20.4-v2.6.0";
   version = "Fabric-1.20.4-v2.6.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/qCjTB3QT/NoChatReports-FABRIC-1.20.4-v2.6.0.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"tfv6A4l5" = lib.buildMinecraftMod {
+"tfv6A4l5" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.20.4-v2.5.0";
   version = "Fabric-1.20.4-v2.5.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/tfv6A4l5/NoChatReports-FABRIC-1.20.4-v2.5.0.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"wNxZxzWL" = lib.buildMinecraftMod {
+"wNxZxzWL" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.20.3-v2.4.0";
   version = "Fabric-1.20.3-v2.4.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/wNxZxzWL/NoChatReports-FABRIC-1.20.3-v2.4.0.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"xQyq2W5g" = lib.buildMinecraftMod {
+"xQyq2W5g" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.20.2-v2.3.1";
   version = "Fabric-1.20.2-v2.3.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/xQyq2W5g/NoChatReports-FABRIC-1.20.2-v2.3.1.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"Gk4NusG9" = lib.buildMinecraftMod {
+"Gk4NusG9" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.20.2-v2.3.0";
   version = "Fabric-1.20.2-v2.3.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Gk4NusG9/NoChatReports-FABRIC-1.20.2-v2.3.0.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"HeZZR2kF" = lib.buildMinecraftMod {
+"HeZZR2kF" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.20.1-v2.2.2";
   version = "Fabric-1.20.1-v2.2.2";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/HeZZR2kF/NoChatReports-FABRIC-1.20.1-v2.2.2.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"TbKB6mYU" = lib.buildMinecraftMod {
+"TbKB6mYU" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.20.1-v2.2.1";
   version = "Fabric-1.20.1-v2.2.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/TbKB6mYU/NoChatReports-FABRIC-1.20.1-v2.2.1.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"9jtKRSoF" = lib.buildMinecraftMod {
+"9jtKRSoF" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.20-v2.2.0";
   version = "Fabric-1.20-v2.2.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/9jtKRSoF/NoChatReports-FABRIC-1.20-v2.2.0.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"RFhAU18Z" = lib.buildMinecraftMod {
+"RFhAU18Z" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.4-v2.1.6";
   version = "Fabric-1.19.4-v2.1.6";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/RFhAU18Z/NoChatReports-FABRIC-1.19.4-v2.1.6.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"RNWu4N8d" = lib.buildMinecraftMod {
+"RNWu4N8d" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.4-v2.1.5";
   version = "Fabric-1.19.4-v2.1.5";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/RNWu4N8d/NoChatReports-FABRIC-1.19.4-v2.1.5.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"qhuGllEs" = lib.buildMinecraftMod {
+"qhuGllEs" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.4-v2.1.4";
   version = "Fabric-1.19.4-v2.1.4";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/qhuGllEs/NoChatReports-FABRIC-1.19.4-v2.1.4.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"9vFakLOL" = lib.buildMinecraftMod {
+"9vFakLOL" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.4-v2.1.3";
   version = "Fabric-1.19.4-v2.1.3";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/9vFakLOL/NoChatReports-FABRIC-1.19.4-v2.1.3.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"h1AaG3zP" = lib.buildMinecraftMod {
+"h1AaG3zP" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.4-v2.1.2";
   version = "Fabric-1.19.4-v2.1.2";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/h1AaG3zP/NoChatReports-FABRIC-1.19.4-v2.1.2.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"UB0mRick" = lib.buildMinecraftMod {
+"UB0mRick" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.4-v2.1.1";
   version = "Fabric-1.19.4-v2.1.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/UB0mRick/NoChatReports-FABRIC-1.19.4-v2.1.1.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"6yybObpX" = lib.buildMinecraftMod {
+"6yybObpX" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.4-v2.1.0";
   version = "Fabric-1.19.4-v2.1.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/6yybObpX/NoChatReports-FABRIC-1.19.4-v2.1.0.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"uVt4LKvF" = lib.buildMinecraftMod {
+"uVt4LKvF" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.3-v2.0.0";
   version = "Fabric-1.19.3-v2.0.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/uVt4LKvF/NoChatReports-FABRIC-1.19.3-v2.0.0.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"g2k50qYw" = lib.buildMinecraftMod {
+"g2k50qYw" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.3-v1.19.0";
   version = "Fabric-1.19.3-v1.19.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/g2k50qYw/NoChatReports-FABRIC-1.19.3-v1.19.0.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"LVpBaVhB" = lib.buildMinecraftMod {
+"LVpBaVhB" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.3-v1.18.0";
   version = "Fabric-1.19.3-v1.18.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/LVpBaVhB/NoChatReports-FABRIC-1.19.3-v1.18.0.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"RXSZRYPW" = lib.buildMinecraftMod {
+"RXSZRYPW" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.3-pre3-v1.17.0";
   version = "Fabric-1.19.3-pre3-v1.17.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/RXSZRYPW/NoChatReports-FABRIC-1.19.3-pre3-v1.17.0.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"B7O7rVEe" = lib.buildMinecraftMod {
+"B7O7rVEe" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.3-pre2-v1.16.0";
   version = "Fabric-1.19.3-pre2-v1.16.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/B7O7rVEe/NoChatReports-FABRIC-1.19.3-pre2-v1.16.0.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"cljC8222" = lib.buildMinecraftMod {
+"cljC8222" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-22w46a-v1.15.0";
   version = "Fabric-22w46a-v1.15.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/cljC8222/NoChatReports-FABRIC-22w46a-v1.15.0.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"YuX53PIA" = lib.buildMinecraftMod {
+"YuX53PIA" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.13.12";
   version = "Fabric-1.19.2-v1.13.12";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/YuX53PIA/NoChatReports-FABRIC-1.19.2-v1.13.12.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"C99rusYh" = lib.buildMinecraftMod {
+"C99rusYh" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-22w44a-v1.14.4";
   version = "Fabric-22w44a-v1.14.4";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/C99rusYh/NoChatReports-FABRIC-22w44a-v1.14.4.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"JVDNDI82" = lib.buildMinecraftMod {
+"JVDNDI82" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-22w44a-v1.14.3";
   version = "Fabric-22w44a-v1.14.3";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/JVDNDI82/NoChatReports-FABRIC-22w44a-v1.14.3.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"q0XDVXeR" = lib.buildMinecraftMod {
+"q0XDVXeR" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-22w44a-v1.14.2";
   version = "Fabric-22w44a-v1.14.2";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/q0XDVXeR/NoChatReports-FABRIC-22w44a-v1.14.2.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"xpwVze9f" = lib.buildMinecraftMod {
+"xpwVze9f" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-22w44a-v1.14.1";
   version = "Fabric-22w44a-v1.14.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/xpwVze9f/NoChatReports-FABRIC-22w44a-v1.14.1.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"nrerhsQu" = lib.buildMinecraftMod {
+"nrerhsQu" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-22w44a-v1.14.0";
   version = "Fabric-22w44a-v1.14.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/nrerhsQu/NoChatReports-FABRIC-22w44a-v1.14.0.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"gJAwS64G" = lib.buildMinecraftMod {
+"gJAwS64G" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.13.11";
   version = "Fabric-1.19.2-v1.13.11";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/gJAwS64G/NoChatReports-FABRIC-1.19.2-v1.13.11.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"KrZknjrr" = lib.buildMinecraftMod {
+"KrZknjrr" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.13.10";
   version = "Fabric-1.19.2-v1.13.10";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/KrZknjrr/NoChatReports-FABRIC-1.19.2-v1.13.10.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"A7bdmpUO" = lib.buildMinecraftMod {
+"A7bdmpUO" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.13.9";
   version = "Fabric-1.19.2-v1.13.9";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/A7bdmpUO/NoChatReports-FABRIC-1.19.2-v1.13.9.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"Q2AEYxBh" = lib.buildMinecraftMod {
+"Q2AEYxBh" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.13.8";
   version = "Fabric-1.19.2-v1.13.8";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Q2AEYxBh/NoChatReports-FABRIC-1.19.2-v1.13.8.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"Umu1VOxj" = lib.buildMinecraftMod {
+"Umu1VOxj" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.13.7";
   version = "Fabric-1.19.2-v1.13.7";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Umu1VOxj/NoChatReports-FABRIC-1.19.2-v1.13.7.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"66qMjbSN" = lib.buildMinecraftMod {
+"66qMjbSN" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.13.6";
   version = "Fabric-1.19.2-v1.13.6";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/66qMjbSN/NoChatReports-FABRIC-1.19.2-v1.13.6.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"So65BYOD" = lib.buildMinecraftMod {
+"So65BYOD" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.13.5";
   version = "Fabric-1.19.2-v1.13.5";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/So65BYOD/NoChatReports-FABRIC-1.19.2-v1.13.5.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"Wm1SFNqx" = lib.buildMinecraftMod {
+"Wm1SFNqx" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.13.4";
   version = "Fabric-1.19.2-v1.13.4";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Wm1SFNqx/NoChatReports-FABRIC-1.19.2-v1.13.4.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"ucC1vIsg" = lib.buildMinecraftMod {
+"ucC1vIsg" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.13.3";
   version = "Fabric-1.19.2-v1.13.3";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/ucC1vIsg/NoChatReports-FABRIC-1.19.2-v1.13.3.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"BU8QElye" = lib.buildMinecraftMod {
+"BU8QElye" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.13.2";
   version = "Fabric-1.19.2-v1.13.2";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/BU8QElye/NoChatReports-FABRIC-1.19.2-v1.13.2.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"yS8NKenN" = lib.buildMinecraftMod {
+"yS8NKenN" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.13.1";
   version = "Fabric-1.19.2-v1.13.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/yS8NKenN/NoChatReports-FABRIC-1.19.2-v1.13.1.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"StuWhjPJ" = lib.buildMinecraftMod {
+"StuWhjPJ" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.13.0";
   version = "Fabric-1.19.2-v1.13.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/StuWhjPJ/NoChatReports-FABRIC-1.19.2-v1.13.0.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"CrvlUGPx" = lib.buildMinecraftMod {
+"CrvlUGPx" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.12.0";
   version = "Fabric-1.19.2-v1.12.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/CrvlUGPx/NoChatReports-FABRIC-1.19.2-v1.12.0.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"OrXrGI5d" = lib.buildMinecraftMod {
+"OrXrGI5d" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.11.2";
   version = "Fabric-1.19.2-v1.11.2";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/OrXrGI5d/NoChatReports-FABRIC-1.19.2-v1.11.2.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"IrGoPphV" = lib.buildMinecraftMod {
+"IrGoPphV" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.11.1";
   version = "Fabric-1.19.2-v1.11.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/IrGoPphV/NoChatReports-FABRIC-1.19.2-v1.11.1.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"pF0TYyQC" = lib.buildMinecraftMod {
+"pF0TYyQC" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.11.0";
   version = "Fabric-1.19.2-v1.11.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/pF0TYyQC/NoChatReports-FABRIC-1.19.2-v1.11.0.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"sNRLZnRT" = lib.buildMinecraftMod {
+"sNRLZnRT" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.10.2";
   version = "Fabric-1.19.2-v1.10.2";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/sNRLZnRT/NoChatReports-FABRIC-1.19.2-v1.10.2.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"KXGjfvHh" = lib.buildMinecraftMod {
+"KXGjfvHh" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.10.1";
   version = "Fabric-1.19.2-v1.10.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/KXGjfvHh/NoChatReports-FABRIC-1.19.2-v1.10.1.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"1JWAJNwU" = lib.buildMinecraftMod {
+"1JWAJNwU" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.10.0";
   version = "Fabric-1.19.2-v1.10.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.2-v1.10.0/NoChatReports-FABRIC-1.19.2-v1.10.0.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"yA0P3rUR" = lib.buildMinecraftMod {
+"yA0P3rUR" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.9.1";
   version = "Fabric-1.19.2-v1.9.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.2-v1.9.1/NoChatReports-FABRIC-1.19.2-v1.9.1.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"Yyr5pYIN" = lib.buildMinecraftMod {
+"Yyr5pYIN" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.2-v1.9.0";
   version = "Fabric-1.19.2-v1.9.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.2-v1.9.0/NoChatReports-FABRIC-1.19.2-v1.9.0.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"9tXNucJ0" = lib.buildMinecraftMod {
+"9tXNucJ0" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-v1.8.4";
   version = "Fabric-1.19.1-v1.8.4";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-v1.8.4/NoChatReports-FABRIC-1.19.1-v1.8.4.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"B9SS9tTF" = lib.buildMinecraftMod {
+"B9SS9tTF" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-v1.8.3";
   version = "Fabric-1.19.1-v1.8.3";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-v1.8.3/NoChatReports-FABRIC-1.19.1-v1.8.3.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"rXxCyl6n" = lib.buildMinecraftMod {
+"rXxCyl6n" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-v1.8.2";
   version = "Fabric-1.19.1-v1.8.2";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-v1.8.2/NoChatReports-FABRIC-1.19.1-v1.8.2.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"BWAvwW90" = lib.buildMinecraftMod {
+"BWAvwW90" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-v1.8.1";
   version = "Fabric-1.19.1-v1.8.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-v1.8.1/NoChatReports-FABRIC-1.19.1-v1.8.1.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"uJhFe0Kq" = lib.buildMinecraftMod {
+"uJhFe0Kq" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-v1.8.0";
   version = "Fabric-1.19.1-v1.8.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-v1.8.0/NoChatReports-FABRIC-1.19.1-v1.8.0.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"rOI1ANDq" = lib.buildMinecraftMod {
+"rOI1ANDq" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-v1.7.2";
   version = "Fabric-1.19.1-v1.7.2";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-v1.7.2/NoChatReports-FABRIC-1.19.1-v1.7.2.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"8ue01Exl" = lib.buildMinecraftMod {
+"8ue01Exl" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-v1.7.1";
   version = "Fabric-1.19.1-v1.7.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-v1.7.1/NoChatReports-FABRIC-1.19.1-v1.7.1.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"zVlP4vdB" = lib.buildMinecraftMod {
+"zVlP4vdB" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-v1.7.0";
   version = "Fabric-1.19.1-v1.7.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-v1.7.0/NoChatReports-FABRIC-1.19.1-v1.7.0.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"UkQiYhwR" = lib.buildMinecraftMod {
+"UkQiYhwR" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-rc2-v1.6.0";
   version = "Fabric-1.19.1-rc2-v1.6.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-rc2-v1.6.0/NoChatReports-FABRIC-1.19.1-rc2-v1.6.0.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"zTkuPqOt" = lib.buildMinecraftMod {
+"zTkuPqOt" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-pre3-v1.5.0";
   version = "Fabric-1.19.1-pre3-v1.5.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-pre3-v1.5.0/NoChatReports-FABRIC-1.19.1-pre3-v1.5.0.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"dfZAp75Y" = lib.buildMinecraftMod {
+"dfZAp75Y" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-pre3-v1.4.3";
   version = "Fabric-1.19.1-pre3-v1.4.3";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-pre3-v1.4.3/NoChatReports-FABRIC-1.19.1-pre3-v1.4.3.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"9iRlnZpN" = lib.buildMinecraftMod {
+"9iRlnZpN" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-pre3-v1.4.2";
   version = "Fabric-1.19.1-pre3-v1.4.2";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-pre3-v1.4.2/NoChatReports-FABRIC-1.19.1-pre3-v1.4.2.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"ykNDJ4WP" = lib.buildMinecraftMod {
+"ykNDJ4WP" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-pre3-v1.4.1";
   version = "Fabric-1.19.1-pre3-v1.4.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-pre3-v1.4.1/NoChatReports-FABRIC-1.19.1-pre3-v1.4.1.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"YP1Bvh5Q" = lib.buildMinecraftMod {
+"YP1Bvh5Q" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-pre3-v1.4.0";
   version = "Fabric-1.19.1-pre3-v1.4.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-pre3-v1.4.0/NoChatReports-FABRIC-1.19.1-pre3-v1.4.0.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"UjWkOEop" = lib.buildMinecraftMod {
+"UjWkOEop" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-pre2-v1.3.2";
   version = "Fabric-1.19.1-pre2-v1.3.2";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-pre2-v1.3.2/NoChatReports-FABRIC-1.19.1-pre2-v1.3.2.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"vYYMSvvr" = lib.buildMinecraftMod {
+"vYYMSvvr" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-pre2-v1.3.1";
   version = "Fabric-1.19.1-pre2-v1.3.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-pre2-v1.3.1/NoChatReports-FABRIC-1.19.1-pre2-v1.3.1.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"UMsMX5f7" = lib.buildMinecraftMod {
+"UMsMX5f7" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19.1-pre2-v1.3.0";
   version = "Fabric-1.19.1-pre2-v1.3.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19.1-pre2-v1.3.0/NoChatReports-FABRIC-1.19.1-pre2-v1.3.0.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"SDIvxcje" = lib.buildMinecraftMod {
+"SDIvxcje" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19-v1.2.3";
   version = "Fabric-1.19-v1.2.3";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19-v1.2.3/NoChatReports-FABRIC-1.19-v1.2.3.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"K5sfN6kP" = lib.buildMinecraftMod {
+"K5sfN6kP" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19-v1.2.2";
   version = "Fabric-1.19-v1.2.2";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19-v1.2.2/NoChatReports-FABRIC-1.19-v1.2.2.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"o3Zu7vcR" = lib.buildMinecraftMod {
+"o3Zu7vcR" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19-v1.2.1";
   version = "Fabric-1.19-v1.2.1";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19-v1.2.1/NoChatReports-FABRIC-1.19-v1.2.1.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"DJNJAvHB" = lib.buildMinecraftMod {
+"DJNJAvHB" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19-v1.2.0";
   version = "Fabric-1.19-v1.2.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Fabric-1.19-v1.2.0/NoChatReports-FABRIC-1.19-v1.2.0.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"XGQE5ktC" = lib.buildMinecraftMod {
+"XGQE5ktC" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19-v1.1.0";
   version = "Fabric-1.19-v1.1.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/1.19-v1.1.0/NoChatReports-FABRIC-1.19-v1.1.0.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"s83qSm91" = lib.buildMinecraftMod {
+"s83qSm91" = lib.buildMinecraftFile {
   pname = "No Chat Reports Fabric-1.19-v1.0.0";
   version = "Fabric-1.19-v1.0.0";
   url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/1.19-v1.0.0/NoChatReports-FABRIC-1.19-v1.0.0.jar";

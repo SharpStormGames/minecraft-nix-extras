@@ -14,7 +14,11 @@
   packages.x86_64-linux.scripts = import ./pkg/scripts.nix { inherit pkgs lib; };
   packages.x86_64-linux.mods = import ./pkg/mods.nix { inherit pkgs lib; };
   lib = lib;
-  apps.x86_64-linux.fetch = { type = "app"; program = "${self.packages.x86_64-linux.scripts.fetchModrinthMods}/bin/fetch-modrinth.nu"; };
-  apps.x86_64-linux.update = { type = "app"; program = "${self.packages.x86_64-linux.scripts.updateModrinthMods}/bin/update-modrinth.nu"; };
+  apps.x86_64-linux.fetch-mod = { type = "app"; program = "${self.packages.x86_64-linux.scripts.fetchMod}/bin/mod-fetch.nu"; };
+  apps.x86_64-linux.update-mod = { type = "app"; program = "${self.packages.x86_64-linux.scripts.updateMod}/bin/mod-update.nu"; };
+  apps.x86_64-linux.fetch-resource = { type = "app"; program = "${self.packages.x86_64-linux.scripts.fetchResource}/bin/resource-fetch.nu"; };
+  apps.x86_64-linux.update-resource = { type = "app"; program = "${self.packages.x86_64-linux.scripts.updateResource}/bin/resource-update.nu"; };
+  apps.x86_64-linux.fetch-shader = { type = "app"; program = "${self.packages.x86_64-linux.scripts.fetchShader}/bin/shader-fetch.nu"; };
+  apps.x86_64-linux.update-shader = { type = "app"; program = "${self.packages.x86_64-linux.scripts.updateShader}/bin/shader-update.nu"; };
  };
 }

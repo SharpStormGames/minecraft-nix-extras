@@ -1,5 +1,5 @@
 { lib, ... }: {
-"hX4kT2fu" = lib.buildMinecraftMod {
+"hX4kT2fu" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.3";
   version = "2.1.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/hX4kT2fu/entity_model_features_fabric_1.21-2.1.3.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"rFTf6MGx" = lib.buildMinecraftMod {
+"rFTf6MGx" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.3";
   version = "2.1.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/rFTf6MGx/entity_model_features_fabric_1.20.6-2.1.3.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"qELXEyUW" = lib.buildMinecraftMod {
+"qELXEyUW" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.3";
   version = "2.1.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/qELXEyUW/entity_model_features_fabric_1.20.4-2.1.3.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"tU9R6Yhm" = lib.buildMinecraftMod {
+"tU9R6Yhm" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.3";
   version = "2.1.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/tU9R6Yhm/entity_model_features_fabric_1.20.2-2.1.3.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"f3RkrLlq" = lib.buildMinecraftMod {
+"f3RkrLlq" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.3";
   version = "2.1.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/f3RkrLlq/entity_model_features_fabric_1.20.1-2.1.3.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"pAJPbTr6" = lib.buildMinecraftMod {
+"pAJPbTr6" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.2";
   version = "2.1.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/pAJPbTr6/entity_model_features_fabric_1.21-2.1.2.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"OCdB6lFh" = lib.buildMinecraftMod {
+"OCdB6lFh" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.2";
   version = "2.1.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/OCdB6lFh/entity_model_features_fabric_1.20.6-2.1.2.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"7PdWWUFS" = lib.buildMinecraftMod {
+"7PdWWUFS" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.2";
   version = "2.1.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/7PdWWUFS/entity_model_features_fabric_1.20.4-2.1.2.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"FW52tJir" = lib.buildMinecraftMod {
+"FW52tJir" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.2";
   version = "2.1.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/FW52tJir/entity_model_features_fabric_1.20.2-2.1.2.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"VzqipEu3" = lib.buildMinecraftMod {
+"VzqipEu3" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.2";
   version = "2.1.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/VzqipEu3/entity_model_features_fabric_1.20.1-2.1.2.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"xUK1iLCG" = lib.buildMinecraftMod {
+"xUK1iLCG" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.1";
   version = "2.1.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/xUK1iLCG/entity_model_features_fabric_1.21-2.1.1.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"TNV0t1vr" = lib.buildMinecraftMod {
+"TNV0t1vr" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.1";
   version = "2.1.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/TNV0t1vr/entity_model_features_fabric_1.20.6-2.1.1.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"FOD8MnMP" = lib.buildMinecraftMod {
+"FOD8MnMP" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.1";
   version = "2.1.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/FOD8MnMP/entity_model_features_fabric_1.20.4-2.1.1.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"9QJQkXQO" = lib.buildMinecraftMod {
+"9QJQkXQO" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.1";
   version = "2.1.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/9QJQkXQO/entity_model_features_fabric_1.20.2-2.1.1.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"iVQqb3JE" = lib.buildMinecraftMod {
+"iVQqb3JE" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.1.1";
   version = "2.1.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/iVQqb3JE/entity_model_features_fabric_1.20.1-2.1.1.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"zQC8LMqE" = lib.buildMinecraftMod {
+"zQC8LMqE" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.3";
   version = "2.0.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/zQC8LMqE/entity_model_features_fabric_1.21-pre3-test.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"84vLaMxp" = lib.buildMinecraftMod {
+"84vLaMxp" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.2";
   version = "2.0.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/84vLaMxp/entity_model_features_fabric_1.20.5-2.0.2.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"FTmtYNdf" = lib.buildMinecraftMod {
+"FTmtYNdf" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.2";
   version = "2.0.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/FTmtYNdf/entity_model_features_fabric_1.20.4-2.0.2.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"g2i5i750" = lib.buildMinecraftMod {
+"g2i5i750" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.2";
   version = "2.0.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/g2i5i750/entity_model_features_fabric_1.20.2-2.0.2.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"jkLvxFFA" = lib.buildMinecraftMod {
+"jkLvxFFA" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.2";
   version = "2.0.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/jkLvxFFA/entity_model_features_fabric_1.20.1-2.0.2.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"9BVLcBub" = lib.buildMinecraftMod {
+"9BVLcBub" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.2";
   version = "2.0.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/9BVLcBub/entity_model_features_fabric_1.19.4-2.0.2.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"av84l2vE" = lib.buildMinecraftMod {
+"av84l2vE" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.2";
   version = "2.0.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/av84l2vE/entity_model_features_fabric_1.19.2-2.0.2.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"BzcsKF0w" = lib.buildMinecraftMod {
+"BzcsKF0w" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.2";
   version = "2.0.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/BzcsKF0w/entity_model_features_fabric_1.18.2-2.0.2.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"nAaR07o2" = lib.buildMinecraftMod {
+"nAaR07o2" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.1";
   version = "2.0.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/nAaR07o2/entity_model_features_fabric_1.20.5-2.0.1.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"ZBKoFavY" = lib.buildMinecraftMod {
+"ZBKoFavY" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.1";
   version = "2.0.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/ZBKoFavY/entity_model_features_fabric_1.20.4-2.0.1.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"ch6lB4Mh" = lib.buildMinecraftMod {
+"ch6lB4Mh" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.1";
   version = "2.0.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/ch6lB4Mh/entity_model_features_fabric_1.20.2-2.0.1.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"QWCOTizL" = lib.buildMinecraftMod {
+"QWCOTizL" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.1";
   version = "2.0.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/QWCOTizL/entity_model_features_fabric_1.20.1-2.0.1.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"gpqniM0d" = lib.buildMinecraftMod {
+"gpqniM0d" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.1";
   version = "2.0.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/gpqniM0d/entity_model_features_fabric_1.19.4-2.0.1.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"cqKSqPQH" = lib.buildMinecraftMod {
+"cqKSqPQH" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.1";
   version = "2.0.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/cqKSqPQH/entity_model_features_fabric_1.19.2-2.0.1.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"xvYCCPha" = lib.buildMinecraftMod {
+"xvYCCPha" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0.1";
   version = "2.0.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/xvYCCPha/entity_model_features_fabric_1.18.2-2.0.1.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"jVIxXxpT" = lib.buildMinecraftMod {
+"jVIxXxpT" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0";
   version = "2.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/jVIxXxpT/entity_model_features_fabric_1.20.5-2.0.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"up2Xg2sy" = lib.buildMinecraftMod {
+"up2Xg2sy" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0";
   version = "2.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/up2Xg2sy/entity_model_features_fabric_1.20.4-2.0.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"aFlca15F" = lib.buildMinecraftMod {
+"aFlca15F" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0";
   version = "2.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/aFlca15F/entity_model_features_fabric_1.20.2-2.0.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"7bxh2EoP" = lib.buildMinecraftMod {
+"7bxh2EoP" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0";
   version = "2.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/7bxh2EoP/entity_model_features_fabric_1.20.1-2.0.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"SfWhB6Bd" = lib.buildMinecraftMod {
+"SfWhB6Bd" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0";
   version = "2.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/SfWhB6Bd/entity_model_features_fabric_1.19.4-2.0.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"wa38cdv3" = lib.buildMinecraftMod {
+"wa38cdv3" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0";
   version = "2.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/wa38cdv3/entity_model_features_fabric_1.19.2-2.0.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"mWAFiRcK" = lib.buildMinecraftMod {
+"mWAFiRcK" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 2.0";
   version = "2.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/mWAFiRcK/entity_model_features_fabric_1.18.2-2.0.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"bwjbN1G7" = lib.buildMinecraftMod {
+"bwjbN1G7" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.3";
   version = "1.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/bwjbN1G7/entity_model_features_fabric_1.20.4-1.3.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"rfh88j45" = lib.buildMinecraftMod {
+"rfh88j45" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.3";
   version = "1.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/rfh88j45/entity_model_features_fabric_1.20.2-1.3.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"dVfrkFFQ" = lib.buildMinecraftMod {
+"dVfrkFFQ" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.3";
   version = "1.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/dVfrkFFQ/entity_model_features_fabric_1.20.1-1.3.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"KneJBt8W" = lib.buildMinecraftMod {
+"KneJBt8W" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.3";
   version = "1.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/KneJBt8W/entity_model_features_fabric_1.19.4-1.3.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"HuiMDCpB" = lib.buildMinecraftMod {
+"HuiMDCpB" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.3";
   version = "1.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/HuiMDCpB/entity_model_features_fabric_1.19.2-1.3.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"lfYHLBCj" = lib.buildMinecraftMod {
+"lfYHLBCj" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.3";
   version = "1.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/lfYHLBCj/entity_model_features_fabric_1.18.2-1.3.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"S9HtDtJv" = lib.buildMinecraftMod {
+"S9HtDtJv" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.2.3";
   version = "1.2.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/S9HtDtJv/entity_model_features_fabric_1.20.4-1.2.3.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"SH3Z72mF" = lib.buildMinecraftMod {
+"SH3Z72mF" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.2.3";
   version = "1.2.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/SH3Z72mF/entity_model_features_fabric_1.20.2-1.2.3.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"n5YI6Zh6" = lib.buildMinecraftMod {
+"n5YI6Zh6" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.2.3";
   version = "1.2.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/n5YI6Zh6/entity_model_features_fabric_1.20.1-1.2.3.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"hxDtTc1Q" = lib.buildMinecraftMod {
+"hxDtTc1Q" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.2.3";
   version = "1.2.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/hxDtTc1Q/entity_model_features_fabric_1.19.4-1.2.3.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"vyuiguoP" = lib.buildMinecraftMod {
+"vyuiguoP" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.2.3";
   version = "1.2.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/vyuiguoP/entity_model_features_fabric_1.19.2-1.2.3.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"r3qto42X" = lib.buildMinecraftMod {
+"r3qto42X" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.2.3";
   version = "1.2.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/r3qto42X/entity_model_features_fabric_1.18.2-1.2.3.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"tcrjMnUN" = lib.buildMinecraftMod {
+"tcrjMnUN" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.2.1";
   version = "1.2.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/tcrjMnUN/entity_model_features_fabric_1.20.2-1.2.1.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"ZVchszyB" = lib.buildMinecraftMod {
+"ZVchszyB" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.2.1";
   version = "1.2.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/ZVchszyB/entity_model_features_fabric_1.20.1-1.2.1.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"SS5qaBrE" = lib.buildMinecraftMod {
+"SS5qaBrE" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.2.1";
   version = "1.2.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/SS5qaBrE/entity_model_features_fabric_1.20.4-1.2.1.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"fbZGMUWW" = lib.buildMinecraftMod {
+"fbZGMUWW" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.2";
   version = "1.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/fbZGMUWW/entity_model_features_fabric_1.20.1-1.2.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"WNdlhpAM" = lib.buildMinecraftMod {
+"WNdlhpAM" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.2";
   version = "1.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/WNdlhpAM/entity_model_features_fabric_1.20.3-1.2.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"74Yx8tM6" = lib.buildMinecraftMod {
+"74Yx8tM6" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.2";
   version = "1.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/74Yx8tM6/entity_model_features_fabric_1.20.2-1.2.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"xOy316Zc" = lib.buildMinecraftMod {
+"xOy316Zc" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.2.beta.2";
   version = "1.2.beta.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/xOy316Zc/entity_model_features_fabric_1.20.3-1.2.beta.2.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"OsioKrT1" = lib.buildMinecraftMod {
+"OsioKrT1" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.1.0";
   version = "1.1.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/OsioKrT1/entity_model_features_fabric_1.20.2-1.1.0.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"5VBMcfOB" = lib.buildMinecraftMod {
+"5VBMcfOB" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.1.0";
   version = "1.1.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/5VBMcfOB/entity_model_features_fabric_1.20.1-1.1.0.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"zdcSsI7C" = lib.buildMinecraftMod {
+"zdcSsI7C" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.1.0";
   version = "1.1.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/zdcSsI7C/entity_model_features_fabric_1.19.4-1.1.0.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"z5WFPrA6" = lib.buildMinecraftMod {
+"z5WFPrA6" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.1.0";
   version = "1.1.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/z5WFPrA6/entity_model_features_fabric_1.19.2-1.1.0.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"9GIq2ND0" = lib.buildMinecraftMod {
+"9GIq2ND0" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.1.0";
   version = "1.1.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/9GIq2ND0/entity_model_features_fabric_1.18.2-1.1.0.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"PRB8TBBT" = lib.buildMinecraftMod {
+"PRB8TBBT" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.0.2";
   version = "1.0.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/PRB8TBBT/entity_model_features_fabric_1.18.2_1.0.2.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"BA8z5Ryk" = lib.buildMinecraftMod {
+"BA8z5Ryk" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.0.2";
   version = "1.0.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/BA8z5Ryk/entity_model_features_fabric_1.19.4-1.0.2.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"F3Urf59I" = lib.buildMinecraftMod {
+"F3Urf59I" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.0.2";
   version = "1.0.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/F3Urf59I/entity_model_features_fabric_1.19.3-1.0.2.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"K22doPG2" = lib.buildMinecraftMod {
+"K22doPG2" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.0.2";
   version = "1.0.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/K22doPG2/entity_model_features_fabric_1.19.2-1.0.2.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"eg7GqpgR" = lib.buildMinecraftMod {
+"eg7GqpgR" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.0.2";
   version = "1.0.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/eg7GqpgR/entity_model_features_fabric_1.20.2-1.0.2.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"zO7oFMiv" = lib.buildMinecraftMod {
+"zO7oFMiv" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.0.2";
   version = "1.0.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/zO7oFMiv/entity_model_features_fabric_1.20-1.0.2.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"j6G5CGoD" = lib.buildMinecraftMod {
+"j6G5CGoD" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.0.1";
   version = "1.0.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/j6G5CGoD/entity_model_features_fabric_1.19.3-1.0.1.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"Fhs6XUdV" = lib.buildMinecraftMod {
+"Fhs6XUdV" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.0.1";
   version = "1.0.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/Fhs6XUdV/entity_model_features_fabric_1.19.2-1.0.1.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"toEX8PUQ" = lib.buildMinecraftMod {
+"toEX8PUQ" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.0";
   version = "1.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/toEX8PUQ/entity_model_features_fabric_1.20-1.0.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"NtxuH8Wk" = lib.buildMinecraftMod {
+"NtxuH8Wk" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.0";
   version = "1.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/NtxuH8Wk/entity_model_features_fabric_1.19.4-1.0.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"r0UjM8gx" = lib.buildMinecraftMod {
+"r0UjM8gx" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.0";
   version = "1.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/r0UjM8gx/entity_model_features_fabric_1.19.3-1.0.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"kFcIMH1Z" = lib.buildMinecraftMod {
+"kFcIMH1Z" = lib.buildMinecraftFile {
   pname = "[EMF] Entity Model Features 1.0";
   version = "1.0";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/kFcIMH1Z/entity_model_features_fabric_1.19.2-1.0.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"8FU1BYfi" = lib.buildMinecraftMod {
+"8FU1BYfi" = lib.buildMinecraftFile {
   pname = "[EMF] Release Candidate 4";
   version = "0.RC.4";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/8FU1BYfi/entity_model_features_fabric_1.20-0.RC.4.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"PETiI2Yb" = lib.buildMinecraftMod {
+"PETiI2Yb" = lib.buildMinecraftFile {
   pname = "[EMF] Release Candidate 3";
   version = "0.RC.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/PETiI2Yb/entity_model_features_fabric_1.20-0.RC.3.jar";
@@ -899,7 +899,7 @@
   };
 };
 
-"S8VuZDQ4" = lib.buildMinecraftMod {
+"S8VuZDQ4" = lib.buildMinecraftFile {
   pname = "[EMF] Release Candidate 2";
   version = "0.RC.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/S8VuZDQ4/entity_model_features_fabric_1.20-0.RC.2.jar";
@@ -911,7 +911,7 @@
   };
 };
 
-"33ddTlVK" = lib.buildMinecraftMod {
+"33ddTlVK" = lib.buildMinecraftFile {
   pname = "[EMF] Release Candidate 1";
   version = "0.RC.1";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/33ddTlVK/entity_model_features_fabric_1.20-0.RC.1.jar";
@@ -923,7 +923,7 @@
   };
 };
 
-"b1pJegrh" = lib.buildMinecraftMod {
+"b1pJegrh" = lib.buildMinecraftFile {
   pname = "0.2.13";
   version = "0.2.13";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/b1pJegrh/entity_model_features_fabric_1.20-0.2.13.jar";
@@ -935,7 +935,7 @@
   };
 };
 
-"n6EyQyeN" = lib.buildMinecraftMod {
+"n6EyQyeN" = lib.buildMinecraftFile {
   pname = "0.2.13";
   version = "0.2.13";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/n6EyQyeN/entity_model_features_fabric_1.19.4-0.2.13.jar";
@@ -947,7 +947,7 @@
   };
 };
 
-"9ODYgM48" = lib.buildMinecraftMod {
+"9ODYgM48" = lib.buildMinecraftFile {
   pname = "0.2.13";
   version = "0.2.13";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/9ODYgM48/entity_model_features_fabric_1.19.3-0.2.13.jar";
@@ -959,7 +959,7 @@
   };
 };
 
-"slWSM9OY" = lib.buildMinecraftMod {
+"slWSM9OY" = lib.buildMinecraftFile {
   pname = "0.2.13";
   version = "0.2.13";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/slWSM9OY/entity_model_features_fabric_1.19.2-0.2.13.jar";
@@ -971,7 +971,7 @@
   };
 };
 
-"ZAuTqMfx" = lib.buildMinecraftMod {
+"ZAuTqMfx" = lib.buildMinecraftFile {
   pname = "0.2.12";
   version = "0.2.12";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/ZAuTqMfx/entity_model_features_fabric_1.20-0.2.12.jar";
@@ -983,7 +983,7 @@
   };
 };
 
-"E6OJ69z6" = lib.buildMinecraftMod {
+"E6OJ69z6" = lib.buildMinecraftFile {
   pname = "0.2.12";
   version = "0.2.12";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/E6OJ69z6/entity_model_features_fabric_1.19.4-0.2.12.jar";
@@ -995,7 +995,7 @@
   };
 };
 
-"4jkePyqP" = lib.buildMinecraftMod {
+"4jkePyqP" = lib.buildMinecraftFile {
   pname = "0.2.12";
   version = "0.2.12";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/4jkePyqP/entity_model_features_fabric_1.19.3-0.2.12.jar";
@@ -1007,7 +1007,7 @@
   };
 };
 
-"TVhwNuR0" = lib.buildMinecraftMod {
+"TVhwNuR0" = lib.buildMinecraftFile {
   pname = "0.2.12";
   version = "0.2.12";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/TVhwNuR0/entity_model_features_fabric_1.19.2-0.2.12.jar";
@@ -1019,7 +1019,7 @@
   };
 };
 
-"nqu0vi2x" = lib.buildMinecraftMod {
+"nqu0vi2x" = lib.buildMinecraftFile {
   pname = "0.2.11";
   version = "0.2.11";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/nqu0vi2x/entity_model_features_fabric_1.20-0.2.11.jar";
@@ -1031,7 +1031,7 @@
   };
 };
 
-"NF2Ro84F" = lib.buildMinecraftMod {
+"NF2Ro84F" = lib.buildMinecraftFile {
   pname = "0.2.10";
   version = "0.2.10";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/NF2Ro84F/entity_model_features_fabric_1.20-0.2.10.jar";
@@ -1043,7 +1043,7 @@
   };
 };
 
-"yVjuZyf5" = lib.buildMinecraftMod {
+"yVjuZyf5" = lib.buildMinecraftFile {
   pname = "0.2.9";
   version = "0.2.9";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/yVjuZyf5/entity_model_features_fabric_1.20-pre1-0.2.9.jar";
@@ -1055,7 +1055,7 @@
   };
 };
 
-"OPyB18gz" = lib.buildMinecraftMod {
+"OPyB18gz" = lib.buildMinecraftFile {
   pname = "0.2.9";
   version = "0.2.9";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/OPyB18gz/entity_model_features_fabric_1.19.4-0.2.9.jar";
@@ -1067,7 +1067,7 @@
   };
 };
 
-"ORrfX7aq" = lib.buildMinecraftMod {
+"ORrfX7aq" = lib.buildMinecraftFile {
   pname = "0.2.9";
   version = "0.2.9";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/ORrfX7aq/entity_model_features_fabric_1.19.3-0.2.9.jar";
@@ -1079,7 +1079,7 @@
   };
 };
 
-"ZZGFPXZF" = lib.buildMinecraftMod {
+"ZZGFPXZF" = lib.buildMinecraftFile {
   pname = "0.2.9";
   version = "0.2.9";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/ZZGFPXZF/entity_model_features_fabric_1.19.2-0.2.9.jar";
@@ -1091,7 +1091,7 @@
   };
 };
 
-"PuJLEdhx" = lib.buildMinecraftMod {
+"PuJLEdhx" = lib.buildMinecraftFile {
   pname = "0.2.8";
   version = "0.2.8";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/PuJLEdhx/entity_model_features_fabric_1.19.4-0.2.8.jar";
@@ -1103,7 +1103,7 @@
   };
 };
 
-"EYEiSxf5" = lib.buildMinecraftMod {
+"EYEiSxf5" = lib.buildMinecraftFile {
   pname = "Entity Model Features [CEM] 0.2.8";
   version = "0.2.8";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/EYEiSxf5/entity_model_features_fabric_1.19.3-0.2.8.jar";
@@ -1115,7 +1115,7 @@
   };
 };
 
-"mOmY1cMH" = lib.buildMinecraftMod {
+"mOmY1cMH" = lib.buildMinecraftFile {
   pname = "0.2.8";
   version = "0.2.8";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/mOmY1cMH/entity_model_features_fabric_1.19.2-0.2.8.jar";
@@ -1127,7 +1127,7 @@
   };
 };
 
-"8GH17mIS" = lib.buildMinecraftMod {
+"8GH17mIS" = lib.buildMinecraftFile {
   pname = "0.2.7";
   version = "0.2.7f";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/8GH17mIS/entity_model_features_fabric_1.19.4-0.2.7.jar";
@@ -1139,7 +1139,7 @@
   };
 };
 
-"7eRoc49u" = lib.buildMinecraftMod {
+"7eRoc49u" = lib.buildMinecraftFile {
   pname = "0.2.7";
   version = "0.2.7e";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/7eRoc49u/entity_model_features_fabric_1.19.3-0.2.7.jar";
@@ -1151,7 +1151,7 @@
   };
 };
 
-"Y4ERRvDT" = lib.buildMinecraftMod {
+"Y4ERRvDT" = lib.buildMinecraftFile {
   pname = "0.2.7";
   version = "0.2.7d";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/Y4ERRvDT/entity_model_features_fabric_1.19.2-0.2.7.jar";
@@ -1163,7 +1163,7 @@
   };
 };
 
-"deVKWS49" = lib.buildMinecraftMod {
+"deVKWS49" = lib.buildMinecraftFile {
   pname = "0.2.6";
   version = "0.2.6f";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/deVKWS49/entity_model_features_fabric_1.19.4-0.2.6.jar";
@@ -1175,7 +1175,7 @@
   };
 };
 
-"7bzU6chG" = lib.buildMinecraftMod {
+"7bzU6chG" = lib.buildMinecraftFile {
   pname = "0.2.6";
   version = "0.2.6e";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/7bzU6chG/entity_model_features_fabric_1.19.3-0.2.6.jar";
@@ -1187,7 +1187,7 @@
   };
 };
 
-"I8BdGIyR" = lib.buildMinecraftMod {
+"I8BdGIyR" = lib.buildMinecraftFile {
   pname = "0.2.6";
   version = "0.2.6d";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/I8BdGIyR/entity_model_features_fabric_1.19.2-0.2.6.jar";
@@ -1199,7 +1199,7 @@
   };
 };
 
-"TEAO0eWy" = lib.buildMinecraftMod {
+"TEAO0eWy" = lib.buildMinecraftFile {
   pname = "0.2.5";
   version = "0.2.5f";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/TEAO0eWy/entity_model_features_fabric_1.19.4-0.2.5.jar";
@@ -1211,7 +1211,7 @@
   };
 };
 
-"GlVrMJfd" = lib.buildMinecraftMod {
+"GlVrMJfd" = lib.buildMinecraftFile {
   pname = "0.2.5";
   version = "0.2.5e";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/GlVrMJfd/entity_model_features_fabric_1.19.3-0.2.5.jar";
@@ -1223,7 +1223,7 @@
   };
 };
 
-"Xd7QIIv1" = lib.buildMinecraftMod {
+"Xd7QIIv1" = lib.buildMinecraftFile {
   pname = "0.2.5";
   version = "0.2.5d";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/Xd7QIIv1/entity_model_features_fabric_1.19.2-0.2.5.jar";
@@ -1235,7 +1235,7 @@
   };
 };
 
-"pcLQFqon" = lib.buildMinecraftMod {
+"pcLQFqon" = lib.buildMinecraftFile {
   pname = "Entity Model Features 0.2.4";
   version = "0.2.4.fabric.1.19.2";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/pcLQFqon/entity_model_features_fabric_1.19.2-0.2.4.jar";
@@ -1247,7 +1247,7 @@
   };
 };
 
-"nXG5ZTWm" = lib.buildMinecraftMod {
+"nXG5ZTWm" = lib.buildMinecraftFile {
   pname = "Entity Model Features 0.2.4";
   version = "0.2.4.fabric.1.19.3";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/nXG5ZTWm/entity_model_features_fabric_1.19.3-0.2.4.jar";
@@ -1259,7 +1259,7 @@
   };
 };
 
-"yYaRtPUw" = lib.buildMinecraftMod {
+"yYaRtPUw" = lib.buildMinecraftFile {
   pname = "Entity Model Features 0.2.4";
   version = "0.2.4.fabric.1.19.4";
   url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/yYaRtPUw/entity_model_features_fabric_1.19.4-0.2.4.jar";

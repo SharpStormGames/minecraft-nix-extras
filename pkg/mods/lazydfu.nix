@@ -1,5 +1,5 @@
 { lib, ... }: {
-"4SHylIO9" = lib.buildMinecraftMod {
+"4SHylIO9" = lib.buildMinecraftFile {
   pname = "0.1.3";
   version = "0.1.3";
   url = "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.3/lazydfu-0.1.3.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"C6e265zK" = lib.buildMinecraftMod {
+"C6e265zK" = lib.buildMinecraftFile {
   pname = "0.1.2";
   version = "0.1.2";
   url = "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"aBDhdWUD" = lib.buildMinecraftMod {
+"aBDhdWUD" = lib.buildMinecraftFile {
   pname = "0.1.1";
   version = "0.1.1";
   url = "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.1/lazydfu-0.1.1.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"8tFjDrHf" = lib.buildMinecraftMod {
+"8tFjDrHf" = lib.buildMinecraftFile {
   pname = "0.1.0";
   version = "0.1.0";
   url = "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.0/lazydfu-0.1.0.jar";

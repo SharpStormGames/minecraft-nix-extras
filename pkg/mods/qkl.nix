@@ -1,5 +1,5 @@
 { lib, ... }: {
-"daGMirHp" = lib.buildMinecraftMod {
+"daGMirHp" = lib.buildMinecraftFile {
   pname = "QKL 4.0.0 + FLK 1.10.19 + Kotlin 1.9.23";
   version = "4.0.0+kt.1.9.23+flk.1.10.19";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/daGMirHp/quilt-kotlin-libraries-4.0.0%2Bkt.1.9.23%2Bflk.1.10.19.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"di4GKAZU" = lib.buildMinecraftMod {
+"di4GKAZU" = lib.buildMinecraftFile {
   pname = "QKL 3.0.0 + FLK 1.10.17 + Kotlin 1.9.22";
   version = "3.0.0+kt.1.9.22+flk.1.10.17";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/di4GKAZU/quilt-kotlin-libraries-3.0.0%2Bkt.1.9.22%2Bflk.1.10.17.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"RYTef2Wb" = lib.buildMinecraftMod {
+"RYTef2Wb" = lib.buildMinecraftFile {
   pname = "QKL 2.1.3 + FLK 1.10.10 + Kotlin 1.9.10";
   version = "2.1.3+kt.1.9.10+flk.1.10.10";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/RYTef2Wb/quilt-kotlin-libraries-2.1.3%2Bkt.1.9.10%2Bflk.1.10.10.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"9WIAwhe7" = lib.buildMinecraftMod {
+"9WIAwhe7" = lib.buildMinecraftFile {
   pname = "QKL 2.1.2 + FLK 1.10.8 + Kotlin 1.9.0";
   version = "2.1.2+kt.1.9.0+flk.1.10.8";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/9WIAwhe7/quilt-kotlin-libraries-2.1.2%2Bkt.1.9.0%2Bflk.1.10.8.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"iFjjxcEj" = lib.buildMinecraftMod {
+"iFjjxcEj" = lib.buildMinecraftFile {
   pname = "QKL 2.1.1 + FLK 1.9.6 + Kotlin 1.9.0";
   version = "2.1.1+kt.1.9.0+flk.1.9.6";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/iFjjxcEj/quilt-kotlin-libraries-2.1.1%2Bkt.1.9.0%2Bflk.1.9.6.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"AD5KqMGz" = lib.buildMinecraftMod {
+"AD5KqMGz" = lib.buildMinecraftFile {
   pname = "2.1.0+kt.1.8.22+flk.1.9.4.";
   version = "2.1.0";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/AD5KqMGz/quilt-kotlin-libraries-2.1.0%2Bkt.1.8.22%2Bflk.1.9.4.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"weDX41J0" = lib.buildMinecraftMod {
+"weDX41J0" = lib.buildMinecraftFile {
   pname = "2.0.2+kt.1.8.20+flk.1.9.3";
   version = "2.0.2+kt.1.8.20+flk.1.9.3";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/weDX41J0/quilt-kotlin-libraries-2.0.2%2Bkt.1.8.20%2Bflk.1.9.3.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"p9eQkY9q" = lib.buildMinecraftMod {
+"p9eQkY9q" = lib.buildMinecraftFile {
   pname = "2.0.1+kt.1.8.20+flk.1.9.3";
   version = "2.0.1+kt.1.8.20+flk.1.9.3";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/p9eQkY9q/quilt-kotlin-libraries-2.0.1%2Bkt.1.8.20%2Bflk.1.9.3.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"rvPEzQsW" = lib.buildMinecraftMod {
+"rvPEzQsW" = lib.buildMinecraftFile {
   pname = "1.1.1+kt.1.8.10+flk.1.9.2";
   version = "1.1.1+kt.1.8.10+flk.1.9.2";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/rvPEzQsW/quilt-kotlin-libraries-1.1.1%2Bkt.1.8.10%2Bflk.1.9.2.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"xGk0YDl2" = lib.buildMinecraftMod {
+"xGk0YDl2" = lib.buildMinecraftFile {
   pname = "1.1.0+kt.1.8.0+flk.1.9.0";
   version = "1.1.0+kt.1.8.0+flk.1.9.0";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/xGk0YDl2/quilt-kotlin-libraries-1.1.0%2Bkt.1.8.0%2Bflk.1.9.0.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"4Ag1YF4s" = lib.buildMinecraftMod {
+"4Ag1YF4s" = lib.buildMinecraftFile {
   pname = "1.0.2+kt.1.8.0+flk.1.9.0";
   version = "1.0.2+kt.1.8.0+flk.1.9.0";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/4Ag1YF4s/quilt-kotlin-libraries-1.0.2%2Bkt.1.8.0%2Bflk.1.9.0.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"NqD6unKV" = lib.buildMinecraftMod {
+"NqD6unKV" = lib.buildMinecraftFile {
   pname = "1.0.1+kt.1.7.22+flk.1.8.6";
   version = "1.0.1+kt.1.7.22+flk.1.8.6";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/NqD6unKV/quilt-kotlin-libraries-1.0.1%2Bkt.1.7.22%2Bflk.1.8.6.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"UMYsuGTO" = lib.buildMinecraftMod {
+"UMYsuGTO" = lib.buildMinecraftFile {
   pname = "1.0.0+kt.1.7.20+flk.1.8.5";
   version = "1.0.0+kt.1.7.20+flk.1.8.5";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/UMYsuGTO/quilt-kotlin-libraries-1.0.0%2Bkt.1.7.20%2Bflk.1.8.5.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"RFKK2wt2" = lib.buildMinecraftMod {
+"RFKK2wt2" = lib.buildMinecraftFile {
   pname = "0.1.2 Modfest release";
   version = "0.1.2-MODFEST+kt.1.7.10+flk.1.8.2";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/RFKK2wt2/quilt-kotlin-libraries-0.1.2-MODFEST%2Bkt.1.7.10%2Bflk.1.8.2.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"ixUoVpXh" = lib.buildMinecraftMod {
+"ixUoVpXh" = lib.buildMinecraftFile {
   pname = "0.1.1 Modfest release";
   version = "0.1.1-MODFEST+kt.1.7.10+flk.1.8.2";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/ixUoVpXh/quilt-kotlin-libraries-0.1.1-MODFEST%2Bkt.1.7.10%2Bflk.1.8.2.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"FAi0G48K" = lib.buildMinecraftMod {
+"FAi0G48K" = lib.buildMinecraftFile {
   pname = "0.1.0  ModFest release";
   version = "0.1.0+kt1.7..10+flk.1.8.2-MODFEST";
   url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/FAi0G48K/quilt-kotlin-libraries-0.1.0%2Bkt.1.7.10%2Bflk.1.8.2-MODFEST.jar";

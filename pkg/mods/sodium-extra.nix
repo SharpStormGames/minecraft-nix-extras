@@ -1,5 +1,5 @@
 { lib, ... }: {
-"uuhVlRGv" = lib.buildMinecraftMod {
+"uuhVlRGv" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.5.7 for Minecraft 1.21";
   version = "mc1.21-0.5.7";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/uuhVlRGv/sodium-extra-0.5.7%2Bmc1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"YIMd9YPH" = lib.buildMinecraftMod {
+"YIMd9YPH" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.5.6 for Minecraft 1.21";
   version = "mc1.21-0.5.6";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/YIMd9YPH/sodium-extra-0.5.6%2Bmc1.21.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"6ethXWmk" = lib.buildMinecraftMod {
+"6ethXWmk" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.5.6 for Minecraft 1.20.6";
   version = "mc1.20.6-0.5.6";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/6ethXWmk/sodium-extra-0.5.6%2Bmc1.20.6.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"TJDWVdsb" = lib.buildMinecraftMod {
+"TJDWVdsb" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.5.5 for Minecraft 1.20.5/1.20.6";
   version = "mc1.20.6-0.5.5";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/TJDWVdsb/sodium-extra-0.5.5%2Bmc1.20.6-build.118.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"5c9xAlhY" = lib.buildMinecraftMod {
+"5c9xAlhY" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.5.4 for Minecraft 1.20.5";
   version = "mc1.20.5-0.5.4";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/5c9xAlhY/sodium-extra-0.5.4%2Bmc1.20.5-build.117.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"M0ndiav7" = lib.buildMinecraftMod {
+"M0ndiav7" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.5.4 for Minecraft 1.20.3/1.20.4";
   version = "mc1.20.4-0.5.4";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/M0ndiav7/sodium-extra-0.5.4%2Bmc1.20.4-build.116.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"I7ggF6B5" = lib.buildMinecraftMod {
+"I7ggF6B5" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.5.4 for Minecraft 1.20.1";
   version = "mc1.20.1-0.5.4";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/I7ggF6B5/sodium-extra-0.5.4%2Bmc1.20.1-build.115.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"e8Jw5Pey" = lib.buildMinecraftMod {
+"e8Jw5Pey" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.5.3 for Minecraft 1.20.2";
   version = "mc1.20.2-0.5.3";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/e8Jw5Pey/sodium-extra-0.5.3%2Bmc1.20.2-build.114.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"zgaajBnP" = lib.buildMinecraftMod {
+"zgaajBnP" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.5.2 for Minecraft 1.20.2";
   version = "mc1.20.2-0.5.2";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/zgaajBnP/sodium-extra-0.5.2%2Bmc1.20.2-build.113.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"80a0J5Cn" = lib.buildMinecraftMod {
+"80a0J5Cn" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.5.1 for Minecraft 1.20.1";
   version = "mc1.20.1-0.5.1";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/80a0J5Cn/sodium-extra-0.5.1%2Bmc1.20.1-build.112.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"5KCYvoSI" = lib.buildMinecraftMod {
+"5KCYvoSI" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.5.0 for Minecraft 1.20.1";
   version = "mc1.20.1-0.5.0";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/5KCYvoSI/sodium-extra-0.5.0%2Bmc1.20.1-build.111.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"UwpTYr4K" = lib.buildMinecraftMod {
+"UwpTYr4K" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.27 for Minecraft 1.20.1";
   version = "mc1.20.1-0.4.27";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/UwpTYr4K/sodium-extra-0.4.27%2Bmc1.20.1-build.110.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"GGGuNLtT" = lib.buildMinecraftMod {
+"GGGuNLtT" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.26 for Minecraft 1.20.1";
   version = "mc1.20.1-0.4.26";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/GGGuNLtT/sodium-extra-0.4.26%2Bmc1.20.1-build.109.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"jy7D3eLo" = lib.buildMinecraftMod {
+"jy7D3eLo" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.25 for Minecraft 1.20.1";
   version = "mc1.20.1-0.4.25";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/jy7D3eLo/sodium-extra-0.4.25%2Bmc1.20.1-build.108.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"dno0PvHr" = lib.buildMinecraftMod {
+"dno0PvHr" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.24 for Minecraft 1.20.1";
   version = "mc1.20.1-0.4.24";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/dno0PvHr/sodium-extra-0.4.24%2Bmc1.20.1-build.107.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"Tf56kC8G" = lib.buildMinecraftMod {
+"Tf56kC8G" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.23 for Minecraft 1.20.1";
   version = "mc1.20.1-0.4.23";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/Tf56kC8G/sodium-extra-0.4.23%2Bmc1.20.1-build.106.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"KFJPGpgu" = lib.buildMinecraftMod {
+"KFJPGpgu" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.22 for Minecraft 1.20.1";
   version = "mc1.20.1-0.4.22";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/KFJPGpgu/sodium-extra-0.4.22%2Bmc1.20.1-build.105.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"jeT8mcQT" = lib.buildMinecraftMod {
+"jeT8mcQT" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.21 for Minecraft 1.20.1";
   version = "mc1.20.1-0.4.21";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/jeT8mcQT/sodium-extra-0.4.21%2Bmc1.20.1-build.104.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"kTxAMqAj" = lib.buildMinecraftMod {
+"kTxAMqAj" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.20 for Minecraft 1.20";
   version = "mc1.20-0.4.20";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/kTxAMqAj/sodium-extra-0.4.20%2Bmc1.20-build.103.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"YknbqkHe" = lib.buildMinecraftMod {
+"YknbqkHe" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.18 for Minecraft 1.19.4";
   version = "mc1.19.4-0.4.18";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/YknbqkHe/sodium-extra-0.4.18%2Bmc1.19.4-build.100.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"Fo9beybz" = lib.buildMinecraftMod {
+"Fo9beybz" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.18 for Minecraft 1.19.3";
   version = "mc1.19.3-0.4.18";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/Fo9beybz/sodium-extra-0.4.18%2Bmc1.19.3-build.99.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"DwCPxThW" = lib.buildMinecraftMod {
+"DwCPxThW" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.18 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.18";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/DwCPxThW/sodium-extra-0.4.18%2Bmc1.18.2-build.98.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"1OzghAbl" = lib.buildMinecraftMod {
+"1OzghAbl" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.18 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.18";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/1OzghAbl/sodium-extra-0.4.18%2Bmc1.17.1-build.97.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"Et3PybAh" = lib.buildMinecraftMod {
+"Et3PybAh" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.18 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.18";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/Et3PybAh/sodium-extra-0.4.18%2Bmc1.16.5-build.96.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"wA35IJw8" = lib.buildMinecraftMod {
+"wA35IJw8" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.17 for Minecraft 1.19.3";
   version = "mc1.19.3-0.4.17";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/wA35IJw8/sodium-extra-0.4.17%2Bmc1.19.3-build.95.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"X61cCJdB" = lib.buildMinecraftMod {
+"X61cCJdB" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.17 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.17";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/X61cCJdB/sodium-extra-0.4.17%2Bmc1.18.2-build.94.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"f0Pua8c0" = lib.buildMinecraftMod {
+"f0Pua8c0" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.17 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.17";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/f0Pua8c0/sodium-extra-0.4.17%2Bmc1.17.1-build.93.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"mNSJsLuw" = lib.buildMinecraftMod {
+"mNSJsLuw" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.17 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.17";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mNSJsLuw/sodium-extra-0.4.17%2Bmc1.16.5-build.92.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"8DeIhGTv" = lib.buildMinecraftMod {
+"8DeIhGTv" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.16 for Minecraft 1.19.3";
   version = "mc1.19.3-0.4.16";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/8DeIhGTv/sodium-extra-0.4.16%2Bmc1.19.3-build.91.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"MTxUvPFz" = lib.buildMinecraftMod {
+"MTxUvPFz" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.16 for Minecraft 1.19.2";
   version = "mc1.19.2-0.4.16";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/MTxUvPFz/sodium-extra-0.4.16%2Bmc1.19.2-build.90.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"WtfLjBKR" = lib.buildMinecraftMod {
+"WtfLjBKR" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.16 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.16";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/WtfLjBKR/sodium-extra-0.4.16%2Bmc1.18.2-build.89.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"Qwl9yhs4" = lib.buildMinecraftMod {
+"Qwl9yhs4" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.16 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.16";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/Qwl9yhs4/sodium-extra-0.4.16%2Bmc1.17.1-build.88.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"nLSk51d5" = lib.buildMinecraftMod {
+"nLSk51d5" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.16 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.16";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/nLSk51d5/sodium-extra-0.4.16%2Bmc1.16.5-build.87.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"r5w0P2Aa" = lib.buildMinecraftMod {
+"r5w0P2Aa" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.15 for Minecraft 1.19.3";
   version = "mc1.19.3-0.4.15";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/r5w0P2Aa/sodium-extra-0.4.15%2Bmc1.19.3-build.86.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"Bua36tz2" = lib.buildMinecraftMod {
+"Bua36tz2" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.15 for Minecraft 1.19.2";
   version = "mc1.19.2-0.4.15";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/Bua36tz2/sodium-extra-0.4.15%2Bmc1.19.2-build.85.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"XVg96BXq" = lib.buildMinecraftMod {
+"XVg96BXq" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.15 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.15";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/XVg96BXq/sodium-extra-0.4.15%2Bmc1.18.2-build.84.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"7Qpm7TfK" = lib.buildMinecraftMod {
+"7Qpm7TfK" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.15 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.15";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/7Qpm7TfK/sodium-extra-0.4.15%2Bmc1.17.1-build.83.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"o1MVdBA0" = lib.buildMinecraftMod {
+"o1MVdBA0" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.15 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.15";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/o1MVdBA0/sodium-extra-0.4.15%2Bmc1.16.5-build.82.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"dGDpjLtu" = lib.buildMinecraftMod {
+"dGDpjLtu" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.14 for Minecraft 1.19.3";
   version = "mc1.19.3-0.4.14";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/dGDpjLtu/sodium-extra-0.4.14%2Bmc1.19.3-build.81.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"1ha6EuaV" = lib.buildMinecraftMod {
+"1ha6EuaV" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.14 for Minecraft 1.19.2";
   version = "mc1.19.2-0.4.14";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/1ha6EuaV/sodium-extra-0.4.14%2Bmc1.19.2-build.80.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"2mn0qHfs" = lib.buildMinecraftMod {
+"2mn0qHfs" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.14 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.14";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/2mn0qHfs/sodium-extra-0.4.14%2Bmc1.18.2-build.79.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"EROX4u0x" = lib.buildMinecraftMod {
+"EROX4u0x" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.14 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.14";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/EROX4u0x/sodium-extra-0.4.14%2Bmc1.17.1-build.78.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"3FVJYJsq" = lib.buildMinecraftMod {
+"3FVJYJsq" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.14 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.14";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/3FVJYJsq/sodium-extra-0.4.14%2Bmc1.16.5-build.77.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"Z9F12IDt" = lib.buildMinecraftMod {
+"Z9F12IDt" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.13 for Minecraft 1.19.2";
   version = "mc1.19.2-0.4.13";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/Z9F12IDt/sodium-extra-0.4.13%2Bmc1.19.2-build.76.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"Ihk94xIe" = lib.buildMinecraftMod {
+"Ihk94xIe" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.13 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.13";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/Ihk94xIe/sodium-extra-0.4.13%2Bmc1.18.2-build.75.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"7bIiOq5p" = lib.buildMinecraftMod {
+"7bIiOq5p" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.13 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.13";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/7bIiOq5p/sodium-extra-0.4.13%2Bmc1.17.1-build.74.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"NKTWKANh" = lib.buildMinecraftMod {
+"NKTWKANh" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.13 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.13";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/NKTWKANh/sodium-extra-0.4.13%2Bmc1.16.5-build.73.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"yL4dOxzM" = lib.buildMinecraftMod {
+"yL4dOxzM" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.12 for Minecraft 1.19.2";
   version = "mc1.19.2-0.4.12";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/yL4dOxzM/sodium-extra-0.4.12%2Bmc1.19.2-build.72.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"fvj3bKb0" = lib.buildMinecraftMod {
+"fvj3bKb0" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.12 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.12";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/fvj3bKb0/sodium-extra-0.4.12%2Bmc1.18.2-build.71.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"GlEfyf5R" = lib.buildMinecraftMod {
+"GlEfyf5R" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.12 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.12";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/GlEfyf5R/sodium-extra-0.4.12%2Bmc1.17.1-build.70.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"VkoIIaJU" = lib.buildMinecraftMod {
+"VkoIIaJU" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.12 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.12";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/VkoIIaJU/sodium-extra-0.4.12%2Bmc1.16.5-build.69.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"xJ8SShUa" = lib.buildMinecraftMod {
+"xJ8SShUa" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.11 for Minecraft 1.19.2";
   version = "mc1.19.2-0.4.11";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/xJ8SShUa/sodium-extra-0.4.11%2Bmc1.19.2-build.68.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"lyZvsCAT" = lib.buildMinecraftMod {
+"lyZvsCAT" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.11 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.11";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/lyZvsCAT/sodium-extra-0.4.11%2Bmc1.18.2-build.67.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"xBm1fnBi" = lib.buildMinecraftMod {
+"xBm1fnBi" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.11 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.11";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/xBm1fnBi/sodium-extra-0.4.11%2Bmc1.17.1-build.66.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"i1IXAPlQ" = lib.buildMinecraftMod {
+"i1IXAPlQ" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.11 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.11";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/i1IXAPlQ/sodium-extra-0.4.11%2Bmc1.16.5-build.65.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"uy3WEIvn" = lib.buildMinecraftMod {
+"uy3WEIvn" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.10 for Minecraft 1.19.2";
   version = "mc1.19.2-0.4.10";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/uy3WEIvn/sodium-extra-0.4.10%2Bmc1.19.2-build.64.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"uCddykP4" = lib.buildMinecraftMod {
+"uCddykP4" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.10 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.10";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/uCddykP4/sodium-extra-0.4.10%2Bmc1.18.2-build.63.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"CFf3OHWs" = lib.buildMinecraftMod {
+"CFf3OHWs" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.10 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.10";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/CFf3OHWs/sodium-extra-0.4.10%2Bmc1.17.1-build.62.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"HqNshD3l" = lib.buildMinecraftMod {
+"HqNshD3l" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.10 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.10";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/HqNshD3l/sodium-extra-0.4.10%2Bmc1.16.5-build.61.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"tXEG62IN" = lib.buildMinecraftMod {
+"tXEG62IN" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.9 for Minecraft 1.19.2";
   version = "mc1.19.2-0.4.9";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/tXEG62IN/sodium-extra-0.4.9%2Bmc1.19.2-build.60.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"upfJqxrg" = lib.buildMinecraftMod {
+"upfJqxrg" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.9 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.9";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/upfJqxrg/sodium-extra-0.4.9%2Bmc1.18.2-build.59.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"CHnZwuLy" = lib.buildMinecraftMod {
+"CHnZwuLy" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.9 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.9";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/CHnZwuLy/sodium-extra-0.4.9%2Bmc1.17.1-build.58.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"xRv53DSs" = lib.buildMinecraftMod {
+"xRv53DSs" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.9 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.9";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/xRv53DSs/sodium-extra-0.4.9%2Bmc1.16.5-build.57.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"Epqrq6OM" = lib.buildMinecraftMod {
+"Epqrq6OM" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.8 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.8";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/Epqrq6OM/sodium-extra-0.4.8%2Bmc1.18.2-build.56.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"n6VFgnC4" = lib.buildMinecraftMod {
+"n6VFgnC4" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.8 for Minecraft 1.18.1";
   version = "mc1.18.1-0.4.8";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/n6VFgnC4/sodium-extra-0.4.8%2Bmc1.18.1-build.55.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"nQ4I7m5V" = lib.buildMinecraftMod {
+"nQ4I7m5V" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.8 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.8";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/nQ4I7m5V/sodium-extra-0.4.8%2Bmc1.17.1-build.54.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"9GqAP74m" = lib.buildMinecraftMod {
+"9GqAP74m" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.8 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.8";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/9GqAP74m/sodium-extra-0.4.8%2Bmc1.16.5-build.53.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"xYkvKUSC" = lib.buildMinecraftMod {
+"xYkvKUSC" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.7 for Minecraft 1.19.2";
   version = "mc1.19.2-0.4.7";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/xYkvKUSC/sodium-extra-0.4.7%2Bmc1.19.2-build.52.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"C705535I" = lib.buildMinecraftMod {
+"C705535I" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.7 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.7";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/C705535I/sodium-extra-0.4.7%2Bmc1.18.2-build.51.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"DIcY6vej" = lib.buildMinecraftMod {
+"DIcY6vej" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.7 for Minecraft 1.18.1";
   version = "mc1.18.1-0.4.7";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/DIcY6vej/sodium-extra-0.4.7%2Bmc1.18.1-build.50.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"yLv38Kes" = lib.buildMinecraftMod {
+"yLv38Kes" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.7 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.7";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/yLv38Kes/sodium-extra-0.4.7%2Bmc1.17.1-build.49.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"vYMuk2fC" = lib.buildMinecraftMod {
+"vYMuk2fC" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.7 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.7";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/vYMuk2fC/sodium-extra-0.4.7%2Bmc1.16.5-build.48.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"tA6TDKYR" = lib.buildMinecraftMod {
+"tA6TDKYR" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.6 for Minecraft 1.19";
   version = "mc1.19-0.4.6";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.19-0.4.6/sodium-extra-0.4.6%2Bmc1.19-build.47.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"4hASygiF" = lib.buildMinecraftMod {
+"4hASygiF" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.6 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.6";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.6/sodium-extra-0.4.6%2Bmc1.18.2-build.46.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"C4Ah6iqO" = lib.buildMinecraftMod {
+"C4Ah6iqO" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.6 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.6";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.6/sodium-extra-0.4.6%2Bmc1.17.1-build.45.jar";
@@ -899,7 +899,7 @@
   };
 };
 
-"fCTkvX2E" = lib.buildMinecraftMod {
+"fCTkvX2E" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.6 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.6";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.6/sodium-extra-0.4.6%2Bmc1.16.5-build.44.jar";
@@ -911,7 +911,7 @@
   };
 };
 
-"THhTlwlR" = lib.buildMinecraftMod {
+"THhTlwlR" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.5 for Minecraft 1.19";
   version = "mc1.19-0.4.5";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.19-0.4.5/sodium-extra-0.4.5%2Bmc1.19-build.43.jar";
@@ -923,7 +923,7 @@
   };
 };
 
-"pKxxvfqr" = lib.buildMinecraftMod {
+"pKxxvfqr" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.5 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.5";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.5/sodium-extra-0.4.5%2Bmc1.18.2-build.42.jar";
@@ -935,7 +935,7 @@
   };
 };
 
-"7R4bmDHx" = lib.buildMinecraftMod {
+"7R4bmDHx" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.5 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.5";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.5/sodium-extra-0.4.5%2Bmc1.17.1-build.41.jar";
@@ -947,7 +947,7 @@
   };
 };
 
-"IBHsiw9F" = lib.buildMinecraftMod {
+"IBHsiw9F" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.5 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.5";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.5/sodium-extra-0.4.5%2Bmc1.16.5-build.40.jar";
@@ -959,7 +959,7 @@
   };
 };
 
-"9LvKUEYM" = lib.buildMinecraftMod {
+"9LvKUEYM" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.4 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.4";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.4/sodium-extra-0.4.4%2Bmc1.18.2-build.39.jar";
@@ -971,7 +971,7 @@
   };
 };
 
-"PnPHBaVy" = lib.buildMinecraftMod {
+"PnPHBaVy" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.4 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.4";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.4/sodium-extra-0.4.4%2Bmc1.17.1-build.38.jar";
@@ -983,7 +983,7 @@
   };
 };
 
-"CTXE2AKs" = lib.buildMinecraftMod {
+"CTXE2AKs" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.4 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.4";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.4/sodium-extra-0.4.4%2Bmc1.16.5-build.37.jar";
@@ -995,7 +995,7 @@
   };
 };
 
-"i2Nmjt90" = lib.buildMinecraftMod {
+"i2Nmjt90" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.3 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.3";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.3/sodium-extra-mc1.18.2-0.4.3.jar";
@@ -1007,7 +1007,7 @@
   };
 };
 
-"94EgQDeg" = lib.buildMinecraftMod {
+"94EgQDeg" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.3 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.3";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.3/sodium-extra-mc1.17.1-0.4.3.jar";
@@ -1019,7 +1019,7 @@
   };
 };
 
-"sbn6gcHk" = lib.buildMinecraftMod {
+"sbn6gcHk" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.3 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.3";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.3/sodium-extra-mc1.16.5-0.4.3.jar";
@@ -1031,7 +1031,7 @@
   };
 };
 
-"PJ4CMlHv" = lib.buildMinecraftMod {
+"PJ4CMlHv" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.2 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.2";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.2/sodium-extra-mc1.18.2-0.4.2.jar";
@@ -1043,7 +1043,7 @@
   };
 };
 
-"ayM5uEC0" = lib.buildMinecraftMod {
+"ayM5uEC0" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.2 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.2";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.2/sodium-extra-mc1.17.1-0.4.2.jar";
@@ -1055,7 +1055,7 @@
   };
 };
 
-"VN2ZNh3U" = lib.buildMinecraftMod {
+"VN2ZNh3U" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.2 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.2";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.2/sodium-extra-mc1.16.5-0.4.2.jar";
@@ -1067,7 +1067,7 @@
   };
 };
 
-"sz9gF7BV" = lib.buildMinecraftMod {
+"sz9gF7BV" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.1 for Minecraft 1.18.2";
   version = "mc1.18.2-0.4.1";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.1/sodium-extra-mc1.18.2-0.4.1.jar";
@@ -1079,7 +1079,7 @@
   };
 };
 
-"Rm4R3w92" = lib.buildMinecraftMod {
+"Rm4R3w92" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.1 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.1";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.1/sodium-extra-mc1.16.5-0.4.1.jar";
@@ -1091,7 +1091,7 @@
   };
 };
 
-"ttrO1VBz" = lib.buildMinecraftMod {
+"ttrO1VBz" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.1 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.1";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.1/sodium-extra-mc1.17.1-0.4.1.jar";
@@ -1103,7 +1103,7 @@
   };
 };
 
-"F8hFUYl1" = lib.buildMinecraftMod {
+"F8hFUYl1" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.0 for Minecraft 1.18.1";
   version = "mc1.18.1-0.4.0";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.1-0.4.0/sodium-extra-mc1.18.1-0.4.0.jar";
@@ -1115,7 +1115,7 @@
   };
 };
 
-"gPzjZZuj" = lib.buildMinecraftMod {
+"gPzjZZuj" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.0 for Minecraft 1.17.1";
   version = "mc1.17.1-0.4.0";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.4.0/sodium-extra-mc1.17.1-0.4.0.jar";
@@ -1127,7 +1127,7 @@
   };
 };
 
-"8aOUTxhP" = lib.buildMinecraftMod {
+"8aOUTxhP" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.4.0 for Minecraft 1.16.5";
   version = "mc1.16.5-0.4.0";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.4.0/sodium-extra-mc1.16.5-0.4.0.jar";
@@ -1139,7 +1139,7 @@
   };
 };
 
-"SlKhm70V" = lib.buildMinecraftMod {
+"SlKhm70V" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.9 for Minecraft 1.16.5";
   version = "mc1.16.5-0.3.9";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.16.5-0.3.9/sodium-extra-mc1.16.5-0.3.9.jar";
@@ -1151,7 +1151,7 @@
   };
 };
 
-"In6mnyuN" = lib.buildMinecraftMod {
+"In6mnyuN" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.9 for Minecraft 1.18.1";
   version = "mc1.18.1-0.3.9";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.1-0.3.9/sodium-extra-mc1.18.1-0.3.9.jar";
@@ -1163,7 +1163,7 @@
   };
 };
 
-"mskRjVNX" = lib.buildMinecraftMod {
+"mskRjVNX" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.9 for Minecraft 1.17.1";
   version = "mc1.17.1-0.3.9";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.3.9/sodium-extra-mc1.17.1-0.3.9.jar";
@@ -1175,7 +1175,7 @@
   };
 };
 
-"xph98Tt6" = lib.buildMinecraftMod {
+"xph98Tt6" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.8 for Minecraft 1.18.1";
   version = "mc1.18.1-0.3.8";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.1-0.3.8/sodium-extra-mc1.18.1-0.3.8.jar";
@@ -1187,7 +1187,7 @@
   };
 };
 
-"iChhfRqr" = lib.buildMinecraftMod {
+"iChhfRqr" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.7 for Minecraft 1.18";
   version = "mc1.18-0.3.7";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18-0.3.7/sodium-extra-mc1.18-0.3.7.jar";
@@ -1199,7 +1199,7 @@
   };
 };
 
-"H7MDUukG" = lib.buildMinecraftMod {
+"H7MDUukG" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.6 for Minecraft 1.17.1/1.17";
   version = "mc1.17.1-0.3.6";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.17.1-0.3.6/sodium-extra-mc1.17.1-0.3.6.jar";
@@ -1211,7 +1211,7 @@
   };
 };
 
-"9t9pgzTc" = lib.buildMinecraftMod {
+"9t9pgzTc" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.5 for Minecraft 1.16.5";
   version = "mc.1.16.5-0.3.5";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc.1.16.5-0.3.5/sodium-extra-mc1.16.5-0.3.5.jar";
@@ -1223,7 +1223,7 @@
   };
 };
 
-"qGLCzjA2" = lib.buildMinecraftMod {
+"qGLCzjA2" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.5 for Minecraft 1.17.1/1.17";
   version = "0.3.5";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.3.5/sodium-extra-mc1.17.1-0.3.5.jar";
@@ -1235,7 +1235,7 @@
   };
 };
 
-"K9lmo9hu" = lib.buildMinecraftMod {
+"K9lmo9hu" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.4 for Minecraft 1.17.1/1.17";
   version = "0.3.4";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.3.4/sodium-extra-mc1.17.1-0.3.4.jar";
@@ -1247,7 +1247,7 @@
   };
 };
 
-"2X32poLf" = lib.buildMinecraftMod {
+"2X32poLf" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.3 for Minecraft 1.17.1/1.17";
   version = "0.3.3";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.3.3/sodium-extra-mc1.17.1-0.3.3.jar";
@@ -1259,7 +1259,7 @@
   };
 };
 
-"NjwlXlbU" = lib.buildMinecraftMod {
+"NjwlXlbU" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.2";
   version = "0.3.2";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.3.2/sodium-extra-0.3.2.jar";
@@ -1271,7 +1271,7 @@
   };
 };
 
-"4RzKa4mY" = lib.buildMinecraftMod {
+"4RzKa4mY" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.1";
   version = "0.3.1";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.3.1/sodium-extra-0.3.1.jar";
@@ -1283,7 +1283,7 @@
   };
 };
 
-"L460MTe0" = lib.buildMinecraftMod {
+"L460MTe0" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.0 - Next Branch Compatibility";
   version = "0.3.0-next-compat";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.3.0-next-compat/sodium-extra-0.3.0-next-compat.jar";
@@ -1295,7 +1295,7 @@
   };
 };
 
-"NDv7VmNM" = lib.buildMinecraftMod {
+"NDv7VmNM" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.3.0";
   version = "0.3.0";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.3.0/sodium-extra-0.3.0.jar";
@@ -1307,7 +1307,7 @@
   };
 };
 
-"qBwrXVDm" = lib.buildMinecraftMod {
+"qBwrXVDm" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.2.6";
   version = "0.2.6";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.2.6/sodium-extra-0.2.6.jar";
@@ -1319,7 +1319,7 @@
   };
 };
 
-"dA5kUtCN" = lib.buildMinecraftMod {
+"dA5kUtCN" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.2.5";
   version = "0.2.5";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.2.5/sodium-extra-0.2.5.jar";
@@ -1331,7 +1331,7 @@
   };
 };
 
-"E1Chj4yH" = lib.buildMinecraftMod {
+"E1Chj4yH" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.2.2";
   version = "0.2.2";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.2.2/sodium-extra-0.2.2.jar";
@@ -1343,7 +1343,7 @@
   };
 };
 
-"fQlbGqah" = lib.buildMinecraftMod {
+"fQlbGqah" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.2.0";
   version = "0.2.0";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.2.0/sodium-extra-0.2.0.jar";
@@ -1355,7 +1355,7 @@
   };
 };
 
-"uFWdXpRc" = lib.buildMinecraftMod {
+"uFWdXpRc" = lib.buildMinecraftFile {
   pname = "Sodium Extra 0.1.0";
   version = "0.1.0";
   url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/0.1.0/sodium-extra-0.1.0.jar";

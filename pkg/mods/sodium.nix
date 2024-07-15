@@ -1,5 +1,5 @@
 { lib, ... }: {
-"RncWhTxD" = lib.buildMinecraftMod {
+"RncWhTxD" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.11";
   version = "mc1.21-0.5.11";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/RncWhTxD/sodium-fabric-0.5.11%2Bmc1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"OwLQelEI" = lib.buildMinecraftMod {
+"OwLQelEI" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.11";
   version = "mc1.20.6-0.5.11";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/OwLQelEI/sodium-fabric-0.5.11%2Bmc1.20.6.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"ygf8cVZg" = lib.buildMinecraftMod {
+"ygf8cVZg" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.11";
   version = "mc1.20.1-0.5.11";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/ygf8cVZg/sodium-fabric-0.5.11%2Bmc1.20.1.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"dEpHs0Hg" = lib.buildMinecraftMod {
+"dEpHs0Hg" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.10";
   version = "mc1.20.1-0.5.10";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/dEpHs0Hg/sodium-fabric-0.5.10%2Bmc1.20.1.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"QHGZ9XSU" = lib.buildMinecraftMod {
+"QHGZ9XSU" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.9";
   version = "mc1.20.1-0.5.9";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/QHGZ9XSU/sodium-fabric-0.5.9%2Bmc1.20.1.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"dNHeFokL" = lib.buildMinecraftMod {
+"dNHeFokL" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.9";
   version = "mc1.21-0.5.9";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/dNHeFokL/sodium-fabric-0.5.9%2Bmc1.21.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"qhg37WBD" = lib.buildMinecraftMod {
+"qhg37WBD" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.9";
   version = "mc1.20.6-0.5.9";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/qhg37WBD/sodium-fabric-0.5.9%2Bmc1.20.6.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"IZskON6d" = lib.buildMinecraftMod {
+"IZskON6d" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.8";
   version = "mc1.20.6-0.5.8";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/IZskON6d/sodium-fabric-0.5.8%2Bmc1.20.6.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"hLV8Q8uu" = lib.buildMinecraftMod {
+"hLV8Q8uu" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.8";
   version = "mc1.20.5-0.5.8";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/hLV8Q8uu/sodium-fabric-0.5.8%2Bmc1.20.5.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"4GyXKCLd" = lib.buildMinecraftMod {
+"4GyXKCLd" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.8";
   version = "mc1.20.4-0.5.8";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/4GyXKCLd/sodium-fabric-0.5.8%2Bmc1.20.4.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"mhZtY2lR" = lib.buildMinecraftMod {
+"mhZtY2lR" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.8";
   version = "mc1.20.1-0.5.8";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/mhZtY2lR/sodium-fabric-0.5.8%2Bmc1.20.1.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"Wzzjm5lQ" = lib.buildMinecraftMod {
+"Wzzjm5lQ" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.7";
   version = "mc1.20.3-0.5.7";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/Wzzjm5lQ/sodium-fabric-0.5.7%2Bmc1.20.3.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"umKbm1Rp" = lib.buildMinecraftMod {
+"umKbm1Rp" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.7";
   version = "mc1.20.1-0.5.7";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/umKbm1Rp/sodium-fabric-0.5.7%2Bmc1.20.1.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"xNJ0Mpbx" = lib.buildMinecraftMod {
+"xNJ0Mpbx" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.6";
   version = "mc1.20.3-0.5.6";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/xNJ0Mpbx/sodium-fabric-0.5.6%2Bmc1.20.3.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"rUXIwGKA" = lib.buildMinecraftMod {
+"rUXIwGKA" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.6";
   version = "mc1.20.1-0.5.6";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/rUXIwGKA/sodium-fabric-0.5.6%2Bmc1.20.1.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"pmgeU5yX" = lib.buildMinecraftMod {
+"pmgeU5yX" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.5";
   version = "mc1.20.2-0.5.5";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/pmgeU5yX/sodium-fabric-mc1.20.2-0.5.5.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"InGKdfel" = lib.buildMinecraftMod {
+"InGKdfel" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.5";
   version = "mc1.20.3-0.5.5";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/InGKdfel/sodium-fabric-mc1.20.3-0.5.5.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"zPwAvKCF" = lib.buildMinecraftMod {
+"zPwAvKCF" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.4";
   version = "mc1.20.3-0.5.4";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/zPwAvKCF/sodium-fabric-mc1.20.3-0.5.4.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"lhZYeXLf" = lib.buildMinecraftMod {
+"lhZYeXLf" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.4";
   version = "mc1.20.2-0.5.4";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/lhZYeXLf/sodium-fabric-mc1.20.2-0.5.4.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"bbP1qBMr" = lib.buildMinecraftMod {
+"bbP1qBMr" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.3";
   version = "mc1.20.2-0.5.3";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/bbP1qBMr/sodium-fabric-mc1.20.2-0.5.3.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"4OZL6q9h" = lib.buildMinecraftMod {
+"4OZL6q9h" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.3";
   version = "mc1.20.1-0.5.3";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/4OZL6q9h/sodium-fabric-mc1.20.1-0.5.3.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"6SSPmLc9" = lib.buildMinecraftMod {
+"6SSPmLc9" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.2";
   version = "mc1.20.1-0.5.2";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/6SSPmLc9/sodium-fabric-mc1.20.1-0.5.2.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"OkwCNtFH" = lib.buildMinecraftMod {
+"OkwCNtFH" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.1";
   version = "mc1.20.1-0.5.1";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/OkwCNtFH/sodium-fabric-mc1.20.1-0.5.1.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"hiO9bwqc" = lib.buildMinecraftMod {
+"hiO9bwqc" = lib.buildMinecraftFile {
   pname = "Sodium 0.5.0";
   version = "mc1.20.1-0.5.0";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/hiO9bwqc/sodium-fabric-mc1.20.1-0.5.0.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"vgceLbdH" = lib.buildMinecraftMod {
+"vgceLbdH" = lib.buildMinecraftFile {
   pname = "Sodium 0.4.10";
   version = "mc1.20-0.4.10";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/vgceLbdH/sodium-fabric-mc1.20-0.4.10%2Bbuild.27.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"b4hTi3mo" = lib.buildMinecraftMod {
+"b4hTi3mo" = lib.buildMinecraftFile {
   pname = "Sodium 0.4.10";
   version = "mc1.19.4-0.4.10";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/b4hTi3mo/sodium-fabric-mc1.19.4-0.4.10%2Bbuild.24.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"idtcaIVT" = lib.buildMinecraftMod {
+"idtcaIVT" = lib.buildMinecraftFile {
   pname = "Sodium 0.4.9";
   version = "mc1.19.3-0.4.9";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/idtcaIVT/sodium-fabric-mc1.19.3-0.4.9%2Bbuild.23.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"oYfJQ6lR" = lib.buildMinecraftMod {
+"oYfJQ6lR" = lib.buildMinecraftFile {
   pname = "Sodium 0.4.8";
   version = "mc1.19.3-0.4.8";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/oYfJQ6lR/sodium-fabric-mc1.19.3-0.4.8%2Bbuild.22.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"ObtU68vj" = lib.buildMinecraftMod {
+"ObtU68vj" = lib.buildMinecraftFile {
   pname = "Sodium 0.4.7";
   version = "mc1.19.3-0.4.7";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/ObtU68vj/sodium-fabric-mc1.19.3-0.4.7%2Bbuild.21.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"Nr39FOaS" = lib.buildMinecraftMod {
+"Nr39FOaS" = lib.buildMinecraftFile {
   pname = "Sodium 0.4.6";
   version = "mc1.19.3-0.4.6";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/Nr39FOaS/sodium-fabric-mc1.19.3-0.4.6%2Bbuild.20.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"mnEhtGuH" = lib.buildMinecraftMod {
+"mnEhtGuH" = lib.buildMinecraftFile {
   pname = "Sodium 0.4.5";
   version = "mc1.19.3-0.4.5";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"rAfhHfow" = lib.buildMinecraftMod {
+"rAfhHfow" = lib.buildMinecraftFile {
   pname = "Sodium 0.4.4";
   version = "mc1.19.2-0.4.4";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/rAfhHfow/sodium-fabric-mc1.19.2-0.4.4%2Bbuild.18.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"F79MzDJD" = lib.buildMinecraftMod {
+"F79MzDJD" = lib.buildMinecraftFile {
   pname = "Sodium 0.4.3";
   version = "mc1.19.2-0.4.3";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/F79MzDJD/sodium-fabric-mc1.19.2-0.4.3%2Bbuild.17.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"Yp8wLY1P" = lib.buildMinecraftMod {
+"Yp8wLY1P" = lib.buildMinecraftFile {
   pname = "Sodium 0.4.2";
   version = "mc1.19-0.4.2";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2%2Bbuild.16.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"74Y5Z8fo" = lib.buildMinecraftMod {
+"74Y5Z8fo" = lib.buildMinecraftFile {
   pname = "Sodium 0.4.1";
   version = "mc1.18.2-0.4.1";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.2-0.4.1/sodium-fabric-mc1.18.2-0.4.1%2Bbuild.15.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"5JyduDNN" = lib.buildMinecraftMod {
+"5JyduDNN" = lib.buildMinecraftFile {
   pname = "Sodium 0.4.0a6";
   version = "mc1.18.1-0.4.0-alpha6";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18.1-0.4.0-alpha6/sodium-fabric-mc1.18.1-0.4.0-alpha6%2Bbuild.14.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"Fz37KqRh" = lib.buildMinecraftMod {
+"Fz37KqRh" = lib.buildMinecraftFile {
   pname = "Sodium 0.3.4";
   version = "mc1.17.1-0.3.4";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.4/sodium-fabric-mc1.17.1-0.3.4%2Bbuild.13.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"6YGRDUVT" = lib.buildMinecraftMod {
+"6YGRDUVT" = lib.buildMinecraftFile {
   pname = "Sodium 0.4.0a5";
   version = "mc1.18-0.4.0-alpha5";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.18-0.40-alpha5/sodium-fabric-mc1.18-0.4.0-alpha5%2Bbuild.9.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"3JJvf9Kn" = lib.buildMinecraftMod {
+"3JJvf9Kn" = lib.buildMinecraftFile {
   pname = "Sodium 0.3.3";
   version = "mc1.17.1-0.3.3";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.3/sodium-fabric-mc1.17.1-0.3.3%2Bbuild.8.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"xuWxRZPd" = lib.buildMinecraftMod {
+"xuWxRZPd" = lib.buildMinecraftFile {
   pname = "Sodium 0.3.2";
   version = "mc1.17.1-0.3.2";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.2/sodium-fabric-mc1.17.1-0.3.2%2Bbuild.7.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"80jYkEVr" = lib.buildMinecraftMod {
+"80jYkEVr" = lib.buildMinecraftFile {
   pname = "Sodium 0.3.1";
   version = "mc1.17.1-0.3.1";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.1/sodium-fabric-mc1.17.1-0.3.1%2Bbuild.6.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"1b0GhKHj" = lib.buildMinecraftMod {
+"1b0GhKHj" = lib.buildMinecraftFile {
   pname = "Sodium 0.3.0";
   version = "mc1.17.1-0.3.0";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.17.1-0.3.0/sodium-fabric-mc1.17.1-0.3.0%2Bbuild.5.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"YAGZ1cCS" = lib.buildMinecraftMod {
+"YAGZ1cCS" = lib.buildMinecraftFile {
   pname = "Sodium 0.2.0";
   version = "mc1.16.5-0.2.0";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.5-0.2.0/sodium-fabric-mc1.16.5-0.2.0%2Bbuild.4.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"yaoBL9D9" = lib.buildMinecraftMod {
+"yaoBL9D9" = lib.buildMinecraftFile {
   pname = "Sodium 0.1.0";
   version = "mc1.16.3-0.1.0";
   url = "https://cdn.modrinth.com/data/AANobbMI/versions/mc1.16.3-0.1.0/sodium-fabric-mc1.16.3-0.1.0.jar";

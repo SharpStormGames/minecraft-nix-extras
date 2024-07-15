@@ -1,5 +1,5 @@
 { lib, ... }: {
-"8VBKUY5S" = lib.buildMinecraftMod {
+"8VBKUY5S" = lib.buildMinecraftFile {
   pname = "Zoomify 2.14.0 for MC 1.20.1";
   version = "2.14.0+1.20.1";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/8VBKUY5S/Zoomify-2.14.0%2B1.20.1.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"hzEfkIGF" = lib.buildMinecraftMod {
+"hzEfkIGF" = lib.buildMinecraftFile {
   pname = "Zoomify 2.14.0 for MC 1.20.4";
   version = "2.14.0+1.20.4";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/hzEfkIGF/Zoomify-2.14.0%2B1.20.4.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"twJQAslW" = lib.buildMinecraftMod {
+"twJQAslW" = lib.buildMinecraftFile {
   pname = "Zoomify 2.14.0 for MC 1.20.6";
   version = "2.14.0+1.20.6";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/twJQAslW/Zoomify-2.14.0%2B1.20.6.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"vg7GaKbh" = lib.buildMinecraftMod {
+"vg7GaKbh" = lib.buildMinecraftFile {
   pname = "Zoomify 2.14.0 for MC 1.21";
   version = "2.14.0+1.21";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/vg7GaKbh/Zoomify-2.14.0%2B1.21.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"66iHgfN8" = lib.buildMinecraftMod {
+"66iHgfN8" = lib.buildMinecraftFile {
   pname = "Zoomify 2.13.5 for MC 1.20.1";
   version = "2.13.5+1.20.1";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/66iHgfN8/Zoomify-2.13.5%2B1.20.1.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"OggLUOr6" = lib.buildMinecraftMod {
+"OggLUOr6" = lib.buildMinecraftFile {
   pname = "Zoomify 2.13.5 for MC 1.20.4";
   version = "2.13.5+1.20.4";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/OggLUOr6/Zoomify-2.13.5%2B1.20.4.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"8BIz17tA" = lib.buildMinecraftMod {
+"8BIz17tA" = lib.buildMinecraftFile {
   pname = "Zoomify 2.13.5 for MC 1.20.6";
   version = "2.13.5+1.20.6";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/8BIz17tA/Zoomify-2.13.5%2B1.20.6.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"eLEIUtBo" = lib.buildMinecraftMod {
+"eLEIUtBo" = lib.buildMinecraftFile {
   pname = "Zoomify 2.13.4 for MC 1.20.1";
   version = "2.13.4+1.20.1";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/eLEIUtBo/Zoomify-2.13.4%2B1.20.1.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"VfWNmPC4" = lib.buildMinecraftMod {
+"VfWNmPC4" = lib.buildMinecraftFile {
   pname = "Zoomify 2.13.4 for MC 1.20.4";
   version = "2.13.4+1.20.4";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/VfWNmPC4/Zoomify-2.13.4%2B1.20.4.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"FiLFLGIB" = lib.buildMinecraftMod {
+"FiLFLGIB" = lib.buildMinecraftFile {
   pname = "Zoomify 2.13.4 for MC 1.20.6";
   version = "2.13.4+1.20.6";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/FiLFLGIB/Zoomify-2.13.4%2B1.20.6.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"LIBdkZvZ" = lib.buildMinecraftMod {
+"LIBdkZvZ" = lib.buildMinecraftFile {
   pname = "2.13.3";
   version = "2.13.3";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/LIBdkZvZ/Zoomify-2.13.3.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"BalILUb7" = lib.buildMinecraftMod {
+"BalILUb7" = lib.buildMinecraftFile {
   pname = "2.13.2";
   version = "2.13.2";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/BalILUb7/Zoomify-2.13.2.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"8cY8HQIg" = lib.buildMinecraftMod {
+"8cY8HQIg" = lib.buildMinecraftFile {
   pname = "2.13.1";
   version = "2.13.1";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/8cY8HQIg/Zoomify-2.13.1.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"JiEpJuon" = lib.buildMinecraftMod {
+"JiEpJuon" = lib.buildMinecraftFile {
   pname = "2.13.0";
   version = "2.13.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/JiEpJuon/Zoomify-2.13.0.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"QRQLkNPJ" = lib.buildMinecraftMod {
+"QRQLkNPJ" = lib.buildMinecraftFile {
   pname = "2.12.0";
   version = "2.12.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/QRQLkNPJ/Zoomify-2.12.0.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"gZr7EykF" = lib.buildMinecraftMod {
+"gZr7EykF" = lib.buildMinecraftFile {
   pname = "2.11.2";
   version = "2.11.2";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/gZr7EykF/Zoomify-2.11.2.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"1AYfSJ9O" = lib.buildMinecraftMod {
+"1AYfSJ9O" = lib.buildMinecraftFile {
   pname = "2.11.1";
   version = "2.11.1";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1AYfSJ9O/Zoomify-2.11.1.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"tv8GIQDa" = lib.buildMinecraftMod {
+"tv8GIQDa" = lib.buildMinecraftFile {
   pname = "2.11.0";
   version = "2.11.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/tv8GIQDa/Zoomify-2.11.0.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"1mKrqlvv" = lib.buildMinecraftMod {
+"1mKrqlvv" = lib.buildMinecraftFile {
   pname = "2.10.0";
   version = "2.10.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1mKrqlvv/Zoomify-2.10.0.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"mIiMyney" = lib.buildMinecraftMod {
+"mIiMyney" = lib.buildMinecraftFile {
   pname = "2.9.4";
   version = "2.9.4";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/mIiMyney/Zoomify-2.9.4.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"p5RjeOJL" = lib.buildMinecraftMod {
+"p5RjeOJL" = lib.buildMinecraftFile {
   pname = "2.9.2";
   version = "2.9.2";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/p5RjeOJL/Zoomify-2.9.2.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"YHh8fxDi" = lib.buildMinecraftMod {
+"YHh8fxDi" = lib.buildMinecraftFile {
   pname = "2.9.1";
   version = "2.9.1";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/YHh8fxDi/Zoomify-2.9.1.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"f017okM4" = lib.buildMinecraftMod {
+"f017okM4" = lib.buildMinecraftFile {
   pname = "2.9.0";
   version = "2.9.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/f017okM4/Zoomify-2.9.0.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"nls01OIv" = lib.buildMinecraftMod {
+"nls01OIv" = lib.buildMinecraftFile {
   pname = "2.8.0";
   version = "2.8.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/nls01OIv/Zoomify-2.8.0.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"TQKBOZaT" = lib.buildMinecraftMod {
+"TQKBOZaT" = lib.buildMinecraftFile {
   pname = "2.7.0";
   version = "2.7.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/TQKBOZaT/Zoomify-2.7.0.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"sC6H3PnU" = lib.buildMinecraftMod {
+"sC6H3PnU" = lib.buildMinecraftFile {
   pname = "1.6.0+build.2";
   version = "1.6.0+build.2";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/sC6H3PnU/Zoomify-1.6.0%2Bbuild.2.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"zS4oS6ht" = lib.buildMinecraftMod {
+"zS4oS6ht" = lib.buildMinecraftFile {
   pname = "2.6.0";
   version = "2.6.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/zS4oS6ht/Zoomify-2.6.0.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"BrGdvUUq" = lib.buildMinecraftMod {
+"BrGdvUUq" = lib.buildMinecraftFile {
   pname = "2.5.1";
   version = "2.5.1";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/BrGdvUUq/Zoomify-2.5.1.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"VqJlUKUp" = lib.buildMinecraftMod {
+"VqJlUKUp" = lib.buildMinecraftFile {
   pname = "2.5.0";
   version = "2.5.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/VqJlUKUp/Zoomify-2.5.0.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"vdNR7RSe" = lib.buildMinecraftMod {
+"vdNR7RSe" = lib.buildMinecraftFile {
   pname = "2.4.2";
   version = "2.4.2";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/vdNR7RSe/Zoomify-2.4.2.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"3bwXGtwH" = lib.buildMinecraftMod {
+"3bwXGtwH" = lib.buildMinecraftFile {
   pname = "2.4.1";
   version = "2.4.1";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/3bwXGtwH/Zoomify-2.4.1.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"ssxmDm4w" = lib.buildMinecraftMod {
+"ssxmDm4w" = lib.buildMinecraftFile {
   pname = "2.4.0";
   version = "2.4.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/ssxmDm4w/Zoomify-2.4.0.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"ClfJLhWu" = lib.buildMinecraftMod {
+"ClfJLhWu" = lib.buildMinecraftFile {
   pname = "2.3.0";
   version = "2.3.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/ClfJLhWu/Zoomify-2.3.0.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"IjbCI21q" = lib.buildMinecraftMod {
+"IjbCI21q" = lib.buildMinecraftFile {
   pname = "2.2.0";
   version = "2.2.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/2.2.0/Zoomify-2.2.0.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"t2MUOMy5" = lib.buildMinecraftMod {
+"t2MUOMy5" = lib.buildMinecraftFile {
   pname = "2.0.3";
   version = "2.0.3";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/2.0.3/Zoomify-2.0.3.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"qJLT1UZa" = lib.buildMinecraftMod {
+"qJLT1UZa" = lib.buildMinecraftFile {
   pname = "2.0.2";
   version = "2.0.2";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/2.0.2/Zoomify-2.0.2.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"yRrEHsQ0" = lib.buildMinecraftMod {
+"yRrEHsQ0" = lib.buildMinecraftFile {
   pname = "2.0.1";
   version = "2.0.1";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/2.0.1/Zoomify-2.0.1.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"LropUbSI" = lib.buildMinecraftMod {
+"LropUbSI" = lib.buildMinecraftFile {
   pname = "2.0.0";
   version = "2.0.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/2.0.0/Zoomify-2.0.0.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"ywAz0NBY" = lib.buildMinecraftMod {
+"ywAz0NBY" = lib.buildMinecraftFile {
   pname = "1.7.1";
   version = "1.7.1";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.7.1/Zoomify-1.7.1.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"Dqby42rh" = lib.buildMinecraftMod {
+"Dqby42rh" = lib.buildMinecraftFile {
   pname = "1.7.0";
   version = "1.7.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.7.0/Zoomify-1.7.0.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"HDVevQGA" = lib.buildMinecraftMod {
+"HDVevQGA" = lib.buildMinecraftFile {
   pname = "1.6.2";
   version = "1.6.2";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.6.2/Zoomify-1.6.2.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"jfoKe5Fr" = lib.buildMinecraftMod {
+"jfoKe5Fr" = lib.buildMinecraftFile {
   pname = "1.6.1";
   version = "1.6.1";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.6.1/Zoomify-1.6.1.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"2ZC7Fxc8" = lib.buildMinecraftMod {
+"2ZC7Fxc8" = lib.buildMinecraftFile {
   pname = "1.6.0";
   version = "1.6.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.6.0/Zoomify-1.6.0.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"Z7VJkXXa" = lib.buildMinecraftMod {
+"Z7VJkXXa" = lib.buildMinecraftFile {
   pname = "1.5.0";
   version = "1.5.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.5.0/Zoomify-1.5.0.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"87tTbECt" = lib.buildMinecraftMod {
+"87tTbECt" = lib.buildMinecraftFile {
   pname = "1.4.0";
   version = "1.4.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.4.0/Zoomify-1.4.0.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"p4qDdICN" = lib.buildMinecraftMod {
+"p4qDdICN" = lib.buildMinecraftFile {
   pname = "1.3.1";
   version = "1.3.1";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.3.1/Zoomify-1.3.1.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"4Kmn0eeU" = lib.buildMinecraftMod {
+"4Kmn0eeU" = lib.buildMinecraftFile {
   pname = "1.3.0";
   version = "1.3.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.3.0/Zoomify-1.3.0.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"gUBtDUBp" = lib.buildMinecraftMod {
+"gUBtDUBp" = lib.buildMinecraftFile {
   pname = "1.2.0";
   version = "1.2.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.2.0/Zoomify-1.2.0.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"cgp0M9ZD" = lib.buildMinecraftMod {
+"cgp0M9ZD" = lib.buildMinecraftFile {
   pname = "1.1.0";
   version = "1.1.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.1.0/Zoomify-1.1.0.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"iVw60IvO" = lib.buildMinecraftMod {
+"iVw60IvO" = lib.buildMinecraftFile {
   pname = "1.0.0";
   version = "1.0.0";
   url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/1.0.0/Zoomify-1.0.jar";

@@ -38,7 +38,9 @@ jobs:
     - name: Install Nu
       uses: hustcer/setup-nu@v3
     - name: Update Metadata
-      run: nix run .#update
+      run: nix run .#update-mod
+      run: nix run .#update-resource
+      run: nix run .#update-shader
     - name: Pull
       run: git pull
     - name: Push

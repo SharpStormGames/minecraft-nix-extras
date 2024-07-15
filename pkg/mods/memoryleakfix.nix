@@ -1,5 +1,5 @@
 { lib, ... }: {
-"X5MN9zOr" = lib.buildMinecraftMod {
+"X5MN9zOr" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.1.5 [fabric,1.14.4-1.16.5]";
   version = "v1.1.5";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/X5MN9zOr/memoryleakfix-fabric-pre1.17-1.1.5.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"5xvCCRjJ" = lib.buildMinecraftMod {
+"5xvCCRjJ" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.1.5 [fabric,1.17+]";
   version = "v1.1.5";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/5xvCCRjJ/memoryleakfix-fabric-1.17%2B-1.1.5.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"5eYju5dK" = lib.buildMinecraftMod {
+"5eYju5dK" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.1.4 [fabric,1.14.4-1.16.5]";
   version = "v1.1.4";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/5eYju5dK/memoryleakfix-fabric-pre1.17-1.1.4.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"wgonbjM5" = lib.buildMinecraftMod {
+"wgonbjM5" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.1.4 [fabric,1.17+]";
   version = "v1.1.4";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/wgonbjM5/memoryleakfix-fabric-1.17%2B-1.1.4.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"i3LESZB2" = lib.buildMinecraftMod {
+"i3LESZB2" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.1.4 [fabric,1.14.4-1.16.5]";
   version = "v1.1.4";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/i3LESZB2/memoryleakfix-fabric-pre1.17-1.1.4.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"PPpK82xV" = lib.buildMinecraftMod {
+"PPpK82xV" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.1.3 [fabric,1.14.4-1.16.5]";
   version = "v1.1.3";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/PPpK82xV/memoryleakfix-fabric-pre1.17-1.1.3.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"r62Eyd0k" = lib.buildMinecraftMod {
+"r62Eyd0k" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.1.3 [fabric,1.17+]";
   version = "v1.1.3";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/r62Eyd0k/memoryleakfix-fabric-1.17%2B-1.1.3.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"IRQCDoh9" = lib.buildMinecraftMod {
+"IRQCDoh9" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.1.2 [fabric,1.14.4-1.16.5]";
   version = "v1.1.2";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/IRQCDoh9/memoryleakfix-fabric-pre1.17-1.1.2.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"dGlflhb6" = lib.buildMinecraftMod {
+"dGlflhb6" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.1.2 [fabric,1.17+]";
   version = "v1.1.2";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/dGlflhb6/memoryleakfix-fabric-1.17%2B-1.1.2.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"kLyFtyv2" = lib.buildMinecraftMod {
+"kLyFtyv2" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.1.1 [fabric,1.17+]";
   version = "v1.1.1";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/kLyFtyv2/memoryleakfix-fabric-1.17%2B-1.1.1.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"kQl1KJI6" = lib.buildMinecraftMod {
+"kQl1KJI6" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.1.1 [fabric,1.14.4-1.16.5]";
   version = "v1.1.1";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/kQl1KJI6/memoryleakfix-fabric-pre1.17-1.1.1.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"nXoHagjH" = lib.buildMinecraftMod {
+"nXoHagjH" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.1.0 [fabric,1.14.4-1.16.5]";
   version = "v1.1.0";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/nXoHagjH/memoryleakfix-fabric-pre1.17-1.1.0.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"ES2a9WYG" = lib.buildMinecraftMod {
+"ES2a9WYG" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.1.0 [fabric,1.17+]";
   version = "v1.1.0";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/ES2a9WYG/memoryleakfix-fabric-1.17%2B-1.1.0.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"9UDEn8ja" = lib.buildMinecraftMod {
+"9UDEn8ja" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.0.0 [fabric,1.14.4-1.16.5]";
   version = "v1.0.0";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/9UDEn8ja/memoryleakfix-fabric-pre1.17-1.0.0.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"PtXTwQt6" = lib.buildMinecraftMod {
+"PtXTwQt6" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix 1.0.0 [fabric,1.17+]";
   version = "v1.0.0";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/PtXTwQt6/memoryleakfix-fabric-1.17%2B-1.0.0.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"fn7KiVkh" = lib.buildMinecraftMod {
+"fn7KiVkh" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.8.0 for 1.18.2";
   version = "v0.8.0-1.18.2";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/fn7KiVkh/memoryleakfix-1.18.2-0.8.0.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"xn2d7ltf" = lib.buildMinecraftMod {
+"xn2d7ltf" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.8.0 for 1.19.1 - 1.19.3";
   version = "v0.8.0-1.19.x";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/xn2d7ltf/memoryleakfix-1.19.3-0.8.0.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"UWqVNxls" = lib.buildMinecraftMod {
+"UWqVNxls" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.8.0 for 1.19";
   version = "v0.8.0-1.19";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/UWqVNxls/memoryleakfix-1.19-0.8.0.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"YtNQP5gX" = lib.buildMinecraftMod {
+"YtNQP5gX" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.7.0 for 1.19.3";
   version = "v0.7.0-1.19.3";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/YtNQP5gX/memoryleakfix-1.19.3-0.7.0.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"f12YQRLF" = lib.buildMinecraftMod {
+"f12YQRLF" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.7.0 for 1.19";
   version = "v0.7.0-1.19";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.7.0-1.19/memoryleakfix-1.19-0.7.0.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"fDYPSGrC" = lib.buildMinecraftMod {
+"fDYPSGrC" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.7.0 for 1.18.2";
   version = "v0.7.0-1.18";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.7.0-1.18/memoryleakfix-1.18.2-0.7.0.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"tlLtHh1w" = lib.buildMinecraftMod {
+"tlLtHh1w" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.7.0 for 1.19.x";
   version = "v0.7.0";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.7.0/memoryleakfix-1.19.1-0.7.0.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"S6zlvHPT" = lib.buildMinecraftMod {
+"S6zlvHPT" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.6.0 for 1.19.1";
   version = "v0.6.0";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.6.0/memoryleakfix-1.19.1-0.6.0.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"R4CYPhDX" = lib.buildMinecraftMod {
+"R4CYPhDX" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.5.4 for 1.19";
   version = "v0.5.4";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.4/memoryleakfix-1.19-0.5.4.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"uvitUbpR" = lib.buildMinecraftMod {
+"uvitUbpR" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.5.4 for 1.18.2";
   version = "v0.5.4-1.18";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.4-1.18/memoryleakfix-1.18.2-0.5.4.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"oZ1QFlkk" = lib.buildMinecraftMod {
+"oZ1QFlkk" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.5.3 for 1.19";
   version = "v0.5.3";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.3/memoryleakfix-1.19-0.5.3.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"ju6d51G0" = lib.buildMinecraftMod {
+"ju6d51G0" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.5.3 for 1.18.2";
   version = "v0.5.3-1.18";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.3-1.18/memoryleakfix-1.18.2-0.5.2.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"8vFow3y0" = lib.buildMinecraftMod {
+"8vFow3y0" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.5.2 for 1.19";
   version = "v0.5.2";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.2/memoryleakfix-1.19-0.5.2.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"Yw3hrc43" = lib.buildMinecraftMod {
+"Yw3hrc43" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.5.2 for 1.18.2";
   version = "v0.5.2-1.18";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.2-1.18/memoryleakfix-1.18.2-0.5.2.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"zmzNcLjP" = lib.buildMinecraftMod {
+"zmzNcLjP" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.5.1 for 1.18.2";
   version = "v0.5.1-1.18";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.1-1.18/memoryleakfix-1.18.2-0.5.1.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"RZJVmohY" = lib.buildMinecraftMod {
+"RZJVmohY" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.5.1 for 1.19";
   version = "v0.5.1";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.1/memoryleakfix-1.19-0.5.1.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"tXDxRppV" = lib.buildMinecraftMod {
+"tXDxRppV" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.5.0";
   version = "v0.5.0";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.0/memoryleakfix-1.19-0.5.0.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"6WxBG7Wn" = lib.buildMinecraftMod {
+"6WxBG7Wn" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.4.1";
   version = "v0.4.1";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.4.1/memoryleakfix-1.19-0.4.1.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"gPH2ZLuR" = lib.buildMinecraftMod {
+"gPH2ZLuR" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.4.0";
   version = "v0.4.0";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.4.0/memoryleakfix-1.19-0.4.0.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"y1Kvwhgo" = lib.buildMinecraftMod {
+"y1Kvwhgo" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.3.5";
   version = "v0.3.5";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.3.5/memoryleakfix-1.18.2-0.3.5.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"bEzJ3d9Y" = lib.buildMinecraftMod {
+"bEzJ3d9Y" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.3.4";
   version = "v0.3.4";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.3.4/memoryleakfix-1.18.2-0.3.4.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"op83jsPA" = lib.buildMinecraftMod {
+"op83jsPA" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix - v0.3.3";
   version = "v0.3.3";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.3.3/memoryleakfix-1.18.2-0.3.3.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"uxqIlBiR" = lib.buildMinecraftMod {
+"uxqIlBiR" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix v0.3.2";
   version = "v0.3.2";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.3.2/memoryleakfix-1.18.2-0.3.2.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"NK8mmASH" = lib.buildMinecraftMod {
+"NK8mmASH" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix v0.3.1";
   version = "v0.3.1";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.3.1/memoryleakfix-1.18.2-0.3.1.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"db1Qa6iF" = lib.buildMinecraftMod {
+"db1Qa6iF" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix v0.1.1";
   version = "v0.1.1";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.1.1/memoryleakfix-1.17.1-0.1.1.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"XPnqFCe0" = lib.buildMinecraftMod {
+"XPnqFCe0" = lib.buildMinecraftFile {
   pname = "MemoryLeakFix v0.3.0";
   version = "v0.3.0";
   url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.3.0/memoryleakfix-1.18.2-0.3.0.jar";

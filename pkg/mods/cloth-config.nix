@@ -1,5 +1,5 @@
 { lib, ... }: {
-"Yc8omJNb" = lib.buildMinecraftMod {
+"Yc8omJNb" = lib.buildMinecraftFile {
   pname = "[Fabric 1.21] v15.0.127";
   version = "15.0.127+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/Yc8omJNb/cloth-config-15.0.127-fabric.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"znhJLkCd" = lib.buildMinecraftMod {
+"znhJLkCd" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20.5/6] v14.0.126";
   version = "14.0.126+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/znhJLkCd/cloth-config-14.0.126-fabric.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"X9ucoGCn" = lib.buildMinecraftMod {
+"X9ucoGCn" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20.5 (24w14a)] v14.0.125";
   version = "14.0.125+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/X9ucoGCn/cloth-config-14.0.125-fabric.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"JRZSHDFK" = lib.buildMinecraftMod {
+"JRZSHDFK" = lib.buildMinecraftFile {
   pname = "[Fabric 24w14potato April Fools] v14.0.123";
   version = "14.0.123+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/JRZSHDFK/cloth-config-14.0.123-fabric.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"3TLtSX1e" = lib.buildMinecraftMod {
+"3TLtSX1e" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20.5 (24w09a)] v14.0.122";
   version = "14.0.122+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/3TLtSX1e/cloth-config-14.0.122-fabric.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"eBZiZ9NS" = lib.buildMinecraftMod {
+"eBZiZ9NS" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20.4] v13.0.121";
   version = "13.0.121+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/eBZiZ9NS/cloth-config-13.0.121-fabric.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"NPcjyMhi" = lib.buildMinecraftMod {
+"NPcjyMhi" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20.2] v12.0.119";
   version = "12.0.119+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/NPcjyMhi/cloth-config-12.0.119-fabric.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"4UgNKji6" = lib.buildMinecraftMod {
+"4UgNKji6" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19.4] v10.1.117";
   version = "10.1.117+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/4UgNKji6/cloth-config-10.1.117-fabric.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"3Ejdp6VI" = lib.buildMinecraftMod {
+"3Ejdp6VI" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19-1.19.2] v8.3.115";
   version = "8.3.115+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/3Ejdp6VI/cloth-config-8.3.115-fabric.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"J3FLptsi" = lib.buildMinecraftMod {
+"J3FLptsi" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20(.1)] v11.1.118";
   version = "11.1.118+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/J3FLptsi/cloth-config-11.1.118-fabric.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"YFpDLLdu" = lib.buildMinecraftMod {
+"YFpDLLdu" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20.4] v13.0.114";
   version = "13.0.114+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/YFpDLLdu/cloth-config-13.0.114-fabric.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"wjYUbvpn" = lib.buildMinecraftMod {
+"wjYUbvpn" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20.2] v12.0.113";
   version = "12.0.113+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/wjYUbvpn/cloth-config-12.0.113-fabric.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"Q4D6X8wF" = lib.buildMinecraftMod {
+"Q4D6X8wF" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20.4] v13.0.112";
   version = "13.0.112+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/Q4D6X8wF/cloth-config-13.0.112-fabric.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"jvy82BGQ" = lib.buildMinecraftMod {
+"jvy82BGQ" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20.2] v12.0.111";
   version = "12.0.111+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/jvy82BGQ/cloth-config-12.0.111-fabric.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"HvC4UPrB" = lib.buildMinecraftMod {
+"HvC4UPrB" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20.2] v12.0.110";
   version = "12.0.110+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/HvC4UPrB/cloth-config-12.0.110-fabric.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"LnfolBYb" = lib.buildMinecraftMod {
+"LnfolBYb" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20.2] v12.0.109";
   version = "12.0.109+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/LnfolBYb/cloth-config-12.0.109-fabric.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"EuWT3qek" = lib.buildMinecraftMod {
+"EuWT3qek" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20.2] v12.0.108";
   version = "12.0.108+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/EuWT3qek/cloth-config-12.0.108-fabric.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"YR0cy5Ll" = lib.buildMinecraftMod {
+"YR0cy5Ll" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20.2 (23w31a)] v12.0.107";
   version = "12.0.107+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/YR0cy5Ll/cloth-config-12.0.107-fabric.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"s7VTKfLA" = lib.buildMinecraftMod {
+"s7VTKfLA" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20(.1)] v11.1.106";
   version = "11.1.106+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/s7VTKfLA/cloth-config-11.1.106-fabric.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"mhFzbEwE" = lib.buildMinecraftMod {
+"mhFzbEwE" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19.4] v10.1.105";
   version = "10.1.105+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/mhFzbEwE/cloth-config-10.1.105-fabric.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"o9dFD9SO" = lib.buildMinecraftMod {
+"o9dFD9SO" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19-1.19.2] v8.3.103";
   version = "8.3.103+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/o9dFD9SO/cloth-config-8.3.103-fabric.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"w2VZSLTf" = lib.buildMinecraftMod {
+"w2VZSLTf" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19.3] v9.1.104";
   version = "9.1.104+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/w2VZSLTf/cloth-config-9.1.104-fabric.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"BLMp2TRt" = lib.buildMinecraftMod {
+"BLMp2TRt" = lib.buildMinecraftFile {
   pname = "[Fabric 1.18.x] v6.5.102";
   version = "6.5.102";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/BLMp2TRt/cloth-config-6.5.102-fabric.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"xMTUxQCV" = lib.buildMinecraftMod {
+"xMTUxQCV" = lib.buildMinecraftFile {
   pname = "[Fabric 1.16.4/5] v4.17.101";
   version = "4.17.101";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/xMTUxQCV/cloth-config-4.17.101-fabric.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"oIHJeqqQ" = lib.buildMinecraftMod {
+"oIHJeqqQ" = lib.buildMinecraftFile {
   pname = "[Fabric 1.16.4/5] v4.16.91";
   version = "4.16.91";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/oIHJeqqQ/cloth-config-4.16.91-fabric.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"y0kQixP8" = lib.buildMinecraftMod {
+"y0kQixP8" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20] v11.0.99";
   version = "11.0.99+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/y0kQixP8/cloth-config-11.0.99-fabric.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"dVpHBgHi" = lib.buildMinecraftMod {
+"dVpHBgHi" = lib.buildMinecraftFile {
   pname = "[Fabric 1.20-pre6] v11.0.98";
   version = "11.0.98+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/dVpHBgHi/cloth-config-11.0.98-fabric.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"XqZIxbLN" = lib.buildMinecraftMod {
+"XqZIxbLN" = lib.buildMinecraftFile {
   pname = "[Fabric 23w13a_or_b] v11.0.97";
   version = "11.0.97+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/XqZIxbLN/cloth-config-11.0.97-fabric.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"6XGTNEII" = lib.buildMinecraftMod {
+"6XGTNEII" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19.4] v10.0.96";
   version = "10.0.96+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/6XGTNEII/cloth-config-10.0.96-fabric.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"QXKLvmdz" = lib.buildMinecraftMod {
+"QXKLvmdz" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19.4-pre1] v10.0.95";
   version = "10.0.95+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/QXKLvmdz/cloth-config-10.0.95-fabric.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"M3yxljrZ" = lib.buildMinecraftMod {
+"M3yxljrZ" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19.3] v9.0.94";
   version = "9.0.94+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/M3yxljrZ/cloth-config-9.0.94-fabric.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"IVxgEGfU" = lib.buildMinecraftMod {
+"IVxgEGfU" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19.3-pre2] v9.0.93";
   version = "9.0.93+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/IVxgEGfU/cloth-config-9.0.93-fabric.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"72Wj1Wri" = lib.buildMinecraftMod {
+"72Wj1Wri" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19.3 (22w43a)] v9.0.92";
   version = "9.0.92+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/72Wj1Wri/cloth-config-9.0.92-fabric.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"EXrxCjl6" = lib.buildMinecraftMod {
+"EXrxCjl6" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19-1.19.2] v8.2.88";
   version = "8.2.88+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/EXrxCjl6/cloth-config-8.2.88-fabric.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"szXeTOs6" = lib.buildMinecraftMod {
+"szXeTOs6" = lib.buildMinecraftFile {
   pname = "[Fabric 1.16.4/5] v4.15.82";
   version = "4.15.82";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/szXeTOs6/cloth-config-4.15.82-fabric.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"gPqHXnrg" = lib.buildMinecraftMod {
+"gPqHXnrg" = lib.buildMinecraftFile {
   pname = "[Fabric 1.18.x] v6.3.81";
   version = "6.3.81";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/gPqHXnrg/cloth-config-6.3.81-fabric.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"JaKvOQIz" = lib.buildMinecraftMod {
+"JaKvOQIz" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19-1.19.2] v8.1.77";
   version = "8.1.77+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/JaKvOQIz/cloth-config-8.1.77-fabric.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"hg9bSXT3" = lib.buildMinecraftMod {
+"hg9bSXT3" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19-1.19.2] v8.0.75";
   version = "8.0.75+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/8.0.75%2Bfabric/cloth-config-8.0.75-fabric.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"FPWqEBEx" = lib.buildMinecraftMod {
+"FPWqEBEx" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19] v7.0.74";
   version = "7.0.74+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.74%2Bfabric/cloth-config-7.0.74-fabric.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"ehzvjLXC" = lib.buildMinecraftMod {
+"ehzvjLXC" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19] v7.0.73";
   version = "7.0.73+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.73%2Bfabric/cloth-config-7.0.73-fabric.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"wOP2dCdL" = lib.buildMinecraftMod {
+"wOP2dCdL" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19] v7.0.72";
   version = "7.0.72+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.72%2Bfabric/cloth-config-7.0.72-fabric.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"KiKLKNrl" = lib.buildMinecraftMod {
+"KiKLKNrl" = lib.buildMinecraftFile {
   pname = "[Fabric 1.16.2-1.16.5] v4.14.64";
   version = "4.14.64";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.64/cloth-config-fabric-4.14.64.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"gb0cZ2Qp" = lib.buildMinecraftMod {
+"gb0cZ2Qp" = lib.buildMinecraftFile {
   pname = "[Fabric 1.17-1.17.1] v5.3.63";
   version = "5.3.63";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.63/cloth-config-fabric-5.3.63.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"d1D40LRO" = lib.buildMinecraftMod {
+"d1D40LRO" = lib.buildMinecraftFile {
   pname = "[Fabric 1.18.x] v6.2.62";
   version = "6.2.62";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.62/cloth-config-fabric-6.2.62.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"re60xAev" = lib.buildMinecraftMod {
+"re60xAev" = lib.buildMinecraftFile {
   pname = "[Fabric 1.19] v7.0.69";
   version = "7.0.69";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/7.0.69/cloth-config-7.0.69-fabric.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"63NArvT8" = lib.buildMinecraftMod {
+"63NArvT8" = lib.buildMinecraftFile {
   pname = "[Fabric 1.18.x] v6.2.57";
   version = "6.2.57+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/6.2.57%2Bfabric/cloth-config-6.2.57-fabric.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"vb3noRwi" = lib.buildMinecraftMod {
+"vb3noRwi" = lib.buildMinecraftFile {
   pname = "[Fabric 1.17-1.17.1] v5.3.58";
   version = "5.3.58+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.58%2Bfabric/cloth-config-5.3.58-fabric.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"wqFP5baC" = lib.buildMinecraftMod {
+"wqFP5baC" = lib.buildMinecraftFile {
   pname = "[Fabric 1.16.2-1.16.5] v4.14.54";
   version = "4.14.54+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/4.14.54%2Bfabric/cloth-config-4.14.54-fabric.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"mJwBHBVB" = lib.buildMinecraftMod {
+"mJwBHBVB" = lib.buildMinecraftFile {
   pname = "[Fabric 1.16-1.16.1] v4.6.0";
   version = "4.6.0+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/4.6.0%2Bfabric/config-2-4.6.0.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"FtlBFpp0" = lib.buildMinecraftMod {
+"FtlBFpp0" = lib.buildMinecraftFile {
   pname = "[Fabric 1.15.x] v2.14.2";
   version = "2.14.2+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/2.14.2%2Bfabric/config-2-2.14.2.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"vcrZcwvb" = lib.buildMinecraftMod {
+"vcrZcwvb" = lib.buildMinecraftFile {
   pname = "[Fabric 1.14.x] v1.8";
   version = "1.8+fabric";
   url = "https://cdn.modrinth.com/data/9s6osm5g/versions/1.8%2Bfabric/config-2-1.8.jar";

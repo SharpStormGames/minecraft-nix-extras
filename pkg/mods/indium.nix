@@ -1,5 +1,5 @@
 { lib, ... }: {
-"K4hsdO9H" = lib.buildMinecraftMod {
+"K4hsdO9H" = lib.buildMinecraftFile {
   pname = "Indium 1.0.34 for Minecraft 1.21.x/Sodium 0.5.11";
   version = "1.0.34+mc1.21";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/K4hsdO9H/indium-1.0.34%2Bmc1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"gofbpynL" = lib.buildMinecraftMod {
+"gofbpynL" = lib.buildMinecraftFile {
   pname = "Indium 1.0.34 for Minecraft 1.20.x/Sodium 0.5.11";
   version = "1.0.34+mc1.20.1";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/gofbpynL/indium-1.0.34%2Bmc1.20.1.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"w4F7PG0f" = lib.buildMinecraftMod {
+"w4F7PG0f" = lib.buildMinecraftFile {
   pname = "Indium 1.0.33 for Minecraft 1.21.x/Sodium 0.5.9";
   version = "1.0.33+mc1.21";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/w4F7PG0f/indium-1.0.33%2Bmc1.21.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"XPsoVC5n" = lib.buildMinecraftMod {
+"XPsoVC5n" = lib.buildMinecraftFile {
   pname = "Indium 1.0.32 for Minecraft 1.20.1/1.20.6 Sodium 0.5.9/0.5.10";
   version = "1.0.32+mc1.20.1";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/XPsoVC5n/indium-1.0.32%2Bmc1.20.1.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"VlLxDisa" = lib.buildMinecraftMod {
+"VlLxDisa" = lib.buildMinecraftFile {
   pname = "Indium 1.0.31 for Minecraft 1.20.x/Sodium 0.5.8/Fabric API 0.89+";
   version = "1.0.31+mc1.20.4";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/VlLxDisa/indium-1.0.31%2Bmc1.20.4.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"Aouse6P7" = lib.buildMinecraftMod {
+"Aouse6P7" = lib.buildMinecraftFile {
   pname = "Indium 1.0.30 for Minecraft 1.20.x/Sodium 0.5.8/Fabric API 0.89+";
   version = "1.0.30+mc1.20.4";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/Aouse6P7/indium-1.0.30%2Bmc1.20.4.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"nTorcOMQ" = lib.buildMinecraftMod {
+"nTorcOMQ" = lib.buildMinecraftFile {
   pname = "Indium 1.0.29 for Minecraft 1.20.x/Sodium 0.5.8";
   version = "1.0.29+mc1.20.4";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/nTorcOMQ/indium-1.0.29%2Bmc1.20.4.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"tD2IqHXC" = lib.buildMinecraftMod {
+"tD2IqHXC" = lib.buildMinecraftFile {
   pname = "Indium 1.0.28 for Minecraft 1.20.2/Sodium 0.5.5";
   version = "1.0.28+mc1.20.4";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/tD2IqHXC/indium-1.0.28%2Bmc1.20.4.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"Lue6O9z9" = lib.buildMinecraftMod {
+"Lue6O9z9" = lib.buildMinecraftFile {
   pname = "Indium 1.0.27 for Minecraft 1.20.x/Sodium 0.5.3/Fabric API 0.89+";
   version = "1.0.27+mc1.20.1";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/Lue6O9z9/indium-1.0.27%2Bmc1.20.1.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"6UQwWURe" = lib.buildMinecraftMod {
+"6UQwWURe" = lib.buildMinecraftFile {
   pname = "Indium 1.0.25 for Minecraft 1.20.1/Sodium 0.5.2";
   version = "1.0.25+mc1.20.1";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/6UQwWURe/indium-1.0.25%2Bmc1.20.1.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"hfBawPLH" = lib.buildMinecraftMod {
+"hfBawPLH" = lib.buildMinecraftFile {
   pname = "Indium 1.0.24 for Minecraft 1.20.1/Sodium 0.5.1";
   version = "1.0.24+mc1.20.1";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/hfBawPLH/indium-1.0.24%2Bmc1.20.1.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"HIQfyNd3" = lib.buildMinecraftMod {
+"HIQfyNd3" = lib.buildMinecraftFile {
   pname = "Indium 1.0.23 for Minecraft 1.20.1/Sodium 0.5.0";
   version = "1.0.23+mc1.20.1";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/HIQfyNd3/indium-1.0.23%2Bmc1.20.1.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"OPwFzZCT" = lib.buildMinecraftMod {
+"OPwFzZCT" = lib.buildMinecraftFile {
   pname = "Indium 1.0.22 for Minecraft 1.20.1/Sodium 0.5.0";
   version = "1.0.22+mc1.20.1";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/OPwFzZCT/indium-1.0.22%2Bmc1.20.1.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"yTh7W27h" = lib.buildMinecraftMod {
+"yTh7W27h" = lib.buildMinecraftFile {
   pname = "Indium 1.0.21 for Minecraft 1.20.1/Sodium 0.4.10/Fabric API 0.88";
   version = "1.0.21+mc1.20.1";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/yTh7W27h/indium-1.0.21%2Bmc1.20.1.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"9dgIzesu" = lib.buildMinecraftMod {
+"9dgIzesu" = lib.buildMinecraftFile {
   pname = "Indium 1.0.20 for Minecraft 1.20.1/Sodium mc1.20-0.4.10";
   version = "1.0.20+mc1.20.1";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/9dgIzesu/indium-1.0.20%2Bmc1.20.1.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"oYQsfz9e" = lib.buildMinecraftMod {
+"oYQsfz9e" = lib.buildMinecraftFile {
   pname = "Indium 1.0.19 for Minecraft 1.19.4/Sodium mc1.19.4-0.4.10";
   version = "1.0.19+mc1.19.4";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/oYQsfz9e/indium-1.0.19%2Bmc1.19.4.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"WTH3T2cR" = lib.buildMinecraftMod {
+"WTH3T2cR" = lib.buildMinecraftFile {
   pname = "Indium 1.0.18 for Minecraft 1.20.x/Sodium 0.4.10";
   version = "1.0.18+mc1.20";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/WTH3T2cR/indium-1.0.18%2Bmc1.20.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"M7szjcI4" = lib.buildMinecraftMod {
+"M7szjcI4" = lib.buildMinecraftFile {
   pname = "Indium 1.0.18 for Minecraft 1.19.4/Sodium 0.4.10";
   version = "1.0.18+mc1.19.4";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/M7szjcI4/indium-1.0.18%2Bmc1.19.4.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"qqiFL8NF" = lib.buildMinecraftMod {
+"qqiFL8NF" = lib.buildMinecraftFile {
   pname = "Indium 1.0.15 for Minecraft 1.19.4/Sodium 0.4.10";
   version = "1.0.15+mc1.19.4";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/qqiFL8NF/indium-1.0.15%2Bmc1.19.4.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"U94NcDpV" = lib.buildMinecraftMod {
+"U94NcDpV" = lib.buildMinecraftFile {
   pname = "Indium 1.0.14 for Minecraft 1.19.3/Sodium 0.4.9";
   version = "1.0.14+mc1.19.3";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/U94NcDpV/indium-1.0.14%2Bmc1.19.3.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"tMamyl08" = lib.buildMinecraftMod {
+"tMamyl08" = lib.buildMinecraftFile {
   pname = "Indium 1.0.13 for Minecraft 1.19.3/Sodium 0.4.9";
   version = "1.0.13+mc1.19.3";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/tMamyl08/indium-1.0.13%2Bmc1.19.3.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"85NvAOjQ" = lib.buildMinecraftMod {
+"85NvAOjQ" = lib.buildMinecraftFile {
   pname = "Indium 1.0.12 for Minecraft 1.19.3/Sodium 0.4.8";
   version = "1.0.12+mc1.19.3";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/85NvAOjQ/indium-1.0.12%2Bmc1.19.3.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"KqmHL1pI" = lib.buildMinecraftMod {
+"KqmHL1pI" = lib.buildMinecraftFile {
   pname = "Indium 1.0.11 for Minecraft 1.19.3/Sodium 0.4.7";
   version = "1.0.11+mc1.19.3";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/KqmHL1pI/indium-1.0.11%2Bmc1.19.3.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"BoAba4K3" = lib.buildMinecraftMod {
+"BoAba4K3" = lib.buildMinecraftFile {
   pname = "Indium 1.0.10 for Minecraft 1.19.3/Sodium 0.4.6";
   version = "1.0.10+mc1.19.3";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/BoAba4K3/indium-1.0.10%2Bmc1.19.3.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"yTfou6df" = lib.buildMinecraftMod {
+"yTfou6df" = lib.buildMinecraftFile {
   pname = "Indium 1.0.9 for Minecraft 1.19.2/Sodium 0.4.4";
   version = "1.0.9+mc1.19.2";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/yTfou6df/indium-1.0.9%2Bmc1.19.2.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"WG5jreCt" = lib.buildMinecraftMod {
+"WG5jreCt" = lib.buildMinecraftFile {
   pname = "Indium 1.0.8 for Minecraft 1.19.2/Sodium 0.4.3";
   version = "1.0.8+mc1.19.2";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/WG5jreCt/indium-1.0.8%2Bmc1.19.2.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"mJ7WqoOY" = lib.buildMinecraftMod {
+"mJ7WqoOY" = lib.buildMinecraftFile {
   pname = "Indium 1.0.7 for Minecraft 1.19.2/Sodium 0.4.2";
   version = "1.0.7+mc1.19";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.7%2Bmc1.19/indium-1.0.7%2Bmc1.19.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"H45YVREb" = lib.buildMinecraftMod {
+"H45YVREb" = lib.buildMinecraftFile {
   pname = "Indium 1.0.7 for Minecraft 1.18.2/Sodium 0.4.1";
   version = "1.0.7+mc1.18.2";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.7%2Bmc1.18.2/indium-1.0.7%2Bmc1.18.2.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"H4bOnadw" = lib.buildMinecraftMod {
+"H4bOnadw" = lib.buildMinecraftFile {
   pname = "Indium 1.0.6 for Minecraft 1.19.1/Sodium 0.4.2";
   version = "1.0.6+mc1.19";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.6%2Bmc1.19/indium-1.0.6%2Bmc1.19.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"Rli2nU8i" = lib.buildMinecraftMod {
+"Rli2nU8i" = lib.buildMinecraftFile {
   pname = "Indium 1.0.6 for Minecraft 1.18.2/Sodium 0.4.1";
   version = "1.0.6+mc1.18.2";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.6%2Bmc1.18.2/indium-1.0.6%2Bmc1.18.2.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"lK43uDfu" = lib.buildMinecraftMod {
+"lK43uDfu" = lib.buildMinecraftFile {
   pname = "Indium 1.0.5 for Minecraft 1.19/Sodium 0.4.2";
   version = "1.0.5+mc1.19";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.5%2Bmc1.19/indium-1.0.5%2Bmc1.19.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"TpvP0qDc" = lib.buildMinecraftMod {
+"TpvP0qDc" = lib.buildMinecraftFile {
   pname = "Indium 1.0.4 for Minecraft 1.19/Sodium 0.4.2";
   version = "1.0.4+mc1.19";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.4%2Bmc1.19/indium-1.0.4%2Bmc1.19.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"ZxoJeTLg" = lib.buildMinecraftMod {
+"ZxoJeTLg" = lib.buildMinecraftFile {
   pname = "Indium 1.0.3 for Minecraft 1.18.2/Sodium 0.4.1";
   version = "1.0.3+mc1.18.2";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.3%2Bmc1.18.2/indium-1.0.3%2Bmc1.18.2.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"D0fLM4o1" = lib.buildMinecraftMod {
+"D0fLM4o1" = lib.buildMinecraftFile {
   pname = "Indium 1.0.2 for Minecraft 1.18.2/Sodium 0.4.1";
   version = "1.0.2+mc1.18.2";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.2%2Bmc1.18.2/indium-1.0.2%2Bmc1.18.2.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"Rxzic9a0" = lib.buildMinecraftMod {
+"Rxzic9a0" = lib.buildMinecraftFile {
   pname = "Indium 1.0.2-alpha3 for Minecraft 1.18.1/Sodium 0.4.0-alpha6";
   version = "1.0.2-alpha3+mc1.18.1";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.2-alpha3%2Bmc1.18.1/indium-1.0.2-alpha3%2Bmc1.18.1.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"CVUGSVU0" = lib.buildMinecraftMod {
+"CVUGSVU0" = lib.buildMinecraftFile {
   pname = "Indium 1.0.2-alpha2 for Minecraft 1.18.1/Sodium 0.4.0-alpha6";
   version = "1.0.2-alpha2+mc1.18.1";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.2-alpha2%2Bmc1.18.1/indium-1.0.2-alpha2%2Bmc1.18.1.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"1ApUEVoW" = lib.buildMinecraftMod {
+"1ApUEVoW" = lib.buildMinecraftFile {
   pname = "Indium 1.0.2 for Minecraft 1.18.x/Sodium 0.4.0-alpha5";
   version = "1.0.2-alpha1+mc1.18";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.2-alpha1%2Bmc1.18/indium-1.0.2-alpha1%2Bmc1.18.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"mfNlBb6U" = lib.buildMinecraftMod {
+"mfNlBb6U" = lib.buildMinecraftFile {
   pname = "Indium 1.0.1 for Minecraft 1.17.1/Sodium 0.3.3+";
   version = "1.0.1+mc1.17.1";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.1%2Bmc1.17.1/indium-1.0.1%2Bmc1.17.1.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"uTvfCUBM" = lib.buildMinecraftMod {
+"uTvfCUBM" = lib.buildMinecraftFile {
   pname = "Indium 1.0.0 for Minecraft 1.17.1/Sodium 0.3.0-0.3.2";
   version = "1.0.0+mc1.17.1";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.0%2Bmc1.17.1/indium-1.0.0%2Bmc1.17.1.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"Zk2jPxcx" = lib.buildMinecraftMod {
+"Zk2jPxcx" = lib.buildMinecraftFile {
   pname = "Indium 1.0.0 for Minecraft 1.16.5/Sodium 0.2.0";
   version = "1.0.0+mc1.16.5";
   url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.0%2Bmc1.16.5/indium-1.0.0%2Bmc1.16.5.jar";

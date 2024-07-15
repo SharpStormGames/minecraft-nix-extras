@@ -1,5 +1,5 @@
 { lib, ... }: {
-"WJuoKsuM" = lib.buildMinecraftMod {
+"WJuoKsuM" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/WJuoKsuM/dynamic-fps-3.6.0%2Bminecraft-1.21.0-fabric.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"dXkCBME4" = lib.buildMinecraftMod {
+"dXkCBME4" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/dXkCBME4/dynamic-fps-3.6.0%2Bminecraft-1.20.5-fabric.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"zVtEuiz1" = lib.buildMinecraftMod {
+"zVtEuiz1" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/zVtEuiz1/dynamic-fps-3.6.0%2Bminecraft-1.20.0-quilt.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"5e8bQR5b" = lib.buildMinecraftMod {
+"5e8bQR5b" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/5e8bQR5b/dynamic-fps-3.6.0%2Bminecraft-1.20.0-fabric.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"b1zBQl0B" = lib.buildMinecraftMod {
+"b1zBQl0B" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/b1zBQl0B/dynamic-fps-3.6.0%2Bminecraft-1.19.4-quilt.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"LP8Tu8Ll" = lib.buildMinecraftMod {
+"LP8Tu8Ll" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/LP8Tu8Ll/dynamic-fps-3.6.0%2Bminecraft-1.19.4-fabric.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"9gdFVbPJ" = lib.buildMinecraftMod {
+"9gdFVbPJ" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/9gdFVbPJ/dynamic-fps-3.6.0%2Bminecraft-1.19.3-quilt.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"t4XJUfdJ" = lib.buildMinecraftMod {
+"t4XJUfdJ" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/t4XJUfdJ/dynamic-fps-3.6.0%2Bminecraft-1.19.3-fabric.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"ks5hKqn1" = lib.buildMinecraftMod {
+"ks5hKqn1" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/ks5hKqn1/dynamic-fps-3.6.0%2Bminecraft-1.19.0-quilt.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"FxizL9t5" = lib.buildMinecraftMod {
+"FxizL9t5" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/FxizL9t5/dynamic-fps-3.6.0%2Bminecraft-1.19.0-fabric.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"GCbqf3Es" = lib.buildMinecraftMod {
+"GCbqf3Es" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GCbqf3Es/dynamic-fps-3.6.0%2Bminecraft-1.18.2-quilt.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"LlYJQJc0" = lib.buildMinecraftMod {
+"LlYJQJc0" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/LlYJQJc0/dynamic-fps-3.6.0%2Bminecraft-1.18.0-fabric.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"JiiW7oPc" = lib.buildMinecraftMod {
+"JiiW7oPc" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/JiiW7oPc/dynamic-fps-3.6.0%2Bminecraft-1.17.0-fabric.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"FFFxotk0" = lib.buildMinecraftMod {
+"FFFxotk0" = lib.buildMinecraftFile {
   pname = "v3.6.0";
   version = "3.6.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/FFFxotk0/dynamic-fps-3.6.0%2Bminecraft-1.16.4-fabric.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"aLCEN12X" = lib.buildMinecraftMod {
+"aLCEN12X" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/aLCEN12X/dynamic-fps-3.5.1%2Bminecraft-1.21.0-fabric.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"eRegd530" = lib.buildMinecraftMod {
+"eRegd530" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/eRegd530/dynamic-fps-3.5.1%2Bminecraft-1.20.5-fabric.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"DdDJ86cX" = lib.buildMinecraftMod {
+"DdDJ86cX" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/DdDJ86cX/dynamic-fps-3.5.1%2Bminecraft-1.20.0-quilt.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"jdsdQwkB" = lib.buildMinecraftMod {
+"jdsdQwkB" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/jdsdQwkB/dynamic-fps-3.5.1%2Bminecraft-1.20.0-fabric.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"qRc80r3o" = lib.buildMinecraftMod {
+"qRc80r3o" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/qRc80r3o/dynamic-fps-3.5.1%2Bminecraft-1.19.4-quilt.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"TSSDSiZP" = lib.buildMinecraftMod {
+"TSSDSiZP" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/TSSDSiZP/dynamic-fps-3.5.1%2Bminecraft-1.19.4-fabric.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"RYTZvQBc" = lib.buildMinecraftMod {
+"RYTZvQBc" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/RYTZvQBc/dynamic-fps-3.5.1%2Bminecraft-1.19.3-quilt.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"KEs1F4M2" = lib.buildMinecraftMod {
+"KEs1F4M2" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/KEs1F4M2/dynamic-fps-3.5.1%2Bminecraft-1.19.3-fabric.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"nTdQW3oL" = lib.buildMinecraftMod {
+"nTdQW3oL" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/nTdQW3oL/dynamic-fps-3.5.1%2Bminecraft-1.19.0-quilt.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"YF37wYKK" = lib.buildMinecraftMod {
+"YF37wYKK" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/YF37wYKK/dynamic-fps-3.5.1%2Bminecraft-1.19.0-fabric.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"wBsh7vqV" = lib.buildMinecraftMod {
+"wBsh7vqV" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/wBsh7vqV/dynamic-fps-3.5.1%2Bminecraft-1.18.2-quilt.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"uHnzIEQj" = lib.buildMinecraftMod {
+"uHnzIEQj" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/uHnzIEQj/dynamic-fps-3.5.1%2Bminecraft-1.18.0-fabric.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"tEiWfX1N" = lib.buildMinecraftMod {
+"tEiWfX1N" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/tEiWfX1N/dynamic-fps-3.5.1%2Bminecraft-1.17.0-fabric.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"JRl3y7rm" = lib.buildMinecraftMod {
+"JRl3y7rm" = lib.buildMinecraftFile {
   pname = "v3.5.1";
   version = "3.5.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/JRl3y7rm/dynamic-fps-3.5.1%2Bminecraft-1.16.4-fabric.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"pHWNKS7t" = lib.buildMinecraftMod {
+"pHWNKS7t" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/pHWNKS7t/dynamic-fps-3.5.0%2Bminecraft-1.21.0-fabric.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"OjAim4Jo" = lib.buildMinecraftMod {
+"OjAim4Jo" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/OjAim4Jo/dynamic-fps-3.5.0%2Bminecraft-1.20.5-fabric.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"U1cZ1TL7" = lib.buildMinecraftMod {
+"U1cZ1TL7" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/U1cZ1TL7/dynamic-fps-3.5.0%2Bminecraft-1.20.0-quilt.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"aPRTCnlc" = lib.buildMinecraftMod {
+"aPRTCnlc" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/aPRTCnlc/dynamic-fps-3.5.0%2Bminecraft-1.20.0-fabric.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"wzp3skkc" = lib.buildMinecraftMod {
+"wzp3skkc" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/wzp3skkc/dynamic-fps-3.5.0%2Bminecraft-1.19.4-quilt.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"NU3HRHXj" = lib.buildMinecraftMod {
+"NU3HRHXj" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/NU3HRHXj/dynamic-fps-3.5.0%2Bminecraft-1.19.4-fabric.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"z9Xj6TuQ" = lib.buildMinecraftMod {
+"z9Xj6TuQ" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/z9Xj6TuQ/dynamic-fps-3.5.0%2Bminecraft-1.19.3-quilt.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"MbErXFSW" = lib.buildMinecraftMod {
+"MbErXFSW" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/MbErXFSW/dynamic-fps-3.5.0%2Bminecraft-1.19.3-fabric.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"LF4zDKeR" = lib.buildMinecraftMod {
+"LF4zDKeR" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/LF4zDKeR/dynamic-fps-3.5.0%2Bminecraft-1.19.0-quilt.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"aM6FmhY7" = lib.buildMinecraftMod {
+"aM6FmhY7" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/aM6FmhY7/dynamic-fps-3.5.0%2Bminecraft-1.19.0-fabric.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"H3jM6EoR" = lib.buildMinecraftMod {
+"H3jM6EoR" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/H3jM6EoR/dynamic-fps-3.5.0%2Bminecraft-1.18.2-quilt.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"ANanuCGR" = lib.buildMinecraftMod {
+"ANanuCGR" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/ANanuCGR/dynamic-fps-3.5.0%2Bminecraft-1.18.0-fabric.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"mUoNvE18" = lib.buildMinecraftMod {
+"mUoNvE18" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/mUoNvE18/dynamic-fps-3.5.0%2Bminecraft-1.17.0-fabric.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"U0tp6QIQ" = lib.buildMinecraftMod {
+"U0tp6QIQ" = lib.buildMinecraftFile {
   pname = "v3.5.0";
   version = "3.5.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/U0tp6QIQ/dynamic-fps-3.5.0%2Bminecraft-1.16.4-fabric.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"GzuwoJDO" = lib.buildMinecraftMod {
+"GzuwoJDO" = lib.buildMinecraftFile {
   pname = "v3.5.0-beta.3";
   version = "3.5.0-beta.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/GzuwoJDO/dynamic-fps-3.5.0-beta.3%2Bminecraft-1.21.0-fabric.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"RCY49qLv" = lib.buildMinecraftMod {
+"RCY49qLv" = lib.buildMinecraftFile {
   pname = "v3.5.0-beta.2";
   version = "3.5.0-beta.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/RCY49qLv/dynamic-fps-3.5.0-beta.2%2Bminecraft-1.21.0-fabric.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"RS3zegai" = lib.buildMinecraftMod {
+"RS3zegai" = lib.buildMinecraftFile {
   pname = "v3.5.0-beta.1";
   version = "3.5.0-beta.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/RS3zegai/dynamic-fps-3.5.0-beta.1%2Bminecraft-1.21.0-fabric.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"jeq5Pk2P" = lib.buildMinecraftMod {
+"jeq5Pk2P" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/jeq5Pk2P/dynamic-fps-3.4.3%2Bminecraft-1.21.0-fabric.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"OpDYYPhR" = lib.buildMinecraftMod {
+"OpDYYPhR" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/OpDYYPhR/dynamic-fps-3.4.3%2Bminecraft-1.21.0-alpha.24w20a-fabric.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"tBrRMDS7" = lib.buildMinecraftMod {
+"tBrRMDS7" = lib.buildMinecraftFile {
   pname = "v3.4.4";
   version = "3.4.4";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/tBrRMDS7/dynamic-fps-3.4.4%2Bminecraft-1.17.0-fabric.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"y3LKh1gi" = lib.buildMinecraftMod {
+"y3LKh1gi" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/y3LKh1gi/dynamic-fps-3.4.3%2Bminecraft-1.20.5-fabric.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"AK9FBEgo" = lib.buildMinecraftMod {
+"AK9FBEgo" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/AK9FBEgo/dynamic-fps-3.4.3%2Bminecraft-1.20.0-quilt.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"48hFxWw7" = lib.buildMinecraftMod {
+"48hFxWw7" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/48hFxWw7/dynamic-fps-3.4.3%2Bminecraft-1.20.0-fabric.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"fY95HR8z" = lib.buildMinecraftMod {
+"fY95HR8z" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/fY95HR8z/dynamic-fps-3.4.3%2Bminecraft-1.19.4-quilt.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"FWwfvgYH" = lib.buildMinecraftMod {
+"FWwfvgYH" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/FWwfvgYH/dynamic-fps-3.4.3%2Bminecraft-1.19.4-fabric.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"g3gquqif" = lib.buildMinecraftMod {
+"g3gquqif" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/g3gquqif/dynamic-fps-3.4.3%2Bminecraft-1.19.3-quilt.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"33B4KCsj" = lib.buildMinecraftMod {
+"33B4KCsj" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/33B4KCsj/dynamic-fps-3.4.3%2Bminecraft-1.19.3-fabric.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"2mbM4NFn" = lib.buildMinecraftMod {
+"2mbM4NFn" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2mbM4NFn/dynamic-fps-3.4.3%2Bminecraft-1.19.0-quilt.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"8qMOAA4B" = lib.buildMinecraftMod {
+"8qMOAA4B" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/8qMOAA4B/dynamic-fps-3.4.3%2Bminecraft-1.19.0-fabric.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"nGi7w36N" = lib.buildMinecraftMod {
+"nGi7w36N" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/nGi7w36N/dynamic-fps-3.4.3%2Bminecraft-1.18.2-quilt.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"KB42DIPY" = lib.buildMinecraftMod {
+"KB42DIPY" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/KB42DIPY/dynamic-fps-3.4.3%2Bminecraft-1.18.0-fabric.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"SMbXVy9A" = lib.buildMinecraftMod {
+"SMbXVy9A" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/SMbXVy9A/dynamic-fps-3.4.3%2Bminecraft-1.17.0-fabric.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"qPlkTrvl" = lib.buildMinecraftMod {
+"qPlkTrvl" = lib.buildMinecraftFile {
   pname = "v3.4.3";
   version = "3.4.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/qPlkTrvl/dynamic-fps-3.4.3%2Bminecraft-1.16.5-fabric.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"c9Pa2Sap" = lib.buildMinecraftMod {
+"c9Pa2Sap" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/c9Pa2Sap/dynamic-fps-3.4.2%2Bminecraft-1.20.5-alpha.24w09a-fabric.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"AEjABoYz" = lib.buildMinecraftMod {
+"AEjABoYz" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/AEjABoYz/dynamic-fps-3.4.2%2Bminecraft-1.20.4-quilt.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"shfvdKKK" = lib.buildMinecraftMod {
+"shfvdKKK" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/shfvdKKK/dynamic-fps-3.4.2%2Bminecraft-1.20.4-fabric.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"6HsZEX1E" = lib.buildMinecraftMod {
+"6HsZEX1E" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/6HsZEX1E/dynamic-fps-3.4.2%2Bminecraft-1.19.4-quilt.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"kWB5Orlp" = lib.buildMinecraftMod {
+"kWB5Orlp" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/kWB5Orlp/dynamic-fps-3.4.2%2Bminecraft-1.19.4-fabric.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"lW5W9ena" = lib.buildMinecraftMod {
+"lW5W9ena" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/lW5W9ena/dynamic-fps-3.4.2%2Bminecraft-1.19.3-quilt.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"Jwsj9hnw" = lib.buildMinecraftMod {
+"Jwsj9hnw" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Jwsj9hnw/dynamic-fps-3.4.2%2Bminecraft-1.19.3-fabric.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"lfIMkupj" = lib.buildMinecraftMod {
+"lfIMkupj" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/lfIMkupj/dynamic-fps-3.4.2%2Bminecraft-1.19.0-quilt.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"khb32G0k" = lib.buildMinecraftMod {
+"khb32G0k" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/khb32G0k/dynamic-fps-3.4.2%2Bminecraft-1.19.0-fabric.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"vGmLfA3R" = lib.buildMinecraftMod {
+"vGmLfA3R" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/vGmLfA3R/dynamic-fps-3.4.2%2Bminecraft-1.18.2-quilt.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"RRLjJEKm" = lib.buildMinecraftMod {
+"RRLjJEKm" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/RRLjJEKm/dynamic-fps-3.4.2%2Bminecraft-1.18.2-fabric.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"pR3KcCvX" = lib.buildMinecraftMod {
+"pR3KcCvX" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/pR3KcCvX/dynamic-fps-3.4.2%2Bminecraft-1.17.1-fabric.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"r8rpH64x" = lib.buildMinecraftMod {
+"r8rpH64x" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/r8rpH64x/dynamic-fps-3.4.2%2Bminecraft-1.16.5-fabric.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"SsL3jQXt" = lib.buildMinecraftMod {
+"SsL3jQXt" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/SsL3jQXt/dynamic-fps-3.4.2%2Bminecraft-1.15.2-fabric.jar";
@@ -899,7 +899,7 @@
   };
 };
 
-"O7a5N5VT" = lib.buildMinecraftMod {
+"O7a5N5VT" = lib.buildMinecraftFile {
   pname = "v3.4.2";
   version = "3.4.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/O7a5N5VT/dynamic-fps-3.4.2%2Bminecraft-1.14.4-fabric.jar";
@@ -911,7 +911,7 @@
   };
 };
 
-"xCKeVizz" = lib.buildMinecraftMod {
+"xCKeVizz" = lib.buildMinecraftFile {
   pname = "v3.4.1";
   version = "3.4.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/xCKeVizz/dynamic-fps-3.4.1%2Bminecraft-1.20.4-quilt.jar";
@@ -923,7 +923,7 @@
   };
 };
 
-"akci2PEc" = lib.buildMinecraftMod {
+"akci2PEc" = lib.buildMinecraftFile {
   pname = "v3.4.1";
   version = "3.4.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/akci2PEc/dynamic-fps-3.4.1%2Bminecraft-1.20.4-fabric.jar";
@@ -935,7 +935,7 @@
   };
 };
 
-"qU5QelCK" = lib.buildMinecraftMod {
+"qU5QelCK" = lib.buildMinecraftFile {
   pname = "v3.4.1";
   version = "3.4.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/qU5QelCK/dynamic-fps-3.4.1%2Bminecraft-1.19.4-quilt.jar";
@@ -947,7 +947,7 @@
   };
 };
 
-"3eTIv2kA" = lib.buildMinecraftMod {
+"3eTIv2kA" = lib.buildMinecraftFile {
   pname = "v3.4.1";
   version = "3.4.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/3eTIv2kA/dynamic-fps-3.4.1%2Bminecraft-1.19.4-fabric.jar";
@@ -959,7 +959,7 @@
   };
 };
 
-"PnFGjxcb" = lib.buildMinecraftMod {
+"PnFGjxcb" = lib.buildMinecraftFile {
   pname = "v3.4.1";
   version = "3.4.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/PnFGjxcb/dynamic-fps-3.4.1%2Bminecraft-1.19.3-quilt.jar";
@@ -971,7 +971,7 @@
   };
 };
 
-"THG0PVdn" = lib.buildMinecraftMod {
+"THG0PVdn" = lib.buildMinecraftFile {
   pname = "v3.4.1";
   version = "3.4.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/THG0PVdn/dynamic-fps-3.4.1%2Bminecraft-1.19.3-fabric.jar";
@@ -983,7 +983,7 @@
   };
 };
 
-"XGwn4gNc" = lib.buildMinecraftMod {
+"XGwn4gNc" = lib.buildMinecraftFile {
   pname = "v3.4.1";
   version = "3.4.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/XGwn4gNc/dynamic-fps-3.4.1%2Bminecraft-1.19.0-quilt.jar";
@@ -995,7 +995,7 @@
   };
 };
 
-"QBGkeC7m" = lib.buildMinecraftMod {
+"QBGkeC7m" = lib.buildMinecraftFile {
   pname = "v3.4.1";
   version = "3.4.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/QBGkeC7m/dynamic-fps-3.4.1%2Bminecraft-1.19.0-fabric.jar";
@@ -1007,7 +1007,7 @@
   };
 };
 
-"yhhpGEhV" = lib.buildMinecraftMod {
+"yhhpGEhV" = lib.buildMinecraftFile {
   pname = "v3.4.1";
   version = "3.4.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/yhhpGEhV/dynamic-fps-3.4.1%2Bminecraft-1.18.2-quilt.jar";
@@ -1019,7 +1019,7 @@
   };
 };
 
-"EhV5xUXs" = lib.buildMinecraftMod {
+"EhV5xUXs" = lib.buildMinecraftFile {
   pname = "v3.4.1";
   version = "3.4.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/EhV5xUXs/dynamic-fps-3.4.1%2Bminecraft-1.18.2-fabric.jar";
@@ -1031,7 +1031,7 @@
   };
 };
 
-"tpCuDULl" = lib.buildMinecraftMod {
+"tpCuDULl" = lib.buildMinecraftFile {
   pname = "v3.4.1";
   version = "3.4.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/tpCuDULl/dynamic-fps-3.4.1%2Bminecraft-1.17.1-fabric.jar";
@@ -1043,7 +1043,7 @@
   };
 };
 
-"eghSjWeK" = lib.buildMinecraftMod {
+"eghSjWeK" = lib.buildMinecraftFile {
   pname = "v3.4.1";
   version = "3.4.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/eghSjWeK/dynamic-fps-3.4.1%2Bminecraft-1.16.5-fabric.jar";
@@ -1055,7 +1055,7 @@
   };
 };
 
-"9ItmBJnL" = lib.buildMinecraftMod {
+"9ItmBJnL" = lib.buildMinecraftFile {
   pname = "v3.4.0";
   version = "3.4.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/9ItmBJnL/dynamic-fps-3.4.0%2Bminecraft-1.20.4-quilt.jar";
@@ -1067,7 +1067,7 @@
   };
 };
 
-"UL1yMXMO" = lib.buildMinecraftMod {
+"UL1yMXMO" = lib.buildMinecraftFile {
   pname = "v3.4.0";
   version = "3.4.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/UL1yMXMO/dynamic-fps-3.4.0%2Bminecraft-1.20.4-fabric.jar";
@@ -1079,7 +1079,7 @@
   };
 };
 
-"2A0fjGIj" = lib.buildMinecraftMod {
+"2A0fjGIj" = lib.buildMinecraftFile {
   pname = "v3.4.0";
   version = "3.4.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2A0fjGIj/dynamic-fps-3.4.0%2Bminecraft-1.19.4-quilt.jar";
@@ -1091,7 +1091,7 @@
   };
 };
 
-"nLicebq0" = lib.buildMinecraftMod {
+"nLicebq0" = lib.buildMinecraftFile {
   pname = "v3.4.0";
   version = "3.4.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/nLicebq0/dynamic-fps-3.4.0%2Bminecraft-1.19.4-fabric.jar";
@@ -1103,7 +1103,7 @@
   };
 };
 
-"XzHVv85p" = lib.buildMinecraftMod {
+"XzHVv85p" = lib.buildMinecraftFile {
   pname = "v3.4.0";
   version = "3.4.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/XzHVv85p/dynamic-fps-3.4.0%2Bminecraft-1.19.3-quilt.jar";
@@ -1115,7 +1115,7 @@
   };
 };
 
-"ksK11lcD" = lib.buildMinecraftMod {
+"ksK11lcD" = lib.buildMinecraftFile {
   pname = "v3.4.0";
   version = "3.4.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/ksK11lcD/dynamic-fps-3.4.0%2Bminecraft-1.19.3-fabric.jar";
@@ -1127,7 +1127,7 @@
   };
 };
 
-"OeMT2cC8" = lib.buildMinecraftMod {
+"OeMT2cC8" = lib.buildMinecraftFile {
   pname = "v3.4.0";
   version = "3.4.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/OeMT2cC8/dynamic-fps-3.4.0%2Bminecraft-1.19.0-quilt.jar";
@@ -1139,7 +1139,7 @@
   };
 };
 
-"DIVSdFSY" = lib.buildMinecraftMod {
+"DIVSdFSY" = lib.buildMinecraftFile {
   pname = "v3.4.0";
   version = "3.4.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/DIVSdFSY/dynamic-fps-3.4.0%2Bminecraft-1.19.0-fabric.jar";
@@ -1151,7 +1151,7 @@
   };
 };
 
-"JzqaccpR" = lib.buildMinecraftMod {
+"JzqaccpR" = lib.buildMinecraftFile {
   pname = "v3.4.0";
   version = "3.4.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/JzqaccpR/dynamic-fps-3.4.0%2Bminecraft-1.18.2-quilt.jar";
@@ -1163,7 +1163,7 @@
   };
 };
 
-"kmNGyLFl" = lib.buildMinecraftMod {
+"kmNGyLFl" = lib.buildMinecraftFile {
   pname = "v3.4.0";
   version = "3.4.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/kmNGyLFl/dynamic-fps-3.4.0%2Bminecraft-1.18.2-fabric.jar";
@@ -1175,7 +1175,7 @@
   };
 };
 
-"8zD1HoDT" = lib.buildMinecraftMod {
+"8zD1HoDT" = lib.buildMinecraftFile {
   pname = "v3.4.0";
   version = "3.4.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/8zD1HoDT/dynamic-fps-3.4.0%2Bminecraft-1.17.1-fabric.jar";
@@ -1187,7 +1187,7 @@
   };
 };
 
-"RaQsEbig" = lib.buildMinecraftMod {
+"RaQsEbig" = lib.buildMinecraftFile {
   pname = "v3.4.0";
   version = "3.4.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/RaQsEbig/dynamic-fps-3.4.0%2Bminecraft-1.16.5-fabric.jar";
@@ -1199,7 +1199,7 @@
   };
 };
 
-"6ZZnpiKt" = lib.buildMinecraftMod {
+"6ZZnpiKt" = lib.buildMinecraftFile {
   pname = "v3.3.3";
   version = "3.3.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/6ZZnpiKt/dynamic-fps-3.3.3%2Bminecraft-1.20.0.jar";
@@ -1211,7 +1211,7 @@
   };
 };
 
-"TiEIglop" = lib.buildMinecraftMod {
+"TiEIglop" = lib.buildMinecraftFile {
   pname = "v3.3.3";
   version = "3.3.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/TiEIglop/dynamic-fps-3.3.3%2Bminecraft-1.19.4.jar";
@@ -1223,7 +1223,7 @@
   };
 };
 
-"E8I4fCdF" = lib.buildMinecraftMod {
+"E8I4fCdF" = lib.buildMinecraftFile {
   pname = "v3.3.3";
   version = "3.3.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/E8I4fCdF/dynamic-fps-3.3.3%2Bminecraft-1.19.3.jar";
@@ -1235,7 +1235,7 @@
   };
 };
 
-"EqKUlwIM" = lib.buildMinecraftMod {
+"EqKUlwIM" = lib.buildMinecraftFile {
   pname = "v3.3.3";
   version = "3.3.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/EqKUlwIM/dynamic-fps-3.3.3%2Bminecraft-1.19.0.jar";
@@ -1247,7 +1247,7 @@
   };
 };
 
-"lffwyl3t" = lib.buildMinecraftMod {
+"lffwyl3t" = lib.buildMinecraftFile {
   pname = "v3.3.3";
   version = "3.3.3";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/lffwyl3t/dynamic-fps-3.3.3%2Bminecraft-1.16.5.jar";
@@ -1259,7 +1259,7 @@
   };
 };
 
-"wOSxC0Zb" = lib.buildMinecraftMod {
+"wOSxC0Zb" = lib.buildMinecraftFile {
   pname = "v3.3.2";
   version = "3.3.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/wOSxC0Zb/dynamic-fps-3.3.2%2Bminecraft-1.20.0.jar";
@@ -1271,7 +1271,7 @@
   };
 };
 
-"6XTTKHFs" = lib.buildMinecraftMod {
+"6XTTKHFs" = lib.buildMinecraftFile {
   pname = "v3.3.2";
   version = "3.3.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/6XTTKHFs/dynamic-fps-3.3.2%2Bminecraft-1.19.4.jar";
@@ -1283,7 +1283,7 @@
   };
 };
 
-"aIfiOstF" = lib.buildMinecraftMod {
+"aIfiOstF" = lib.buildMinecraftFile {
   pname = "v3.3.2";
   version = "3.3.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/aIfiOstF/dynamic-fps-3.3.2%2Bminecraft-1.19.3.jar";
@@ -1295,7 +1295,7 @@
   };
 };
 
-"IC26VVbo" = lib.buildMinecraftMod {
+"IC26VVbo" = lib.buildMinecraftFile {
   pname = "v3.3.2";
   version = "3.3.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/IC26VVbo/dynamic-fps-3.3.2%2Bminecraft-1.19.0.jar";
@@ -1307,7 +1307,7 @@
   };
 };
 
-"PdOcOZe5" = lib.buildMinecraftMod {
+"PdOcOZe5" = lib.buildMinecraftFile {
   pname = "v3.3.2";
   version = "3.3.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/PdOcOZe5/dynamic-fps-3.3.2%2Bminecraft-1.16.5.jar";
@@ -1319,7 +1319,7 @@
   };
 };
 
-"tBXQeb6B" = lib.buildMinecraftMod {
+"tBXQeb6B" = lib.buildMinecraftFile {
   pname = "v3.3.1";
   version = "3.3.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/tBXQeb6B/dynamic-fps-3.3.1%2Bminecraft-1.20.0.jar";
@@ -1331,7 +1331,7 @@
   };
 };
 
-"LLW6Rz4X" = lib.buildMinecraftMod {
+"LLW6Rz4X" = lib.buildMinecraftFile {
   pname = "v3.3.1";
   version = "3.3.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/LLW6Rz4X/dynamic-fps-3.3.1%2Bminecraft-1.19.4.jar";
@@ -1343,7 +1343,7 @@
   };
 };
 
-"e2GoOHqC" = lib.buildMinecraftMod {
+"e2GoOHqC" = lib.buildMinecraftFile {
   pname = "v3.3.1";
   version = "3.3.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/e2GoOHqC/dynamic-fps-3.3.1%2Bminecraft-1.19.3.jar";
@@ -1355,7 +1355,7 @@
   };
 };
 
-"qU25ZOM2" = lib.buildMinecraftMod {
+"qU25ZOM2" = lib.buildMinecraftFile {
   pname = "v3.3.1";
   version = "3.3.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/qU25ZOM2/dynamic-fps-3.3.1%2Bminecraft-1.19.0.jar";
@@ -1367,7 +1367,7 @@
   };
 };
 
-"5NDr40VW" = lib.buildMinecraftMod {
+"5NDr40VW" = lib.buildMinecraftFile {
   pname = "v3.3.1";
   version = "3.3.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/5NDr40VW/dynamic-fps-3.3.1%2Bminecraft-1.16.5.jar";
@@ -1379,7 +1379,7 @@
   };
 };
 
-"QLkpv8Ld" = lib.buildMinecraftMod {
+"QLkpv8Ld" = lib.buildMinecraftFile {
   pname = "v3.3.0";
   version = "3.3.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/QLkpv8Ld/dynamic-fps-3.3.0%2Bminecraft-1.20.0.jar";
@@ -1391,7 +1391,7 @@
   };
 };
 
-"k6MHtC5D" = lib.buildMinecraftMod {
+"k6MHtC5D" = lib.buildMinecraftFile {
   pname = "v3.3.0";
   version = "3.3.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/k6MHtC5D/dynamic-fps-3.3.0%2Bminecraft-1.19.4.jar";
@@ -1403,7 +1403,7 @@
   };
 };
 
-"apxb2RCR" = lib.buildMinecraftMod {
+"apxb2RCR" = lib.buildMinecraftFile {
   pname = "v3.3.0";
   version = "3.3.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/apxb2RCR/dynamic-fps-3.3.0%2Bminecraft-1.19.3.jar";
@@ -1415,7 +1415,7 @@
   };
 };
 
-"1npK5wCt" = lib.buildMinecraftMod {
+"1npK5wCt" = lib.buildMinecraftFile {
   pname = "v3.3.0";
   version = "3.3.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/1npK5wCt/dynamic-fps-3.3.0%2Bminecraft-1.19.0.jar";
@@ -1427,7 +1427,7 @@
   };
 };
 
-"ufaW1r8S" = lib.buildMinecraftMod {
+"ufaW1r8S" = lib.buildMinecraftFile {
   pname = "v3.3.0";
   version = "3.3.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/ufaW1r8S/dynamic-fps-3.3.0%2Bminecraft-1.16.5.jar";
@@ -1439,7 +1439,7 @@
   };
 };
 
-"HyfaQLUy" = lib.buildMinecraftMod {
+"HyfaQLUy" = lib.buildMinecraftFile {
   pname = "v3.2.1";
   version = "3.2.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/HyfaQLUy/dynamic-fps-3.2.1%2Bminecraft-1.16.5-to-1.18.2.jar";
@@ -1451,7 +1451,7 @@
   };
 };
 
-"MJxmQ042" = lib.buildMinecraftMod {
+"MJxmQ042" = lib.buildMinecraftFile {
   pname = "v3.2.1";
   version = "3.2.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/MJxmQ042/dynamic-fps-3.2.1%2Bminecraft-1.20.0.jar";
@@ -1463,7 +1463,7 @@
   };
 };
 
-"KBaicJn7" = lib.buildMinecraftMod {
+"KBaicJn7" = lib.buildMinecraftFile {
   pname = "v3.2.1";
   version = "3.2.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/KBaicJn7/dynamic-fps-3.2.1%2Bminecraft-1.19.4.jar";
@@ -1475,7 +1475,7 @@
   };
 };
 
-"xJziTz7j" = lib.buildMinecraftMod {
+"xJziTz7j" = lib.buildMinecraftFile {
   pname = "v3.2.1";
   version = "3.2.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/xJziTz7j/dynamic-fps-3.2.1%2Bminecraft-1.19.3.jar";
@@ -1487,7 +1487,7 @@
   };
 };
 
-"MT0Hhrmt" = lib.buildMinecraftMod {
+"MT0Hhrmt" = lib.buildMinecraftFile {
   pname = "v3.2.1";
   version = "3.2.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/MT0Hhrmt/dynamic-fps-3.2.1%2Bminecraft-1.19.0.jar";
@@ -1499,7 +1499,7 @@
   };
 };
 
-"3WUIXnPq" = lib.buildMinecraftMod {
+"3WUIXnPq" = lib.buildMinecraftFile {
   pname = "v3.2.0";
   version = "3.2.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/3WUIXnPq/dynamic-fps-3.2.0%2Bminecraft-1.20.0.jar";
@@ -1511,7 +1511,7 @@
   };
 };
 
-"NeKJoURy" = lib.buildMinecraftMod {
+"NeKJoURy" = lib.buildMinecraftFile {
   pname = "v3.2.0";
   version = "3.2.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/NeKJoURy/dynamic-fps-3.2.0%2Bminecraft-1.19.4.jar";
@@ -1523,7 +1523,7 @@
   };
 };
 
-"gi2eS21F" = lib.buildMinecraftMod {
+"gi2eS21F" = lib.buildMinecraftFile {
   pname = "v3.2.0";
   version = "3.2.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/gi2eS21F/dynamic-fps-3.2.0%2Bminecraft-1.19.0.jar";
@@ -1535,7 +1535,7 @@
   };
 };
 
-"5LX1Blqr" = lib.buildMinecraftMod {
+"5LX1Blqr" = lib.buildMinecraftFile {
   pname = "v3.1.0";
   version = "3.1.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/5LX1Blqr/dynamic-fps-3.1.0%2Bminecraft-1.20.0.jar";
@@ -1547,7 +1547,7 @@
   };
 };
 
-"8ZK3Yrx8" = lib.buildMinecraftMod {
+"8ZK3Yrx8" = lib.buildMinecraftFile {
   pname = "v3.1.0";
   version = "3.1.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/8ZK3Yrx8/dynamic-fps-3.1.0%2Bminecraft-1.19.4.jar";
@@ -1559,7 +1559,7 @@
   };
 };
 
-"53FTYNg4" = lib.buildMinecraftMod {
+"53FTYNg4" = lib.buildMinecraftFile {
   pname = "v3.1.0";
   version = "3.1.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/53FTYNg4/dynamic-fps-3.1.0%2Bminecraft-1.19.0.jar";
@@ -1571,7 +1571,7 @@
   };
 };
 
-"sejsYSOg" = lib.buildMinecraftMod {
+"sejsYSOg" = lib.buildMinecraftFile {
   pname = "v3.0.1";
   version = "3.0.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/sejsYSOg/dynamic-fps-3.0.1%2Bminecraft-1.20.jar";
@@ -1583,7 +1583,7 @@
   };
 };
 
-"hWM6qcqA" = lib.buildMinecraftMod {
+"hWM6qcqA" = lib.buildMinecraftFile {
   pname = "v3.0.1";
   version = "3.0.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/hWM6qcqA/dynamic-fps-3.0.1%2Bminecraft-1.19.4.jar";
@@ -1595,7 +1595,7 @@
   };
 };
 
-"NzEhyQyc" = lib.buildMinecraftMod {
+"NzEhyQyc" = lib.buildMinecraftFile {
   pname = "v3.0.1";
   version = "3.0.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/NzEhyQyc/dynamic-fps-3.0.1%2Bminecraft-1.19.jar";
@@ -1607,7 +1607,7 @@
   };
 };
 
-"BRhzFUHi" = lib.buildMinecraftMod {
+"BRhzFUHi" = lib.buildMinecraftFile {
   pname = "v3.0.0";
   version = "3.0.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/BRhzFUHi/dynamic-fps-3.0.0%2Bminecraft-1.19.4.jar";
@@ -1619,7 +1619,7 @@
   };
 };
 
-"8feSMAfR" = lib.buildMinecraftMod {
+"8feSMAfR" = lib.buildMinecraftFile {
   pname = "v3.0.0";
   version = "3.0.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/8feSMAfR/dynamic-fps-3.0.0%2Bminecraft-1.20.jar";
@@ -1631,7 +1631,7 @@
   };
 };
 
-"Dfw5rXkQ" = lib.buildMinecraftMod {
+"Dfw5rXkQ" = lib.buildMinecraftFile {
   pname = "v3.0.0";
   version = "3.0.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Dfw5rXkQ/dynamic-fps-3.0.0%2Bminecraft-1.19.jar";
@@ -1643,7 +1643,7 @@
   };
 };
 
-"Usg995P0" = lib.buildMinecraftMod {
+"Usg995P0" = lib.buildMinecraftFile {
   pname = "v2.4.0";
   version = "2.4.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/Usg995P0/dynamic-fps-2.4.0.jar";
@@ -1655,7 +1655,7 @@
   };
 };
 
-"tChVqk53" = lib.buildMinecraftMod {
+"tChVqk53" = lib.buildMinecraftFile {
   pname = "v2.3.0";
   version = "2.3.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/tChVqk53/dynamic-fps-2.3.0.jar";
@@ -1667,7 +1667,7 @@
   };
 };
 
-"g9FOSLTq" = lib.buildMinecraftMod {
+"g9FOSLTq" = lib.buildMinecraftFile {
   pname = "v2.2.0";
   version = "2.2.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.2.0/dynamic-fps-2.2.0.jar";
@@ -1679,7 +1679,7 @@
   };
 };
 
-"LttnLLIj" = lib.buildMinecraftMod {
+"LttnLLIj" = lib.buildMinecraftFile {
   pname = "v2.1.0";
   version = "2.1.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.1.0/dynamic-fps-2.1.0.jar";
@@ -1691,7 +1691,7 @@
   };
 };
 
-"Co2w6nIh" = lib.buildMinecraftMod {
+"Co2w6nIh" = lib.buildMinecraftFile {
   pname = "v2.0.6";
   version = "2.0.6";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.6/dynamic-fps-2.0.6.jar";
@@ -1703,7 +1703,7 @@
   };
 };
 
-"RgJGw0dO" = lib.buildMinecraftMod {
+"RgJGw0dO" = lib.buildMinecraftFile {
   pname = "v2.0.5";
   version = "2.0.5";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.5/dynamic-fps-2.0.5.jar";
@@ -1715,7 +1715,7 @@
   };
 };
 
-"oIZUkvvs" = lib.buildMinecraftMod {
+"oIZUkvvs" = lib.buildMinecraftFile {
   pname = "v2.0.4";
   version = "2.0.4";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.4/dynamic-fps-2.0.4.jar";
@@ -1727,7 +1727,7 @@
   };
 };
 
-"muZxaaxq" = lib.buildMinecraftMod {
+"muZxaaxq" = lib.buildMinecraftFile {
   pname = "v2.0.2";
   version = "2.0.2";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/2.0.2/dynamic-fps-2.0.2.jar";
@@ -1739,7 +1739,7 @@
   };
 };
 
-"XlBOTUIQ" = lib.buildMinecraftMod {
+"XlBOTUIQ" = lib.buildMinecraftFile {
   pname = "v2.0.1";
   version = "2.0.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.1/dynamic-fps-2.0.1.jar";
@@ -1751,7 +1751,7 @@
   };
 };
 
-"gVvtLF6M" = lib.buildMinecraftMod {
+"gVvtLF6M" = lib.buildMinecraftFile {
   pname = "v2.0.0";
   version = "2.0.0";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.0/dynamic-fps-2.0.0.jar";
@@ -1763,7 +1763,7 @@
   };
 };
 
-"kurPEwi6" = lib.buildMinecraftMod {
+"kurPEwi6" = lib.buildMinecraftFile {
   pname = "v1.2.1";
   version = "1.2.1";
   url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v1.2.1/dynamic-fps-1.2.1.jar";

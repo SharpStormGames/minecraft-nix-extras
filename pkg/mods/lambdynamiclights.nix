@@ -1,5 +1,5 @@
 { lib, ... }: {
-"mrQ8ZiyU" = lib.buildMinecraftMod {
+"mrQ8ZiyU" = lib.buildMinecraftFile {
   pname = "LambDynamicLights 2.3.4 (1.20)";
   version = "2.3.4+1.20.4";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/mrQ8ZiyU/lambdynamiclights-2.3.4%2B1.20.4.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"i6nks8QI" = lib.buildMinecraftMod {
+"i6nks8QI" = lib.buildMinecraftFile {
   pname = "LambDynamicLights 2.3.3 (1.20)";
   version = "2.3.3+1.20.2";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/i6nks8QI/lambdynamiclights-2.3.3%2B1.20.2.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"mYl4RvKg" = lib.buildMinecraftMod {
+"mYl4RvKg" = lib.buildMinecraftFile {
   pname = "LambDynamicLights 2.3.2 (1.20)";
   version = "2.3.2+1.20.1";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/mYl4RvKg/lambdynamiclights-2.3.2%2B1.20.1.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"Vsx4I8Np" = lib.buildMinecraftMod {
+"Vsx4I8Np" = lib.buildMinecraftFile {
   pname = "LambDynamicLights 2.3.1 (1.20)";
   version = "2.3.1+1.20.1";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/Vsx4I8Np/lambdynamiclights-2.3.1%2B1.20.1.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"85Jaf9ic" = lib.buildMinecraftMod {
+"85Jaf9ic" = lib.buildMinecraftFile {
   pname = "LambDynamicLights 2.3.1 (1.19.4)";
   version = "2.3.1+1.19.4";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/85Jaf9ic/lambdynamiclights-2.3.1%2B1.19.4.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"7Cx8p05b" = lib.buildMinecraftMod {
+"7Cx8p05b" = lib.buildMinecraftFile {
   pname = "LambDynamicLights 2.3.0 (1.19.4)";
   version = "2.3.0+1.19.4";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/7Cx8p05b/lambdynamiclights-2.3.0%2B1.19.4.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"9E1ECN95" = lib.buildMinecraftMod {
+"9E1ECN95" = lib.buildMinecraftFile {
   pname = "LambDynamicLights 2.2.0 (1.19.3)";
   version = "2.2.0+1.19.3";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/9E1ECN95/lambdynamiclights-2.2.0%2B1.19.3.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"YQkZSlfq" = lib.buildMinecraftMod {
+"YQkZSlfq" = lib.buildMinecraftFile {
   pname = "LambDynamicLights 2.2.0 (1.19)";
   version = "2.2.0+1.19.2";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/YQkZSlfq/lambdynamiclights-2.2.0%2B1.19.2.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"Fp4gUsxF" = lib.buildMinecraftMod {
+"Fp4gUsxF" = lib.buildMinecraftFile {
   pname = "LambDynamicLights 2.1.2 (1.19)";
   version = "2.1.2+1.19";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.2%2B1.19/lambdynamiclights-2.1.2%2B1.19.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"zhBXhMhZ" = lib.buildMinecraftMod {
+"zhBXhMhZ" = lib.buildMinecraftFile {
   pname = "LambDynamicLights 2.1.0 (1.17-1.18)";
   version = "2.1.0+1.17";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/2.1.0%2B1.17/lambdynamiclights-2.1.0%2B1.17.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"GiwO5rBh" = lib.buildMinecraftMod {
+"GiwO5rBh" = lib.buildMinecraftFile {
   pname = "LambDynamicLights 2.0.2 (1.17-1.18)";
   version = "2.0.2+1.17";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/2.0.2%2B1.17/lambdynamiclights-2.0.2%2B1.17.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"s0scL0LW" = lib.buildMinecraftMod {
+"s0scL0LW" = lib.buildMinecraftFile {
   pname = "LambDynamicLights 2.0.1 (1.17)";
   version = "2.0.1+1.17";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/2.0.1%2B1.17/lambdynamiclights-2.0.1%2B1.17.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"8zO3sewB" = lib.buildMinecraftMod {
+"8zO3sewB" = lib.buildMinecraftFile {
   pname = "LambDynamicLights 2.0.0 (1.17)";
   version = "2.0.0+1.17";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/2.0.0%2B1.17/lambdynamiclights-2.0.0%2B1.17.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"hKXQNf9z" = lib.buildMinecraftMod {
+"hKXQNf9z" = lib.buildMinecraftFile {
   pname = "LambDynamicLights v1.3.4+1.16";
   version = "1.3.4+1.16";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/1.3.4%2B1.16/lambdynamiclights-fabric-1.3.4%2B1.16.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"kaKDsLxl" = lib.buildMinecraftMod {
+"kaKDsLxl" = lib.buildMinecraftFile {
   pname = "LambDynamicLights v1.3.3+1.16";
   version = "1.3.3+1.16";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/1.3.3%2B1.16/lambdynamiclights-fabric-1.3.3%2B1.16.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"YuZK7F05" = lib.buildMinecraftMod {
+"YuZK7F05" = lib.buildMinecraftFile {
   pname = "LambDynamicLights v1.3.2 (mc 1.16.2-4 | Fabric)";
   version = "1.3.2";
   url = "https://cdn.modrinth.com/data/yBW8D80W/versions/1.3.2/lambdynamiclights-fabric-1.3.2%2B1.16.4.jar";

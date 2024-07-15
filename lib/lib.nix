@@ -1,5 +1,5 @@
 { pkgs, inputs, ... }: {
- buildMinecraftMod = pkgs.lib.makeOverridable ({ pname, version, url, sha512, meta, ... }: 
+ buildMinecraftFile = pkgs.lib.makeOverridable ({ pname, version, url, sha512, meta, ... }: 
   pkgs.stdenvNoCC.mkDerivation {
    name = "${pname}-${version}";
    src = pkgs.fetchurl { inherit url sha512; };
