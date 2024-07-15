@@ -37,9 +37,11 @@ jobs:
           experimental-features = nix-command flakes
     - name: Install Nu
       uses: hustcer/setup-nu@v3
-    - name: Update Metadata
+    - name: Update Mod Metadata
       run: nix run .#update-mod
+    - name: Update Resource Metadata
       run: nix run .#update-resource
+    - name: Update Shader Metadata
       run: nix run .#update-shader
     - name: Pull
       run: git pull
