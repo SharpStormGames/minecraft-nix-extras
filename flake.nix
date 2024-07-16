@@ -13,6 +13,8 @@
  in {
   packages.x86_64-linux.scripts = import ./pkg/scripts.nix { inherit pkgs lib; };
   packages.x86_64-linux.mods = import ./pkg/mods.nix { inherit pkgs lib; };
+  packages.x86_64-linux.shaders = import ./pkg/shaders.nix { inherit pkgs lib; };
+  packages.x86_64-linux.resources = import ./pkg/resources.nix { inherit pkgs lib; };
   lib = lib;
   apps.x86_64-linux.fetch-mod = { type = "app"; program = "${self.packages.x86_64-linux.scripts.fetchMod}/bin/mod-fetch.nu"; };
   apps.x86_64-linux.update-mod = { type = "app"; program = "${self.packages.x86_64-linux.scripts.updateMod}/bin/mod-update.nu"; };
