@@ -28,5 +28,17 @@
   inherit meta;
  }
  );
+ buildMinecraftShader = pkgs.lib.makeOverridable ({ pname, version, url, sha512, meta, ... }: 
+  pkgs.stdenvNoCC.mkDerivation {
+   name = "${pname}-${version}";
+   src = pkgs.fetchurl { inherit url sha512; };
+   dontUnpack = true;
+   preferLocalBuild = true;
+   postInstall = ''
+    cp $src $out
+   '';
+   inherit meta;
+  }
+ );
  writeNushellScript = inputs.nix-functions.lib.writeNushellScript;
 }

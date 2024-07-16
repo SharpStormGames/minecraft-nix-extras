@@ -4,7 +4,7 @@ def main [id, name] {
   let packages = (curl --no-progress-meter https://api.modrinth.com/v2/project/($id)/version
   | from json |
   | each {
-    |e| echo $"\"($e.id)\" = lib.buildMinecraftPack {
+    |e| echo $"\"($e.id)\" = lib.buildMinecraftShader {
   pname = \"($e.name)\";
   version = \"($e.version_number | to text)\";
   url = \"($e.files.url.0)\";

@@ -1,5 +1,5 @@
 { lib, ... }: {
-"nZpwS5Nf" = lib.buildMinecraftPack {
+"nZpwS5Nf" = lib.buildMinecraftShader {
   pname = "r0.1-beta5";
   version = "r0.1-beta5";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/nZpwS5Nf/rethinking-voxels_r0.1-beta5.zip";
@@ -10,7 +10,7 @@
   };
 };
 
-"is3rS8JL" = lib.buildMinecraftPack {
+"is3rS8JL" = lib.buildMinecraftShader {
   pname = "r0.1-beta4-fix2";
   version = "r0.1-beta4-fix2";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/is3rS8JL/rethinking-voxels_r0.1-beta4-fix2.zip";
@@ -21,7 +21,7 @@
   };
 };
 
-"b25mX5xa" = lib.buildMinecraftPack {
+"b25mX5xa" = lib.buildMinecraftShader {
   pname = "r0.1-beta4-fix1";
   version = "r0.1-beta4-fix1";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/b25mX5xa/rethinking-voxels_r0.1-beta4-fix1.zip";
@@ -32,7 +32,7 @@
   };
 };
 
-"3xT7x1Bp" = lib.buildMinecraftPack {
+"3xT7x1Bp" = lib.buildMinecraftShader {
   pname = "r0.1-beta4";
   version = "r0.1-beta4";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/3xT7x1Bp/rethinking-voxels_r0.1-beta4.zip";
@@ -43,7 +43,7 @@
   };
 };
 
-"i5OG3ddh" = lib.buildMinecraftPack {
+"i5OG3ddh" = lib.buildMinecraftShader {
   pname = "r0.1-beta3-fix1";
   version = "r0.1-beta3";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/i5OG3ddh/rethinking-voxels_r0.1-beta3-fix1.zip";
@@ -54,7 +54,7 @@
   };
 };
 
-"kxINFUyA" = lib.buildMinecraftPack {
+"kxINFUyA" = lib.buildMinecraftShader {
   pname = "r0.1-beta2";
   version = "r0.1-beta2";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/kxINFUyA/rethinking-voxels_r0.1_beta2.zip";
@@ -65,7 +65,7 @@
   };
 };
 
-"9sZPgPWg" = lib.buildMinecraftPack {
+"9sZPgPWg" = lib.buildMinecraftShader {
   pname = "r0.1-beta1";
   version = "r0.1-beta1";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/9sZPgPWg/rethinking-voxels_r0.1_beta1.zip";
@@ -76,7 +76,7 @@
   };
 };
 
-"4QxN9Se8" = lib.buildMinecraftPack {
+"4QxN9Se8" = lib.buildMinecraftShader {
   pname = "r0.1-alpha10";
   version = "r0.1-alpha10";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/4QxN9Se8/rethinking-voxels_r0.1_alpha10.zip";
@@ -87,7 +87,7 @@
   };
 };
 
-"kT5rXgon" = lib.buildMinecraftPack {
+"kT5rXgon" = lib.buildMinecraftShader {
   pname = "r0.1-alpha9c";
   version = "r0.1-alpha9c";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/kT5rXgon/rethinking-voxels_r0.1_alpha9c.zip";
@@ -98,7 +98,7 @@
   };
 };
 
-"AWtumMpy" = lib.buildMinecraftPack {
+"AWtumMpy" = lib.buildMinecraftShader {
   pname = "r0.1-alpha9b";
   version = "r0.1-alpha9b";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/AWtumMpy/rethinking-voxels_r0.1_alpha9b.zip";
@@ -109,7 +109,7 @@
   };
 };
 
-"H05Uhtt3" = lib.buildMinecraftPack {
+"H05Uhtt3" = lib.buildMinecraftShader {
   pname = "r0.1-alpha9a";
   version = "r0.1-alpha9a";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/H05Uhtt3/rethinking-voxels_r0.1_alpha9a.zip";
@@ -120,7 +120,7 @@
   };
 };
 
-"1vaiswPE" = lib.buildMinecraftPack {
+"1vaiswPE" = lib.buildMinecraftShader {
   pname = "r0.1-alpha9";
   version = "r0.1-alpha9";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/1vaiswPE/rethinking-voxels_r0.1_alpha9.zip";
@@ -131,7 +131,7 @@
   };
 };
 
-"3e7utNwI" = lib.buildMinecraftPack {
+"3e7utNwI" = lib.buildMinecraftShader {
   pname = "r0.1-alpha8";
   version = "r0.1-alpha8";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/3e7utNwI/rethinking-voxels_r0.1_alpha8.zip";
@@ -142,7 +142,7 @@
   };
 };
 
-"nHx51bUG" = lib.buildMinecraftPack {
+"nHx51bUG" = lib.buildMinecraftShader {
   pname = "r0.1-alpha7";
   version = "r0.1-alpha7";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/nHx51bUG/rethinking-voxels_r0.1_alpha7.zip";
@@ -153,7 +153,7 @@
   };
 };
 
-"HQ07gLxO" = lib.buildMinecraftPack {
+"HQ07gLxO" = lib.buildMinecraftShader {
   pname = "r0.1-alpha6";
   version = "r0.1-alpha6";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/HQ07gLxO/rethinking-voxels_r0.1_alpha6.zip";
@@ -164,7 +164,7 @@
   };
 };
 
-"YZmnZG0z" = lib.buildMinecraftPack {
+"YZmnZG0z" = lib.buildMinecraftShader {
   pname = "r0.1 alpha5";
   version = "r0.1-alpha5";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/YZmnZG0z/rethinking-voxels_r0.1_alpha5.zip";
@@ -175,7 +175,7 @@
   };
 };
 
-"1LqpOU4L" = lib.buildMinecraftPack {
+"1LqpOU4L" = lib.buildMinecraftShader {
   pname = "r0.1-alpha4";
   version = "r0.1-alpha4";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/1LqpOU4L/rethinking-voxels_r0.1_alpha4.zip";
@@ -186,7 +186,7 @@
   };
 };
 
-"sj3rknwd" = lib.buildMinecraftPack {
+"sj3rknwd" = lib.buildMinecraftShader {
   pname = "r0.1-alpha3";
   version = "r01-alpha3";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/sj3rknwd/rethinking-voxels_r0.1_alpha3.zip";
@@ -197,7 +197,7 @@
   };
 };
 
-"l5ivuwMY" = lib.buildMinecraftPack {
+"l5ivuwMY" = lib.buildMinecraftShader {
   pname = "r0.1-alpha2";
   version = "r0.1-alpha2";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/l5ivuwMY/rethinking-voxels_r0.1_alpha2.zip";
@@ -208,7 +208,7 @@
   };
 };
 
-"b0FIbZO5" = lib.buildMinecraftPack {
+"b0FIbZO5" = lib.buildMinecraftShader {
   pname = "r0.1-alpha1b";
   version = "r0.1-alpha1b";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/b0FIbZO5/rethinking-voxels_r0.1_alpha1b.zip";
@@ -219,7 +219,7 @@
   };
 };
 
-"14mGpe0b" = lib.buildMinecraftPack {
+"14mGpe0b" = lib.buildMinecraftShader {
   pname = "r0.1-alpha1a";
   version = "r0.1-alpha1a";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/14mGpe0b/rethinking-voxels_r0.1_alpha1a.zip";
@@ -230,7 +230,7 @@
   };
 };
 
-"XoCWYDjr" = lib.buildMinecraftPack {
+"XoCWYDjr" = lib.buildMinecraftShader {
   pname = "r0.1-alpha1";
   version = "r0.1-alpha1";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/XoCWYDjr/rethinking-voxels_r0.1_alpha1a.zip";
@@ -241,7 +241,7 @@
   };
 };
 
-"KgJHr8Dp" = lib.buildMinecraftPack {
+"KgJHr8Dp" = lib.buildMinecraftShader {
   pname = "[Last OptiFine-Compatible Version] Beta 18d";
   version = "18d";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/KgJHr8Dp/rethinking-voxels_beta18d.zip";
@@ -252,7 +252,7 @@
   };
 };
 
-"kVgJJYab" = lib.buildMinecraftPack {
+"kVgJJYab" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta 18c";
   version = "18c";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/kVgJJYab/rethinking-voxels_beta18c.zip";
@@ -263,7 +263,7 @@
   };
 };
 
-"eRdjYNno" = lib.buildMinecraftPack {
+"eRdjYNno" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta 18b";
   version = "18b";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/eRdjYNno/rethinking-voxels_beta18b.zip";
@@ -274,7 +274,7 @@
   };
 };
 
-"jRGaYHpC" = lib.buildMinecraftPack {
+"jRGaYHpC" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta 18a";
   version = "18a";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/jRGaYHpC/rethinking-voxels_beta18a.zip";
@@ -285,7 +285,7 @@
   };
 };
 
-"5NlLe3RT" = lib.buildMinecraftPack {
+"5NlLe3RT" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta 18";
   version = "18";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/5NlLe3RT/rethinking-voxels_beta18.zip";
@@ -296,7 +296,7 @@
   };
 };
 
-"IQJj9pCB" = lib.buildMinecraftPack {
+"IQJj9pCB" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta 17b";
   version = "17b";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/IQJj9pCB/rethinking-voxels_beta17b.zip";
@@ -307,7 +307,7 @@
   };
 };
 
-"jMCUHmuD" = lib.buildMinecraftPack {
+"jMCUHmuD" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta 17a";
   version = "17a";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/jMCUHmuD/rethinking-voxels_beta17a.zip";
@@ -318,7 +318,7 @@
   };
 };
 
-"n6JDuo3v" = lib.buildMinecraftPack {
+"n6JDuo3v" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta 17";
   version = "17";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/n6JDuo3v/rethinking-voxels_beta17.zip";
@@ -329,7 +329,7 @@
   };
 };
 
-"9XRHd6iA" = lib.buildMinecraftPack {
+"9XRHd6iA" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta 16a";
   version = "16a";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/9XRHd6iA/rethinking-voxels_beta16a.zip";
@@ -340,7 +340,7 @@
   };
 };
 
-"uwtVXtKt" = lib.buildMinecraftPack {
+"uwtVXtKt" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta16";
   version = "16";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/uwtVXtKt/rethinking-voxels_beta16.zip";
@@ -351,7 +351,7 @@
   };
 };
 
-"zJ98z3TB" = lib.buildMinecraftPack {
+"zJ98z3TB" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta 15";
   version = "15";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/zJ98z3TB/rethinking-voxels_beta15.zip";
@@ -362,7 +362,7 @@
   };
 };
 
-"CTSiDh5A" = lib.buildMinecraftPack {
+"CTSiDh5A" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta 14a";
   version = "14a";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/CTSiDh5A/rethinking-voxels_beta14a.zip";
@@ -373,7 +373,7 @@
   };
 };
 
-"9VdB64Tg" = lib.buildMinecraftPack {
+"9VdB64Tg" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta 14";
   version = "14";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/9VdB64Tg/rethinking-voxels_beta14.zip";
@@ -384,7 +384,7 @@
   };
 };
 
-"Kvz3zyPE" = lib.buildMinecraftPack {
+"Kvz3zyPE" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta 13a";
   version = "13a";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/Kvz3zyPE/rethinking-voxels_beta13a.zip";
@@ -395,7 +395,7 @@
   };
 };
 
-"2K4NatZc" = lib.buildMinecraftPack {
+"2K4NatZc" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels Beta 13";
   version = "13";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/2K4NatZc/rethinking-voxels_beta13a.zip";
@@ -406,7 +406,7 @@
   };
 };
 
-"AGmTd5nw" = lib.buildMinecraftPack {
+"AGmTd5nw" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels beta 12";
   version = "12";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/AGmTd5nw/rethinking-voxels_beta12.zip";
@@ -417,7 +417,7 @@
   };
 };
 
-"mW86PJDv" = lib.buildMinecraftPack {
+"mW86PJDv" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels beta 11a";
   version = "11a";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/mW86PJDv/rethinking-voxels_beta11a.zip";
@@ -428,7 +428,7 @@
   };
 };
 
-"bzxGCRvk" = lib.buildMinecraftPack {
+"bzxGCRvk" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels beta 11";
   version = "11";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/bzxGCRvk/rethinking-voxels_beta11.zip";
@@ -439,7 +439,7 @@
   };
 };
 
-"2R38mihv" = lib.buildMinecraftPack {
+"2R38mihv" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels beta 10";
   version = "10";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/2R38mihv/rethinking-voxels_beta10.zip";
@@ -450,7 +450,7 @@
   };
 };
 
-"JJYZpa9f" = lib.buildMinecraftPack {
+"JJYZpa9f" = lib.buildMinecraftShader {
   pname = "Rethinking Voxels beta 9";
   version = "9";
   url = "https://cdn.modrinth.com/data/kmwfVOoi/versions/JJYZpa9f/rethinking-voxels_beta9.zip";

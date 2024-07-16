@@ -1,5 +1,5 @@
 { lib, ... }: {
-"pAOQ9Amz" = lib.buildMinecraftPack {
+"pAOQ9Amz" = lib.buildMinecraftShader {
   pname = "r5.2.2";
   version = "r5.2.2";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/pAOQ9Amz/ComplementaryReimagined_r5.2.2.zip";
@@ -10,7 +10,7 @@
   };
 };
 
-"6lz4f6iK" = lib.buildMinecraftPack {
+"6lz4f6iK" = lib.buildMinecraftShader {
   pname = "r5.2.1";
   version = "r5.2.1";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/6lz4f6iK/ComplementaryReimagined_r5.2.1.zip";
@@ -21,7 +21,7 @@
   };
 };
 
-"xSCEl9B8" = lib.buildMinecraftPack {
+"xSCEl9B8" = lib.buildMinecraftShader {
   pname = "r5.2";
   version = "r5.2";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/xSCEl9B8/ComplementaryReimagined_r5.2.zip";
@@ -32,7 +32,7 @@
   };
 };
 
-"D5fox3fg" = lib.buildMinecraftPack {
+"D5fox3fg" = lib.buildMinecraftShader {
   pname = "r5.1.1";
   version = "r5.1.1";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/D5fox3fg/ComplementaryReimagined_r5.1.1.zip";
@@ -43,7 +43,7 @@
   };
 };
 
-"afbG5Pyk" = lib.buildMinecraftPack {
+"afbG5Pyk" = lib.buildMinecraftShader {
   pname = "r5.1";
   version = "r5.1";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/afbG5Pyk/ComplementaryReimagined_r5.1.zip";
@@ -54,7 +54,7 @@
   };
 };
 
-"NKGyBgjH" = lib.buildMinecraftPack {
+"NKGyBgjH" = lib.buildMinecraftShader {
   pname = "r5.0.1";
   version = "r5.0.1";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/NKGyBgjH/ComplementaryReimagined_r5.0.1.zip";
@@ -65,7 +65,7 @@
   };
 };
 
-"nuU4trui" = lib.buildMinecraftPack {
+"nuU4trui" = lib.buildMinecraftShader {
   pname = "r5.0";
   version = "r5.0";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/nuU4trui/ComplementaryReimagined_r5.0.zip";
@@ -76,7 +76,7 @@
   };
 };
 
-"wFaTnvaE" = lib.buildMinecraftPack {
+"wFaTnvaE" = lib.buildMinecraftShader {
   pname = "r2.3";
   version = "r2.3";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/wFaTnvaE/ComplementaryReimagined_r2.3.zip";
@@ -87,7 +87,7 @@
   };
 };
 
-"RYvsFGd2" = lib.buildMinecraftPack {
+"RYvsFGd2" = lib.buildMinecraftShader {
   pname = "r2.2.1";
   version = "r2.2.1";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/RYvsFGd2/ComplementaryReimagined_r2.2.1.zip";
@@ -98,7 +98,7 @@
   };
 };
 
-"38cfnenN" = lib.buildMinecraftPack {
+"38cfnenN" = lib.buildMinecraftShader {
   pname = "r2.2";
   version = "r2.2";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/38cfnenN/ComplementaryReimagined_r2.2.zip";
@@ -109,7 +109,7 @@
   };
 };
 
-"D1f8W3MU" = lib.buildMinecraftPack {
+"D1f8W3MU" = lib.buildMinecraftShader {
   pname = "r2.1";
   version = "r2.1";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/D1f8W3MU/ComplementaryReimagined_r2.1.zip";
@@ -120,7 +120,7 @@
   };
 };
 
-"jCIQGZp3" = lib.buildMinecraftPack {
+"jCIQGZp3" = lib.buildMinecraftShader {
   pname = "r2.0.3";
   version = "r2.0.3";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/jCIQGZp3/ComplementaryReimagined_r2.0.3.zip";
@@ -131,7 +131,7 @@
   };
 };
 
-"dULc7mRq" = lib.buildMinecraftPack {
+"dULc7mRq" = lib.buildMinecraftShader {
   pname = "r2.0.2";
   version = "r2.0.2";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/dULc7mRq/ComplementaryReimagined_r2.0.2.zip";
@@ -142,7 +142,7 @@
   };
 };
 
-"fkR0I8Mj" = lib.buildMinecraftPack {
+"fkR0I8Mj" = lib.buildMinecraftShader {
   pname = "r2.0.1";
   version = "r2.0.1";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/fkR0I8Mj/ComplementaryReimagined_r2.0.1.zip";
@@ -153,7 +153,7 @@
   };
 };
 
-"QGR4LYrD" = lib.buildMinecraftPack {
+"QGR4LYrD" = lib.buildMinecraftShader {
   pname = "r2.0";
   version = "r2.0";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/QGR4LYrD/ComplementaryReimagined_r2.0.zip";
@@ -164,7 +164,7 @@
   };
 };
 
-"Eur2NpSB" = lib.buildMinecraftPack {
+"Eur2NpSB" = lib.buildMinecraftShader {
   pname = "r1.4";
   version = "r1.4";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/Eur2NpSB/ComplementaryReimagined_r1.4.zip";
@@ -175,7 +175,7 @@
   };
 };
 
-"y29Qhzlc" = lib.buildMinecraftPack {
+"y29Qhzlc" = lib.buildMinecraftShader {
   pname = "r1.3.2";
   version = "r1.3.2";
   url = "https://cdn.modrinth.com/data/HVnmMxH1/versions/y29Qhzlc/ComplementaryReimagined_r1.3.2.zip";
