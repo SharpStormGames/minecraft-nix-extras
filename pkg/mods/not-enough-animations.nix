@@ -1,5 +1,5 @@
 { lib, ... }: {
-"WaI2x21x" = lib.buildMinecraftFile {
+"WaI2x21x" = lib.buildMinecraftMod {
   pname = "1.7.4-1.21 - Fabric";
   version = "1.7.4";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/WaI2x21x/notenoughanimations-fabric-1.7.4-mc1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"NsmQb7nR" = lib.buildMinecraftFile {
+"NsmQb7nR" = lib.buildMinecraftMod {
   pname = "1.7.4-1.20.6 - Fabric";
   version = "1.7.4";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/NsmQb7nR/notenoughanimations-fabric-1.7.4-mc1.20.6.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"7emCdZkI" = lib.buildMinecraftFile {
+"7emCdZkI" = lib.buildMinecraftMod {
   pname = "1.7.4-1.20.4 - Fabric";
   version = "1.7.4";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/7emCdZkI/notenoughanimations-fabric-1.7.4-mc1.20.4.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"1UVERi3m" = lib.buildMinecraftFile {
+"1UVERi3m" = lib.buildMinecraftMod {
   pname = "1.7.4-1.20.2 - Fabric";
   version = "1.7.4";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/1UVERi3m/notenoughanimations-fabric-1.7.4-mc1.20.2.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"hevbf7OI" = lib.buildMinecraftFile {
+"hevbf7OI" = lib.buildMinecraftMod {
   pname = "1.7.4-1.20.1 - Fabric";
   version = "1.7.4";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/hevbf7OI/notenoughanimations-fabric-1.7.4-mc1.20.1.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"apqIKa69" = lib.buildMinecraftFile {
+"apqIKa69" = lib.buildMinecraftMod {
   pname = "1.7.4-1.19.4 - Fabric";
   version = "1.7.4";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/apqIKa69/notenoughanimations-fabric-1.7.4-mc1.19.4.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"HawzRUJi" = lib.buildMinecraftFile {
+"HawzRUJi" = lib.buildMinecraftMod {
   pname = "1.7.4-1.19.3 - Fabric";
   version = "1.7.4";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/HawzRUJi/notenoughanimations-fabric-1.7.4-mc1.19.3.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"UjUhXXY1" = lib.buildMinecraftFile {
+"UjUhXXY1" = lib.buildMinecraftMod {
   pname = "1.7.4-1.19.2 - Fabric";
   version = "1.7.4";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/UjUhXXY1/notenoughanimations-fabric-1.7.4-mc1.19.2.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"YzY32Sya" = lib.buildMinecraftFile {
+"YzY32Sya" = lib.buildMinecraftMod {
   pname = "1.7.4-1.18.2 - Fabric";
   version = "1.7.4";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/YzY32Sya/notenoughanimations-fabric-1.7.4-mc1.18.2.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"c4F3rUzb" = lib.buildMinecraftFile {
+"c4F3rUzb" = lib.buildMinecraftMod {
   pname = "1.7.4-1.17.1 - Fabric";
   version = "1.7.4";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/c4F3rUzb/notenoughanimations-fabric-1.7.4-mc1.17.1.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"4kTB3t62" = lib.buildMinecraftFile {
+"4kTB3t62" = lib.buildMinecraftMod {
   pname = "1.7.4-1.16.5 - Fabric";
   version = "1.7.4";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/4kTB3t62/notenoughanimations-fabric-1.7.4-mc1.16.5.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"roq966Ei" = lib.buildMinecraftFile {
+"roq966Ei" = lib.buildMinecraftMod {
   pname = "1.7.3-1.20.6 - Fabric";
   version = "1.7.3";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/roq966Ei/notenoughanimations-fabric-1.7.3-mc1.20.6.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"OwhUSOUM" = lib.buildMinecraftFile {
+"OwhUSOUM" = lib.buildMinecraftMod {
   pname = "1.7.3-1.20.4 - Fabric";
   version = "1.7.3";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/OwhUSOUM/notenoughanimations-fabric-1.7.3-mc1.20.4.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"91p7VH3Z" = lib.buildMinecraftFile {
+"91p7VH3Z" = lib.buildMinecraftMod {
   pname = "1.7.3-1.20.2 - Fabric";
   version = "1.7.3";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/91p7VH3Z/notenoughanimations-fabric-1.7.3-mc1.20.2.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"ibajTV3T" = lib.buildMinecraftFile {
+"ibajTV3T" = lib.buildMinecraftMod {
   pname = "1.7.3-1.20.1 - Fabric";
   version = "1.7.3";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/ibajTV3T/notenoughanimations-fabric-1.7.3-mc1.20.1.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"r3mQHI9C" = lib.buildMinecraftFile {
+"r3mQHI9C" = lib.buildMinecraftMod {
   pname = "1.7.3-1.19.4 - Fabric";
   version = "1.7.3";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/r3mQHI9C/notenoughanimations-fabric-1.7.3-mc1.19.4.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"DrzEIrse" = lib.buildMinecraftFile {
+"DrzEIrse" = lib.buildMinecraftMod {
   pname = "1.7.3-1.19.3 - Fabric";
   version = "1.7.3";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/DrzEIrse/notenoughanimations-fabric-1.7.3-mc1.19.3.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"dSQ2LCbT" = lib.buildMinecraftFile {
+"dSQ2LCbT" = lib.buildMinecraftMod {
   pname = "1.7.3-1.19.2 - Fabric";
   version = "1.7.3";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/dSQ2LCbT/notenoughanimations-fabric-1.7.3-mc1.19.2.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"gNXJI8Ga" = lib.buildMinecraftFile {
+"gNXJI8Ga" = lib.buildMinecraftMod {
   pname = "1.7.3-1.18.2 - Fabric";
   version = "1.7.3";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/gNXJI8Ga/notenoughanimations-fabric-1.7.3-mc1.18.2.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"H240sXde" = lib.buildMinecraftFile {
+"H240sXde" = lib.buildMinecraftMod {
   pname = "1.7.3-1.17.1 - Fabric";
   version = "1.7.3";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/H240sXde/notenoughanimations-fabric-1.7.3-mc1.17.1.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"LMNEYiC9" = lib.buildMinecraftFile {
+"LMNEYiC9" = lib.buildMinecraftMod {
   pname = "1.7.3-1.16.5 - Fabric";
   version = "1.7.3";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/LMNEYiC9/notenoughanimations-fabric-1.7.3-mc1.16.5.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"9wrknT51" = lib.buildMinecraftFile {
+"9wrknT51" = lib.buildMinecraftMod {
   pname = "1.7.2-1.20.5 - Fabric";
   version = "1.7.2";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/9wrknT51/notenoughanimations-fabric-1.7.2-mc1.20.5.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"RBsRL6uP" = lib.buildMinecraftFile {
+"RBsRL6uP" = lib.buildMinecraftMod {
   pname = "1.7.2-1.20.4 - Fabric";
   version = "1.7.2";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/RBsRL6uP/notenoughanimations-fabric-1.7.2-mc1.20.4.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"hOGZu04z" = lib.buildMinecraftFile {
+"hOGZu04z" = lib.buildMinecraftMod {
   pname = "1.7.2-1.20.2 - Fabric";
   version = "1.7.2";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/hOGZu04z/notenoughanimations-fabric-1.7.2-mc1.20.2.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"GiVnGPFJ" = lib.buildMinecraftFile {
+"GiVnGPFJ" = lib.buildMinecraftMod {
   pname = "1.7.2-1.20.1 - Fabric";
   version = "1.7.2";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/GiVnGPFJ/notenoughanimations-fabric-1.7.2-mc1.20.1.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"5L5icOk5" = lib.buildMinecraftFile {
+"5L5icOk5" = lib.buildMinecraftMod {
   pname = "1.7.2-1.19.4 - Fabric";
   version = "1.7.2";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/5L5icOk5/notenoughanimations-fabric-1.7.2-mc1.19.4.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"LHSa4KgL" = lib.buildMinecraftFile {
+"LHSa4KgL" = lib.buildMinecraftMod {
   pname = "1.7.2-1.19.3 - Fabric";
   version = "1.7.2";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/LHSa4KgL/notenoughanimations-fabric-1.7.2-mc1.19.3.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"I7zFLf9X" = lib.buildMinecraftFile {
+"I7zFLf9X" = lib.buildMinecraftMod {
   pname = "1.7.2-1.19.2 - Fabric";
   version = "1.7.2";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/I7zFLf9X/notenoughanimations-fabric-1.7.2-mc1.19.2.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"fxIt2A41" = lib.buildMinecraftFile {
+"fxIt2A41" = lib.buildMinecraftMod {
   pname = "1.7.2-1.18.2 - Fabric";
   version = "1.7.2";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/fxIt2A41/notenoughanimations-fabric-1.7.2-mc1.18.2.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"OY26DCmd" = lib.buildMinecraftFile {
+"OY26DCmd" = lib.buildMinecraftMod {
   pname = "1.7.2-1.17.1 - Fabric";
   version = "1.7.2";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/OY26DCmd/notenoughanimations-fabric-1.7.2-mc1.17.1.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"2aukFs8n" = lib.buildMinecraftFile {
+"2aukFs8n" = lib.buildMinecraftMod {
   pname = "1.7.2-1.16.5 - Fabric";
   version = "1.7.2";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/2aukFs8n/notenoughanimations-fabric-1.7.2-mc1.16.5.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"ZLjUeuU8" = lib.buildMinecraftFile {
+"ZLjUeuU8" = lib.buildMinecraftMod {
   pname = "1.7.1-1.20.4 - Fabric";
   version = "1.7.1";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/ZLjUeuU8/notenoughanimations-fabric-1.7.1-mc1.20.4.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"rOsr3uFm" = lib.buildMinecraftFile {
+"rOsr3uFm" = lib.buildMinecraftMod {
   pname = "1.7.1-1.20.2 - Fabric";
   version = "1.7.1";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/rOsr3uFm/notenoughanimations-fabric-1.7.1-mc1.20.2.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"YbSMjtFY" = lib.buildMinecraftFile {
+"YbSMjtFY" = lib.buildMinecraftMod {
   pname = "1.7.1-1.20.1 - Fabric";
   version = "1.7.1";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/YbSMjtFY/notenoughanimations-fabric-1.7.1-mc1.20.1.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"q3ihyQC8" = lib.buildMinecraftFile {
+"q3ihyQC8" = lib.buildMinecraftMod {
   pname = "1.7.1-1.19.4 - Fabric";
   version = "1.7.1";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/q3ihyQC8/notenoughanimations-fabric-1.7.1-mc1.19.4.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"o8RQCs7I" = lib.buildMinecraftFile {
+"o8RQCs7I" = lib.buildMinecraftMod {
   pname = "1.7.1-1.19.3 - Fabric";
   version = "1.7.1";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/o8RQCs7I/notenoughanimations-fabric-1.7.1-mc1.19.3.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"dZvCG7i6" = lib.buildMinecraftFile {
+"dZvCG7i6" = lib.buildMinecraftMod {
   pname = "1.7.1-1.19.2 - Fabric";
   version = "1.7.1";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/dZvCG7i6/notenoughanimations-fabric-1.7.1-mc1.19.2.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"mLWow4er" = lib.buildMinecraftFile {
+"mLWow4er" = lib.buildMinecraftMod {
   pname = "1.7.1-1.18.2 - Fabric";
   version = "1.7.1";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/mLWow4er/notenoughanimations-fabric-1.7.1-mc1.18.2.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"XnPEJjEJ" = lib.buildMinecraftFile {
+"XnPEJjEJ" = lib.buildMinecraftMod {
   pname = "1.7.1-1.17.1 - Fabric";
   version = "1.7.1";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/XnPEJjEJ/notenoughanimations-fabric-1.7.1-mc1.17.1.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"dpgmRXQG" = lib.buildMinecraftFile {
+"dpgmRXQG" = lib.buildMinecraftMod {
   pname = "1.7.1-1.16.5 - Fabric";
   version = "1.7.1";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/dpgmRXQG/notenoughanimations-fabric-1.7.1-mc1.16.5.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"4e9kpBqk" = lib.buildMinecraftFile {
+"4e9kpBqk" = lib.buildMinecraftMod {
   pname = "1.7.0-1.20.4 - Fabric";
   version = "1.7.0";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/4e9kpBqk/notenoughanimations-fabric-1.7.0-mc1.20.4.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"P4fX4zmx" = lib.buildMinecraftFile {
+"P4fX4zmx" = lib.buildMinecraftMod {
   pname = "1.7.0-1.20.2 - Fabric";
   version = "1.7.0";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/P4fX4zmx/notenoughanimations-fabric-1.7.0-mc1.20.2.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"lODpunva" = lib.buildMinecraftFile {
+"lODpunva" = lib.buildMinecraftMod {
   pname = "1.7.0-1.20.1 - Fabric";
   version = "1.7.0";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/lODpunva/notenoughanimations-fabric-1.7.0-mc1.20.1.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"oIMMpDEr" = lib.buildMinecraftFile {
+"oIMMpDEr" = lib.buildMinecraftMod {
   pname = "1.7.0-1.19.4 - Fabric";
   version = "1.7.0";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/oIMMpDEr/notenoughanimations-fabric-1.7.0-mc1.19.4.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"AdSJ5cbL" = lib.buildMinecraftFile {
+"AdSJ5cbL" = lib.buildMinecraftMod {
   pname = "1.7.0-1.19.3 - Fabric";
   version = "1.7.0";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/AdSJ5cbL/notenoughanimations-fabric-1.7.0-mc1.19.3.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"AhI9YczB" = lib.buildMinecraftFile {
+"AhI9YczB" = lib.buildMinecraftMod {
   pname = "1.7.0-1.19.2 - Fabric";
   version = "1.7.0";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/AhI9YczB/notenoughanimations-fabric-1.7.0-mc1.19.2.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"PEgQgrNC" = lib.buildMinecraftFile {
+"PEgQgrNC" = lib.buildMinecraftMod {
   pname = "1.7.0-1.18.2 - Fabric";
   version = "1.7.0";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/PEgQgrNC/notenoughanimations-fabric-1.7.0-mc1.18.2.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"DdRFjJ84" = lib.buildMinecraftFile {
+"DdRFjJ84" = lib.buildMinecraftMod {
   pname = "1.7.0-1.17.1 - Fabric";
   version = "1.7.0";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/DdRFjJ84/notenoughanimations-fabric-1.7.0-mc1.17.1.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"U2ttp7u8" = lib.buildMinecraftFile {
+"U2ttp7u8" = lib.buildMinecraftMod {
   pname = "1.7.0-1.16.5 - Fabric";
   version = "1.7.0";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/U2ttp7u8/notenoughanimations-fabric-1.7.0-mc1.16.5.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"4Q3YTJ4K" = lib.buildMinecraftFile {
+"4Q3YTJ4K" = lib.buildMinecraftMod {
   pname = "1.6.4-1.19.2 - Fabric";
   version = "1.6.4-1.19.2";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/4Q3YTJ4K/notenoughanimations-fabric-1.6.4-mc1.19.2.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"4QkMRJ1H" = lib.buildMinecraftFile {
+"4QkMRJ1H" = lib.buildMinecraftMod {
   pname = "1.6.4-1.20.2 - Fabric";
   version = "1.6.4-1.20.2";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/4QkMRJ1H/notenoughanimations-fabric-1.6.4-mc1.20.2.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"6auoqhMp" = lib.buildMinecraftFile {
+"6auoqhMp" = lib.buildMinecraftMod {
   pname = "1.6.4-1.20 - Fabric";
   version = "1.6.4-1.20";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/6auoqhMp/notenoughanimations-fabric-1.6.4-mc1.20.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"XFJeh7MA" = lib.buildMinecraftFile {
+"XFJeh7MA" = lib.buildMinecraftMod {
   pname = "1.6.4-1.19.4 - Fabric";
   version = "1.6.4-1.19.4";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/XFJeh7MA/notenoughanimations-fabric-1.6.4-mc1.19.4.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"2TKqy76Z" = lib.buildMinecraftFile {
+"2TKqy76Z" = lib.buildMinecraftMod {
   pname = "1.6.3-1.19.4 - Fabric";
   version = "1.6.3-1.19.4";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/2TKqy76Z/notenoughanimations-fabric-1.6.3-mc1.19.4.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"LxB5Tojq" = lib.buildMinecraftFile {
+"LxB5Tojq" = lib.buildMinecraftMod {
   pname = "1.6.3-1.19.3 - Fabric";
   version = "1.6.3-1.19.3";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/LxB5Tojq/notenoughanimations-fabric-1.6.3-mc1.19.3.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"C4uW6hHV" = lib.buildMinecraftFile {
+"C4uW6hHV" = lib.buildMinecraftMod {
   pname = "1.6.2-1.19.3 - Fabric";
   version = "1.6.2-1.19.3";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/C4uW6hHV/notenoughanimations-fabric-1.6.2-mc1.19.3.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"KZmMUPjz" = lib.buildMinecraftFile {
+"KZmMUPjz" = lib.buildMinecraftMod {
   pname = "1.6.2-1.19 - Fabric";
   version = "1.6.2-1.19";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/KZmMUPjz/notenoughanimations-fabric-1.6.2-mc1.19.2.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"TGtlRlUI" = lib.buildMinecraftFile {
+"TGtlRlUI" = lib.buildMinecraftMod {
   pname = "1.6.1 - Fabric 1.19.x";
   version = "1.6.1-fabric-1.19";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/1.6.1-fabric-1.19/notenoughanimations-fabric-1.6.1-mc1.19.1.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"K6cf9eax" = lib.buildMinecraftFile {
+"K6cf9eax" = lib.buildMinecraftMod {
   pname = "1.6.0 - Fabric 1.19.x";
   version = "1.6.0-fabric-1.19";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/1.6.0-fabric-1.19/notenoughanimations-fabric-1.6.0-mc1.19.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"KTGfH3KC" = lib.buildMinecraftFile {
+"KTGfH3KC" = lib.buildMinecraftMod {
   pname = "1.6.0 - Fabric 1.18.x";
   version = "1.6.0-fabric-1.18";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/1.6.0-fabric-1.18/notenoughanimations-fabric-1.6.0-mc1.18.2.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"C44WSsJJ" = lib.buildMinecraftFile {
+"C44WSsJJ" = lib.buildMinecraftMod {
   pname = "1.6.0 - Fabric 1.17.x";
   version = "1.6.0-fabric-1.17";
   url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/1.6.0-fabric-1.17/notenoughanimations-fabric-1.6.0-mc1.17.1.jar";

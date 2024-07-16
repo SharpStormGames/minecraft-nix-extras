@@ -1,5 +1,5 @@
 { lib, ... }: {
-"Bu3hSiJb" = lib.buildMinecraftFile {
+"Bu3hSiJb" = lib.buildMinecraftMod {
   pname = "1.6.6-1.21 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/Bu3hSiJb/entityculling-fabric-1.6.6-mc1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"6U5rh26a" = lib.buildMinecraftFile {
+"6U5rh26a" = lib.buildMinecraftMod {
   pname = "1.6.6-1.20.6 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/6U5rh26a/entityculling-fabric-1.6.6-mc1.20.6.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"cj8nR3eG" = lib.buildMinecraftFile {
+"cj8nR3eG" = lib.buildMinecraftMod {
   pname = "1.6.6-1.20.4 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/cj8nR3eG/entityculling-fabric-1.6.6-mc1.20.4.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"KRGWwoZW" = lib.buildMinecraftFile {
+"KRGWwoZW" = lib.buildMinecraftMod {
   pname = "1.6.6-1.20.2 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/KRGWwoZW/entityculling-fabric-1.6.6-mc1.20.2.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"F3RXDl1W" = lib.buildMinecraftFile {
+"F3RXDl1W" = lib.buildMinecraftMod {
   pname = "1.6.6-1.20.1 - Fabric";
   version = "1.6.6";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/F3RXDl1W/entityculling-fabric-1.6.6-mc1.20.1.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"92bPVm5F" = lib.buildMinecraftFile {
+"92bPVm5F" = lib.buildMinecraftMod {
   pname = "1.6.5-1.20.6 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/92bPVm5F/entityculling-fabric-1.6.5-mc1.20.6.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"hyejM5za" = lib.buildMinecraftFile {
+"hyejM5za" = lib.buildMinecraftMod {
   pname = "1.6.5-1.20.4 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/hyejM5za/entityculling-fabric-1.6.5-mc1.20.4.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"2LyjkgAv" = lib.buildMinecraftFile {
+"2LyjkgAv" = lib.buildMinecraftMod {
   pname = "1.6.5-1.20.2 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/2LyjkgAv/entityculling-fabric-1.6.5-mc1.20.2.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"frGGaFrx" = lib.buildMinecraftFile {
+"frGGaFrx" = lib.buildMinecraftMod {
   pname = "1.6.5-1.20.1 - Fabric";
   version = "1.6.5";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/frGGaFrx/entityculling-fabric-1.6.5-mc1.20.1.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"sXviAk4G" = lib.buildMinecraftFile {
+"sXviAk4G" = lib.buildMinecraftMod {
   pname = "1.6.4-1.20.6 - Fabric";
   version = "1.6.4-1.20.6";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/sXviAk4G/entityculling-fabric-1.6.4-mc1.20.6.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"dmSSEQmZ" = lib.buildMinecraftFile {
+"dmSSEQmZ" = lib.buildMinecraftMod {
   pname = "1.6.4-1.20.5 - Fabric";
   version = "1.6.4-1.20.5";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/dmSSEQmZ/entityculling-fabric-1.6.4-mc1.20.5.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"7JR5qJ8f" = lib.buildMinecraftFile {
+"7JR5qJ8f" = lib.buildMinecraftMod {
   pname = "1.6.4-1.20.4 - Fabric";
   version = "1.6.4-1.20.4";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/7JR5qJ8f/entityculling-fabric-1.6.4-mc1.20.4.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"2I1m95aJ" = lib.buildMinecraftFile {
+"2I1m95aJ" = lib.buildMinecraftMod {
   pname = "1.6.3-b1.7.3 - Fabric(Babric)";
   version = "1.6.3-b1.7.3";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/2I1m95aJ/entity-culling-1.6.3.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"HSirwtwV" = lib.buildMinecraftFile {
+"HSirwtwV" = lib.buildMinecraftMod {
   pname = "1.6.3.1-1.20.4 - Fabric";
   version = "1.6.3.1-1.20.4";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/HSirwtwV/entityculling-fabric-1.6.3.1-mc1.20.4.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"KSu61vcB" = lib.buildMinecraftFile {
+"KSu61vcB" = lib.buildMinecraftMod {
   pname = "1.6.3-1.20.4 - Fabric";
   version = "1.6.3-1.20.4";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/KSu61vcB/entityculling-fabric-1.6.3-mc1.20.4.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"tUVHg6HN" = lib.buildMinecraftFile {
+"tUVHg6HN" = lib.buildMinecraftMod {
   pname = "1.6.3-1.20.2 - Fabric";
   version = "1.6.3-1.20.2";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/tUVHg6HN/entityculling-fabric-1.6.3-mc1.20.2.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"BDwHAdWc" = lib.buildMinecraftFile {
+"BDwHAdWc" = lib.buildMinecraftMod {
   pname = "1.6.2-1.20.2 - Fabric";
   version = "1.6.2-1.20.2";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/BDwHAdWc/entityculling-fabric-1.6.2-mc1.20.1.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"d20sUcYn" = lib.buildMinecraftFile {
+"d20sUcYn" = lib.buildMinecraftMod {
   pname = "1.6.2-1.20 - Fabric";
   version = "1.6.2-1.20";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/d20sUcYn/entityculling-fabric-1.6.2-mc1.20.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"UvJN5Cy4" = lib.buildMinecraftFile {
+"UvJN5Cy4" = lib.buildMinecraftMod {
   pname = "1.6.2-1.19.4 - Fabric";
   version = "1.6.2-1.19.4";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/UvJN5Cy4/entityculling-fabric-1.6.2-mc1.19.4.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"d3CbGntl" = lib.buildMinecraftFile {
+"d3CbGntl" = lib.buildMinecraftMod {
   pname = "1.6.1-1.18.2 - Fabric";
   version = "1.6.1-1.18.2";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/d3CbGntl/entityculling-fabric-1.6.1-mc1.18.2.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"twdGLDHv" = lib.buildMinecraftFile {
+"twdGLDHv" = lib.buildMinecraftMod {
   pname = "1.6.1-1.19.2 - Fabric";
   version = "1.6.1-mc1.19.2";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/twdGLDHv/entityculling-fabric-1.6.1-mc1.19.2.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"AdkBUIRs" = lib.buildMinecraftFile {
+"AdkBUIRs" = lib.buildMinecraftMod {
   pname = "1.6.1-1.19.3 - Fabric";
   version = "1.6.1-1.19.3";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/AdkBUIRs/entityculling-fabric-1.6.1-mc1.19.3.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"reIgRPky" = lib.buildMinecraftFile {
+"reIgRPky" = lib.buildMinecraftMod {
   pname = "1.6.0-1.19.3 - Fabric";
   version = "1.6.0-1.19.3";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/reIgRPky/entityculling-fabric-1.6.0-mc1.19.3.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"bRBO9ZzX" = lib.buildMinecraftFile {
+"bRBO9ZzX" = lib.buildMinecraftMod {
   pname = "1.5.2-1.19.3 Fabric";
   version = "1.5.2-1.19.3";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/bRBO9ZzX/entityculling-fabric-1.5.2-mc1.19.3.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"b2cBCjB4" = lib.buildMinecraftFile {
+"b2cBCjB4" = lib.buildMinecraftMod {
   pname = "1.5.2-1.19.3-pre2";
   version = "1.5.2-1.19.3-pre2";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/b2cBCjB4/entityculling-fabric-1.5.2-mc1.19.3-pre2.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"R0KPBo5r" = lib.buildMinecraftFile {
+"R0KPBo5r" = lib.buildMinecraftMod {
   pname = "1.5.2 - Fabric 1.19.x ";
   version = "1.5.2-fabric-1.19";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-fabric-1.19/entityculling-fabric-1.5.2-mc1.19.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"LQ3vI7aU" = lib.buildMinecraftFile {
+"LQ3vI7aU" = lib.buildMinecraftMod {
   pname = "1.5.1 - Fabric 1.19.x";
   version = "1.5.1-fabric-1.19";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.1-fabric-1.19/entityculling-fabric-1.5.1-mc1.19-rc2.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"4GD4dwQK" = lib.buildMinecraftFile {
+"4GD4dwQK" = lib.buildMinecraftMod {
   pname = "1.5.1 - Fabric 1.18.x";
   version = "1.5.1-fabric-1.18";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.1-fabric-1.18/entityculling-fabric-mc1.18-1.5.1.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"2mzFyULh" = lib.buildMinecraftFile {
+"2mzFyULh" = lib.buildMinecraftMod {
   pname = "1.5.0 - Fabric 1.17.x";
   version = "1.5.0-fabric-1.17";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.0-fabric-1.17/entityculling-fabric-mc1.17.1-1.5.0.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"Qek7k92S" = lib.buildMinecraftFile {
+"Qek7k92S" = lib.buildMinecraftMod {
   pname = "1.5.2 - Fabric 1.16.x";
   version = "1.5.2-fabric-1.16";
   url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/1.5.2-fabric-1.16/entityculling-fabric-mc1.16.5-1.5.2.jar";

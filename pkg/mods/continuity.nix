@@ -1,5 +1,5 @@
 { lib, ... }: {
-"NksUpFjf" = lib.buildMinecraftFile {
+"NksUpFjf" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.5+1.21";
   version = "3.0.0-beta.5+1.21";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/NksUpFjf/continuity-3.0.0-beta.5%2B1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"hI13Vg85" = lib.buildMinecraftFile {
+"hI13Vg85" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.5+1.20.5";
   version = "3.0.0-beta.5+1.20.5";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/hI13Vg85/continuity-3.0.0-beta.5%2B1.20.5.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"Ox1racg8" = lib.buildMinecraftFile {
+"Ox1racg8" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.5+1.20.2";
   version = "3.0.0-beta.5+1.20.2";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/Ox1racg8/continuity-3.0.0-beta.5%2B1.20.2.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"84Zs6tNo" = lib.buildMinecraftFile {
+"84Zs6tNo" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.5+1.20.1";
   version = "3.0.0-beta.5+1.20.1";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/84Zs6tNo/continuity-3.0.0-beta.5%2B1.20.1.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"MfBeYvQa" = lib.buildMinecraftFile {
+"MfBeYvQa" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.5+1.19.4";
   version = "3.0.0-beta.5+1.19.4";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/MfBeYvQa/continuity-3.0.0-beta.5%2B1.19.4.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"Fc7h8MWD" = lib.buildMinecraftFile {
+"Fc7h8MWD" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.5+1.19.3";
   version = "3.0.0-beta.5+1.19.3";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/Fc7h8MWD/continuity-3.0.0-beta.5%2B1.19.3.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"JXhQlDZl" = lib.buildMinecraftFile {
+"JXhQlDZl" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.4+1.20.2";
   version = "3.0.0-beta.4+1.20.2";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/JXhQlDZl/continuity-3.0.0-beta.4%2B1.20.2.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"Z9FJWLMt" = lib.buildMinecraftFile {
+"Z9FJWLMt" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.4+1.20.1";
   version = "3.0.0-beta.4+1.20.1";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/Z9FJWLMt/continuity-3.0.0-beta.4%2B1.20.1.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"JYaO3lPe" = lib.buildMinecraftFile {
+"JYaO3lPe" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.4+1.19.4";
   version = "3.0.0-beta.4+1.19.4";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/JYaO3lPe/continuity-3.0.0-beta.4%2B1.19.4.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"xy2co4Rh" = lib.buildMinecraftFile {
+"xy2co4Rh" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.3+1.20.1";
   version = "3.0.0-beta.3+1.20.1";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/xy2co4Rh/continuity-3.0.0-beta.3%2B1.20.1.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"OOpbpU2z" = lib.buildMinecraftFile {
+"OOpbpU2z" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.3+1.19.4";
   version = "3.0.0-beta.3+1.19.4";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/OOpbpU2z/continuity-3.0.0-beta.3%2B1.19.4.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"G2qoxVmV" = lib.buildMinecraftFile {
+"G2qoxVmV" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.3+1.19.3";
   version = "3.0.0-beta.3+1.19.3";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/G2qoxVmV/continuity-3.0.0-beta.3%2B1.19.3.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"ImUFj5Gl" = lib.buildMinecraftFile {
+"ImUFj5Gl" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.2+1.20";
   version = "3.0.0-beta.2+1.20";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/ImUFj5Gl/continuity-3.0.0-beta.2%2B1.20.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"4h5IIa7B" = lib.buildMinecraftFile {
+"4h5IIa7B" = lib.buildMinecraftMod {
   pname = "3.0.0-beta.2+1.19.3";
   version = "3.0.0-beta.2+1.19.3";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/4h5IIa7B/continuity-3.0.0-beta.2%2B1.19.3.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"Ql3Ho9eR" = lib.buildMinecraftFile {
+"Ql3Ho9eR" = lib.buildMinecraftMod {
   pname = "2.0.2+1.19";
   version = "2.0.2+1.19";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/Ql3Ho9eR/continuity-2.0.2%2B1.19.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"YEKdScFW" = lib.buildMinecraftFile {
+"YEKdScFW" = lib.buildMinecraftMod {
   pname = "2.0.2+1.18.2";
   version = "2.0.2+1.18.2";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/YEKdScFW/continuity-2.0.2%2B1.18.2.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"xTtULC68" = lib.buildMinecraftFile {
+"xTtULC68" = lib.buildMinecraftMod {
   pname = "2.0.1+1.19";
   version = "2.0.1+1.19";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/2.0.1%2B1.19/continuity-2.0.1%2B1.19.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"jjpzIZoY" = lib.buildMinecraftFile {
+"jjpzIZoY" = lib.buildMinecraftMod {
   pname = "2.0.1+1.18.2";
   version = "2.0.1+1.18.2";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/2.0.1%2B1.18.2/continuity-2.0.1%2B1.18.2.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"zcqSiVI3" = lib.buildMinecraftFile {
+"zcqSiVI3" = lib.buildMinecraftMod {
   pname = "2.0.0+1.19";
   version = "2.0.0+1.19";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/2.0.0%2B1.19/continuity-2.0.0%2B1.19.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"Bl7pOAQf" = lib.buildMinecraftFile {
+"Bl7pOAQf" = lib.buildMinecraftMod {
   pname = "2.0.0+1.18.2";
   version = "2.0.0+1.18.2";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/2.0.0%2B1.18.2/continuity-2.0.0%2B1.18.2.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"gOxkykhO" = lib.buildMinecraftFile {
+"gOxkykhO" = lib.buildMinecraftMod {
   pname = "1.1.0+1.18.2";
   version = "1.1.0+1.18.2";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/1.1.0%2B1.18.2/continuity-1.1.0%2B1.18.2.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"sD3iTKbB" = lib.buildMinecraftFile {
+"sD3iTKbB" = lib.buildMinecraftMod {
   pname = "1.1.0+1.18";
   version = "1.1.0+1.18";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/1.1.0%2B1.18/continuity-1.1.0%2B1.18.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"yiOF0F2t" = lib.buildMinecraftFile {
+"yiOF0F2t" = lib.buildMinecraftMod {
   pname = "1.1.0+1.17";
   version = "1.1.0+1.17";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/1.1.0%2B1.17/continuity-1.1.0%2B1.17.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"SffGs8Ro" = lib.buildMinecraftFile {
+"SffGs8Ro" = lib.buildMinecraftMod {
   pname = "1.0.3+1.18";
   version = "1.0.3+1.18";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/1.0.3%2B1.18/continuity-1.0.3%2B1.18.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"27YRAXEt" = lib.buildMinecraftFile {
+"27YRAXEt" = lib.buildMinecraftMod {
   pname = "1.0.3+1.17";
   version = "1.0.3+1.17";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/1.0.3%2B1.17/continuity-1.0.3%2B1.17.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"i0ccQghD" = lib.buildMinecraftFile {
+"i0ccQghD" = lib.buildMinecraftMod {
   pname = "1.0.2+1.17";
   version = "1.0.2+1.17";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/1.0.2%2B1.17/continuity-1.0.2%2B1.17.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"6JEV45oM" = lib.buildMinecraftFile {
+"6JEV45oM" = lib.buildMinecraftMod {
   pname = "1.0.1+1.17";
   version = "1.0.1+1.17";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/1.0.1%2B1.17/continuity-1.0.1%2B1.17.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"Xn8QzMB9" = lib.buildMinecraftFile {
+"Xn8QzMB9" = lib.buildMinecraftMod {
   pname = "1.0.0+1.17";
   version = "1.0.0+1.17";
   url = "https://cdn.modrinth.com/data/1IjD5062/versions/1.0.0%2B1.17/continuity-1.0.0%2B1.17.jar";

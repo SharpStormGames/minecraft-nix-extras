@@ -1,5 +1,5 @@
 { lib, ... }: {
-"DA0kxiSe" = lib.buildMinecraftFile {
+"DA0kxiSe" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.18";
   version = "1.2.18+1.21-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/DA0kxiSe/ImmediatelyFast-Fabric-1.2.18%2B1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"fZXxgmhr" = lib.buildMinecraftFile {
+"fZXxgmhr" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.18";
   version = "1.2.18+1.20.6-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/fZXxgmhr/ImmediatelyFast-Fabric-1.2.18%2B1.20.6.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"HX5WEfoR" = lib.buildMinecraftFile {
+"HX5WEfoR" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.18";
   version = "1.2.18+1.20.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/HX5WEfoR/ImmediatelyFast-Fabric-1.2.18%2B1.20.4.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"Z3V4Ooz5" = lib.buildMinecraftFile {
+"Z3V4Ooz5" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.18";
   version = "1.2.18+1.19.2-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/Z3V4Ooz5/ImmediatelyFast-Fabric-1.2.18%2B1.19.2.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"5PNUSQdg" = lib.buildMinecraftFile {
+"5PNUSQdg" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.17";
   version = "1.2.17+1.20.6-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/5PNUSQdg/ImmediatelyFast-Fabric-1.2.17%2B1.20.6.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"115Ubn3O" = lib.buildMinecraftFile {
+"115Ubn3O" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.17";
   version = "1.2.17+1.20.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/115Ubn3O/ImmediatelyFast-Fabric-1.2.17%2B1.20.4.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"5P52J1TG" = lib.buildMinecraftFile {
+"5P52J1TG" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.17";
   version = "1.2.17+1.19.2-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/5P52J1TG/ImmediatelyFast-Fabric-1.2.17%2B1.19.2.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"LJDBWhHU" = lib.buildMinecraftFile {
+"LJDBWhHU" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.16";
   version = "1.2.16+1.20.6-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/LJDBWhHU/ImmediatelyFast-Fabric-1.2.16%2B1.20.6.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"XHrZaGCh" = lib.buildMinecraftFile {
+"XHrZaGCh" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.16";
   version = "1.2.16+1.20.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/XHrZaGCh/ImmediatelyFast-Fabric-1.2.16%2B1.20.4.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"jQuacF3O" = lib.buildMinecraftFile {
+"jQuacF3O" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.16";
   version = "1.2.16+1.19.2-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/jQuacF3O/ImmediatelyFast-Fabric-1.2.16%2B1.19.2.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"aY5V6MjG" = lib.buildMinecraftFile {
+"aY5V6MjG" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.15";
   version = "1.2.15+1.20.6-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/aY5V6MjG/ImmediatelyFast-Fabric-1.2.15%2B1.20.6.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"Rh3MdqnM" = lib.buildMinecraftFile {
+"Rh3MdqnM" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.15";
   version = "1.2.15+1.20.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/Rh3MdqnM/ImmediatelyFast-Fabric-1.2.15%2B1.20.4.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"wrvAzLRZ" = lib.buildMinecraftFile {
+"wrvAzLRZ" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.15";
   version = "1.2.15+1.19.2-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/wrvAzLRZ/ImmediatelyFast-Fabric-1.2.15%2B1.19.2.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"CdHWqPx2" = lib.buildMinecraftFile {
+"CdHWqPx2" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.14";
   version = "1.2.14+1.20.6-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/CdHWqPx2/ImmediatelyFast-Fabric-1.2.14%2B1.20.6.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"8eoEPo8E" = lib.buildMinecraftFile {
+"8eoEPo8E" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.14";
   version = "1.2.14+1.20.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/8eoEPo8E/ImmediatelyFast-Fabric-1.2.14%2B1.20.4.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"cxatW0Qh" = lib.buildMinecraftFile {
+"cxatW0Qh" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.14";
   version = "1.2.14+1.19.2-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/cxatW0Qh/ImmediatelyFast-Fabric-1.2.14%2B1.19.2.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"Z4sPylCR" = lib.buildMinecraftFile {
+"Z4sPylCR" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.13";
   version = "1.2.13+1.20.6-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/Z4sPylCR/ImmediatelyFast-Fabric-1.2.13%2B1.20.6.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"9HwVBmbJ" = lib.buildMinecraftFile {
+"9HwVBmbJ" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.13";
   version = "1.2.13+1.20.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/9HwVBmbJ/ImmediatelyFast-Fabric-1.2.13%2B1.20.4.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"PApQEGE3" = lib.buildMinecraftFile {
+"PApQEGE3" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.13";
   version = "1.2.13+1.19.2-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/PApQEGE3/ImmediatelyFast-Fabric-1.2.13%2B1.19.2.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"cnnaUyZd" = lib.buildMinecraftFile {
+"cnnaUyZd" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.12";
   version = "1.2.12+1.20.5-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/cnnaUyZd/ImmediatelyFast-Fabric-1.2.12%2B1.20.5.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"TqFSrfXD" = lib.buildMinecraftFile {
+"TqFSrfXD" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.12";
   version = "1.2.12+1.20.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/TqFSrfXD/ImmediatelyFast-Fabric-1.2.12%2B1.20.4.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"GbH3WLI3" = lib.buildMinecraftFile {
+"GbH3WLI3" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.12";
   version = "1.2.12+1.19.2-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/GbH3WLI3/ImmediatelyFast-Fabric-1.2.12%2B1.19.2.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"FEOsWs1E" = lib.buildMinecraftFile {
+"FEOsWs1E" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.11";
   version = "1.2.11+1.20.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/FEOsWs1E/ImmediatelyFast-Fabric-1.2.11%2B1.20.4.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"ezKTj0NE" = lib.buildMinecraftFile {
+"ezKTj0NE" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.11";
   version = "1.2.11+1.19.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/ezKTj0NE/ImmediatelyFast-Fabric-1.2.11%2B1.19.4.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"xC3SC47B" = lib.buildMinecraftFile {
+"xC3SC47B" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.11";
   version = "1.2.11+1.19.2-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/xC3SC47B/ImmediatelyFast-Fabric-1.2.11%2B1.19.2.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"59UuNTrz" = lib.buildMinecraftFile {
+"59UuNTrz" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.10";
   version = "1.2.10+1.20.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/59UuNTrz/ImmediatelyFast-Fabric-1.2.10%2B1.20.4.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"3sz82ybY" = lib.buildMinecraftFile {
+"3sz82ybY" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.10";
   version = "1.2.10+1.19.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/3sz82ybY/ImmediatelyFast-Fabric-1.2.10%2B1.19.4.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"10hJ1wKC" = lib.buildMinecraftFile {
+"10hJ1wKC" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.10";
   version = "1.2.10+1.19.2-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/10hJ1wKC/ImmediatelyFast-Fabric-1.2.10%2B1.19.2.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"hh8K3O8j" = lib.buildMinecraftFile {
+"hh8K3O8j" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.9";
   version = "1.2.9+1.20.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/hh8K3O8j/ImmediatelyFast-Fabric-1.2.9%2B1.20.4.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"kij8vKAw" = lib.buildMinecraftFile {
+"kij8vKAw" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.9";
   version = "1.2.9+1.19.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/kij8vKAw/ImmediatelyFast-Fabric-1.2.9%2B1.19.4.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"4x5lLRwI" = lib.buildMinecraftFile {
+"4x5lLRwI" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.9";
   version = "1.2.9+1.19.2-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/4x5lLRwI/ImmediatelyFast-Fabric-1.2.9%2B1.19.2.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"3EgIBnht" = lib.buildMinecraftFile {
+"3EgIBnht" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.8";
   version = "1.2.8+1.20.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/3EgIBnht/ImmediatelyFast-Fabric-1.2.8%2B1.20.4.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"VNkQO9oa" = lib.buildMinecraftFile {
+"VNkQO9oa" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.8";
   version = "1.2.8+1.19.4-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/VNkQO9oa/ImmediatelyFast-Fabric-1.2.8%2B1.19.4.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"bqv414X0" = lib.buildMinecraftFile {
+"bqv414X0" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.2.8";
   version = "1.2.8+1.19.2-fabric";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/bqv414X0/ImmediatelyFast-Fabric-1.2.8%2B1.19.2.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"EANGsMsP" = lib.buildMinecraftFile {
+"EANGsMsP" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.28";
   version = "1.1.28+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/EANGsMsP/ImmediatelyFast-1.1.28%2B1.20.1.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"Hh5as8hY" = lib.buildMinecraftFile {
+"Hh5as8hY" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.28";
   version = "1.1.28+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/Hh5as8hY/ImmediatelyFast-1.1.28%2B1.19.4.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"yhuSOfHc" = lib.buildMinecraftFile {
+"yhuSOfHc" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.28";
   version = "1.1.28+1.19.2";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/yhuSOfHc/ImmediatelyFast-1.1.28%2B1.19.2.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"hgQwRPhD" = lib.buildMinecraftFile {
+"hgQwRPhD" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.27";
   version = "1.1.27+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/hgQwRPhD/ImmediatelyFast-1.1.27%2B1.20.1.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"LJYd35mB" = lib.buildMinecraftFile {
+"LJYd35mB" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.27";
   version = "1.1.27+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/LJYd35mB/ImmediatelyFast-1.1.27%2B1.19.4.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"gAAnfzrT" = lib.buildMinecraftFile {
+"gAAnfzrT" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.27";
   version = "1.1.27+1.19.2";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/gAAnfzrT/ImmediatelyFast-1.1.27%2B1.19.2.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"fZa7YlyA" = lib.buildMinecraftFile {
+"fZa7YlyA" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.26";
   version = "1.1.26+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/fZa7YlyA/ImmediatelyFast-1.1.26%2B1.20.1.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"4Y4VXGXE" = lib.buildMinecraftFile {
+"4Y4VXGXE" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.26";
   version = "1.1.26+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/4Y4VXGXE/ImmediatelyFast-1.1.26%2B1.19.4.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"9RDk8aOc" = lib.buildMinecraftFile {
+"9RDk8aOc" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.26";
   version = "1.1.26+1.19.2";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/9RDk8aOc/ImmediatelyFast-1.1.26%2B1.19.2.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"h38wJYho" = lib.buildMinecraftFile {
+"h38wJYho" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.25";
   version = "1.1.25+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/h38wJYho/ImmediatelyFast-1.1.25%2B1.20.1.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"kQq0Qobv" = lib.buildMinecraftFile {
+"kQq0Qobv" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.25";
   version = "1.1.25+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/kQq0Qobv/ImmediatelyFast-1.1.25%2B1.19.4.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"1BSUFszc" = lib.buildMinecraftFile {
+"1BSUFszc" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.24";
   version = "1.1.24+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/1BSUFszc/ImmediatelyFast-1.1.24%2B1.20.1.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"d4HBt40d" = lib.buildMinecraftFile {
+"d4HBt40d" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.24";
   version = "1.1.24+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/d4HBt40d/ImmediatelyFast-1.1.24%2B1.19.4.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"XHrRgyGN" = lib.buildMinecraftFile {
+"XHrRgyGN" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.23";
   version = "1.1.23+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/XHrRgyGN/ImmediatelyFast-1.1.23%2B1.20.1.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"CG88v2FZ" = lib.buildMinecraftFile {
+"CG88v2FZ" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.23";
   version = "1.1.23+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/CG88v2FZ/ImmediatelyFast-1.1.23%2B1.19.4.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"xFmHwVvA" = lib.buildMinecraftFile {
+"xFmHwVvA" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.22";
   version = "1.1.22+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/xFmHwVvA/ImmediatelyFast-1.1.22%2B1.20.1.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"i5OWJDBj" = lib.buildMinecraftFile {
+"i5OWJDBj" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.22";
   version = "1.1.22+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/i5OWJDBj/ImmediatelyFast-1.1.22%2B1.19.4.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"FtHQIJZd" = lib.buildMinecraftFile {
+"FtHQIJZd" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.21";
   version = "1.1.21+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/FtHQIJZd/ImmediatelyFast-1.1.21%2B1.20.1.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"pQRqrmzs" = lib.buildMinecraftFile {
+"pQRqrmzs" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.21";
   version = "1.1.21+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/pQRqrmzs/ImmediatelyFast-1.1.21%2B1.19.4.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"m8P58epq" = lib.buildMinecraftFile {
+"m8P58epq" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.20";
   version = "1.1.20+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/m8P58epq/ImmediatelyFast-1.1.20%2B1.20.1.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"VaRB1Uaj" = lib.buildMinecraftFile {
+"VaRB1Uaj" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.20";
   version = "1.1.20+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/VaRB1Uaj/ImmediatelyFast-1.1.20%2B1.19.4.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"mGqxsY9X" = lib.buildMinecraftFile {
+"mGqxsY9X" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.19";
   version = "1.1.19+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/mGqxsY9X/ImmediatelyFast-1.1.19%2B1.20.1.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"5arZz0qz" = lib.buildMinecraftFile {
+"5arZz0qz" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.19";
   version = "1.1.19+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/5arZz0qz/ImmediatelyFast-1.1.19%2B1.19.4.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"2cEsJ6Ix" = lib.buildMinecraftFile {
+"2cEsJ6Ix" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.18";
   version = "1.1.18+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/2cEsJ6Ix/ImmediatelyFast-1.1.18%2B1.20.1.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"KjMKYa1K" = lib.buildMinecraftFile {
+"KjMKYa1K" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.18";
   version = "1.1.18+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/KjMKYa1K/ImmediatelyFast-1.1.18%2B1.19.4.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"24BUZiRe" = lib.buildMinecraftFile {
+"24BUZiRe" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.17";
   version = "1.1.17+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/24BUZiRe/ImmediatelyFast-1.1.17%2B1.20.1.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"15Hwli83" = lib.buildMinecraftFile {
+"15Hwli83" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.17";
   version = "1.1.17+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/15Hwli83/ImmediatelyFast-1.1.17%2B1.19.4.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"aptjkgGB" = lib.buildMinecraftFile {
+"aptjkgGB" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast 1.1.16";
   version = "1.1.16+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/aptjkgGB/ImmediatelyFast-1.1.16%2B1.20.1.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"LEmCbzHA" = lib.buildMinecraftFile {
+"LEmCbzHA" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.16";
   version = "1.1.16+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/LEmCbzHA/ImmediatelyFast-1.1.16%2B1.19.4.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"4IDo27OL" = lib.buildMinecraftFile {
+"4IDo27OL" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.15";
   version = "1.1.15+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/4IDo27OL/ImmediatelyFast-1.1.15%2B1.20.1.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"eiqdESrg" = lib.buildMinecraftFile {
+"eiqdESrg" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.15";
   version = "1.1.15+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/eiqdESrg/ImmediatelyFast-1.1.15%2B1.19.4.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"cpgGVZDs" = lib.buildMinecraftFile {
+"cpgGVZDs" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.14";
   version = "1.1.14+1.20.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/cpgGVZDs/ImmediatelyFast-1.1.14%2B1.20.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"1OT6gCmX" = lib.buildMinecraftFile {
+"1OT6gCmX" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.14";
   version = "1.1.14+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/1OT6gCmX/ImmediatelyFast-1.1.14%2B1.19.4.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"Jci0UG9F" = lib.buildMinecraftFile {
+"Jci0UG9F" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.13";
   version = "1.1.13+1.20";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/Jci0UG9F/ImmediatelyFast-1.1.13%2B1.20.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"fZkbywLp" = lib.buildMinecraftFile {
+"fZkbywLp" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.13";
   version = "1.1.13+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/fZkbywLp/ImmediatelyFast-1.1.13%2B1.19.4.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"8IFFeKYy" = lib.buildMinecraftFile {
+"8IFFeKYy" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.12";
   version = "1.1.12+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/8IFFeKYy/ImmediatelyFast-1.1.12%2B1.19.4.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"fnLm3B23" = lib.buildMinecraftFile {
+"fnLm3B23" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.12";
   version = "1.1.12+1.19.3";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/fnLm3B23/ImmediatelyFast-1.1.12%2B1.19.3.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"4yVqQKQO" = lib.buildMinecraftFile {
+"4yVqQKQO" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.12";
   version = "1.1.12+1.19";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/4yVqQKQO/ImmediatelyFast-1.1.12%2B1.19.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"D73h6MNI" = lib.buildMinecraftFile {
+"D73h6MNI" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.12";
   version = "1.1.12+1.18.2";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/D73h6MNI/ImmediatelyFast-1.1.12%2B1.18.2.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"IpEJi0ih" = lib.buildMinecraftFile {
+"IpEJi0ih" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.11+1.19.4";
   version = "1.1.11+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/IpEJi0ih/ImmediatelyFast-1.1.11%2B1.19.4.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"izX4Zjnu" = lib.buildMinecraftFile {
+"izX4Zjnu" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.10";
   version = "1.1.10+1.19.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/izX4Zjnu/ImmediatelyFast-1.1.10%2B1.19.4.jar";
@@ -899,7 +899,7 @@
   };
 };
 
-"CdpFa9ts" = lib.buildMinecraftFile {
+"CdpFa9ts" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.10";
   version = "1.1.10+1.19.3";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/CdpFa9ts/ImmediatelyFast-1.1.10%2B1.19.3.jar";
@@ -911,7 +911,7 @@
   };
 };
 
-"q6hvGX5B" = lib.buildMinecraftFile {
+"q6hvGX5B" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.10";
   version = "1.1.10+1.19";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/q6hvGX5B/ImmediatelyFast-1.1.10%2B1.19.jar";
@@ -923,7 +923,7 @@
   };
 };
 
-"YVmLXIsi" = lib.buildMinecraftFile {
+"YVmLXIsi" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.10";
   version = "1.1.10+1.18.2";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/YVmLXIsi/ImmediatelyFast-1.1.10%2B1.18.2.jar";
@@ -935,7 +935,7 @@
   };
 };
 
-"d6gX5lox" = lib.buildMinecraftFile {
+"d6gX5lox" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.9";
   version = "1.1.9+1.19.3";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/d6gX5lox/ImmediatelyFast-1.1.9%2B1.19.3.jar";
@@ -947,7 +947,7 @@
   };
 };
 
-"K3zjbY4P" = lib.buildMinecraftFile {
+"K3zjbY4P" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.9";
   version = "1.1.9+1.19.2";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/K3zjbY4P/ImmediatelyFast-1.1.9%2B1.19.jar";
@@ -959,7 +959,7 @@
   };
 };
 
-"aWcTiEn8" = lib.buildMinecraftFile {
+"aWcTiEn8" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.9";
   version = "1.1.9+1.18.2";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/aWcTiEn8/ImmediatelyFast-1.1.9%2B1.18.2.jar";
@@ -971,7 +971,7 @@
   };
 };
 
-"EHbdx1pF" = lib.buildMinecraftFile {
+"EHbdx1pF" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.8";
   version = "1.1.8+1.19.3";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/EHbdx1pF/ImmediatelyFast-1.1.8%2B1.19.3.jar";
@@ -983,7 +983,7 @@
   };
 };
 
-"VoFPEhPL" = lib.buildMinecraftFile {
+"VoFPEhPL" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.8";
   version = "1.1.8+1.19";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/VoFPEhPL/ImmediatelyFast-1.1.8%2B1.19.jar";
@@ -995,7 +995,7 @@
   };
 };
 
-"M7dmS1xe" = lib.buildMinecraftFile {
+"M7dmS1xe" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.8";
   version = "1.1.8+1.18.2";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/M7dmS1xe/ImmediatelyFast-1.1.8%2B1.18.2.jar";
@@ -1007,7 +1007,7 @@
   };
 };
 
-"mo9q5fMn" = lib.buildMinecraftFile {
+"mo9q5fMn" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.7";
   version = "1.1.7+1.19.3";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/mo9q5fMn/ImmediatelyFast-1.1.7%2B1.19.3.jar";
@@ -1019,7 +1019,7 @@
   };
 };
 
-"UDnjDzur" = lib.buildMinecraftFile {
+"UDnjDzur" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.7";
   version = "1.1.7+1.19";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/UDnjDzur/ImmediatelyFast-1.1.7%2B1.19.jar";
@@ -1031,7 +1031,7 @@
   };
 };
 
-"VUTuPIlE" = lib.buildMinecraftFile {
+"VUTuPIlE" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.7";
   version = "1.1.7+1.18.2";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/VUTuPIlE/ImmediatelyFast-1.1.7%2B1.18.2.jar";
@@ -1043,7 +1043,7 @@
   };
 };
 
-"vA8NWTKD" = lib.buildMinecraftFile {
+"vA8NWTKD" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.6";
   version = "1.1.6+1.19.3";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/vA8NWTKD/ImmediatelyFast-1.1.6%2B1.19.3.jar";
@@ -1055,7 +1055,7 @@
   };
 };
 
-"A6GCxAD1" = lib.buildMinecraftFile {
+"A6GCxAD1" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.6";
   version = "1.1.6+1.19";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/A6GCxAD1/ImmediatelyFast-1.1.6%2B1.19.jar";
@@ -1067,7 +1067,7 @@
   };
 };
 
-"zImGOGqD" = lib.buildMinecraftFile {
+"zImGOGqD" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.6";
   version = "1.1.6+1.18.2";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/zImGOGqD/ImmediatelyFast-1.1.6%2B1.18.2.jar";
@@ -1079,7 +1079,7 @@
   };
 };
 
-"zkmYKBLC" = lib.buildMinecraftFile {
+"zkmYKBLC" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.5";
   version = "1.1.5+1.19.3";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/zkmYKBLC/ImmediatelyFast-1.1.5%2B1.19.3.jar";
@@ -1091,7 +1091,7 @@
   };
 };
 
-"Ly9dRsAI" = lib.buildMinecraftFile {
+"Ly9dRsAI" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.5";
   version = "1.1.5+1.19";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/Ly9dRsAI/ImmediatelyFast-1.1.5%2B1.19.jar";
@@ -1103,7 +1103,7 @@
   };
 };
 
-"sTQ5rCbF" = lib.buildMinecraftFile {
+"sTQ5rCbF" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.4";
   version = "1.1.4+1.19.3";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/sTQ5rCbF/ImmediatelyFast-1.19.3-1.1.4.jar";
@@ -1115,7 +1115,7 @@
   };
 };
 
-"IYnEX1ly" = lib.buildMinecraftFile {
+"IYnEX1ly" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.4";
   version = "1.1.4+1.19";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/IYnEX1ly/ImmediatelyFast-1.19-1.1.4.jar";
@@ -1127,7 +1127,7 @@
   };
 };
 
-"vjevJCO1" = lib.buildMinecraftFile {
+"vjevJCO1" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.3";
   version = "1.1.3";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/vjevJCO1/ImmediatelyFast-1.19-1.1.3.jar";
@@ -1139,7 +1139,7 @@
   };
 };
 
-"MK5xuarZ" = lib.buildMinecraftFile {
+"MK5xuarZ" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.3";
   version = "1.1.3";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/MK5xuarZ/ImmediatelyFast-1.19.3-1.1.3.jar";
@@ -1151,7 +1151,7 @@
   };
 };
 
-"FcqoS76s" = lib.buildMinecraftFile {
+"FcqoS76s" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.2";
   version = "1.1.2";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/FcqoS76s/ImmediatelyFast-1.19-1.1.2.jar";
@@ -1163,7 +1163,7 @@
   };
 };
 
-"Xc7f8wNQ" = lib.buildMinecraftFile {
+"Xc7f8wNQ" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.2";
   version = "1.1.2";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/Xc7f8wNQ/ImmediatelyFast-1.19.3-1.1.2.jar";
@@ -1175,7 +1175,7 @@
   };
 };
 
-"slaIcF1K" = lib.buildMinecraftFile {
+"slaIcF1K" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.1";
   version = "1.1.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/slaIcF1K/ImmediatelyFast-1.19-1.1.1.jar";
@@ -1187,7 +1187,7 @@
   };
 };
 
-"f2Av82pv" = lib.buildMinecraftFile {
+"f2Av82pv" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.1";
   version = "1.1.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/f2Av82pv/ImmediatelyFast-1.19.3-1.1.1.jar";
@@ -1199,7 +1199,7 @@
   };
 };
 
-"1oWTStwD" = lib.buildMinecraftFile {
+"1oWTStwD" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.1.0";
   version = "1.1.0";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/1oWTStwD/ImmediatelyFast-1.1.0.jar";
@@ -1211,7 +1211,7 @@
   };
 };
 
-"an4lUoZ0" = lib.buildMinecraftFile {
+"an4lUoZ0" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.0.7";
   version = "1.0.7";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/an4lUoZ0/ImmediatelyFast-1.0.7.jar";
@@ -1223,7 +1223,7 @@
   };
 };
 
-"IihbNw9x" = lib.buildMinecraftFile {
+"IihbNw9x" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.0.6";
   version = "1.0.6";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/IihbNw9x/ImmediatelyFast-1.0.6.jar";
@@ -1235,7 +1235,7 @@
   };
 };
 
-"Lj7lpgeu" = lib.buildMinecraftFile {
+"Lj7lpgeu" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.0.5";
   version = "1.0.5";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/Lj7lpgeu/ImmediatelyFast-1.0.5.jar";
@@ -1247,7 +1247,7 @@
   };
 };
 
-"HjPptbpI" = lib.buildMinecraftFile {
+"HjPptbpI" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.0.4";
   version = "1.0.4";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/HjPptbpI/ImmediatelyFast-1.0.4.jar";
@@ -1259,7 +1259,7 @@
   };
 };
 
-"MXrToyOy" = lib.buildMinecraftFile {
+"MXrToyOy" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.0.3";
   version = "1.0.3";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/MXrToyOy/ImmediatelyFast-1.0.3.jar";
@@ -1271,7 +1271,7 @@
   };
 };
 
-"56ly78y2" = lib.buildMinecraftFile {
+"56ly78y2" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.0.2";
   version = "1.0.2";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/56ly78y2/ImmediatelyFast-1.0.2.jar";
@@ -1283,7 +1283,7 @@
   };
 };
 
-"R8MXsvBe" = lib.buildMinecraftFile {
+"R8MXsvBe" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.0.1";
   version = "1.0.1";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/R8MXsvBe/ImmediatelyFast-1.0.1.jar";
@@ -1295,7 +1295,7 @@
   };
 };
 
-"ybGjtkj1" = lib.buildMinecraftFile {
+"ybGjtkj1" = lib.buildMinecraftMod {
   pname = "ImmediatelyFast-1.0.0";
   version = "1.0.0";
   url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/ybGjtkj1/ImmediatelyFast-1.0.0.jar";

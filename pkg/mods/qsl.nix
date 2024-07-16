@@ -1,5 +1,5 @@
 { lib, ... }: {
-"PNhUOnZI" = lib.buildMinecraftFile {
+"PNhUOnZI" = lib.buildMinecraftMod {
   pname = "[1.21] QFAPI 11.0.0-alpha.3 and QSL 10.0.0-alpha.1";
   version = "11.0.0-alpha.3+0.100.7-1.21";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/PNhUOnZI/quilted-fabric-api-11.0.0-alpha.3%2B0.100.7-1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"zEhzQDsY" = lib.buildMinecraftFile {
+"zEhzQDsY" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.6.0 and QSL 6.2.0";
   version = "7.6.0+0.92.2-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/zEhzQDsY/qfapi-7.6.0_qsl-6.2.0_fapi-0.92.2_mc-1.20.1.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"Zs4kU6Dw" = lib.buildMinecraftFile {
+"Zs4kU6Dw" = lib.buildMinecraftMod {
   pname = "[1.21] QFAPI 11.0.0-alpha.2 and QSL 10.0.0-alpha.1";
   version = "11.0.0-alpha.2+0.100.4-1.21";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/Zs4kU6Dw/quilted-fabric-api-11.0.0-alpha.2%2B0.100.4-1.21.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"IQQyeJNR" = lib.buildMinecraftFile {
+"IQQyeJNR" = lib.buildMinecraftMod {
   pname = "[1.20.6] QFAPI 10.0.0-alpha.3 and QSL 9.0.0-alpha.1";
   version = "10.0.0-alpha.3+0.100.4-1.20.6";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/IQQyeJNR/quilted-fabric-api-10.0.0-alpha.3%2B0.100.4-1.20.6.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"ztVCwkjV" = lib.buildMinecraftFile {
+"ztVCwkjV" = lib.buildMinecraftMod {
   pname = "[1.21] QFAPI 11.0.0-alpha.1 and QSL 10.0.0-alpha.1";
   version = "11.0.0-alpha.1+0.100.4-1.21";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/ztVCwkjV/quilted-fabric-api-11.0.0-alpha.1%2B0.100.4-1.21.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"3TIQBIMy" = lib.buildMinecraftFile {
+"3TIQBIMy" = lib.buildMinecraftMod {
   pname = "[1.20.6] QFAPI 10.0.0-alpha.2 and QSL 9.0.0-alpha.1";
   version = "10.0.0-alpha.2+0.100.4-1.20.6";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/3TIQBIMy/quilted-fabric-api-10.0.0-alpha.2%2B0.100.4-1.20.6.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"Gydw2vxY" = lib.buildMinecraftFile {
+"Gydw2vxY" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.5.0 and QSL 6.1.2";
   version = "7.5.0+0.92.2-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/Gydw2vxY/qfapi-7.5.0_qsl-6.1.2_fapi-0.92.2_mc-1.20.1.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"AljqyvST" = lib.buildMinecraftFile {
+"AljqyvST" = lib.buildMinecraftMod {
   pname = "[1.20.4] QFAPI 9.0.0-alpha.8 and QSL 8.0.0-alpha.13";
   version = "9.0.0-alpha.8+0.97.0-1.20.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/AljqyvST/quilted-fabric-api-9.0.0-alpha.8%2B0.97.0-1.20.4.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"DiaeDvXG" = lib.buildMinecraftFile {
+"DiaeDvXG" = lib.buildMinecraftMod {
   pname = "[1.20.4] QFAPI 9.0.0-alpha.7 and QSL 8.0.0-alpha.12";
   version = "9.0.0-alpha.7+0.96.11-1.20.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/DiaeDvXG/quilted-fabric-api-9.0.0-alpha.7%2B0.96.11-1.20.4.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"zHVlrS0A" = lib.buildMinecraftFile {
+"zHVlrS0A" = lib.buildMinecraftMod {
   pname = "[1.20.2] QFAPI 8.0.0-alpha.6 and QSL 7.0.0-alpha.13";
   version = "8.0.0-alpha.6+0.91.6-1.20.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/zHVlrS0A/quilted-fabric-api-8.0.0-alpha.6%2B0.91.6-1.20.2.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"rfATdsrM" = lib.buildMinecraftFile {
+"rfATdsrM" = lib.buildMinecraftMod {
   pname = "[1.20.4] QFAPI 9.0.0-alpha.6 and QSL 8.0.0-alpha.11";
   version = "9.0.0-alpha.6+0.96.11-1.20.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/rfATdsrM/quilted-fabric-api-9.0.0-alpha.6%2B0.96.11-1.20.4.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"DWVsGxzN" = lib.buildMinecraftFile {
+"DWVsGxzN" = lib.buildMinecraftMod {
   pname = "[1.20.4] QFAPI 9.0.0-alpha.5 and QSL 8.0.0-alpha.10";
   version = "9.0.0-alpha.5+0.96.11-1.20.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/DWVsGxzN/quilted-fabric-api-9.0.0-alpha.5%2B0.96.11-1.20.4.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"vZbU3nyq" = lib.buildMinecraftFile {
+"vZbU3nyq" = lib.buildMinecraftMod {
   pname = "[1.20.2] QFAPI 8.0.0-alpha.5 and QSL 7.0.0-alpha.12";
   version = "8.0.0-alpha.5+0.91.6-1.20.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/vZbU3nyq/quilted-fabric-api-8.0.0-alpha.5%2B0.91.6-1.20.2.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"z7EhOm3D" = lib.buildMinecraftFile {
+"z7EhOm3D" = lib.buildMinecraftMod {
   pname = "[1.20.2] QFAPI 8.0.0-alpha.4 and QSL 7.0.0-alpha.11";
   version = "8.0.0-alpha.4+0.91.6-1.20.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/z7EhOm3D/quilted-fabric-api-8.0.0-alpha.4%2B0.91.6-1.20.2.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"aaucrsnr" = lib.buildMinecraftFile {
+"aaucrsnr" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.30 and QSL 3.0.0-beta.29";
   version = "4.0.0-beta.30+0.77.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/aaucrsnr/qfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.77.0_mc-1.19.2.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"qAYOU2Af" = lib.buildMinecraftFile {
+"qAYOU2Af" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.5.0 and QSL 6.1.2";
   version = "7.5.0+0.91.0-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/qAYOU2Af/qfapi-7.5.0_qsl-6.1.2_fapi-0.91.0_mc-1.20.1.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"gIUtHixU" = lib.buildMinecraftFile {
+"gIUtHixU" = lib.buildMinecraftMod {
   pname = "[1.20.2] QFAPI 8.0.0-alpha.3 and QSL 7.0.0-alpha.9";
   version = "8.0.0-alpha.3+0.91.2-1.20.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/gIUtHixU/quilted-fabric-api-8.0.0-alpha.3%2B0.91.2-1.20.2.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"Xo36xpLR" = lib.buildMinecraftFile {
+"Xo36xpLR" = lib.buildMinecraftMod {
   pname = "[1.20.2] QFAPI 8.0.0-alpha.2 and QSL 7.0.0-alpha.9";
   version = "8.0.0-alpha.2+0.91.2-1.20.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/Xo36xpLR/quilted-fabric-api-8.0.0-alpha.2%2B0.91.2-1.20.2.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"g6CMDJLy" = lib.buildMinecraftFile {
+"g6CMDJLy" = lib.buildMinecraftMod {
   pname = "[1.20.2] QFAPI 8.0.0-alpha.1 and QSL 7.0.0-alpha.9";
   version = "8.0.0-alpha.1+0.91.2-1.20.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/g6CMDJLy/quilted-fabric-api-8.0.0-alpha.1%2B0.91.2-1.20.2.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"BQoiDT9n" = lib.buildMinecraftFile {
+"BQoiDT9n" = lib.buildMinecraftMod {
   pname = "[1.19.4] QFAPI 6.0.0-beta.11 and QSL 5.0.0-beta.11";
   version = "6.0.0-beta.11+0.87.0-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/BQoiDT9n/qfapi-6.0.0-beta.11_qsl-5.0.0-beta.11_fapi-0.87.0_mc-1.19.4.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"GjvWb8WQ" = lib.buildMinecraftFile {
+"GjvWb8WQ" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.4.0 and QSL 6.1.2";
   version = "7.4.0+0.90.0-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/GjvWb8WQ/qfapi-7.4.0_qsl-6.1.2_fapi-0.90.0_mc-1.20.1.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"jOT4fzXf" = lib.buildMinecraftFile {
+"jOT4fzXf" = lib.buildMinecraftMod {
   pname = "[1.19.4] QFAPI 6.0.0-beta.10 and QSL 5.0.0-beta.11";
   version = "6.0.0-beta.10+0.87.0-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/jOT4fzXf/qfapi-6.0.0-beta.10_qsl-5.0.0-beta.11_fapi-0.87.0_mc-1.19.4.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"ftu8PpDD" = lib.buildMinecraftFile {
+"ftu8PpDD" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.3.1 and QSL 6.1.2";
   version = "7.3.1+0.89.3-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/ftu8PpDD/qfapi-7.3.1_qsl-6.1.2_fapi-0.89.3_mc-1.20.1.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"Ycmh3qg8" = lib.buildMinecraftFile {
+"Ycmh3qg8" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.3.0 and QSL 6.1.2";
   version = "7.3.0+0.89.0-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/Ycmh3qg8/qfapi-7.3.0_qsl-6.1.2_fapi-0.89.0_mc-1.20.1.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"vTQynnGn" = lib.buildMinecraftFile {
+"vTQynnGn" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.2.2 and QSL 6.1.2";
   version = "7.2.2+0.88.1-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/vTQynnGn/qfapi-7.2.2_qsl-6.1.2_fapi-0.88.1_mc-1.20.1.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"DzBePwtf" = lib.buildMinecraftFile {
+"DzBePwtf" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.2.1 and QSL 6.1.1";
   version = "7.2.1+0.88.0-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/DzBePwtf/qfapi-7.2.1_qsl-6.1.1_fapi-0.88.0_mc-1.20.1.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"PmZhDLt6" = lib.buildMinecraftFile {
+"PmZhDLt6" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.2.0 and QSL 6.1.1";
   version = "7.2.0+0.88.0-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/PmZhDLt6/qfapi-7.2.0_qsl-6.1.1_fapi-0.88.0_mc-1.20.1.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"aWl2Qw6u" = lib.buildMinecraftFile {
+"aWl2Qw6u" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.1.2 and QSL 6.1.1";
   version = "7.1.2+0.87.0-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/aWl2Qw6u/qfapi-7.1.2_qsl-6.1.1_fapi-0.87.0_mc-1.20.1.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"ugK6veHN" = lib.buildMinecraftFile {
+"ugK6veHN" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.1.1 and QSL 6.1.1";
   version = "7.1.1+0.86.1-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/ugK6veHN/qfapi-7.1.1_qsl-6.1.1_fapi-0.86.1_mc-1.20.1.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"fFx48erS" = lib.buildMinecraftFile {
+"fFx48erS" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.1.0 and QSL 6.1.0";
   version = "7.1.0+0.86.1-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/fFx48erS/qfapi-7.1.0_qsl-6.1.0_fapi-0.86.1_mc-1.20.1.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"4JBkYQUF" = lib.buildMinecraftFile {
+"4JBkYQUF" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.0.6 and QSL 6.0.4";
   version = "7.0.6+0.85.0-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/4JBkYQUF/qfapi-7.0.6_qsl-6.0.4_fapi-0.85.0_mc-1.20.1.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"BAwbsZ2r" = lib.buildMinecraftFile {
+"BAwbsZ2r" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.0.5 and QSL 6.0.4";
   version = "7.0.5+0.84.0-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/BAwbsZ2r/qfapi-7.0.5_qsl-6.0.4_fapi-0.84.0_mc-1.20.1.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"cFCbC3OH" = lib.buildMinecraftFile {
+"cFCbC3OH" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.0.4 and QSL 6.0.3";
   version = "7.0.4+0.84.0-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/cFCbC3OH/qfapi-7.0.4_qsl-6.0.3_fapi-0.84.0_mc-1.20.1.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"di82eiyL" = lib.buildMinecraftFile {
+"di82eiyL" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.0.3 and QSL 6.0.3";
   version = "7.0.3+0.83.1-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/di82eiyL/qfapi-7.0.3_qsl-6.0.3_fapi-0.83.1_mc-1.20.1.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"uw5SkGdQ" = lib.buildMinecraftFile {
+"uw5SkGdQ" = lib.buildMinecraftMod {
   pname = "[1.20.1] QFAPI 7.0.2 and QSL 6.0.3";
   version = "7.0.2+0.83.0-1.20.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/uw5SkGdQ/qfapi-7.0.2_qsl-6.0.3_fapi-0.83.0_mc-1.20.1.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"rS9Tm10P" = lib.buildMinecraftFile {
+"rS9Tm10P" = lib.buildMinecraftMod {
   pname = "[1.20] QFAPI 7.0.1 and QSL 6.0.1";
   version = "7.0.1+0.83.0-1.20";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/rS9Tm10P/qfapi-7.0.1_qsl-6.0.1_fapi-0.83.0_mc-1.20.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"csBGi8FI" = lib.buildMinecraftFile {
+"csBGi8FI" = lib.buildMinecraftMod {
   pname = "[1.20] QFAPI 7.0.0 and QSL 6.0.0";
   version = "7.0.0+0.83.0-1.20";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/csBGi8FI/qfapi-7.0.0_qsl-6.0.0_fapi-0.83.0_mc-1.20.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"QPXihdoB" = lib.buildMinecraftFile {
+"QPXihdoB" = lib.buildMinecraftMod {
   pname = "[1.19.4] QFAPI 6.0.0-beta.9 and QSL 5.0.0-beta.10";
   version = "6.0.0-beta.9+0.83.0-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/QPXihdoB/qfapi-6.0.0-beta.9_qsl-5.0.0-beta.10_fapi-0.83.0_mc-1.19.4.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"YiAkMxMf" = lib.buildMinecraftFile {
+"YiAkMxMf" = lib.buildMinecraftMod {
   pname = "[1.20-rc1] QFAPI 7.0.0-alpha.4 and QSL 6.0.0-alpha.6";
   version = "7.0.0-alpha.4+0.83.0-1.20";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/YiAkMxMf/qfapi-7.0.0-alpha.4_qsl-6.0.0-alpha.6_fapi-0.83.0_mc-1.20-rc1.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"b1Y1Otv7" = lib.buildMinecraftFile {
+"b1Y1Otv7" = lib.buildMinecraftMod {
   pname = "[1.20-pre7] QFAPI 7.0.0-alpha.3 and QSL 6.0.0-alpha.5";
   version = "7.0.0-alpha.3+0.83.0-1.20";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/b1Y1Otv7/qfapi-7.0.0-alpha.3_qsl-6.0.0-alpha.5_fapi-0.83.0_mc-1.20-pre7.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"Y4qL3XEB" = lib.buildMinecraftFile {
+"Y4qL3XEB" = lib.buildMinecraftMod {
   pname = "[1.20-pre6] QFAPI 7.0.0-alpha.2 and QSL 6.0.0-alpha.4";
   version = "7.0.0-alpha.2+0.82.1-1.20";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/Y4qL3XEB/qfapi-7.0.0-alpha.2_qsl-6.0.0-alpha.4_fapi-0.82.1_mc-1.20-pre6.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"x86qltyO" = lib.buildMinecraftFile {
+"x86qltyO" = lib.buildMinecraftMod {
   pname = "[1.19.4] QFAPI 6.0.0-beta.8 and QSL 5.0.0-beta.9";
   version = "6.0.0-beta.8+0.82.0-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/x86qltyO/qfapi-6.0.0-beta.8_qsl-5.0.0-beta.9_fapi-0.82.0_mc-1.19.4.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"Xhv4rEIJ" = lib.buildMinecraftFile {
+"Xhv4rEIJ" = lib.buildMinecraftMod {
   pname = "[1.20-pre5] QFAPI 7.0.0-alpha.1 and QSL 6.0.0-alpha.3";
   version = "7.0.0-alpha.1+0.81.3-1.20";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/Xhv4rEIJ/qfapi-7.0.0-alpha.1_qsl-6.0.0-alpha.3_fapi-0.81.3_mc-1.20-pre5.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"jCiJggRO" = lib.buildMinecraftFile {
+"jCiJggRO" = lib.buildMinecraftMod {
   pname = "[1.19.4] QFAPI 6.0.0-beta.7 and QSL 5.0.0-beta.8";
   version = "6.0.0-beta.7+0.81.1-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/jCiJggRO/qfapi-6.0.0-beta.7_qsl-5.0.0-beta.8_fapi-0.81.1_mc-1.19.4.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"Gxq4k3Vt" = lib.buildMinecraftFile {
+"Gxq4k3Vt" = lib.buildMinecraftMod {
   pname = "[1.19.4] QFAPI 6.0.0-beta.6 and QSL 5.0.0-beta.8";
   version = "6.0.0-beta.6+0.81.1-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/Gxq4k3Vt/qfapi-6.0.0-beta.6_qsl-5.0.0-beta.8_fapi-0.81.1_mc-1.19.4.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"Ng2kCEiP" = lib.buildMinecraftFile {
+"Ng2kCEiP" = lib.buildMinecraftMod {
   pname = "[1.19.4] QFAPI 6.0.0-beta.6 and QSL 5.0.0-beta.5";
   version = "6.0.0-beta.6+0.79.0-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/Ng2kCEiP/qfapi-6.0.0-beta.6_qsl-5.0.0-beta.5_fapi-0.79.0_mc-1.19.4.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"8eRjIPoA" = lib.buildMinecraftFile {
+"8eRjIPoA" = lib.buildMinecraftMod {
   pname = "[1.19.4] QFAPI 6.0.0-beta.5 and QSL 5.0.0-beta.4";
   version = "6.0.0-beta.5+0.78.0-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/8eRjIPoA/qfapi-6.0.0-beta.5_qsl-5.0.0-beta.4_fapi-0.78.0_mc-1.19.4.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"cpRPaFBn" = lib.buildMinecraftFile {
+"cpRPaFBn" = lib.buildMinecraftMod {
   pname = "[1.19.4] QFAPI 6.0.0-beta.4 and QSL 5.0.0-beta.3";
   version = "6.0.0-beta.4+0.78.0-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/cpRPaFBn/qfapi-6.0.0-beta.4_qsl-5.0.0-beta.3_fapi-0.78.0_mc-1.19.4.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"eaoB99I6" = lib.buildMinecraftFile {
+"eaoB99I6" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-beta.9 and QSL 4.0.0-beta.13";
   version = "5.0.0-beta.9+0.76.0-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/eaoB99I6/qfapi-5.0.0-beta.9_qsl-4.0.0-beta.13_fapi-0.76.0_mc-1.19.3.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"9gcIrw5Z" = lib.buildMinecraftFile {
+"9gcIrw5Z" = lib.buildMinecraftMod {
   pname = "[1.19.4] QFAPI 6.0.0-beta.3 and QSL 5.0.0-beta.2";
   version = "6.0.0-beta.3+0.76.0-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/9gcIrw5Z/qfapi-6.0.0-beta.3_qsl-5.0.0-beta.2_fapi-0.76.0_mc-1.19.4.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"BTCxVi75" = lib.buildMinecraftFile {
+"BTCxVi75" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.30 and QSL 3.0.0-beta.29";
   version = "4.0.0-beta.30+0.76.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/BTCxVi75/qfapi-4.0.0-beta.30_qsl-3.0.0-beta.29_fapi-0.76.0_mc-1.19.2.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"AmlAy82C" = lib.buildMinecraftFile {
+"AmlAy82C" = lib.buildMinecraftMod {
   pname = "[1.19.4] QFAPI 6.0.0-beta.2 and QSL 5.0.0-beta.1";
   version = "6.0.0-beta.2+0.76.0-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/AmlAy82C/qfapi-6.0.0-beta.2_qsl-5.0.0-beta.1_fapi-0.76.0_mc-1.19.4.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"3isqQyAk" = lib.buildMinecraftFile {
+"3isqQyAk" = lib.buildMinecraftMod {
   pname = "[1.19.4] QFAPI 6.0.0-beta.1 and QSL 5.0.0-beta.1";
   version = "6.0.0-beta.1+0.75.3-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/3isqQyAk/qfapi-6.0.0-beta.1_qsl-5.0.0-beta.1_fapi-0.75.3_mc-1.19.4.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"JYRztVNW" = lib.buildMinecraftFile {
+"JYRztVNW" = lib.buildMinecraftMod {
   pname = "[1.19.4-rc2] QFAPI 6.0.0-alpha.2 and QSL 5.0.0-alpha.3";
   version = "6.0.0-alpha.2+0.75.3-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/JYRztVNW/qfapi-6.0.0-alpha.2_qsl-5.0.0-alpha.3_fapi-0.75.3_mc-1.19.4-rc2.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"RAIWeVLH" = lib.buildMinecraftFile {
+"RAIWeVLH" = lib.buildMinecraftMod {
   pname = "[1.19.4-pre3] QFAPI 6.0.0-alpha.1 and QSL 5.0.0-alpha.2";
   version = "6.0.0-alpha.1+0.75.2-1.19.4";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/RAIWeVLH/qfapi-6.0.0-alpha.1_qsl-5.0.0-alpha.2_fapi-0.75.2_mc-1.19.4-pre3.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"MYbIY8g7" = lib.buildMinecraftFile {
+"MYbIY8g7" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-beta.8 and QSL 4.0.0-beta.12";
   version = "5.0.0-beta.8+0.75.1-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/MYbIY8g7/qfapi-5.0.0-beta.8_qsl-4.0.0-beta.12_fapi-0.75.1_mc-1.19.3.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"kMDIFsRI" = lib.buildMinecraftFile {
+"kMDIFsRI" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.29 and QSL 3.0.0-beta.29";
   version = "4.0.0-beta.29+0.75.1-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/kMDIFsRI/qfapi-4.0.0-beta.29_qsl-3.0.0-beta.29_fapi-0.75.1_mc-1.19.2.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"spTTmhS4" = lib.buildMinecraftFile {
+"spTTmhS4" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-beta.7 and QSL 4.0.0-beta.11";
   version = "5.0.0-beta.7+0.75.1-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/spTTmhS4/qfapi-5.0.0-beta.7_qsl-4.0.0-beta.11_fapi-0.75.1_mc-1.19.3.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"oQbYgY9f" = lib.buildMinecraftFile {
+"oQbYgY9f" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-beta.6 and QSL 4.0.0-beta.11";
   version = "5.0.0-beta.6+0.74.0-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/oQbYgY9f/qfapi-5.0.0-beta.6_qsl-4.0.0-beta.11_fapi-0.74.0_mc-1.19.3.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"t8snEhsc" = lib.buildMinecraftFile {
+"t8snEhsc" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-beta.5 and QSL 4.0.0-beta.11";
   version = "5.0.0-beta.5+0.73.2-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/t8snEhsc/qfapi-5.0.0-beta.5_qsl-4.0.0-beta.11_fapi-0.73.2_mc-1.19.3.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"WKziOmCZ" = lib.buildMinecraftFile {
+"WKziOmCZ" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.28 and QSL 3.0.0-beta.29";
   version = "4.0.0-beta.28+0.73.2-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/WKziOmCZ/qfapi-4.0.0-beta.28_qsl-3.0.0-beta.29_fapi-0.73.2_mc-1.19.2.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"ZUB07xly" = lib.buildMinecraftFile {
+"ZUB07xly" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-beta.4 and QSL 4.0.0-beta.10";
   version = "5.0.0-beta.4+0.73.0-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/ZUB07xly/qfapi-5.0.0-beta.4_qsl-4.0.0-beta.10_fapi-0.73.0_mc-1.19.3.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"o9KoJqZQ" = lib.buildMinecraftFile {
+"o9KoJqZQ" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.27 and QSL 3.0.0-beta.29";
   version = "4.0.0-beta.27+0.73.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/o9KoJqZQ/qfapi-4.0.0-beta.27_qsl-3.0.0-beta.29_fapi-0.73.0_mc-1.19.2.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"wKBO3Xkk" = lib.buildMinecraftFile {
+"wKBO3Xkk" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-beta.3 and QSL 4.0.0-beta.10";
   version = "5.0.0-beta.3+0.73.0-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/wKBO3Xkk/qfapi-5.0.0-beta.3_qsl-4.0.0-beta.10_fapi-0.73.0_mc-1.19.3.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"Dvj5P1fV" = lib.buildMinecraftFile {
+"Dvj5P1fV" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-beta.1 and QSL 4.0.0-beta.9";
   version = "5.0.0-beta.1+0.73.0-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/Dvj5P1fV/qfapi-5.0.0-beta.1_qsl-4.0.0-beta.9_fapi-0.73.0_mc-1.19.3.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"i7UY2LFx" = lib.buildMinecraftFile {
+"i7UY2LFx" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.26 and QSL 3.0.0-beta.25";
   version = "4.0.0-beta.26+0.72.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/i7UY2LFx/qfapi-4.0.0-beta.26_qsl-3.0.0-beta.25_fapi-0.72.0_mc-1.19.2.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"5I6Al1Gw" = lib.buildMinecraftFile {
+"5I6Al1Gw" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-alpha.9 and QSL 4.0.0-beta.5";
   version = "5.0.0-alpha.9+0.72.0-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/5I6Al1Gw/qfapi-5.0.0-alpha.9_qsl-4.0.0-beta.5_fapi-0.72.0_mc-1.19.3.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"MoSNH4oo" = lib.buildMinecraftFile {
+"MoSNH4oo" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-alpha.8 and QSL 4.0.0-beta.4";
   version = "5.0.0-alpha.8+0.71.0-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/MoSNH4oo/qfapi-5.0.0-alpha.8_qsl-4.0.0-beta.4_fapi-0.71.0_mc-1.19.3.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"bRcRsE72" = lib.buildMinecraftFile {
+"bRcRsE72" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.25 and QSL 3.0.0-beta.24";
   version = "4.0.0-beta.25+0.70.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/bRcRsE72/qfapi-4.0.0-beta.25_qsl-3.0.0-beta.24_fapi-0.70.0_mc-1.19.2.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"TbQBjHUn" = lib.buildMinecraftFile {
+"TbQBjHUn" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-alpha.7 and QSL 4.0.0-beta.3";
   version = "5.0.0-alpha.7+0.70.0-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/TbQBjHUn/qfapi-5.0.0-alpha.7_qsl-4.0.0-beta.3_fapi-0.70.0_mc-1.19.3.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"cEh00xLw" = lib.buildMinecraftFile {
+"cEh00xLw" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-alpha.6 and QSL 4.0.0-beta.2";
   version = "5.0.0-alpha.6+0.69.1-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/cEh00xLw/qfapi-5.0.0-alpha.6_qsl-4.0.0-beta.2_fapi-0.69.1_mc-1.19.3.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"VRQm0KLG" = lib.buildMinecraftFile {
+"VRQm0KLG" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-alpha.5 and QSL 4.0.0-beta.2";
   version = "5.0.0-alpha.5+0.68.1-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/VRQm0KLG/qfapi-5.0.0-alpha.5_qsl-4.0.0-beta.2_fapi-0.68.1_mc-1.19.3.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"3fkx18f5" = lib.buildMinecraftFile {
+"3fkx18f5" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-alpha.4 and QSL 4.0.0-beta.2";
   version = "5.0.0-alpha.4+0.68.1-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/3fkx18f5/qfapi-5.0.0-alpha.4_qsl-4.0.0-beta.2_fapi-0.68.1_mc-1.19.3.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"NxpdXpm6" = lib.buildMinecraftFile {
+"NxpdXpm6" = lib.buildMinecraftMod {
   pname = "[1.19.3] QFAPI 5.0.0-alpha.3 and QSL 4.0.0-beta.1";
   version = "5.0.0-alpha.3+0.68.1-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/NxpdXpm6/qfapi-5.0.0-alpha.3_qsl-4.0.0-beta.1_fapi-0.68.1_mc-1.19.3.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"hmX9pHvE" = lib.buildMinecraftFile {
+"hmX9pHvE" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.24 and QSL 3.0.0-beta.24";
   version = "4.0.0-beta.24+0.68.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/hmX9pHvE/qfapi-4.0.0-beta.24_qsl-3.0.0-beta.24_fapi-0.68.0_mc-1.19.2.jar";
@@ -899,7 +899,7 @@
   };
 };
 
-"ae1ofda7" = lib.buildMinecraftFile {
+"ae1ofda7" = lib.buildMinecraftMod {
   pname = "[1.19.3-rc1] QFAPI 5.0.0-alpha.2 and QSL 4.0.0-alpha.6";
   version = "5.0.0-alpha.2+0.68.1-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/ae1ofda7/qfapi-5.0.0-alpha.2_qsl-4.0.0-alpha.6_fapi-0.68.1_mc-1.19.3-rc1.jar";
@@ -911,7 +911,7 @@
   };
 };
 
-"WmdTkZ6I" = lib.buildMinecraftFile {
+"WmdTkZ6I" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.23 and QSL 3.0.0-beta.22";
   version = "4.0.0-beta.23+0.68.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/WmdTkZ6I/qfapi-4.0.0-beta.23_qsl-3.0.0-beta.22_fapi-0.68.0_mc-1.19.2.jar";
@@ -923,7 +923,7 @@
   };
 };
 
-"NRjGGNrs" = lib.buildMinecraftFile {
+"NRjGGNrs" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.22 and QSL 3.0.0-beta.22";
   version = "4.0.0-beta.22+0.67.1-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/NRjGGNrs/qfapi-4.0.0-beta.22_qsl-3.0.0-beta.22_fapi-0.67.1_mc-1.19.2.jar";
@@ -935,7 +935,7 @@
   };
 };
 
-"LKDRXFIa" = lib.buildMinecraftFile {
+"LKDRXFIa" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.21 and QSL 3.0.0-beta.21";
   version = "4.0.0-beta.21+0.67.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/LKDRXFIa/qfapi-4.0.0-beta.21_qsl-3.0.0-beta.21_fapi-0.67.0_mc-1.19.2.jar";
@@ -947,7 +947,7 @@
   };
 };
 
-"U0wSVcD2" = lib.buildMinecraftFile {
+"U0wSVcD2" = lib.buildMinecraftMod {
   pname = "[1.18.2] QFAPI 1.0.0-beta.28 and QSL 1.1.0-beta.26";
   version = "1.0.0-beta.28+0.67.0-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/U0wSVcD2/qfapi-1.0.0-beta.28_qsl-1.1.0-beta.26_fapi-0.67.0_mc-1.18.2.jar";
@@ -959,7 +959,7 @@
   };
 };
 
-"zmdteZF3" = lib.buildMinecraftFile {
+"zmdteZF3" = lib.buildMinecraftMod {
   pname = "[1.18.2] QFAPI 1.0.0-beta.27 and QSL 1.1.0-beta.26";
   version = "1.0.0-beta.27+0.66.0-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/zmdteZF3/qfapi-1.0.0-beta.27_qsl-1.1.0-beta.26_fapi-0.66.0_mc-1.18.2.jar";
@@ -971,7 +971,7 @@
   };
 };
 
-"TwxGzxIl" = lib.buildMinecraftFile {
+"TwxGzxIl" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.20 and QSL 3.0.0-beta.21";
   version = "4.0.0-beta.20+0.66.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/TwxGzxIl/qfapi-4.0.0-beta.20_qsl-3.0.0-beta.21_fapi-0.66.0_mc-1.19.2.jar";
@@ -983,7 +983,7 @@
   };
 };
 
-"Y8jT2hZ4" = lib.buildMinecraftFile {
+"Y8jT2hZ4" = lib.buildMinecraftMod {
   pname = "[22w43a] QFAPI 5.0.0-alpha.1 and QSL 4.0.0-alpha.3";
   version = "5.0.0-alpha.1+0.65.2-1.19.3";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/Y8jT2hZ4/quilted-fabric-api-5.0.0-alpha.1%2B0.65.2-1.19.3.jar";
@@ -995,7 +995,7 @@
   };
 };
 
-"zzHaJbi0" = lib.buildMinecraftFile {
+"zzHaJbi0" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.19 and QSL 3.0.0-beta.20";
   version = "4.0.0-beta.19+0.64.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/zzHaJbi0/quilted-fabric-api-4.0.0-beta.19%2B0.64.0-1.19.2.jar";
@@ -1007,7 +1007,7 @@
   };
 };
 
-"ue0SvAIA" = lib.buildMinecraftFile {
+"ue0SvAIA" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.18 and QSL 3.0.0-beta.20";
   version = "4.0.0-beta.18+0.64.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/ue0SvAIA/quilted-fabric-api-4.0.0-beta.18%2B0.64.0-1.19.2.jar";
@@ -1019,7 +1019,7 @@
   };
 };
 
-"1RL57ufH" = lib.buildMinecraftFile {
+"1RL57ufH" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.17 and QSL 3.0.0-beta.19";
   version = "4.0.0-beta.17+0.64.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1RL57ufH/quilted-fabric-api-4.0.0-beta.17%2B0.64.0-1.19.2.jar";
@@ -1031,7 +1031,7 @@
   };
 };
 
-"X7Z3WAXh" = lib.buildMinecraftFile {
+"X7Z3WAXh" = lib.buildMinecraftMod {
   pname = "[1.18.2] QFAPI 1.0.0-beta.26 and QSL 1.1.0-beta.26";
   version = "1.0.0-beta.26+0.59.1-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/X7Z3WAXh/qfapi-1.0.0-beta.26_qsl-1.1.0-beta.26_fapi-0.59.1_mc-1.18.2.jar";
@@ -1043,7 +1043,7 @@
   };
 };
 
-"sSSwdqie" = lib.buildMinecraftFile {
+"sSSwdqie" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.16 and QSL 3.0.0-beta.18";
   version = "4.0.0-beta.16+0.64.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/sSSwdqie/quilted-fabric-api-4.0.0-beta.16%2B0.64.0-1.19.2.jar";
@@ -1055,7 +1055,7 @@
   };
 };
 
-"qg8B4tEe" = lib.buildMinecraftFile {
+"qg8B4tEe" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.15 and QSL 3.0.0-beta.18";
   version = "4.0.0-beta.15+0.63.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/qg8B4tEe/quilted-fabric-api-4.0.0-beta.15%2B0.63.0-1.19.2.jar";
@@ -1067,7 +1067,7 @@
   };
 };
 
-"x1bEhzoO" = lib.buildMinecraftFile {
+"x1bEhzoO" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.14 and QSL 3.0.0-beta.18";
   version = "4.0.0-beta.14+0.62.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/x1bEhzoO/quilted-fabric-api-4.0.0-beta.14%2B0.62.0-1.19.2.jar";
@@ -1079,7 +1079,7 @@
   };
 };
 
-"RMRJccdH" = lib.buildMinecraftFile {
+"RMRJccdH" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.13 and QSL 3.0.0-beta.16";
   version = "4.0.0-beta.13+0.62.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/RMRJccdH/quilted-fabric-api-4.0.0-beta.13%2B0.62.0-1.19.2.jar";
@@ -1091,7 +1091,7 @@
   };
 };
 
-"VJj4Lc8d" = lib.buildMinecraftFile {
+"VJj4Lc8d" = lib.buildMinecraftMod {
   pname = "[1.18.2] QFAPI 1.0.0-beta.25 and QSL 1.1.0-beta.26";
   version = "1.0.0-beta.25+0.59.0-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/VJj4Lc8d/qfapi-1.0.0-beta.25_qsl-1.1.0-beta.26_fapi-0.59.0_mc-1.18.2.jar";
@@ -1103,7 +1103,7 @@
   };
 };
 
-"VNZ3SkYT" = lib.buildMinecraftFile {
+"VNZ3SkYT" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.12 and QSL 3.0.0-beta.16";
   version = "4.0.0-beta.12+0.61.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/VNZ3SkYT/quilted-fabric-api-4.0.0-beta.12%2B0.61.0-1.19.2.jar";
@@ -1115,7 +1115,7 @@
   };
 };
 
-"UUGSby2q" = lib.buildMinecraftFile {
+"UUGSby2q" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.11 and QSL 3.0.0-beta.15";
   version = "4.0.0-beta.11+0.60.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/UUGSby2q/qfapi-4.0.0-beta.11_qsl-3.0.0-beta.15_fapi-0.60.0_mc-1.19.2.jar";
@@ -1127,7 +1127,7 @@
   };
 };
 
-"SHjwCrR0" = lib.buildMinecraftFile {
+"SHjwCrR0" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.10 and QSL 3.0.0-beta.15";
   version = "4.0.0-beta.10+0.60.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/SHjwCrR0/qfapi-4.0.0-beta.10_qsl-3.0.0-beta.15_fapi-0.60.0_mc-1.19.2.jar";
@@ -1139,7 +1139,7 @@
   };
 };
 
-"HpHTJI6P" = lib.buildMinecraftFile {
+"HpHTJI6P" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.9 and QSL 3.0.0-beta.14";
   version = "4.0.0-beta.9+0.60.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/4.0.0-beta.9%2B0.60.0-1.19.2/qfapi-4.0.0-beta.9_qsl-3.0.0-beta.14_fapi-0.60.0_mc-1.19.2.jar";
@@ -1151,7 +1151,7 @@
   };
 };
 
-"wMtZiptr" = lib.buildMinecraftFile {
+"wMtZiptr" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.8 and QSL 3.0.0-beta.13";
   version = "4.0.0-beta.8+0.59.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/4.0.0-beta.8%2B0.59.0-1.19.2/qfapi-4.0.0-beta.8_qsl-3.0.0-beta.13_fapi-0.59.0_mc-1.19.2.jar";
@@ -1163,7 +1163,7 @@
   };
 };
 
-"H1soL5Sq" = lib.buildMinecraftFile {
+"H1soL5Sq" = lib.buildMinecraftMod {
   pname = "[1.18.2] QFAPI 1.0.0-beta.24 and QSL 1.1.0-beta.26";
   version = "1.0.0-beta.24+0.58.0-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.24%2B0.58.0-1.18.2/qfapi-1.0.0-beta.24_qsl-1.1.0-beta.26_fapi-0.58.0_mc-1.18.2.jar";
@@ -1175,7 +1175,7 @@
   };
 };
 
-"brNZ0tRC" = lib.buildMinecraftFile {
+"brNZ0tRC" = lib.buildMinecraftMod {
   pname = "[1.18.2] QFAPI 1.0.0-beta.23 and QSL 1.1.0-beta.25";
   version = "1.0.0-beta.23+0.58.0-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.23%2B0.58.0-1.18.2/qfapi-1.0.0-beta.23_qsl-1.1.0-beta.25_fapi-0.58.0_mc-1.18.2.jar";
@@ -1187,7 +1187,7 @@
   };
 };
 
-"J4qgCouL" = lib.buildMinecraftFile {
+"J4qgCouL" = lib.buildMinecraftMod {
   pname = "[1.19.2] QFAPI 4.0.0-beta.7 and QSL 3.0.0-beta.10";
   version = "4.0.0-beta.7+0.59.0-1.19.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/4.0.0-beta.7%2B0.59.0-1.19.2/qfapi-4.0.0-beta.7_qsl-3.0.0-beta.10_fapi-0.59.0_mc-1.19.2.jar";
@@ -1199,7 +1199,7 @@
   };
 };
 
-"obMVHg7L" = lib.buildMinecraftFile {
+"obMVHg7L" = lib.buildMinecraftMod {
   pname = "[1.19.1] QFAPI 4.0.0-beta.6 and QSL 3.0.0-beta.10";
   version = "4.0.0-beta.6+0.58.5-1.19.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/4.0.0-beta.6%2B0.58.5-1.19.1/qfapi-4.0.0-beta.6_qsl-3.0.0-beta.10_fapi-0.58.5_mc-1.19.1.jar";
@@ -1211,7 +1211,7 @@
   };
 };
 
-"f7DTnkIq" = lib.buildMinecraftFile {
+"f7DTnkIq" = lib.buildMinecraftMod {
   pname = "[1.19.1] QFAPI 4.0.0-beta.5 and QSL 3.0.0-beta.9";
   version = "4.0.0-beta.5+0.58.5-1.19.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/4.0.0-beta.5%2B0.58.5-1.19.1/qfapi-4.0.0-beta.5_qsl-3.0.0-beta.9_fapi-0.58.5_mc-1.19.1.jar";
@@ -1223,7 +1223,7 @@
   };
 };
 
-"8BeDPO6l" = lib.buildMinecraftFile {
+"8BeDPO6l" = lib.buildMinecraftMod {
   pname = "[1.19.1] QFAPI 4.0.0-beta.4 and QSL 3.0.0-beta.7";
   version = "4.0.0-beta.4+0.58.5-1.19.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/4.0.0-beta.4%2B0.58.5-1.19.1/qfapi-4.0.0-beta.4_qsl-3.0.0-beta.7_fapi-0.58.5_mc-1.19.1.jar";
@@ -1235,7 +1235,7 @@
   };
 };
 
-"j0ZcDm2x" = lib.buildMinecraftFile {
+"j0ZcDm2x" = lib.buildMinecraftMod {
   pname = "[1.19.1] QFAPI 4.0.0-beta.3 and QSL 3.0.0-beta.5";
   version = "4.0.0-beta.3+0.58.5-1.19.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/4.0.0-beta.3%2B0.58.5-1.19.1/qfapi-4.0.0-beta.3_qsl-3.0.0-beta.5_fapi-0.58.5_mc-1.19.1.jar";
@@ -1247,7 +1247,7 @@
   };
 };
 
-"P1gbVJ0v" = lib.buildMinecraftFile {
+"P1gbVJ0v" = lib.buildMinecraftMod {
   pname = "[1.19.1] QFAPI 4.0.0-beta.2 and QSL 3.0.0-beta.3";
   version = "4.0.0-beta.2+0.58.5-1.19.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/4.0.0-beta.2%2B0.58.5-1.19.1/qfapi-4.0.0-beta.2_qsl-3.0.0-beta.3_fapi-0.58.5_mc-1.19.1.jar";
@@ -1259,7 +1259,7 @@
   };
 };
 
-"MrInA5CW" = lib.buildMinecraftFile {
+"MrInA5CW" = lib.buildMinecraftMod {
   pname = "[1.19.1] QFAPI 4.0.0-beta.1 and QSL 3.0.0-beta.2";
   version = "4.0.0-beta.1+0.58.5-1.19.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/4.0.0-beta.1%2B0.58.5-1.19.1/qfapi-4.0.0-beta.1_qsl-3.0.0-beta.2_fapi-0.58.5_mc-1.19.1.jar";
@@ -1271,7 +1271,7 @@
   };
 };
 
-"MM1jFJNL" = lib.buildMinecraftFile {
+"MM1jFJNL" = lib.buildMinecraftMod {
   pname = "[1.19.1-rc2] QFAPI 3.0.0-alpha.6 and QSL 2.1.0-alpha.4";
   version = "3.0.0-alpha.6+0.58.1-1.19.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/3.0.0-alpha.6%2B0.58.1-1.19.1/qfapi-3.0.0-alpha.6_qsl-2.1.0-alpha.4_fapi-0.58.1_mc-1.19.1-rc2.jar";
@@ -1283,7 +1283,7 @@
   };
 };
 
-"ddaofVmY" = lib.buildMinecraftFile {
+"ddaofVmY" = lib.buildMinecraftMod {
   pname = "[1.19] QFAPI 2.0.0-beta.9 and QSL 2.0.0-beta.16";
   version = "2.0.0-beta.9+0.58.0-1.19";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.9%2B0.58.0-1.19/qfapi-2.0.0-beta.9_qsl-2.0.0-beta.16_fapi-0.58.0_mc-1.19.jar";
@@ -1295,7 +1295,7 @@
   };
 };
 
-"QngFBFZl" = lib.buildMinecraftFile {
+"QngFBFZl" = lib.buildMinecraftMod {
   pname = "[1.19.1-rc2] QFAPI 3.0.0-alpha.5 and QSL 2.1.0-alpha.4";
   version = "3.0.0-alpha.5+0.58.0-1.19.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/3.0.0-alpha.5%2B0.58.0-1.19.1/qfapi-3.0.0-alpha.5_qsl-2.1.0-alpha.4_fapi-0.58.0_mc-1.19.1-rc2.jar";
@@ -1307,7 +1307,7 @@
   };
 };
 
-"dFp106HY" = lib.buildMinecraftFile {
+"dFp106HY" = lib.buildMinecraftMod {
   pname = "[1.19] QFAPI 2.0.0-beta.8 and QSL 2.0.0-beta.16";
   version = "2.0.0-beta.8+0.57.0-1.19";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.8%2B0.57.0-1.19/qfapi-2.0.0-beta.8_qsl-2.0.0-beta.16_fapi-0.57.0_mc-1.19.jar";
@@ -1319,7 +1319,7 @@
   };
 };
 
-"x7fqy7dc" = lib.buildMinecraftFile {
+"x7fqy7dc" = lib.buildMinecraftMod {
   pname = "[1.19.1-pre6] QFAPI 3.0.0-alpha.4 and QSL 2.1.0-alpha.3";
   version = "3.0.0-alpha.4+0.57.3-1.19.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/3.0.0-alpha.4%2B0.57.3-1.19.1/qfapi-3.0.0-alpha.4_qsl-2.1.0-alpha.3_fapi-0.57.3_mc-1.19.1-pre6.jar";
@@ -1331,7 +1331,7 @@
   };
 };
 
-"CkDCzjJ0" = lib.buildMinecraftFile {
+"CkDCzjJ0" = lib.buildMinecraftMod {
   pname = "[1.19] QFAPI 2.0.0-beta.7 and QSL 2.0.0-beta.15";
   version = "2.0.0-beta.7+0.57.0-1.19";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.7%2B0.57.0-1.19/qfapi-2.0.0-beta.7_qsl-2.0.0-beta.15_fapi-0.57.0_mc-1.19.jar";
@@ -1343,7 +1343,7 @@
   };
 };
 
-"gfkHVL2e" = lib.buildMinecraftFile {
+"gfkHVL2e" = lib.buildMinecraftMod {
   pname = "[1.19.1-pre4] QFAPI 3.0.0-alpha.3 and QSL 2.0.0-beta.14";
   version = "3.0.0-alpha.3+0.57.2-1.19.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/3.0.0-alpha.3%2B0.57.2-1.19.1/qfapi-3.0.0-alpha.3_qsl-2.0.0-beta.14_fapi-0.57.2_mc-1.19.1-pre4.jar";
@@ -1355,7 +1355,7 @@
   };
 };
 
-"pnrewaSX" = lib.buildMinecraftFile {
+"pnrewaSX" = lib.buildMinecraftMod {
   pname = "[1.19] QFAPI 2.0.0-beta.6 and QSL 2.0.0-beta.14";
   version = "2.0.0-beta.6+0.57.0-1.19";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.6%2B0.57.0-1.19/qfapi-2.0.0-beta.6_qsl-2.0.0-beta.14_fapi-0.57.0_mc-1.19.jar";
@@ -1367,7 +1367,7 @@
   };
 };
 
-"OAY06QzZ" = lib.buildMinecraftFile {
+"OAY06QzZ" = lib.buildMinecraftMod {
   pname = "[1.19.1-pre4] QFAPI 3.0.0-alpha.2 and QSL 2.0.0-beta.12";
   version = "3.0.0-alpha.2+0.57.2-1.19.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/3.0.0-alpha.2%2B0.57.2-1.19.1/qfapi-3.0.0-alpha.2_qsl-2.0.0-beta.12_fapi-0.57.2_mc-1.19.1-pre4.jar";
@@ -1379,7 +1379,7 @@
   };
 };
 
-"BM67Isrd" = lib.buildMinecraftFile {
+"BM67Isrd" = lib.buildMinecraftMod {
   pname = "[1.19] QFAPI 2.0.0-beta.5 and QSL 2.0.0-beta.12";
   version = "2.0.0-beta.5+0.57.0-1.19";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.5%2B0.57.0-1.19/qfapi-2.0.0-beta.5_qsl-2.0.0-beta.12_fapi-0.57.0_mc-1.19.jar";
@@ -1391,7 +1391,7 @@
   };
 };
 
-"UU6RE2F3" = lib.buildMinecraftFile {
+"UU6RE2F3" = lib.buildMinecraftMod {
   pname = "[1.19.1-pre2] QFAPI 3.0.0-alpha.1 and QSL 2.0.0-beta.10";
   version = "3.0.0-alpha.1+0.57.1-1.19.1";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/3.0.0-alpha.1%2B0.57.1-1.19.1/qfapi-3.0.0-alpha.1_qsl-2.0.0-beta.10_fapi-0.57.1_mc-1.19.1-pre2.jar";
@@ -1403,7 +1403,7 @@
   };
 };
 
-"zEy1plMo" = lib.buildMinecraftFile {
+"zEy1plMo" = lib.buildMinecraftMod {
   pname = "[1.19] QFAPI 2.0.0-beta.4 and QSL 2.0.0-beta.10";
   version = "2.0.0-beta.4+0.57.0-1.19";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.4%2B0.57.0-1.19/qfapi-2.0.0-beta.4_qsl-2.0.0-beta.10_fapi-0.57.0_mc-1.19.jar";
@@ -1415,7 +1415,7 @@
   };
 };
 
-"Sq6bz7rT" = lib.buildMinecraftFile {
+"Sq6bz7rT" = lib.buildMinecraftMod {
   pname = "[1.19] QFAPI 2.0.0-beta.3 and QSL 2.0.0-beta.9";
   version = "2.0.0-beta.3+0.57.0-1.19";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.3%2B0.57.0-1.19/qfapi-2.0.0-beta.3_qsl-2.0.0-beta.9_fapi-0.57.0_mc-1.19.jar";
@@ -1427,7 +1427,7 @@
   };
 };
 
-"rahw4ZIK" = lib.buildMinecraftFile {
+"rahw4ZIK" = lib.buildMinecraftMod {
   pname = "[1.19] QFAPI 2.0.0-beta.1 and QSL 2.0.0-beta.8";
   version = "2.0.0-beta.1+0.56.3-1.19";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-beta.1%2B0.56.3-1.19/qfapi-2.0.0-beta.1_qsl-2.0.0-beta.8_fapi-0.56.3_mc-1.19.jar";
@@ -1439,7 +1439,7 @@
   };
 };
 
-"6PllArdw" = lib.buildMinecraftFile {
+"6PllArdw" = lib.buildMinecraftMod {
   pname = "[1.19] QFAPI 2.0.0-alpha.4 and QSL 2.0.0-beta.5";
   version = "2.0.0-alpha.4+0.56.1-1.19";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-alpha.4%2B0.56.1-1.19/qfapi-2.0.0-alpha.4_qsl-2.0.0-beta.5_fapi-0.56.1_mc-1.19.jar";
@@ -1451,7 +1451,7 @@
   };
 };
 
-"IhFPlQD2" = lib.buildMinecraftFile {
+"IhFPlQD2" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.19 and QFAPI 1.0.0-beta.22";
   version = "1.0.0-beta.22+0.56.0-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.22%2B0.56.0-1.18.2/qsl-1.1.0-beta.19_qfapi-1.0.0-beta.22_fapi-0.56.0_mc-1.18.2.jar";
@@ -1463,7 +1463,7 @@
   };
 };
 
-"3u6Qbhdw" = lib.buildMinecraftFile {
+"3u6Qbhdw" = lib.buildMinecraftMod {
   pname = "[1.19] QFAPI 2.0.0-alpha.3 and QSL 2.0.0-beta.2";
   version = "2.0.0-alpha.3+0.55.3-1.19";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-alpha.3%2B0.55.3-1.19/qfapi-2.0.0-alpha.3_qsl-2.0.0-beta.2_fapi-0.55.3_mc-1.19.jar";
@@ -1475,7 +1475,7 @@
   };
 };
 
-"HwOyG7I5" = lib.buildMinecraftFile {
+"HwOyG7I5" = lib.buildMinecraftMod {
   pname = "[1.19] QFAPI 2.0.0-alpha.2 and QSL 2.0.0-beta.2";
   version = "2.0.0-alpha.2+0.55.3-1.19";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/2.0.0-alpha.2%2B0.55.3-1.19/qfapi-2.0.0-alpha.2_qsl-2.0.0-beta.2_fapi-0.55.3_mc-1.19.jar";
@@ -1487,7 +1487,7 @@
   };
 };
 
-"pwp94ACs" = lib.buildMinecraftFile {
+"pwp94ACs" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.17 and QFAPI 1.0.0-beta.20";
   version = "1.0.0-beta.20+0.55.1-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.20%2B0.55.1-1.18.2/qsl-1.1.0-beta.17_qfapi-1.0.0-beta.20_fapi-0.55.1_mc-1.18.2.jar";
@@ -1499,7 +1499,7 @@
   };
 };
 
-"hPStWdDs" = lib.buildMinecraftFile {
+"hPStWdDs" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.17 and QFAPI 1.0.0-beta.19";
   version = "1.0.0-beta.19+0.55.1-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.19%2B0.55.1-1.18.2/qsl-1.1.0-beta.17_qfapi-1.0.0-beta.19_fapi-0.55.1_mc-1.18.2.jar";
@@ -1511,7 +1511,7 @@
   };
 };
 
-"L1XD5HAW" = lib.buildMinecraftFile {
+"L1XD5HAW" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.17 and QFAPI 1.0.0-beta.18";
   version = "1.0.0-beta.18+0.55.1-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.18%2B0.55.1-1.18.2/qsl-1.1.0-beta.17_qfapi-1.0.0-beta.18_fapi-0.55.1_mc-1.18.2.jar";
@@ -1523,7 +1523,7 @@
   };
 };
 
-"lz767pA6" = lib.buildMinecraftFile {
+"lz767pA6" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.14 and QFAPI 1.0.0-beta.17";
   version = "1.0.0-beta.17+0.54.0-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.17%2B0.54.0-1.18.2/qsl-1.1.0-beta.14_qfapi-1.0.0-beta.17_fapi-0.54.0_mc-1.18.2.jar";
@@ -1535,7 +1535,7 @@
   };
 };
 
-"I9rPSfaR" = lib.buildMinecraftFile {
+"I9rPSfaR" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.13 and QFAPI 1.0.0-beta.16";
   version = "1.0.0-beta.16+0.53.4-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.16%2B0.53.4-1.18.2/qsl-1.1.0-beta.13_qfapi-1.0.0-beta.16_fapi-0.53.4_mc-1.18.2.jar";
@@ -1547,7 +1547,7 @@
   };
 };
 
-"RUKOwGTz" = lib.buildMinecraftFile {
+"RUKOwGTz" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.13 and QFAPI 1.0.0-beta.15";
   version = "1.0.0-beta.15+0.53.4-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.15%2B0.53.4-1.18.2/qsl-1.1.0-beta.13_qfapi-1.0.0-beta.15_fapi-0.53.4_mc-1.18.2.jar";
@@ -1559,7 +1559,7 @@
   };
 };
 
-"45CcbAvo" = lib.buildMinecraftFile {
+"45CcbAvo" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.8 and QFAPI 1.0.0-beta.14";
   version = "1.0.0-beta.14+0.51.1-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.14%2B0.51.1-1.18.2/qsl-1.1.0-beta.8_qfapi-1.0.0-beta.14_fapi-0.51.1_mc-1.18.2.jar";
@@ -1571,7 +1571,7 @@
   };
 };
 
-"Qocje47u" = lib.buildMinecraftFile {
+"Qocje47u" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.8 and QFAPI 1.0.0-beta.13";
   version = "1.0.0-beta.13+0.51.1-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.13%2B0.51.1-1.18.2/qsl-1.1.0-beta.8_qfapi-1.0.0-beta.13_fapi-0.51.1_mc-1.18.2.jar";
@@ -1583,7 +1583,7 @@
   };
 };
 
-"9QT3b4mE" = lib.buildMinecraftFile {
+"9QT3b4mE" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.8 and QFAPI 1.0.0-beta.12";
   version = "1.0.0-beta.12+0.51.1-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.12%2B0.51.1-1.18.2/qsl-1.1.0-beta.8_qfapi-1.0.0-beta.12_fapi-0.51.1_mc-1.18.2.jar";
@@ -1595,7 +1595,7 @@
   };
 };
 
-"VvjoqNcy" = lib.buildMinecraftFile {
+"VvjoqNcy" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.7 and QFAPI 1.0.0-beta.11";
   version = "1.0.0-beta.11+0.51.1-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.11%2B0.51.1-1.18.2/qsl-1.1.0-beta.7_qfapi-1.0.0-beta.11_fapi-0.51.1_mc-1.18.2.jar";
@@ -1607,7 +1607,7 @@
   };
 };
 
-"GAyycZIm" = lib.buildMinecraftFile {
+"GAyycZIm" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.6 and QFAPI 1.0.0-beta.10";
   version = "1.0.0-beta.10+0.51.1-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.10%2B0.51.1-1.18.2/qsl-1.1.0-beta.6_qfapi-1.0.0-beta.10_fapi-0.51.1_mc-1.18.2.jar";
@@ -1619,7 +1619,7 @@
   };
 };
 
-"PAE9ujTn" = lib.buildMinecraftFile {
+"PAE9ujTn" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.5 and QFAPI 1.0.0-beta.9";
   version = "1.0.0-beta.9+0.51.1-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.9%2B0.51.1-1.18.2/qsl-1.1.0-beta.5_qfapi-1.0.0-beta.9_fapi-0.51.1_mc-1.18.2.jar";
@@ -1631,7 +1631,7 @@
   };
 };
 
-"t1xewTPM" = lib.buildMinecraftFile {
+"t1xewTPM" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.4 and QFAPI 1.0.0-beta.8";
   version = "1.0.0-beta.8+0.51.1-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.8%2B0.51.1-1.18.2/qsl-1.1.0-beta.4_qfapi-1.0.0-beta.8_fapi-0.51.1_mc-1.18.2.jar";
@@ -1643,7 +1643,7 @@
   };
 };
 
-"zrMlJA87" = lib.buildMinecraftFile {
+"zrMlJA87" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.4 and QFAPI 1.0.0-beta.7";
   version = "1.0.0-beta.7+0.51.1-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.7%2B0.51.1-1.18.2/qsl-1.1.0-beta.4_qfapi-1.0.0-beta.7_fapi-0.51.1_mc-1.18.2.jar";
@@ -1655,7 +1655,7 @@
   };
 };
 
-"VtK9e93B" = lib.buildMinecraftFile {
+"VtK9e93B" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.2 and QFAPI 1.0.0-beta.6";
   version = "1.0.0-beta.6+0.51.1-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.6%2B0.51.1-1.18.2/qsl-1.1.0-beta.2_qfapi-1.0.0-beta.6_fapi-0.51.1_mc-1.18.2.jar";
@@ -1667,7 +1667,7 @@
   };
 };
 
-"w6Z1WEDi" = lib.buildMinecraftFile {
+"w6Z1WEDi" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.2 and QFAPI 1.0.0-beta.5";
   version = "1.0.0-beta.5+0.48.0-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.5%2B0.48.0-1.18.2/qsl-1.1.0-beta.2_qfapi-1.0.0-beta.5_fapi-0.48.0_mc-1.18.2.jar";
@@ -1679,7 +1679,7 @@
   };
 };
 
-"cmqWpwyC" = lib.buildMinecraftFile {
+"cmqWpwyC" = lib.buildMinecraftMod {
   pname = "[1.18.2] QSL 1.1.0-beta.2 and QFAPI 1.0.0-beta.4";
   version = "1.0.0-beta.4+0.48.0-1.18.2";
   url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/1.0.0-beta.4%2B0.48.0-1.18.2/qsl-1.1.0-beta.2_qfapi-1.0.0-beta.4_fapi-0.48.0_mc-1.18.2.jar";

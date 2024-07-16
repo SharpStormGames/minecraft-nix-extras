@@ -1,5 +1,5 @@
 { lib, ... }: {
-"YxFxnyd4" = lib.buildMinecraftFile {
+"YxFxnyd4" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.21-3.0.2";
   version = "3.0.2+mc1.21";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/YxFxnyd4/appleskin-fabric-mc1.21-3.0.2.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"FX8a9ln5" = lib.buildMinecraftFile {
+"FX8a9ln5" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.20.5-3.0.2";
   version = "3.0.2+mc1.20.5";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/FX8a9ln5/appleskin-fabric-mc1.20.5-3.0.2.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"DjDtWjB4" = lib.buildMinecraftFile {
+"DjDtWjB4" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.20.5-3.0.0";
   version = "3.0.0+mc1.20.5";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/DjDtWjB4/appleskin-fabric-mc1.20.5-3.0.0.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"A5tg1xFz" = lib.buildMinecraftFile {
+"A5tg1xFz" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc24w14potato-2.5.1";
   version = "2.5.1+mc24w14potato";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/A5tg1xFz/appleskin-fabric-mc24w14potato-2.5.1.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"pmFyu3Sz" = lib.buildMinecraftFile {
+"pmFyu3Sz" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.20.3-2.5.1";
   version = "2.5.1+mc1.20.3";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/pmFyu3Sz/appleskin-fabric-mc1.20.3-2.5.1.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"tpQpTIMn" = lib.buildMinecraftFile {
+"tpQpTIMn" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.19.2-2.5.1";
   version = "2.5.1+mc1.19.2";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/tpQpTIMn/appleskin-fabric-mc1.19.2-2.5.1.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"JNKPokGG" = lib.buildMinecraftFile {
+"JNKPokGG" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.20.2-2.5.1";
   version = "2.5.1+mc1.20.2";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/JNKPokGG/appleskin-fabric-mc1.20.2-2.5.1.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"xcauwnEB" = lib.buildMinecraftFile {
+"xcauwnEB" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.20.1-2.5.1";
   version = "2.5.1+mc1.20";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/xcauwnEB/appleskin-fabric-mc1.20.1-2.5.1.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"aIpOZwoo" = lib.buildMinecraftFile {
+"aIpOZwoo" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.19.4-2.5.1";
   version = "2.5.1+mc1.19.4";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/aIpOZwoo/appleskin-fabric-mc1.19.4-2.5.1.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"3wbLqeIN" = lib.buildMinecraftFile {
+"3wbLqeIN" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.18.2-2.5.1";
   version = "2.5.1+mc1.18.2";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/3wbLqeIN/appleskin-fabric-mc1.18.2-2.5.1.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"3hKtTn8d" = lib.buildMinecraftFile {
+"3hKtTn8d" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.17.1-2.5.1";
   version = "2.5.1+mc1.17.1";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/3hKtTn8d/appleskin-fabric-mc1.17.1-2.5.1.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"8N1HVFeQ" = lib.buildMinecraftFile {
+"8N1HVFeQ" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.16.5-2.5.1";
   version = "2.5.1+mc1.16.5";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/8N1HVFeQ/appleskin-fabric-mc1.16.5-2.5.1.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"7y3uLKYp" = lib.buildMinecraftFile {
+"7y3uLKYp" = lib.buildMinecraftMod {
   pname = "appleskin-mc1.15-fabric-1.0.11";
   version = "1.0.11+mc1.15";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/7y3uLKYp/appleskin-mc1.15-fabric-1.0.11.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"YRYMfgWI" = lib.buildMinecraftFile {
+"YRYMfgWI" = lib.buildMinecraftMod {
   pname = "appleskin-mc1.14-fabric-1.0.11";
   version = "1.0.11+mc1.14";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/YRYMfgWI/appleskin-mc1.14-fabric-1.0.11.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"CxnVG86Y" = lib.buildMinecraftFile {
+"CxnVG86Y" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.20-2.5.0";
   version = "2.5.0+mc1.20";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/CxnVG86Y/appleskin-fabric-mc1.20-2.5.0.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"qB7KLPo6" = lib.buildMinecraftFile {
+"qB7KLPo6" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.19.4-2.4.4";
   version = "2.4.4+mc1.19.4";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/qB7KLPo6/appleskin-fabric-mc1.19.4-2.4.4.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"sLboyqjL" = lib.buildMinecraftFile {
+"sLboyqjL" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.19.4-2.4.3";
   version = "2.4.3+mc1.19.4";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/sLboyqjL/appleskin-fabric-mc1.19.4-2.4.3.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"ntsDU1AP" = lib.buildMinecraftFile {
+"ntsDU1AP" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.19.3-2.4.2";
   version = "fabric-mc1.19.3-2.4.2";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/ntsDU1AP/appleskin-fabric-mc1.19.3-2.4.2.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"pIFVoWvG" = lib.buildMinecraftFile {
+"pIFVoWvG" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.19-2.4.1";
   version = "fabric-mc1.19-2.4.1";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.19-2.4.1/appleskin-fabric-mc1.19-2.4.1.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"T7UGls0O" = lib.buildMinecraftFile {
+"T7UGls0O" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.18.2-2.4.1";
   version = "fabric-mc1.18.2-2.4.1";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18.2-2.4.1/appleskin-fabric-mc1.18.2-2.4.1.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"tgIEZKLw" = lib.buildMinecraftFile {
+"tgIEZKLw" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.19-2.4.0";
   version = "fabric-mc1.19-2.4.0";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.19-2.4.0/appleskin-fabric-mc1.19-2.4.0.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"gQRJj49P" = lib.buildMinecraftFile {
+"gQRJj49P" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.18.2-2.4.0";
   version = "fabric-mc1.18.2-2.4.0";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18.2-2.4.0/appleskin-fabric-mc1.18.2-2.4.0.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"Y6USHBSW" = lib.buildMinecraftFile {
+"Y6USHBSW" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.17.1-2.4.0";
   version = "fabric-mc1.17.1-2.4.0";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.17.1-2.4.0/appleskin-fabric-mc1.17.1-2.4.0.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"h1EXW3QN" = lib.buildMinecraftFile {
+"h1EXW3QN" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.16.5-2.4.0";
   version = "fabric-mc1.16.5-2.4.0";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.16.5-2.4.0/appleskin-fabric-mc1.16.5-2.4.0.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"1l8O9vUa" = lib.buildMinecraftFile {
+"1l8O9vUa" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.18.1-2.3.0";
   version = "fabric-mc1.18.1-2.3.0";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18.1-2.3.0/appleskin-fabric-mc1.18.1-2.3.0.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"Qz9mmQwX" = lib.buildMinecraftFile {
+"Qz9mmQwX" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.16.5-2.3.0";
   version = "fabric-mc1.16.5-2.3.0";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.16.5-2.3.0/appleskin-fabric-mc1.16.5-2.3.0.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"c3j4Q3qi" = lib.buildMinecraftFile {
+"c3j4Q3qi" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.18-2.2.0";
   version = "fabric-mc1.18-2.2.0";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.18-2.2.0/appleskin-fabric-mc1.18-2.2.0.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"cLs3ccZw" = lib.buildMinecraftFile {
+"cLs3ccZw" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.16.x-2.2.0";
   version = "fabric-mc1.16.x-2.2.0";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.16.x-2.2.0/appleskin-fabric-mc1.16.x-2.2.0.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"tqCi5b3L" = lib.buildMinecraftFile {
+"tqCi5b3L" = lib.buildMinecraftMod {
   pname = "appleskin-fabric-mc1.17.1-2.2.0";
   version = "fabric-mc1.17.1-2.2.0";
   url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fabric-mc1.17.1-2.2.0/appleskin-fabric-mc1.17.1-2.2.0.jar";

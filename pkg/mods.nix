@@ -18,7 +18,7 @@
  lambdynamiclights = import ./mods/lambdynamiclights.nix { inherit lib; };
  lazydfu = import ./mods/lazydfu.nix { inherit lib; };
  lithium = import ./mods/lithium.nix { inherit lib; };
- mod-menu = import ./mods/mod-menu.nix { inherit lib; };
+ modmenu = import ./mods/modmenu.nix { inherit lib; };
  memoryleakfix = import ./mods/memoryleakfix.nix { inherit lib; };
  modernfix = import ./mods/modernfix.nix { inherit lib; };
  moreculling = import ./mods/moreculling.nix { inherit lib; };
@@ -29,9 +29,9 @@
  qsl = import ./mods/qsl.nix { inherit lib; };
  reeses-sodium-options = import ./mods/reeses-sodium-options.nix { inherit lib; };
  simple-voice-chat = import ./mods/simple-voice-chat.nix { inherit lib; };
+ skinlayers3d = import ./mods/3dskinlayers.nix { inherit lib; };
  sodium-extra = import ./mods/sodium-extra.nix { inherit lib; };
  sodium = import ./mods/sodium.nix { inherit lib; };
- threedskinlayers = import ./mods/threedskinlayers.nix { inherit lib; };
  xaeros-minimap = import ./mods/xaeros-minimap.nix { inherit lib; };
  xaeros-world-map = import ./mods/xaeros-world-map.nix { inherit lib; };
  yacl = import ./mods/yacl.nix { inherit lib; };

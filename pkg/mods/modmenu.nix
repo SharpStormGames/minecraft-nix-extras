@@ -1,5 +1,5 @@
 { lib, ... }: {
-"xhN1IvHi" = lib.buildMinecraftFile {
+"xhN1IvHi" = lib.buildMinecraftMod {
   pname = "v11.0.1 for 1.21";
   version = "11.0.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/xhN1IvHi/modmenu-11.0.1.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"lJ1xXMce" = lib.buildMinecraftFile {
+"lJ1xXMce" = lib.buildMinecraftMod {
   pname = "v11.0.0 for 1.21";
   version = "11.0.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/lJ1xXMce/modmenu-11.0.0.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"FawTQg29" = lib.buildMinecraftFile {
+"FawTQg29" = lib.buildMinecraftMod {
   pname = "v9.2.0 for 1.20.4";
   version = "9.2.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/FawTQg29/modmenu-9.2.0.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"HLa8flfl" = lib.buildMinecraftFile {
+"HLa8flfl" = lib.buildMinecraftMod {
   pname = "v10.0.0 for 1.20.6";
   version = "10.0.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/HLa8flfl/modmenu-10.0.0.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"jnj30PDT" = lib.buildMinecraftFile {
+"jnj30PDT" = lib.buildMinecraftMod {
   pname = "v11.0.0-rc.4 for 1.21";
   version = "11.0.0-rc.4";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/jnj30PDT/modmenu-11.0.0-rc.4.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"I7OSH8Gw" = lib.buildMinecraftFile {
+"I7OSH8Gw" = lib.buildMinecraftMod {
   pname = "v11.0.0-rc.2 for 1.21";
   version = "11.0.0-rc.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/I7OSH8Gw/modmenu-11.0.0-rc.2.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"YLesFuAc" = lib.buildMinecraftFile {
+"YLesFuAc" = lib.buildMinecraftMod {
   pname = "v11.0.0-rc.1 for 1.21";
   version = "11.0.0-rc.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/YLesFuAc/modmenu-11.0.0-rc.1.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"KXx8jdVE" = lib.buildMinecraftFile {
+"KXx8jdVE" = lib.buildMinecraftMod {
   pname = "v11.0.0-beta.2 for 1.21-pre2";
   version = "11.0.0-beta.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/KXx8jdVE/modmenu-11.0.0-beta.2.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"9FL4cmP7" = lib.buildMinecraftFile {
+"9FL4cmP7" = lib.buildMinecraftMod {
   pname = "v11.0.0-beta.1 for 1.21-pre2";
   version = "11.0.0-beta.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/9FL4cmP7/modmenu-11.0.0-beta.1.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"NgnZx44E" = lib.buildMinecraftFile {
+"NgnZx44E" = lib.buildMinecraftMod {
   pname = "v10.0.0-beta.1 for 1.20.5-rc3";
   version = "10.0.0-beta.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/NgnZx44E/modmenu-10.0.0-beta.1.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"ybV7vGT5" = lib.buildMinecraftFile {
+"ybV7vGT5" = lib.buildMinecraftMod {
   pname = "v9.2.0-beta.2 for 1.20.4";
   version = "9.2.0-beta.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/ybV7vGT5/modmenu-9.2.0-beta.2.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"VOHp29AO" = lib.buildMinecraftFile {
+"VOHp29AO" = lib.buildMinecraftMod {
   pname = "v9.2.0-beta.1 for 1.20.4";
   version = "9.2.0-beta.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/VOHp29AO/modmenu-9.2.0-beta.1.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"w3icASIi" = lib.buildMinecraftFile {
+"w3icASIi" = lib.buildMinecraftMod {
   pname = "v9.1.0-beta.1 for 1.20.4";
   version = "9.1.0-beta.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/w3icASIi/modmenu-9.1.0-beta.1.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"mtTzRMV2" = lib.buildMinecraftFile {
+"mtTzRMV2" = lib.buildMinecraftMod {
   pname = "v10.0.0-alpha.3 for 24w10a";
   version = "10.0.0-alpha.3";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/mtTzRMV2/modmenu-10.0.0-alpha.3.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"ua8KrvY4" = lib.buildMinecraftFile {
+"ua8KrvY4" = lib.buildMinecraftMod {
   pname = "v10.0.0-alpha.1 for 24w09a";
   version = "10.0.0-alpha.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/ua8KrvY4/modmenu-10.0.0-alpha.1.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"sjtVVlsA" = lib.buildMinecraftFile {
+"sjtVVlsA" = lib.buildMinecraftMod {
   pname = "v9.0.0 for 1.20.4";
   version = "9.0.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/sjtVVlsA/modmenu-9.0.0.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"fCQyI9Zj" = lib.buildMinecraftFile {
+"fCQyI9Zj" = lib.buildMinecraftMod {
   pname = "v8.0.1 for 1.20.2";
   version = "8.0.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/fCQyI9Zj/modmenu-8.0.1.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"4EYB2Bxx" = lib.buildMinecraftFile {
+"4EYB2Bxx" = lib.buildMinecraftMod {
   pname = "v9.0.0-pre.1 for 1.20.3-pre4";
   version = "9.0.0-pre.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4EYB2Bxx/modmenu-9.0.0-pre.1.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"tXEHCONL" = lib.buildMinecraftFile {
+"tXEHCONL" = lib.buildMinecraftMod {
   pname = "v9.0.0-alpha.3 for 23w46a";
   version = "9.0.0-alpha.3";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/tXEHCONL/modmenu-9.0.0-alpha.3.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"Edgke5GX" = lib.buildMinecraftFile {
+"Edgke5GX" = lib.buildMinecraftMod {
   pname = "v9.0.0-alpha.2 for 23w44a";
   version = "9.0.0-alpha.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/Edgke5GX/modmenu-9.0.0-alpha.2.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"qpKaDJtd" = lib.buildMinecraftFile {
+"qpKaDJtd" = lib.buildMinecraftMod {
   pname = "v9.0.0-alpha.1 for 23w42a";
   version = "9.0.0-alpha.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/qpKaDJtd/modmenu-9.0.0-alpha.1.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"TwfjidT5" = lib.buildMinecraftFile {
+"TwfjidT5" = lib.buildMinecraftMod {
   pname = "v8.0.0 for 1.20.2";
   version = "8.0.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/TwfjidT5/modmenu-8.0.0.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"sMAXpy0X" = lib.buildMinecraftFile {
+"sMAXpy0X" = lib.buildMinecraftMod {
   pname = "v8.0.0-beta.2 for 1.20.2";
   version = "8.0.0-beta.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/sMAXpy0X/modmenu-8.0.0-beta.2.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"lEkperf6" = lib.buildMinecraftFile {
+"lEkperf6" = lib.buildMinecraftMod {
   pname = "v7.2.2 for 1.20.1";
   version = "7.2.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/lEkperf6/modmenu-7.2.2.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"jbNN4rAs" = lib.buildMinecraftFile {
+"jbNN4rAs" = lib.buildMinecraftMod {
   pname = "v8.0.0-beta.1 for 1.20.2-pre2";
   version = "8.0.0-beta.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/jbNN4rAs/modmenu-8.0.0-beta.1.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"lMqXEzUw" = lib.buildMinecraftFile {
+"lMqXEzUw" = lib.buildMinecraftMod {
   pname = "v6.3.1 for 1.19.4";
   version = "6.3.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/lMqXEzUw/modmenu-6.3.1.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"eTCL1uh8" = lib.buildMinecraftFile {
+"eTCL1uh8" = lib.buildMinecraftMod {
   pname = "v7.2.1 for 1.20.1";
   version = "7.2.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/eTCL1uh8/modmenu-7.2.1.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"id0aLmxO" = lib.buildMinecraftFile {
+"id0aLmxO" = lib.buildMinecraftMod {
   pname = "v5.1.0 for 1.19.3";
   version = "5.1.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/id0aLmxO/modmenu-5.1.0.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"sLzitH81" = lib.buildMinecraftFile {
+"sLzitH81" = lib.buildMinecraftMod {
   pname = "v6.3.0 for 1.19.4";
   version = "6.3.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/sLzitH81/modmenu-6.3.0.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"VHzvWfY2" = lib.buildMinecraftFile {
+"VHzvWfY2" = lib.buildMinecraftMod {
   pname = "v7.2.0 for 1.20.1";
   version = "7.2.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/VHzvWfY2/modmenu-7.2.0.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"zv46i3PW" = lib.buildMinecraftFile {
+"zv46i3PW" = lib.buildMinecraftMod {
   pname = "v7.1.0 for 1.20.1";
   version = "7.1.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/zv46i3PW/modmenu-7.1.0.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"CtMNOUcV" = lib.buildMinecraftFile {
+"CtMNOUcV" = lib.buildMinecraftMod {
   pname = "v6.2.3 for 1.19.4";
   version = "6.2.3";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/CtMNOUcV/modmenu-6.2.3.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"RTFDnTKf" = lib.buildMinecraftFile {
+"RTFDnTKf" = lib.buildMinecraftMod {
   pname = "v7.0.1 for 1.20";
   version = "7.0.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/RTFDnTKf/modmenu-7.0.1.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"M7LIgtWJ" = lib.buildMinecraftFile {
+"M7LIgtWJ" = lib.buildMinecraftMod {
   pname = "v7.0.0 for 1.20";
   version = "7.0.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/M7LIgtWJ/modmenu-7.0.0.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"iZRiOnnj" = lib.buildMinecraftFile {
+"iZRiOnnj" = lib.buildMinecraftMod {
   pname = "v6.2.2 for 1.19.4";
   version = "6.2.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/iZRiOnnj/modmenu-6.2.2.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"EuNUYds8" = lib.buildMinecraftFile {
+"EuNUYds8" = lib.buildMinecraftMod {
   pname = "v7.0.0-beta.2 for 23w17a";
   version = "7.0.0-beta.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/EuNUYds8/modmenu-7.0.0-beta.2.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"RdCGzY7B" = lib.buildMinecraftFile {
+"RdCGzY7B" = lib.buildMinecraftMod {
   pname = "v7.0.0-beta.1 for 23w16a";
   version = "7.0.0-beta.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/RdCGzY7B/modmenu-7.0.0-beta.1.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"yjjsLqbS" = lib.buildMinecraftFile {
+"yjjsLqbS" = lib.buildMinecraftMod {
   pname = "v6.2.1 for 1.19.4";
   version = "6.2.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/yjjsLqbS/modmenu-6.2.1.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"3gwnUSKz" = lib.buildMinecraftFile {
+"3gwnUSKz" = lib.buildMinecraftMod {
   pname = "v1.14.5+build.30 for 1.16.1";
   version = "1.14.5+build.30";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3gwnUSKz/modmenu-1.14.5%2Bbuild.30.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"aMxXwo9x" = lib.buildMinecraftFile {
+"aMxXwo9x" = lib.buildMinecraftMod {
   pname = "Mod Menu v6.2.0 for 1.19.4";
   version = "6.2.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/aMxXwo9x/modmenu-6.2.0.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"nM5QaZNo" = lib.buildMinecraftFile {
+"nM5QaZNo" = lib.buildMinecraftMod {
   pname = "Mod Menu v6.1.0 for 1.19.4";
   version = "6.1.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/nM5QaZNo/modmenu-6.1.0.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"5e62j63G" = lib.buildMinecraftFile {
+"5e62j63G" = lib.buildMinecraftMod {
   pname = "Mod Menu v6.1.0-rc.4 for 1.19.4–23w14a";
   version = "6.1.0-rc.4";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/5e62j63G/modmenu-6.1.0-rc.4.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"pged5sGx" = lib.buildMinecraftFile {
+"pged5sGx" = lib.buildMinecraftMod {
   pname = "Mod Menu v6.1.0-rc.3 for 1.19.4";
   version = "6.1.0-rc.3";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/pged5sGx/modmenu-6.1.0-rc.3.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"JYTmttex" = lib.buildMinecraftFile {
+"JYTmttex" = lib.buildMinecraftMod {
   pname = "Mod Menu v6.1.0-rc.2 for 1.19.4";
   version = "6.1.0-rc.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/JYTmttex/modmenu-6.1.0-rc.2.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"U31K6311" = lib.buildMinecraftFile {
+"U31K6311" = lib.buildMinecraftMod {
   pname = "Mod Menu v6.1.0-rc.1 for 1.19.4";
   version = "6.1.0-rc.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/U31K6311/modmenu-6.1.0-rc.1.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"sXVmzBDB" = lib.buildMinecraftFile {
+"sXVmzBDB" = lib.buildMinecraftMod {
   pname = "Mod Menu v6.1.0-beta.3 for 23w07a";
   version = "6.1.0-beta.3";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/sXVmzBDB/modmenu-6.1.0-beta.3.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"RtaGQNyd" = lib.buildMinecraftFile {
+"RtaGQNyd" = lib.buildMinecraftMod {
   pname = "Mod Menu v5.1.0-beta.4 for 1.19.3";
   version = "5.1.0-beta.4";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/RtaGQNyd/modmenu-5.1.0-beta.4.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"gSoPJyVn" = lib.buildMinecraftFile {
+"gSoPJyVn" = lib.buildMinecraftMod {
   pname = "v4.2.0-beta.2 for 1.19.2";
   version = "4.2.0-beta.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/gSoPJyVn/modmenu-4.2.0-beta.2.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"4EOA40rU" = lib.buildMinecraftFile {
+"4EOA40rU" = lib.buildMinecraftMod {
   pname = "Mod Menu v4.2.0-beta.1 for 1.19.2";
   version = "4.2.0-beta.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4EOA40rU/modmenu-4.2.0-beta.1.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"jRqFAHRH" = lib.buildMinecraftFile {
+"jRqFAHRH" = lib.buildMinecraftMod {
   pname = "Mod Menu v5.1.0-beta.3 for 1.19.3";
   version = "5.1.0-beta.3";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/jRqFAHRH/modmenu-5.1.0-beta.3.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"pyDmgV07" = lib.buildMinecraftFile {
+"pyDmgV07" = lib.buildMinecraftMod {
   pname = "Mod Menu v6.1.0-beta.2 for 23w07a";
   version = "6.1.0-beta.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/pyDmgV07/modmenu-6.1.0-beta.2.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"5aw4r6fS" = lib.buildMinecraftFile {
+"5aw4r6fS" = lib.buildMinecraftMod {
   pname = "Mod Menu v6.1.0-beta.1 for 23w07a";
   version = "6.1.0-beta.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/5aw4r6fS/modmenu-6.1.0-beta.1.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"7E8dbVv0" = lib.buildMinecraftFile {
+"7E8dbVv0" = lib.buildMinecraftMod {
   pname = "Mod Menu v5.1.0-beta.2 for 1.19.3";
   version = "5.1.0-beta.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/7E8dbVv0/modmenu-5.1.0-beta.2.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"5qqTBb38" = lib.buildMinecraftFile {
+"5qqTBb38" = lib.buildMinecraftMod {
   pname = "Mod Menu v5.1.0-beta.1 for 1.19.3";
   version = "5.1.0-beta.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/5qqTBb38/modmenu-5.1.0-beta.1.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"4LXaG2xg" = lib.buildMinecraftFile {
+"4LXaG2xg" = lib.buildMinecraftMod {
   pname = "Mod Menu v6.1.0-alpha.2 for 23w07a";
   version = "6.1.0-alpha.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4LXaG2xg/modmenu-6.1.0-alpha.2.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"oqeCO757" = lib.buildMinecraftFile {
+"oqeCO757" = lib.buildMinecraftMod {
   pname = "Mod Menu v6.1.0-alpha.1 for 23w05a";
   version = "6.1.0-alpha.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/oqeCO757/modmenu-6.1.0-alpha.1.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"yA8g3pEj" = lib.buildMinecraftFile {
+"yA8g3pEj" = lib.buildMinecraftMod {
   pname = "Mod Menu v6.0.0-beta.1 for 23w03a";
   version = "6.0.0-beta.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/yA8g3pEj/modmenu-6.0.0-beta.1.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"eIrlBn1Z" = lib.buildMinecraftFile {
+"eIrlBn1Z" = lib.buildMinecraftMod {
   pname = "Mod Menu v5.0.2 for 1.19.3";
   version = "5.0.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/eIrlBn1Z/modmenu-5.0.2.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"7kh2ofyR" = lib.buildMinecraftFile {
+"7kh2ofyR" = lib.buildMinecraftMod {
   pname = "v2.0.17 for 1.17";
   version = "2.0.17";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/7kh2ofyR/modmenu-2.0.17.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"nVxObSbX" = lib.buildMinecraftFile {
+"nVxObSbX" = lib.buildMinecraftMod {
   pname = "v3.2.5 for 1.18.2";
   version = "3.2.5";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/nVxObSbX/modmenu-3.2.5.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"V4hnfgRO" = lib.buildMinecraftFile {
+"V4hnfgRO" = lib.buildMinecraftMod {
   pname = "Mod Menu v4.1.2 for 1.19.2";
   version = "4.1.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/V4hnfgRO/modmenu-4.1.2.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"IPLgxPn7" = lib.buildMinecraftFile {
+"IPLgxPn7" = lib.buildMinecraftMod {
   pname = "Mod Menu v5.0.1 for 1.19.3";
   version = "5.0.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/IPLgxPn7/modmenu-5.0.1.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"qDXCbEz4" = lib.buildMinecraftFile {
+"qDXCbEz4" = lib.buildMinecraftMod {
   pname = "Mod Menu v5.0.0 for 1.19.3";
   version = "5.0.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/qDXCbEz4/modmenu-5.0.0.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"7mdkE3Od" = lib.buildMinecraftFile {
+"7mdkE3Od" = lib.buildMinecraftMod {
   pname = "Mod Menu v5.0.0-alpha.4 for 22w46a";
   version = "5.0.0-alpha.4";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/7mdkE3Od/modmenu-5.0.0-alpha.4.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"4dReZoTJ" = lib.buildMinecraftFile {
+"4dReZoTJ" = lib.buildMinecraftMod {
   pname = "Mod Menu v4.1.1 for 1.19.2";
   version = "4.1.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4dReZoTJ/modmenu-4.1.1.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"sI3kiPZE" = lib.buildMinecraftFile {
+"sI3kiPZE" = lib.buildMinecraftMod {
   pname = "Mod Menu v5.0.0-alpha.3 for 22w46a";
   version = "5.0.0-alpha.3";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/sI3kiPZE/modmenu-5.0.0-alpha.3.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"GI1HTA1O" = lib.buildMinecraftFile {
+"GI1HTA1O" = lib.buildMinecraftMod {
   pname = "Mod Menu v5.0.0-alpha.2 for 22w45a";
   version = "5.0.0-alpha.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/GI1HTA1O/modmenu-5.0.0-alpha.2.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"RxrqnH1z" = lib.buildMinecraftFile {
+"RxrqnH1z" = lib.buildMinecraftMod {
   pname = "Mod Menu v5.0.0-alpha.1 for 22w43a";
   version = "5.0.0-alpha.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/RxrqnH1z/modmenu-5.0.0-alpha.1.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"NAs8eiQa" = lib.buildMinecraftFile {
+"NAs8eiQa" = lib.buildMinecraftMod {
   pname = "Mod Menu v4.1.0 for 1.19.2";
   version = "4.1.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/NAs8eiQa/modmenu-4.1.0.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"d86kV6wd" = lib.buildMinecraftFile {
+"d86kV6wd" = lib.buildMinecraftMod {
   pname = "Mod Menu v3.2.4 for 1.18.2";
   version = "3.2.4";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/d86kV6wd/modmenu-3.2.4.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"Gbkn1raO" = lib.buildMinecraftFile {
+"Gbkn1raO" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.16 for 1.17";
   version = "2.0.16";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/Gbkn1raO/modmenu-2.0.16.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"3umfHb6R" = lib.buildMinecraftFile {
+"3umfHb6R" = lib.buildMinecraftMod {
   pname = "v1.10.7 for 1.15.2";
   version = "1.10.7";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3umfHb6R/modmenu-1.10.7.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"kQDE01D3" = lib.buildMinecraftFile {
+"kQDE01D3" = lib.buildMinecraftMod {
   pname = "v1.7.17 for 1.14.4";
   version = "1.7.17";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/kQDE01D3/modmenu-1.7.17%2Bbuild.1.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"8TOgNwQL" = lib.buildMinecraftFile {
+"8TOgNwQL" = lib.buildMinecraftMod {
   pname = "Mod Menu v4.0.6 for 1.19.2";
   version = "4.0.6";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.6/modmenu-4.0.6.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"2Ys0a7JE" = lib.buildMinecraftFile {
+"2Ys0a7JE" = lib.buildMinecraftMod {
   pname = "Mod Menu v4.0.5 for 1.19.1";
   version = "4.0.5";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.5/modmenu-4.0.5.jar";
@@ -899,7 +899,7 @@
   };
 };
 
-"oU5qfeR6" = lib.buildMinecraftFile {
+"oU5qfeR6" = lib.buildMinecraftMod {
   pname = "v4.0.4 for 1.19";
   version = "4.0.4";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.4/modmenu-4.0.4.jar";
@@ -911,7 +911,7 @@
   };
 };
 
-"NsD1IoUs" = lib.buildMinecraftFile {
+"NsD1IoUs" = lib.buildMinecraftMod {
   pname = "Mod Menu v4.0.3 for 1.19 ";
   version = "4.0.3";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.3/modmenu-4.0.3.jar";
@@ -923,7 +923,7 @@
   };
 };
 
-"ybXxCvz4" = lib.buildMinecraftFile {
+"ybXxCvz4" = lib.buildMinecraftMod {
   pname = "Mod Menu v4.0.2 for 1.19.1-pre2";
   version = "4.0.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.2/modmenu-4.0.2.jar";
@@ -935,7 +935,7 @@
   };
 };
 
-"pnFEFiHq" = lib.buildMinecraftFile {
+"pnFEFiHq" = lib.buildMinecraftMod {
   pname = "Mod Menu v4.0.1 for 1.19.1-rc1";
   version = "4.0.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.1/modmenu-4.0.1.jar";
@@ -947,7 +947,7 @@
   };
 };
 
-"cx9D94fU" = lib.buildMinecraftFile {
+"cx9D94fU" = lib.buildMinecraftMod {
   pname = "Mod Menu v3.2.3 for 1.18.2";
   version = "3.2.3";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.2.3/modmenu-3.2.3.jar";
@@ -959,7 +959,7 @@
   };
 };
 
-"dP3zrFbp" = lib.buildMinecraftFile {
+"dP3zrFbp" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.15 for 1.17 ";
   version = "2.0.15";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.15/modmenu-2.0.15.jar";
@@ -971,7 +971,7 @@
   };
 };
 
-"aShj7736" = lib.buildMinecraftFile {
+"aShj7736" = lib.buildMinecraftMod {
   pname = "v1.16.23 for 1.16.5";
   version = "1.16.23";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.23/modmenu-1.16.23.jar";
@@ -983,7 +983,7 @@
   };
 };
 
-"Tk7mCRX1" = lib.buildMinecraftFile {
+"Tk7mCRX1" = lib.buildMinecraftMod {
   pname = "Mod Menu v4.0.0 for 1.19";
   version = "4.0.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.0/modmenu-4.0.0.jar";
@@ -995,7 +995,7 @@
   };
 };
 
-"GYRoFp1I" = lib.buildMinecraftFile {
+"GYRoFp1I" = lib.buildMinecraftMod {
   pname = "Mod Menu v3.2.2 for 1.18.2";
   version = "3.2.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.2.2/modmenu-3.2.2.jar";
@@ -1007,7 +1007,7 @@
   };
 };
 
-"y8cYdaYa" = lib.buildMinecraftFile {
+"y8cYdaYa" = lib.buildMinecraftMod {
   pname = "Mod Menu v3.2.1 for 1.18.2";
   version = "3.2.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.2.1/modmenu-3.2.1.jar";
@@ -1019,7 +1019,7 @@
   };
 };
 
-"E4VKK6kQ" = lib.buildMinecraftFile {
+"E4VKK6kQ" = lib.buildMinecraftMod {
   pname = "Mod Menu v4.0.0-beta.4 for 22w16b";
   version = "4.0.0-beta.4";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.0-beta.4/modmenu-4.0.0-beta.4.jar";
@@ -1031,7 +1031,7 @@
   };
 };
 
-"6f25OJ7w" = lib.buildMinecraftFile {
+"6f25OJ7w" = lib.buildMinecraftMod {
   pname = "Mod Menu v4.0.0-beta.3 for 22w16b";
   version = "4.0.0-beta.3";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.0-beta.3/modmenu-4.0.0-beta.3.jar";
@@ -1043,7 +1043,7 @@
   };
 };
 
-"fw5MM4c4" = lib.buildMinecraftFile {
+"fw5MM4c4" = lib.buildMinecraftMod {
   pname = "Mod Menu v4.0.0-beta.2 for 22w15a";
   version = "4.0.0-beta.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.0-beta.2/modmenu-4.0.0-beta.2.jar";
@@ -1055,7 +1055,7 @@
   };
 };
 
-"Ui2loaCY" = lib.buildMinecraftFile {
+"Ui2loaCY" = lib.buildMinecraftMod {
   pname = "Mod Menu v3.1.1 for 1.18.2";
   version = "3.1.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.1.1/modmenu-3.1.1.jar";
@@ -1067,7 +1067,7 @@
   };
 };
 
-"4JrWqhWw" = lib.buildMinecraftFile {
+"4JrWqhWw" = lib.buildMinecraftMod {
   pname = "Mod Menu v3.1.0 for 1.18.2";
   version = "3.1.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.1.0/modmenu-3.1.0.jar";
@@ -1079,7 +1079,7 @@
   };
 };
 
-"eueI9czw" = lib.buildMinecraftFile {
+"eueI9czw" = lib.buildMinecraftMod {
   pname = "Mod Menu v3.0.1 for 1.18.1";
   version = "3.0.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.0.1/modmenu-3.0.1.jar";
@@ -1091,7 +1091,7 @@
   };
 };
 
-"JPP6w2U1" = lib.buildMinecraftFile {
+"JPP6w2U1" = lib.buildMinecraftMod {
   pname = "Mod Menu v3.0.0 for 1.18";
   version = "3.0.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.0.0/modmenu-3.0.0.jar";
@@ -1103,7 +1103,7 @@
   };
 };
 
-"3CD6YUw1" = lib.buildMinecraftFile {
+"3CD6YUw1" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.14 for 1.17";
   version = "2.0.14";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.14/modmenu-2.0.14.jar";
@@ -1115,7 +1115,7 @@
   };
 };
 
-"WkUCkcQA" = lib.buildMinecraftFile {
+"WkUCkcQA" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.22 for 1.16.5";
   version = "1.16.22";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.22/modmenu-1.16.22.jar";
@@ -1127,7 +1127,7 @@
   };
 };
 
-"PN4NcBa1" = lib.buildMinecraftFile {
+"PN4NcBa1" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.21 for 1.16.5";
   version = "1.16.21";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.21/modmenu-1.16.21.jar";
@@ -1139,7 +1139,7 @@
   };
 };
 
-"jZQ0G78K" = lib.buildMinecraftFile {
+"jZQ0G78K" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.1.1 for 21w38a";
   version = "2.1.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.1.1/modmenu-2.1.1.jar";
@@ -1151,7 +1151,7 @@
   };
 };
 
-"WKj0jgYj" = lib.buildMinecraftFile {
+"WKj0jgYj" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.13 for 1.17";
   version = "2.0.13";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.13/modmenu-2.0.13.jar";
@@ -1163,7 +1163,7 @@
   };
 };
 
-"JOqf8AZn" = lib.buildMinecraftFile {
+"JOqf8AZn" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.20 for 1.16.5";
   version = "1.16.20";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.20/modmenu-1.16.20.jar";
@@ -1175,7 +1175,7 @@
   };
 };
 
-"LVxVja5i" = lib.buildMinecraftFile {
+"LVxVja5i" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.1.0 for 21w37a";
   version = "2.1.0";
   url = "https://cdn.modrinth.com//data/mOgUt4GM/versions/2.1.0/modmenu-2.1.0.jar";
@@ -1187,7 +1187,7 @@
   };
 };
 
-"9xECQHnM" = lib.buildMinecraftFile {
+"9xECQHnM" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.12 for 1.17";
   version = "2.0.12";
   url = "https://cdn.modrinth.com//data/mOgUt4GM/versions/2.0.12/modmenu-2.0.12.jar";
@@ -1199,7 +1199,7 @@
   };
 };
 
-"aH8qgnVM" = lib.buildMinecraftFile {
+"aH8qgnVM" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.19 for 1.16.5";
   version = "1.16.19";
   url = "https://cdn.modrinth.com//data/mOgUt4GM/versions/1.16.19/modmenu-1.16.19.jar";
@@ -1211,7 +1211,7 @@
   };
 };
 
-"FMqdptUn" = lib.buildMinecraftFile {
+"FMqdptUn" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.11 for 1.17";
   version = "2.0.11";
   url = "https://cdn.modrinth.com//data/mOgUt4GM/versions/2.0.11/modmenu-2.0.11.jar";
@@ -1223,7 +1223,7 @@
   };
 };
 
-"VaZTuVan" = lib.buildMinecraftFile {
+"VaZTuVan" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.18 for 1.16.5";
   version = "1.16.18";
   url = "https://cdn.modrinth.com//data/mOgUt4GM/versions/1.16.18/modmenu-1.16.18.jar";
@@ -1235,7 +1235,7 @@
   };
 };
 
-"XtL1i60M" = lib.buildMinecraftFile {
+"XtL1i60M" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.10 for 1.17";
   version = "2.0.10";
   url = "https://cdn.modrinth.com//data/mOgUt4GM/versions/2.0.10/modmenu-2.0.10.jar";
@@ -1247,7 +1247,7 @@
   };
 };
 
-"DOitjZ89" = lib.buildMinecraftFile {
+"DOitjZ89" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.17 for 1.16.5";
   version = "1.16.17";
   url = "https://cdn.modrinth.com//data/mOgUt4GM/versions/1.16.17/modmenu-1.16.17.jar";
@@ -1259,7 +1259,7 @@
   };
 };
 
-"tlM0eBmY" = lib.buildMinecraftFile {
+"tlM0eBmY" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.9 for 1.17";
   version = "2.0.9";
   url = "https://cdn.modrinth.com//data/mOgUt4GM/versions/2.0.9/modmenu-2.0.9.jar";
@@ -1271,7 +1271,7 @@
   };
 };
 
-"Wr4GfZdy" = lib.buildMinecraftFile {
+"Wr4GfZdy" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.16 for 1.16.5";
   version = "1.16.16";
   url = "https://cdn.modrinth.com//data/mOgUt4GM/versions/1.16.16/modmenu-1.16.16.jar";
@@ -1283,7 +1283,7 @@
   };
 };
 
-"GOPQZTVp" = lib.buildMinecraftFile {
+"GOPQZTVp" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.15 for 1.16.5";
   version = "1.16.15";
   url = "https://cdn.modrinth.com//data/mOgUt4GM/versions/1.16.15/modmenu-1.16.15.jar";
@@ -1295,7 +1295,7 @@
   };
 };
 
-"JyL5b75a" = lib.buildMinecraftFile {
+"JyL5b75a" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.8 for 1.17";
   version = "2.0.8";
   url = "https://cdn.modrinth.com//data/mOgUt4GM/versions/2.0.8/modmenu-2.0.8.jar";
@@ -1307,7 +1307,7 @@
   };
 };
 
-"G8sCBZ1X" = lib.buildMinecraftFile {
+"G8sCBZ1X" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.7 for 1.17";
   version = "2.0.7";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.7/modmenu-2.0.7.jar";
@@ -1319,7 +1319,7 @@
   };
 };
 
-"4Ar2wg0k" = lib.buildMinecraftFile {
+"4Ar2wg0k" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.14 for 1.16.5";
   version = "1.16.14";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.14/modmenu-1.16.14.jar";
@@ -1331,7 +1331,7 @@
   };
 };
 
-"bojzkt4w" = lib.buildMinecraftFile {
+"bojzkt4w" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.6 for 1.17";
   version = "2.0.6";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.6/modmenu-2.0.6.jar";
@@ -1343,7 +1343,7 @@
   };
 };
 
-"c6uDXZX8" = lib.buildMinecraftFile {
+"c6uDXZX8" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.13 for 1.16.5";
   version = "1.16.13";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.13/modmenu-1.16.13.jar";
@@ -1355,7 +1355,7 @@
   };
 };
 
-"E4QBMVtO" = lib.buildMinecraftFile {
+"E4QBMVtO" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.5 for 1.17";
   version = "2.0.5";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.5/modmenu-2.0.5.jar";
@@ -1367,7 +1367,7 @@
   };
 };
 
-"u955lyFM" = lib.buildMinecraftFile {
+"u955lyFM" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.12 for 1.16.5";
   version = "1.16.12";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.12/modmenu-1.16.12.jar";
@@ -1379,7 +1379,7 @@
   };
 };
 
-"oQr5VO7q" = lib.buildMinecraftFile {
+"oQr5VO7q" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.4 for 1.17";
   version = "2.0.4";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.4/modmenu-2.0.4.jar";
@@ -1391,7 +1391,7 @@
   };
 };
 
-"NyFB1gry" = lib.buildMinecraftFile {
+"NyFB1gry" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.11 for 1.16.5";
   version = "1.16.11";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.11/modmenu-1.16.11.jar";
@@ -1403,7 +1403,7 @@
   };
 };
 
-"a8bewBQT" = lib.buildMinecraftFile {
+"a8bewBQT" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.3 for 1.17";
   version = "2.0.3";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.3/modmenu-2.0.3.jar";
@@ -1415,7 +1415,7 @@
   };
 };
 
-"bHODZExo" = lib.buildMinecraftFile {
+"bHODZExo" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.10 for 1.16.5";
   version = "1.16.10";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.10/modmenu-1.16.10.jar";
@@ -1427,7 +1427,7 @@
   };
 };
 
-"mzVbb1XI" = lib.buildMinecraftFile {
+"mzVbb1XI" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.2 for 1.17";
   version = "2.0.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.2/modmenu-2.0.2.jar";
@@ -1439,7 +1439,7 @@
   };
 };
 
-"wRE7Emzz" = lib.buildMinecraftFile {
+"wRE7Emzz" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.0-beta.7 for 1.17-pre1";
   version = "2.0.0-beta.7";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.0-beta.7/modmenu-2.0.0-beta.7.jar";
@@ -1451,7 +1451,7 @@
   };
 };
 
-"EDbIonje" = lib.buildMinecraftFile {
+"EDbIonje" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.0-beta.5 for 1.17-pre1";
   version = "2.0.0-beta.5";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.0-beta.5/modmenu-2.0.0-beta.5.jar";
@@ -1463,7 +1463,7 @@
   };
 };
 
-"Gz5wa6j2" = lib.buildMinecraftFile {
+"Gz5wa6j2" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.10.6 for 1.15.2";
   version = "1.10.6";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.10.6/modmenu-1.10.6.jar";
@@ -1475,7 +1475,7 @@
   };
 };
 
-"RIf7gcLA" = lib.buildMinecraftFile {
+"RIf7gcLA" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.0-beta.4 for 21w14a";
   version = "2.0.0-beta.4";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.0-beta.4/modmenu-2.0.0-beta.4.jar";
@@ -1487,7 +1487,7 @@
   };
 };
 
-"pqlMITZQ" = lib.buildMinecraftFile {
+"pqlMITZQ" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.0-beta.3 for 21w14a";
   version = "2.0.0-beta.3";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.0-beta.3/modmenu-2.0.0-beta.3.jar";
@@ -1499,7 +1499,7 @@
   };
 };
 
-"bPE0GIoY" = lib.buildMinecraftFile {
+"bPE0GIoY" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.9 for 1.16.5";
   version = "1.16.9";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.9/modmenu-1.16.9.jar";
@@ -1511,7 +1511,7 @@
   };
 };
 
-"wb5nbuL5" = lib.buildMinecraftFile {
+"wb5nbuL5" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.8 for 1.16.5";
   version = "1.16.8";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.8/modmenu-1.16.8.jar";
@@ -1523,7 +1523,7 @@
   };
 };
 
-"6YvLIUDN" = lib.buildMinecraftFile {
+"6YvLIUDN" = lib.buildMinecraftMod {
   pname = "Mod Menu v2.0.0-beta.2 for 21w06a";
   version = "2.0.0-beta.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.0-beta.2/modmenu-2.0.0-beta.2.jar";
@@ -1535,7 +1535,7 @@
   };
 };
 
-"pxj9L3Vy" = lib.buildMinecraftFile {
+"pxj9L3Vy" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.10.5 for 1.15.2";
   version = "1.10.5";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.10.5/modmenu-1.10.5.jar";
@@ -1547,7 +1547,7 @@
   };
 };
 
-"Mnl0OeFI" = lib.buildMinecraftFile {
+"Mnl0OeFI" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.7 for 1.16.5";
   version = "1.16.7";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.7/modmenu-1.16.7.jar";
@@ -1559,7 +1559,7 @@
   };
 };
 
-"PqgXyy3N" = lib.buildMinecraftFile {
+"PqgXyy3N" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.6 for 1.16.5";
   version = "1.16.6";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.6/modmenu-1.16.6.jar";
@@ -1571,7 +1571,7 @@
   };
 };
 
-"TleLdS1A" = lib.buildMinecraftFile {
+"TleLdS1A" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.5 for 1.16.5";
   version = "1.16.5";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.5/modmenu-1.16.5.jar";
@@ -1583,7 +1583,7 @@
   };
 };
 
-"kBofQyu4" = lib.buildMinecraftFile {
+"kBofQyu4" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.4 for 1.16.5";
   version = "1.16.4";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.4/modmenu-1.16.4.jar";
@@ -1595,7 +1595,7 @@
   };
 };
 
-"79rtoAM6" = lib.buildMinecraftFile {
+"79rtoAM6" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.3 for 1.16.5";
   version = "1.16.3";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.3/modmenu-1.16.3.jar";
@@ -1607,7 +1607,7 @@
   };
 };
 
-"7QWIhei3" = lib.buildMinecraftFile {
+"7QWIhei3" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.2 for 1.16.5";
   version = "1.16.2";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.2/modmenu-1.16.2.jar";
@@ -1619,7 +1619,7 @@
   };
 };
 
-"zC13OZD9" = lib.buildMinecraftFile {
+"zC13OZD9" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.1 for 1.16.5";
   version = "1.16.1";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.1/modmenu-1.16.1.jar";
@@ -1631,7 +1631,7 @@
   };
 };
 
-"O90fUm3q" = lib.buildMinecraftFile {
+"O90fUm3q" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.16.0 for 1.16.5";
   version = "1.16.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.16.0/modmenu-1.16.0.jar";
@@ -1643,7 +1643,7 @@
   };
 };
 
-"DgzrfgAZ" = lib.buildMinecraftFile {
+"DgzrfgAZ" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.15.0 for 1.16.5";
   version = "1.15.0";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.15.0/modmenu-1.15.0.jar";
@@ -1655,7 +1655,7 @@
   };
 };
 
-"M3KFXLhq" = lib.buildMinecraftFile {
+"M3KFXLhq" = lib.buildMinecraftMod {
   pname = "Mod Menu v1.14.15 for 1.16.5";
   version = "1.14.15";
   url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/1.14.15/modmenu-1.14.15.jar";

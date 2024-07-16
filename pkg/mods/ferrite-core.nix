@@ -1,5 +1,5 @@
 { lib, ... }: {
-"wmIZ4wP4" = lib.buildMinecraftFile {
+"wmIZ4wP4" = lib.buildMinecraftMod {
   pname = "7.0.0 (Fabric)";
   version = "7.0.0";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"i9RcCdZv" = lib.buildMinecraftFile {
+"i9RcCdZv" = lib.buildMinecraftMod {
   pname = "6.1.1 (Fabric)";
   version = "6.1.1-fabric";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/i9RcCdZv/ferritecore-6.1.1-fabric.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"PPnbi6JY" = lib.buildMinecraftFile {
+"PPnbi6JY" = lib.buildMinecraftMod {
   pname = "6.1.0 (Fabric)";
   version = "6.1.0";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/PPnbi6JY/ferritecore-6.1.0-fabric.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"pguEMpy9" = lib.buildMinecraftFile {
+"pguEMpy9" = lib.buildMinecraftMod {
   pname = "6.0.3 (Fabric/Quilt)";
   version = "6.0.3-fabric";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/pguEMpy9/ferritecore-6.0.3-fabric.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"unerR5MN" = lib.buildMinecraftFile {
+"unerR5MN" = lib.buildMinecraftMod {
   pname = "6.0.1 (Fabric/Quilt)";
   version = "6.0.1";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"FCnCG6PS" = lib.buildMinecraftFile {
+"FCnCG6PS" = lib.buildMinecraftMod {
   pname = "6.0.0 (Fabric/Quilt)";
   version = "6.0.0-fabric";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/FCnCG6PS/ferritecore-6.0.0-fabric.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"l9p9zXTR" = lib.buildMinecraftFile {
+"l9p9zXTR" = lib.buildMinecraftMod {
   pname = "6.0.0 (Fabric/Quilt)";
   version = "6.0.0-fabric";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/l9p9zXTR/ferritecore-6.0.0-fabric.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"RbR7EG8T" = lib.buildMinecraftFile {
+"RbR7EG8T" = lib.buildMinecraftMod {
   pname = "5.2.0 (Fabric/Quilt)";
   version = "5.2.0-fabric";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/RbR7EG8T/ferritecore-5.2.0-fabric.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"GHcKib6J" = lib.buildMinecraftFile {
+"GHcKib6J" = lib.buildMinecraftMod {
   pname = "5.1.0 (Fabric/Quilt)";
   version = "5.1.0-fabric";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/GHcKib6J/ferritecore-5.1.0-fabric.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"kwjHqfz7" = lib.buildMinecraftFile {
+"kwjHqfz7" = lib.buildMinecraftMod {
   pname = "5.0.3 (Fabric/Quilt)";
   version = "5.0.3-fabric";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/kwjHqfz7/ferritecore-5.0.3-fabric.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"3UkWIj4a" = lib.buildMinecraftFile {
+"3UkWIj4a" = lib.buildMinecraftMod {
   pname = "2.1.1 (Fabric)";
   version = "2.1.1-fabric";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/3UkWIj4a/ferritecore-2.1.1-fabric.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"7epbwkFg" = lib.buildMinecraftFile {
+"7epbwkFg" = lib.buildMinecraftMod {
   pname = "5.0.0 (Fabric/Quilt)";
   version = "5.0.0-fabric";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/5.0.0-fabric/ferritecore-5.0.0-fabric.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"776Z5oW9" = lib.buildMinecraftFile {
+"776Z5oW9" = lib.buildMinecraftMod {
   pname = "4.2.1 (Fabric/Quilt)";
   version = "4.2.1-fabric";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.1/ferritecore-4.2.1-fabric.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"OhuTVpQH" = lib.buildMinecraftFile {
+"OhuTVpQH" = lib.buildMinecraftMod {
   pname = "4.2.0";
   version = "4.2.0";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/4.2.0/ferritecore-4.2.0-fabric.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"FMdIAsIi" = lib.buildMinecraftFile {
+"FMdIAsIi" = lib.buildMinecraftMod {
   pname = "4.1.2";
   version = "4.1.2";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/4.1.2/ferritecore-4.1.2-fabric.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"c9p5gemS" = lib.buildMinecraftFile {
+"c9p5gemS" = lib.buildMinecraftMod {
   pname = "4.1.1";
   version = "4.1.1";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/4.1.1/ferritecore-4.1.1-fabric.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"OhmGV4Hp" = lib.buildMinecraftFile {
+"OhmGV4Hp" = lib.buildMinecraftMod {
   pname = "4.1.0";
   version = "4.1.0";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/4.1.0/ferritecore-4.1.0-fabric.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"1FrNtQTK" = lib.buildMinecraftFile {
+"1FrNtQTK" = lib.buildMinecraftMod {
   pname = "4.0.0";
   version = "4.0.0";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/4.0.0/ferritecore-4.0.0-fabric.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"oP38VFTJ" = lib.buildMinecraftFile {
+"oP38VFTJ" = lib.buildMinecraftMod {
   pname = "2.1.0";
   version = "2.1.0";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/2.1.0/ferritecore-2.1.0-fabric.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"JQl5JoCm" = lib.buildMinecraftFile {
+"JQl5JoCm" = lib.buildMinecraftMod {
   pname = "3.1.0";
   version = "3.1.0";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/3.1.0/ferritecore-3.1.0-fabric.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"HjttFjoa" = lib.buildMinecraftFile {
+"HjttFjoa" = lib.buildMinecraftMod {
   pname = "3.0.3";
   version = "3.0.3";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.3/ferritecore-3.0.3-fabric.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"2XHUVaPQ" = lib.buildMinecraftFile {
+"2XHUVaPQ" = lib.buildMinecraftMod {
   pname = "2.0.7";
   version = "2.0.7";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/2.0.7/ferritecore-2.0.7-fabric.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"5rLOvzfo" = lib.buildMinecraftFile {
+"5rLOvzfo" = lib.buildMinecraftMod {
   pname = "3.0.2";
   version = "3.0.2";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.2/ferritecore-3.0.2-fabric.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"LG5zF5LP" = lib.buildMinecraftFile {
+"LG5zF5LP" = lib.buildMinecraftMod {
   pname = "2.0.6";
   version = "2.0.6";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/2.0.6/ferritecore-2.0.6-fabric.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"hjsymojR" = lib.buildMinecraftFile {
+"hjsymojR" = lib.buildMinecraftMod {
   pname = "3.0.1";
   version = "3.0.1";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.1/ferritecore-3.0.1-fabric.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"Mc6hHgQU" = lib.buildMinecraftFile {
+"Mc6hHgQU" = lib.buildMinecraftMod {
   pname = "3.0.0";
   version = "3.0.0";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/3.0.0/ferritecore-3.0.0-fabric.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"GeyB7u1y" = lib.buildMinecraftFile {
+"GeyB7u1y" = lib.buildMinecraftMod {
   pname = "2.0.5";
   version = "2.0.5";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/2.0.5/ferritecore-2.0.5-fabric.jar";

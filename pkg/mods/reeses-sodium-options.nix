@@ -1,5 +1,5 @@
 { lib, ... }: {
-"DNJFe2me" = lib.buildMinecraftFile {
+"DNJFe2me" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.7.2 for Minecraft 1.21";
   version = "mc1.21-1.7.2";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/DNJFe2me/reeses_sodium_options-1.7.2%2Bmc1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"JKZokbpT" = lib.buildMinecraftFile {
+"JKZokbpT" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.7.2 for Minecraft 1.20.5";
   version = "mc1.20.5-1.7.2";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/JKZokbpT/reeses_sodium_options-1.7.2%2Bmc1.20.5-build.103.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"fkLiGoHs" = lib.buildMinecraftFile {
+"fkLiGoHs" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.7.2 for Minecraft 1.20.3/1.20.4";
   version = "mc1.20.4-1.7.2";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/fkLiGoHs/reeses_sodium_options-1.7.2%2Bmc1.20.4-build.102.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"Rc9pkPug" = lib.buildMinecraftFile {
+"Rc9pkPug" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.7.2 for Minecraft 1.20.1";
   version = "mc1.20.1-1.7.2";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/Rc9pkPug/reeses_sodium_options-1.7.2%2Bmc1.20.1-build.101.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"Iukh1sNN" = lib.buildMinecraftFile {
+"Iukh1sNN" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.7.1 for Minecraft 1.20.3/1.20.4";
   version = "mc1.20.4-1.7.1";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/Iukh1sNN/reeses_sodium_options-1.7.1%2Bmc1.20.4-build.100.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"uOsvGIgy" = lib.buildMinecraftFile {
+"uOsvGIgy" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.7.1 for Minecraft 1.20.1";
   version = "mc1.20.1-1.7.1";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/uOsvGIgy/reeses_sodium_options-1.7.1%2Bmc1.20.1-build.99.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"YxKBGhki" = lib.buildMinecraftFile {
+"YxKBGhki" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.7.0 for Minecraft 1.20.2";
   version = "mc1.20.2-1.7.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/YxKBGhki/reeses_sodium_options-1.7.0%2Bmc1.20.2-build.97.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"UpKbnidp" = lib.buildMinecraftFile {
+"UpKbnidp" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.5 for Minecraft 1.20.2";
   version = "mc1.20.2-1.6.5";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/UpKbnidp/reeses_sodium_options-1.6.5%2Bmc1.20.2-build.96.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"hCsMUZLa" = lib.buildMinecraftFile {
+"hCsMUZLa" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.5 for Minecraft 1.20.1";
   version = "mc1.20.1-1.6.5";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/hCsMUZLa/reeses_sodium_options-1.6.5%2Bmc1.20.1-build.95.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"JB3vAAoX" = lib.buildMinecraftFile {
+"JB3vAAoX" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.4 for Minecraft 1.20.1";
   version = "mc1.20.1-1.6.4";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/JB3vAAoX/reeses_sodium_options-1.6.4%2Bmc1.20.1-build.94.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"uCsFu5xs" = lib.buildMinecraftFile {
+"uCsFu5xs" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.4 for Minecraft 1.19.2";
   version = "mc1.19.2-1.6.4";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/uCsFu5xs/reeses_sodium_options-1.6.4%2Bmc1.19.2-build.93.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"PCctWHcc" = lib.buildMinecraftFile {
+"PCctWHcc" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.3 for Minecraft 1.20.1";
   version = "mc1.20.1-1.6.3";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/PCctWHcc/reeses_sodium_options-1.6.3%2Bmc1.20.1-build.92.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"vjKE54Zq" = lib.buildMinecraftFile {
+"vjKE54Zq" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.3 for Minecraft 1.19.4";
   version = "mc1.19.4-1.6.3";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/vjKE54Zq/reeses_sodium_options-1.6.3%2Bmc1.19.4-build.90.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"fS8c2e54" = lib.buildMinecraftFile {
+"fS8c2e54" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.3 for Minecraft 1.19.2";
   version = "mc1.19.2-1.6.3";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/fS8c2e54/reeses_sodium_options-1.6.3%2Bmc1.19.2-build.89.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"BZU4WdR5" = lib.buildMinecraftFile {
+"BZU4WdR5" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.3 for Minecraft 1.18.2";
   version = "mc1.18.2-1.6.3";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/BZU4WdR5/reeses_sodium_options-1.6.3%2Bmc1.18.2-build.88.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"g7GMB1UL" = lib.buildMinecraftFile {
+"g7GMB1UL" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.3 for Minecraft 1.17.1";
   version = "mc1.17.1-1.6.3";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/g7GMB1UL/reeses_sodium_options-1.6.3%2Bmc1.17.1-build.87.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"Em4mC86n" = lib.buildMinecraftFile {
+"Em4mC86n" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.3 for Minecraft 1.16.5";
   version = "mc1.16.5-1.6.3";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/Em4mC86n/reeses_sodium_options-1.6.3%2Bmc1.16.5-build.86.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"jU0aA0l6" = lib.buildMinecraftFile {
+"jU0aA0l6" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.2 for Minecraft 1.20.1";
   version = "mc1.20.1-1.6.2";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/jU0aA0l6/reeses_sodium_options-1.6.2%2Bmc1.20.1-build.85.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"hHK7EdJe" = lib.buildMinecraftFile {
+"hHK7EdJe" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.2 for Minecraft 1.19.4";
   version = "mc1.19.4-1.6.2";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/hHK7EdJe/reeses_sodium_options-1.6.2%2Bmc1.19.4-build.84.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"EcAN49cK" = lib.buildMinecraftFile {
+"EcAN49cK" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.1 for Minecraft 1.20.1";
   version = "mc1.20.1-1.6.1";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/EcAN49cK/reeses_sodium_options-1.6.1%2Bmc1.20.1-build.83.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"uzl1V5xt" = lib.buildMinecraftFile {
+"uzl1V5xt" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.1 for Minecraft 1.19.4";
   version = "mc1.19.4-1.6.1";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/uzl1V5xt/reeses_sodium_options-1.6.1%2Bmc1.19.4-build.82.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"1PqmtuUf" = lib.buildMinecraftFile {
+"1PqmtuUf" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.0 for Minecraft 1.19.4";
   version = "mc1.19.4-1.6.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/1PqmtuUf/reeses_sodium_options-1.6.0%2Bmc1.19.4-build.81.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"FaJcaG39" = lib.buildMinecraftFile {
+"FaJcaG39" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.0 for Minecraft 1.20.1";
   version = "mc1.20.1-1.6.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/FaJcaG39/reeses_sodium_options-1.6.0%2Bmc1.20.1-build.80.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"8CKyqPyU" = lib.buildMinecraftFile {
+"8CKyqPyU" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.0 for Minecraft 1.19.2";
   version = "mc1.19.2-1.6.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/8CKyqPyU/reeses_sodium_options-1.6.0%2Bmc1.19.2-build.78.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"ZoTRkwNn" = lib.buildMinecraftFile {
+"ZoTRkwNn" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.0 for Minecraft 1.18.2";
   version = "mc1.18.2-1.6.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/ZoTRkwNn/reeses_sodium_options-1.6.0%2Bmc1.18.2-build.77.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"PK0yIs6a" = lib.buildMinecraftFile {
+"PK0yIs6a" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.0 for Minecraft 1.17.1";
   version = "mc1.17.1-1.6.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/PK0yIs6a/reeses_sodium_options-1.6.0%2Bmc1.17.1-build.76.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"e1AFi9mm" = lib.buildMinecraftFile {
+"e1AFi9mm" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.6.0 for Minecraft 1.16.5";
   version = "mc1.16.5-1.6.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/e1AFi9mm/reeses_sodium_options-1.6.0%2Bmc1.16.5-build.75.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"SgSIhHQO" = lib.buildMinecraftFile {
+"SgSIhHQO" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.5.1 for Minecraft 1.20";
   version = "mc1.20-1.5.1";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/SgSIhHQO/reeses_sodium_options-1.5.1%2Bmc1.20-build.74.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"aO0hSGlL" = lib.buildMinecraftFile {
+"aO0hSGlL" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.5.0 for Minecraft 1.19.4";
   version = "mc1.19.4-1.5.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/aO0hSGlL/reeses_sodium_options-1.5.0%2Bmc1.19.4-build.72.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"pvsKP7OO" = lib.buildMinecraftFile {
+"pvsKP7OO" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.5.0 for Minecraft 1.18.2";
   version = "mc1.18.2-1.5.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/pvsKP7OO/reeses_sodium_options-1.5.0%2Bmc1.18.2-build.70.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"r2sBtu0R" = lib.buildMinecraftFile {
+"r2sBtu0R" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.5.0 for Minecraft 1.17.1";
   version = "mc1.17.1-1.5.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/r2sBtu0R/reeses_sodium_options-1.5.0%2Bmc1.17.1-build.69.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"292StcfY" = lib.buildMinecraftFile {
+"292StcfY" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.5.0 for Minecraft 1.16.5";
   version = "mc1.16.5-1.5.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/292StcfY/reeses_sodium_options-1.5.0%2Bmc1.16.5-build.68.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"hkSQ9RqT" = lib.buildMinecraftFile {
+"hkSQ9RqT" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.9 for Minecraft 1.19-1.19.3";
   version = "mc1.19.2-1.4.9";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/hkSQ9RqT/reeses_sodium_options-1.4.9%2Bmc1.19.2-build.67.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"hl16W0ql" = lib.buildMinecraftFile {
+"hl16W0ql" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.9 for Minecraft 1.18.2";
   version = "mc1.18.2-1.4.9";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/hl16W0ql/reeses_sodium_options-1.4.9%2Bmc1.18.2-build.66.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"nrlpP9Lt" = lib.buildMinecraftFile {
+"nrlpP9Lt" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.9 for Minecraft 1.17.1";
   version = "mc1.17.1-1.4.9";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/nrlpP9Lt/reeses_sodium_options-1.4.9%2Bmc1.17.1-build.65.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"RVUmt1Lx" = lib.buildMinecraftFile {
+"RVUmt1Lx" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.9 for Minecraft 1.16.5";
   version = "mc1.16.5-1.4.9";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/RVUmt1Lx/reeses_sodium_options-1.4.9%2Bmc1.16.5-build.64.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"UFoHPsH6" = lib.buildMinecraftFile {
+"UFoHPsH6" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.8 for Minecraft 1.19.2";
   version = "mc1.19.2-1.4.8";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/UFoHPsH6/reeses_sodium_options-1.4.8%2Bmc1.19.2-build.63.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"IgfpiuvV" = lib.buildMinecraftFile {
+"IgfpiuvV" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.8 for Minecraft 1.18.2";
   version = "mc1.18.2-1.4.8";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/IgfpiuvV/reeses_sodium_options-1.4.8%2Bmc1.18.2-build.62.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"PBNLJeaC" = lib.buildMinecraftFile {
+"PBNLJeaC" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.8 for Minecraft 1.17.1";
   version = "mc1.17.1-1.4.8";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/PBNLJeaC/reeses_sodium_options-1.4.8%2Bmc1.17.1-build.61.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"8hbfyCZ5" = lib.buildMinecraftFile {
+"8hbfyCZ5" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.8 for Minecraft 1.16.5";
   version = "mc1.16.5-1.4.8";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/8hbfyCZ5/reeses_sodium_options-1.4.8%2Bmc1.16.5-build.60.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"Iusxhlyd" = lib.buildMinecraftFile {
+"Iusxhlyd" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.7 for Minecraft 1.19.2";
   version = "mc1.19.2-1.4.7";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/Iusxhlyd/reeses_sodium_options-1.4.7%2Bmc1.19.2-build.59.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"74LitD6T" = lib.buildMinecraftFile {
+"74LitD6T" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.7 for Minecraft 1.18.2";
   version = "mc1.18.2-1.4.7";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/74LitD6T/reeses_sodium_options-1.4.7%2Bmc1.18.2-build.58.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"9cT6EFPB" = lib.buildMinecraftFile {
+"9cT6EFPB" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.7 for Minecraft 1.17.1";
   version = "mc1.17.1-1.4.7";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/9cT6EFPB/reeses_sodium_options-1.4.7%2Bmc1.17.1-build.57.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"ggmMQ6HU" = lib.buildMinecraftFile {
+"ggmMQ6HU" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.7 for Minecraft 1.16.5";
   version = "mc1.16.5-1.4.7";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/ggmMQ6HU/reeses_sodium_options-1.4.7%2Bmc1.16.5-build.56.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"nkmHfZcl" = lib.buildMinecraftFile {
+"nkmHfZcl" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.6 for Minecraft 1.19.2";
   version = "mc1.19.2-1.4.6";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.19.2-1.4.6/reeses_sodium_options-1.4.6%2Bmc1.19.2-build.55.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"tBapWg9r" = lib.buildMinecraftFile {
+"tBapWg9r" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.6 for Minecraft 1.18.2";
   version = "mc1.18.2-1.4.6";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.6/reeses_sodium_options-1.4.6%2Bmc1.18.2-build.54.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"UepHJf2v" = lib.buildMinecraftFile {
+"UepHJf2v" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.6 for Minecraft 1.17.1";
   version = "mc1.17.1-1.4.6";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.17.1-1.4.6/reeses_sodium_options-1.4.6%2Bmc1.17.1-build.53.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"NbRhhyuv" = lib.buildMinecraftFile {
+"NbRhhyuv" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.6 for Minecraft 1.16.5";
   version = "mc1.16.5-1.4.6";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.16.5-1.4.6/reeses_sodium_options-1.4.6%2Bmc1.16.5-build.52.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"FVGA2EtE" = lib.buildMinecraftFile {
+"FVGA2EtE" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.5 for Minecraft 1.19.2";
   version = "mc1.19.2-1.4.5";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.19.2-1.4.5/reeses_sodium_options-1.4.5%2Bmc1.19.2-build.51.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"J13Rvx8y" = lib.buildMinecraftFile {
+"J13Rvx8y" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.5 for Minecraft 1.18.2";
   version = "mc1.18.2-1.4.5";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.5/reeses_sodium_options-1.4.5%2Bmc1.18.2-build.50.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"kAEEtATR" = lib.buildMinecraftFile {
+"kAEEtATR" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.5 for Minecraft 1.17.1";
   version = "mc1.17.1-1.4.5";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.17.1-1.4.5/reeses_sodium_options-1.4.5%2Bmc1.17.1-build.49.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"9o3aDwBf" = lib.buildMinecraftFile {
+"9o3aDwBf" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.5 for Minecraft 1.16.5";
   version = "mc1.16.5-1.4.5";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.16.5-1.4.5/reeses_sodium_options-1.4.5%2Bmc1.16.5-build.48.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"qxGDgtuW" = lib.buildMinecraftFile {
+"qxGDgtuW" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.4 for Minecraft 1.19";
   version = "mc1.19-1.4.4";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.19-1.4.4/reeses_sodium_options-1.4.4%2Bmc1.19-build.47.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"KpKZPkUm" = lib.buildMinecraftFile {
+"KpKZPkUm" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.4 for Minecraft 1.18.2";
   version = "mc1.18.2-1.4.4";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.4/reeses_sodium_options-1.4.4%2Bmc1.18.2-build.46.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"3eWUqOWU" = lib.buildMinecraftFile {
+"3eWUqOWU" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.4 for Minecraft 1.17.1";
   version = "mc1.17.1-1.4.4";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.17.1-1.4.4/reeses_sodium_options-1.4.4%2Bmc1.17.1-build.45.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"9xauu4l3" = lib.buildMinecraftFile {
+"9xauu4l3" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.4 for Minecraft 1.16.5";
   version = "mc1.16.5-1.4.4";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.16.5-1.4.4/reeses_sodium_options-1.4.4%2Bmc1.16.5-build.44.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"uBfzWM0b" = lib.buildMinecraftFile {
+"uBfzWM0b" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.3 for Minecraft 1.19";
   version = "mc1.19-1.4.3";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.19-1.4.3/reeses_sodium_options-1.4.3%2Bmc1.19-build.43.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"iQMF2ssl" = lib.buildMinecraftFile {
+"iQMF2ssl" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.3 for Minecraft 1.18.2";
   version = "mc1.18.2-1.4.3";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.3/reeses_sodium_options-1.4.3%2Bmc1.18.2-build.42.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"WCmiuPiu" = lib.buildMinecraftFile {
+"WCmiuPiu" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.3 for Minecraft 1.17.1";
   version = "mc1.17.1-1.4.3";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.17.1-1.4.3/reeses_sodium_options-1.4.3%2Bmc1.17.1-build.41.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"geYxi0x3" = lib.buildMinecraftFile {
+"geYxi0x3" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.3 for Minecraft 1.16.5";
   version = "mc1.16.5-1.4.3";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.16.5-1.4.3/reeses_sodium_options-1.4.3%2Bmc1.16.5-build.40.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"IUZ9L8mF" = lib.buildMinecraftFile {
+"IUZ9L8mF" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.2 for Minecraft 1.18.2";
   version = "mc1.18.2-1.4.2";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.2/reeses_sodium_options-mc1.18.2-1.4.2.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"9upqY209" = lib.buildMinecraftFile {
+"9upqY209" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.2 for Minecraft 1.17.1";
   version = "mc1.17.1-1.4.2";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.17.1-1.4.2/reeses_sodium_options-mc1.17.1-1.4.2.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"1kLQm4zM" = lib.buildMinecraftFile {
+"1kLQm4zM" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.2 for Minecraft 1.16.5";
   version = "mc1.16.5-1.4.2";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.16.5-1.4.2/reeses_sodium_options-mc1.16.5-1.4.2.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"agsp1ZPm" = lib.buildMinecraftFile {
+"agsp1ZPm" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.1 for Minecraft 1.18.2";
   version = "mc1.18.2-1.4.1";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.2-1.4.1/reeses_sodium_options-mc1.18.2-1.4.1.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"Q2edyr4h" = lib.buildMinecraftFile {
+"Q2edyr4h" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.1 for Minecraft 1.17.1";
   version = "mc1.17.1-1.4.1";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.17.1-1.4.1/reeses_sodium_options-mc1.17.1-1.4.1.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"5Ye5HBHX" = lib.buildMinecraftFile {
+"5Ye5HBHX" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.1 for Minecraft 1.16.5";
   version = "mc1.16.5-1.4.1";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.16.5-1.4.1/reeses_sodium_options-mc1.16.5-1.4.1.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"7VjHd5G5" = lib.buildMinecraftFile {
+"7VjHd5G5" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.0 for Minecraft 1.17.1";
   version = "mc1.17.1-1.4.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.17.1-1.4.0/reeses_sodium_options-mc1.17.1-1.4.0.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"pvHWVfI5" = lib.buildMinecraftFile {
+"pvHWVfI5" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.0 for Minecraft 1.18.1";
   version = "mc1.18.1-1.4.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.1-1.4.0/reeses_sodium_options-mc1.18.1-1.4.0.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"IHJm9Anb" = lib.buildMinecraftFile {
+"IHJm9Anb" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.4.0 for Minecraft 1.16.5";
   version = "mc1.16.5-1.4.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.16.5-1.4.0/reeses_sodium_options-mc1.16.5-1.4.0.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"63pLryH1" = lib.buildMinecraftFile {
+"63pLryH1" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.3.0 for Minecraft 1.18.1";
   version = "mc1.18.1-1.3.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.1-1.3.0/reeses_sodium_options-mc1.18.1-1.3.0.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"Xup8BecQ" = lib.buildMinecraftFile {
+"Xup8BecQ" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.3.0 for Minecraft 1.17.1";
   version = "mc1.17.1-1.3.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.17.1-1.3.0/reeses_sodium_options-mc1.17.1-1.3.0.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"mQFJNJdc" = lib.buildMinecraftFile {
+"mQFJNJdc" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.3.0 for Minecraft 1.16.5";
   version = "mc1.16.5-1.3.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.16.5-1.3.0/reeses_sodium_options-mc1.16.5-1.3.0.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"eXMuwKVY" = lib.buildMinecraftFile {
+"eXMuwKVY" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.2.4 for Minecraft 1.18.1";
   version = "mc1.18.1-1.2.4";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18.1-1.2.4/reeses_sodium_options-mc1.18.1-1.2.4.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"qVGm8D0z" = lib.buildMinecraftFile {
+"qVGm8D0z" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.2.3 for Minecraft 1.18";
   version = "mc1.18-1.2.3";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.18-1.2.3/reeses_sodium_options-mc1.18-1.2.3.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"2ZjwMMUs" = lib.buildMinecraftFile {
+"2ZjwMMUs" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Option 1.2.3 for Minecraft 1.17.1/1.17";
   version = "mc1.17.1-1.2.3";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.17.1-1.2.3/reeses_sodium_options-mc1.17.1-1.2.3.jar";
@@ -899,7 +899,7 @@
   };
 };
 
-"sWpEXabm" = lib.buildMinecraftFile {
+"sWpEXabm" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.2.2 from Minecraft 1.17.1/1.17";
   version = "mc1.17.1-1.2.2";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.17.1-1.2.2/reeses_sodium_options-mc1.17.1-1.2.2.jar";
@@ -911,7 +911,7 @@
   };
 };
 
-"Az2ilx7c" = lib.buildMinecraftFile {
+"Az2ilx7c" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.2.1 for Minecraft 1.16.5";
   version = "1.2.1";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/1.2.1/reeses_sodium_options-mc1.16.5-1.2.1.jar";
@@ -923,7 +923,7 @@
   };
 };
 
-"NnnqdOEa" = lib.buildMinecraftFile {
+"NnnqdOEa" = lib.buildMinecraftMod {
   pname = "Reese's Sodium Options 1.2.0 for Minecraft 1.17.1/1.17";
   version = "1.2.0";
   url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/1.2.0/reeses_sodium_options-mc1.17.1-1.2.0.jar";

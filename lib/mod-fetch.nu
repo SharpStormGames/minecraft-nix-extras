@@ -9,7 +9,7 @@ def main [id, name] {
     or ($e.loaders == [ "fabric", "quilt" ])
   ) { $e }}
   | each {
-    |e| echo $"\"($e.id)\" = lib.buildMinecraftFile {
+    |e| echo $"\"($e.id)\" = lib.buildMinecraftMod {
   pname = \"($e.name)\";
   version = \"($e.version_number | to text)\";
   url = \"($e.files.url.0)\";

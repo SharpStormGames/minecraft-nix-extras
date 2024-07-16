@@ -1,5 +1,5 @@
 { pkgs, inputs, ... }: {
- buildMinecraftFile = pkgs.lib.makeOverridable ({ pname, version, url, sha512, meta, ... }: 
+ buildMinecraftMod = pkgs.lib.makeOverridable ({ pname, version, url, sha512, meta, ... }: 
   pkgs.stdenvNoCC.mkDerivation {
    name = "${pname}-${version}";
    src = pkgs.fetchurl { inherit url sha512; };
@@ -11,6 +11,19 @@
    '';
    inherit meta;
   }
+ );
+ buildMinecraftPack = pkgs.lib.makeOverridable ({ pname, version, url, sha512, meta, ... }: 
+ pkgs.stdenvNoCC.mkDerivation {
+  name = "${pname}-${version}";
+  src = pkgs.fetchurl { inherit url sha512; };
+  dontUnpack = true;
+  preferLocalBuild = true;
+  postInstall = ''
+   mkdir -p $out
+   cp $src $out
+  '';
+  inherit meta;
+ }
  );
  writeNushellScript = inputs.nix-functions.lib.writeNushellScript;
 }

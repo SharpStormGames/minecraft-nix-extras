@@ -1,5 +1,5 @@
 { lib, ... }: {
-"kuOV4Ece" = lib.buildMinecraftFile {
+"kuOV4Ece" = lib.buildMinecraftMod {
   pname = "Iris 1.7.3 for Minecraft 1.21";
   version = "1.7.3+1.21";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/kuOV4Ece/iris-1.7.3%2Bmc1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"C9Tu8Kbn" = lib.buildMinecraftFile {
+"C9Tu8Kbn" = lib.buildMinecraftMod {
   pname = "Iris 1.7.2 for Minecraft 1.21";
   version = "1.7.2+1.21";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/C9Tu8Kbn/iris-1.7.2%2Bmc1.21.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"1bvcmYOc" = lib.buildMinecraftFile {
+"1bvcmYOc" = lib.buildMinecraftMod {
   pname = "Iris 1.7.2 for Minecraft 1.20.6";
   version = "1.7.2+1.20.6";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1bvcmYOc/iris-1.7.2%2Bmc1.20.6.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"hq98tuSS" = lib.buildMinecraftFile {
+"hq98tuSS" = lib.buildMinecraftMod {
   pname = "Iris 1.7.2 for Minecraft 1.20.4";
   version = "1.7.2+1.20.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/hq98tuSS/iris-1.7.2%2Bmc1.20.4.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"1CMVXDHo" = lib.buildMinecraftFile {
+"1CMVXDHo" = lib.buildMinecraftMod {
   pname = "Iris 1.7.2 for Minecraft 1.20.1";
   version = "1.7.2+1.20.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1CMVXDHo/iris-1.7.2%2Bmc1.20.1.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"keLlmlCc" = lib.buildMinecraftFile {
+"keLlmlCc" = lib.buildMinecraftMod {
   pname = "Iris 1.7.1 for Minecraft 1.20.6";
   version = "1.7.1+1.20.6";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/keLlmlCc/iris-1.7.1%2Bmc1.20.6.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"G5dd9TM4" = lib.buildMinecraftFile {
+"G5dd9TM4" = lib.buildMinecraftMod {
   pname = "Iris 1.7.1 for Minecraft 1.20.1";
   version = "1.7.1+1.20.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/G5dd9TM4/iris-1.7.1%2Bmc1.20.1.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"RYnrr5zv" = lib.buildMinecraftFile {
+"RYnrr5zv" = lib.buildMinecraftMod {
   pname = "Iris 1.7.1 for Minecraft 1.21";
   version = "1.7.1+1.21";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/RYnrr5zv/iris-1.7.1%2Bmc1.21.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"gPXdh2Es" = lib.buildMinecraftFile {
+"gPXdh2Es" = lib.buildMinecraftMod {
   pname = "Iris 1.7.1 for Minecraft 1.20.4";
   version = "1.7.1+1.20.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/gPXdh2Es/iris-1.7.1%2Bmc1.20.4.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"BvVRER1H" = lib.buildMinecraftFile {
+"BvVRER1H" = lib.buildMinecraftMod {
   pname = "Iris 1.7 for Minecraft 1.20.5/6";
   version = "1.7.0+1.20.6";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/BvVRER1H/iris-1.7.0%2Bmc1.20.6.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"KHQ2Hnpt" = lib.buildMinecraftFile {
+"KHQ2Hnpt" = lib.buildMinecraftMod {
   pname = "Iris 1.7.0 for Minecraft 1.20.1";
   version = "1.7.0+1.20.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/KHQ2Hnpt/iris-1.7.0%2Bmc1.20.1.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"45ETshvT" = lib.buildMinecraftFile {
+"45ETshvT" = lib.buildMinecraftMod {
   pname = "Iris 1.7 for Minecraft 1.20.4";
   version = "1.7.0+1.20.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/45ETshvT/iris-1.7.0%2Bmc1.20.4.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"JjUWi3Lj" = lib.buildMinecraftFile {
+"JjUWi3Lj" = lib.buildMinecraftMod {
   pname = "Iris 1.7 for Minecraft 1.20.5";
   version = "1.7.0+1.20.5";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/JjUWi3Lj/iris-1.7.0%2Bmc1.20.5.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"JHbrO6Zq" = lib.buildMinecraftFile {
+"JHbrO6Zq" = lib.buildMinecraftMod {
   pname = "Iris 1.6.17 for Minecraft 1.20.1";
   version = "1.6.17+1.20.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/JHbrO6Zq/iris-mc1.20.1-1.6.17.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"kGdJ11Rt" = lib.buildMinecraftFile {
+"kGdJ11Rt" = lib.buildMinecraftMod {
   pname = "Iris 1.6.17 for Minecraft 1.20.4";
   version = "1.6.17+1.20.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/kGdJ11Rt/iris-mc1.20.4-1.6.17.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"Xl7oywRL" = lib.buildMinecraftFile {
+"Xl7oywRL" = lib.buildMinecraftMod {
   pname = "Iris 1.6.14 for Minecraft 1.20.4";
   version = "1.6.14+1.20.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/Xl7oywRL/iris-mc1.20.4-1.6.14.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"Cjwm9s3i" = lib.buildMinecraftFile {
+"Cjwm9s3i" = lib.buildMinecraftMod {
   pname = "Iris 1.6.14 for Minecraft 1.20.2";
   version = "1.6.14+1.20.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/Cjwm9s3i/iris-mc1.20.2-1.6.14.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"xzCURg7P" = lib.buildMinecraftFile {
+"xzCURg7P" = lib.buildMinecraftMod {
   pname = "Iris 1.6.13 for Minecraft 1.20.4";
   version = "1.6.13+1.20.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/xzCURg7P/iris-mc1.20.4-1.6.13.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"qpkCdX4h" = lib.buildMinecraftFile {
+"qpkCdX4h" = lib.buildMinecraftMod {
   pname = "Iris 1.6.13 for Minecraft 1.20.2";
   version = "1.6.13+1.20.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/qpkCdX4h/iris-mc1.20.2-1.6.13.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"DKiqtWdm" = lib.buildMinecraftFile {
+"DKiqtWdm" = lib.buildMinecraftMod {
   pname = "Iris 1.6.12 for Minecraft 1.20.3";
   version = "1.6.12+1.20.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/DKiqtWdm/iris-mc1.20.3-1.6.12.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"CXOiI98u" = lib.buildMinecraftFile {
+"CXOiI98u" = lib.buildMinecraftMod {
   pname = "Iris 1.6.12 for Minecraft 1.20.2";
   version = "1.6.12+1.20.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/CXOiI98u/iris-mc1.20.2-1.6.12.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"LBcmOpqU" = lib.buildMinecraftFile {
+"LBcmOpqU" = lib.buildMinecraftMod {
   pname = "Iris 1.6.11 for Minecraft 1.20.3";
   version = "1.6.11+1.20.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/LBcmOpqU/iris-mc1.20.3-1.6.11.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"ZKp9SOIC" = lib.buildMinecraftFile {
+"ZKp9SOIC" = lib.buildMinecraftMod {
   pname = "Iris 1.6.11 for Minecraft 1.20.2";
   version = "1.6.11+1.20.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/ZKp9SOIC/iris-mc1.20.2-1.6.11.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"ogjxrwGQ" = lib.buildMinecraftFile {
+"ogjxrwGQ" = lib.buildMinecraftMod {
   pname = "Iris 1.6.11 for Minecraft 1.20.1";
   version = "1.6.11+1.20.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/ogjxrwGQ/iris-mc1.20.1-1.6.11.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"wN6PuLPa" = lib.buildMinecraftFile {
+"wN6PuLPa" = lib.buildMinecraftMod {
   pname = "Iris 1.6.11 for Minecraft 1.19.4";
   version = "1.6.11+1.19.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/wN6PuLPa/iris-mc1.19.4-1.6.11.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"LgOJIpIS" = lib.buildMinecraftFile {
+"LgOJIpIS" = lib.buildMinecraftMod {
   pname = "Iris 1.6.11 for Minecraft 1.19.2";
   version = "1.6.11+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/LgOJIpIS/iris-mc1.19.2-1.6.11.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"ogIRhnAJ" = lib.buildMinecraftFile {
+"ogIRhnAJ" = lib.buildMinecraftMod {
   pname = "Iris 1.6.11 for Minecraft 1.18.2";
   version = "1.6.11+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/ogIRhnAJ/iris-mc1.18.2-1.6.11.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"O7RZrusV" = lib.buildMinecraftFile {
+"O7RZrusV" = lib.buildMinecraftMod {
   pname = "Iris 1.6.10 for Minecraft 1.20.2";
   version = "1.6.10+1.20.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/O7RZrusV/iris-mc1.20.2-1.6.10.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"9a8qLmTR" = lib.buildMinecraftFile {
+"9a8qLmTR" = lib.buildMinecraftMod {
   pname = "Iris 1.6.10 for Minecraft 1.19.4";
   version = "1.6.10+1.19.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/9a8qLmTR/iris-mc1.19.4-1.6.10.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"DsjYuGMO" = lib.buildMinecraftFile {
+"DsjYuGMO" = lib.buildMinecraftMod {
   pname = "Iris 1.6.10 for Minecraft 1.20.1";
   version = "1.6.10+1.20.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/DsjYuGMO/iris-mc1.20.1-1.6.10.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"nfElruJM" = lib.buildMinecraftFile {
+"nfElruJM" = lib.buildMinecraftMod {
   pname = "Iris 1.6.10 for Minecraft 1.19.2";
   version = "1.6.10+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/nfElruJM/iris-mc1.19.2-1.6.10.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"C7jhLYbl" = lib.buildMinecraftFile {
+"C7jhLYbl" = lib.buildMinecraftMod {
   pname = "Iris 1.6.10 for Minecraft 1.18.2";
   version = "1.6.10+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/C7jhLYbl/iris-mc1.18.2-1.6.10.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"Zra3j4VJ" = lib.buildMinecraftFile {
+"Zra3j4VJ" = lib.buildMinecraftMod {
   pname = "Iris 1.6.9 for Minecraft 1.20.2";
   version = "1.6.9+1.20.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/Zra3j4VJ/iris-mc1.20.2-1.6.9.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"P8R7yx6t" = lib.buildMinecraftFile {
+"P8R7yx6t" = lib.buildMinecraftMod {
   pname = "Iris 1.6.9 for Minecraft 1.20.1";
   version = "1.6.9+1.20.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/P8R7yx6t/iris-mc1.20.1-1.6.9.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"wtbkjLwi" = lib.buildMinecraftFile {
+"wtbkjLwi" = lib.buildMinecraftMod {
   pname = "Iris 1.6.9 for Minecraft 1.19.4";
   version = "1.6.9+1.19.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/wtbkjLwi/iris-mc1.19.4-1.6.9.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"4rtFWyuc" = lib.buildMinecraftFile {
+"4rtFWyuc" = lib.buildMinecraftMod {
   pname = "Iris 1.6.9 for Minecraft 1.19.2";
   version = "1.6.9+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/4rtFWyuc/iris-mc1.19.2-1.6.9.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"Sqfk9myM" = lib.buildMinecraftFile {
+"Sqfk9myM" = lib.buildMinecraftMod {
   pname = "Iris 1.6.9 for Minecraft 1.18.2";
   version = "1.6.9+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/Sqfk9myM/iris-mc1.18.2-1.6.9.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"pVNPPrMY" = lib.buildMinecraftFile {
+"pVNPPrMY" = lib.buildMinecraftMod {
   pname = "Iris 1.6.8 for Minecraft 1.20.1";
   version = "1.6.8+1.20.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/pVNPPrMY/iris-mc1.20.1-1.6.8.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"MU0L4OZM" = lib.buildMinecraftFile {
+"MU0L4OZM" = lib.buildMinecraftMod {
   pname = "Iris 1.6.7 for Minecraft 1.20.1";
   version = "1.6.7+1.20.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/MU0L4OZM/iris-mc1.20.1-1.6.7.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"ibsBZ9bl" = lib.buildMinecraftFile {
+"ibsBZ9bl" = lib.buildMinecraftMod {
   pname = "Iris 1.6.6 for Minecraft 1.19.4";
   version = "1.6.6+1.19.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/ibsBZ9bl/iris-mc1.19.4-1.6.6.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"HzhiSGif" = lib.buildMinecraftFile {
+"HzhiSGif" = lib.buildMinecraftMod {
   pname = "Iris 1.6.6 for Minecraft 1.19.2";
   version = "1.6.6+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/HzhiSGif/iris-mc1.19.2-1.6.6.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"lBRgIigc" = lib.buildMinecraftFile {
+"lBRgIigc" = lib.buildMinecraftMod {
   pname = "Iris 1.6.6 for Minecraft 1.18.2";
   version = "1.6.6+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/lBRgIigc/iris-mc1.18.2-1.6.6.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"Sc0OZ0Ze" = lib.buildMinecraftFile {
+"Sc0OZ0Ze" = lib.buildMinecraftMod {
   pname = "Iris 1.6.5 for Minecraft 1.20.1";
   version = "1.6.5+1.20.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/Sc0OZ0Ze/iris-mc1.20.1-1.6.5.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"IBYlCS75" = lib.buildMinecraftFile {
+"IBYlCS75" = lib.buildMinecraftMod {
   pname = "Iris 1.6.5 for Minecraft 1.19.4";
   version = "1.6.5+1.19.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/IBYlCS75/iris-mc1.19.4-1.6.5.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"W00rBT3R" = lib.buildMinecraftFile {
+"W00rBT3R" = lib.buildMinecraftMod {
   pname = "Iris 1.6.5 for Minecraft 1.19.2";
   version = "1.6.5+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/W00rBT3R/iris-mc1.19.2-1.6.5.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"4VLJ3QSD" = lib.buildMinecraftFile {
+"4VLJ3QSD" = lib.buildMinecraftMod {
   pname = "Iris 1.6.5 for Minecraft 1.18.2";
   version = "1.6.5+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/4VLJ3QSD/iris-mc1.18.2-1.6.5.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"URWeWMAt" = lib.buildMinecraftFile {
+"URWeWMAt" = lib.buildMinecraftMod {
   pname = "Iris 1.6.4 for Minecraft 1.20.1";
   version = "1.6.4+1.20";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/URWeWMAt/iris-mc1.20-1.6.4.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"4dFzaTaP" = lib.buildMinecraftFile {
+"4dFzaTaP" = lib.buildMinecraftMod {
   pname = "Iris 1.6.4 for Minecraft 1.19.4";
   version = "1.6.4+1.19.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/4dFzaTaP/iris-mc1.19.4-1.6.4.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"9YEwbzW6" = lib.buildMinecraftFile {
+"9YEwbzW6" = lib.buildMinecraftMod {
   pname = "Iris 1.6.4 for Minecraft 1.19.2";
   version = "1.6.4+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/9YEwbzW6/iris-mc1.19.2-1.6.4.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"5tSr0LHs" = lib.buildMinecraftFile {
+"5tSr0LHs" = lib.buildMinecraftMod {
   pname = "Iris 1.6.4 for Minecraft 1.18.2";
   version = "1.6.4+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/5tSr0LHs/iris-mc1.18.2-1.6.4.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"AQqB1OqQ" = lib.buildMinecraftFile {
+"AQqB1OqQ" = lib.buildMinecraftMod {
   pname = "Iris 1.6.3 for Minecraft 1.19.4";
   version = "1.6.3+1.19.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/AQqB1OqQ/iris-mc1.19.4-1.6.3.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"7MJ26Y79" = lib.buildMinecraftFile {
+"7MJ26Y79" = lib.buildMinecraftMod {
   pname = "Iris 1.6.2 for Minecraft 1.19.2";
   version = "1.6.2+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/7MJ26Y79/iris-mc1.19.2-1.6.2.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"RpjxjFWm" = lib.buildMinecraftFile {
+"RpjxjFWm" = lib.buildMinecraftMod {
   pname = "Iris 1.6.2 for Minecraft 1.18.2";
   version = "1.6.2+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/RpjxjFWm/iris-mc1.18.2-1.6.2.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"1g7raUdU" = lib.buildMinecraftFile {
+"1g7raUdU" = lib.buildMinecraftMod {
   pname = "Iris 1.6.1 for Minecraft 1.19.2";
   version = "1.6.1+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1g7raUdU/iris-mc1.19.2-1.6.1.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"347HlKZS" = lib.buildMinecraftFile {
+"347HlKZS" = lib.buildMinecraftMod {
   pname = "Iris 1.6.1 for Minecraft 1.19.4";
   version = "1.6.1+1.19.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/347HlKZS/iris-mc1.19.4-1.6.1.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"su0G9MUF" = lib.buildMinecraftFile {
+"su0G9MUF" = lib.buildMinecraftMod {
   pname = "Iris 1.6.1 for Minecraft 1.18.2";
   version = "1.6.1+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/su0G9MUF/iris-mc1.18.2-1.6.1.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"di8i8GvL" = lib.buildMinecraftFile {
+"di8i8GvL" = lib.buildMinecraftMod {
   pname = "Iris 1.6 for Minecraft 1.19.2";
   version = "1.6.0+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/di8i8GvL/iris-mc1.19.2-1.6.0.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"rKiitlRl" = lib.buildMinecraftFile {
+"rKiitlRl" = lib.buildMinecraftMod {
   pname = "Iris 1.6 for Minecraft 1.19.4";
   version = "1.6.0+1.19.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/rKiitlRl/iris-mc1.19.4-1.6.0.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"xRdKiTLA" = lib.buildMinecraftFile {
+"xRdKiTLA" = lib.buildMinecraftMod {
   pname = "Iris 1.6 for Minecraft 1.18.2";
   version = "1.6.0+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/xRdKiTLA/iris-mc1.18.2-1.6.0.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"mVGu4Ze2" = lib.buildMinecraftFile {
+"mVGu4Ze2" = lib.buildMinecraftMod {
   pname = "Iris 1.5.2 for Minecraft 1.19.4";
   version = "1.5.2+1.19.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/mVGu4Ze2/iris-mc1.19.4-1.5.2.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"ExtC2pRY" = lib.buildMinecraftFile {
+"ExtC2pRY" = lib.buildMinecraftMod {
   pname = "Iris 1.5.2 for Minecraft 1.19.3";
   version = "1.5.2+1.19.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/ExtC2pRY/iris-mc1.19.3-1.5.2.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"7cPNddw8" = lib.buildMinecraftFile {
+"7cPNddw8" = lib.buildMinecraftMod {
   pname = "Iris 1.5.2 for Minecraft 1.19.2";
   version = "1.5.2+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/7cPNddw8/iris-mc1.19.2-1.5.2.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"gcpVAwdy" = lib.buildMinecraftFile {
+"gcpVAwdy" = lib.buildMinecraftMod {
   pname = "Iris 1.5.2 for Minecraft 1.18.2";
   version = "1.5.2+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/gcpVAwdy/iris-mc1.18.2-1.5.2.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"Sg0JZGHa" = lib.buildMinecraftFile {
+"Sg0JZGHa" = lib.buildMinecraftMod {
   pname = "Iris 1.5.1 for Minecraft 1.19.3";
   version = "1.5.1+1.19.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/Sg0JZGHa/iris-mc1.19.3-1.5.1.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"Fnx41igH" = lib.buildMinecraftFile {
+"Fnx41igH" = lib.buildMinecraftMod {
   pname = "Iris 1.5 for Minecraft 1.19.3";
   version = "1.5.0+1.19.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/Fnx41igH/iris-mc1.19.3-1.5.0.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"pMwSdnE7" = lib.buildMinecraftFile {
+"pMwSdnE7" = lib.buildMinecraftMod {
   pname = "Iris 1.5 for Minecraft 1.19.2";
   version = "1.5.0+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/pMwSdnE7/iris-mc1.19.2-1.5.0.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"mBwD8Zhm" = lib.buildMinecraftFile {
+"mBwD8Zhm" = lib.buildMinecraftMod {
   pname = "Iris 1.5 for Minecraft 1.18.2";
   version = "1.5.0+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/mBwD8Zhm/iris-mc1.18.2-1.5.0.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"py8Wa69O" = lib.buildMinecraftFile {
+"py8Wa69O" = lib.buildMinecraftMod {
   pname = "Iris 1.4.6 for Minecraft 1.19.3";
   version = "1.4.6+1.19.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/py8Wa69O/iris-mc1.19.3-1.4.6.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"bhSk1gCX" = lib.buildMinecraftFile {
+"bhSk1gCX" = lib.buildMinecraftMod {
   pname = "Iris 1.4.5 for Minecraft 1.19.3";
   version = "1.4.5+1.19.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/bhSk1gCX/iris-mc1.19.3-1.4.5.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"j0DONNcY" = lib.buildMinecraftFile {
+"j0DONNcY" = lib.buildMinecraftMod {
   pname = "Iris 1.4.5 for Minecraft 1.19.2";
   version = "1.4.5+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/j0DONNcY/iris-mc1.19.2-1.4.5.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"zKrz2FCx" = lib.buildMinecraftFile {
+"zKrz2FCx" = lib.buildMinecraftMod {
   pname = "Iris 1.4.5 for Minecraft 1.18.2";
   version = "1.4.5+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/zKrz2FCx/iris-mc1.18.2-1.4.5.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"1turazSM" = lib.buildMinecraftFile {
+"1turazSM" = lib.buildMinecraftMod {
   pname = "Iris 1.4.5 for Minecraft 1.16.5";
   version = "1.4.5+1.16.5";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1turazSM/iris-mc1.16.5-1.4.5.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"LGMDKOTZ" = lib.buildMinecraftFile {
+"LGMDKOTZ" = lib.buildMinecraftMod {
   pname = "Iris 1.4.4 for Minecraft 1.19.3";
   version = "1.4.4+1.19.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/LGMDKOTZ/iris-mc1.19.3-1.4.4.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"unkwzrN7" = lib.buildMinecraftFile {
+"unkwzrN7" = lib.buildMinecraftMod {
   pname = "Iris 1.4.4 for Minecraft 1.19.2";
   version = "1.4.4+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/unkwzrN7/iris-mc1.19.2-1.4.4.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"erJnRbFe" = lib.buildMinecraftFile {
+"erJnRbFe" = lib.buildMinecraftMod {
   pname = "Iris 1.4.4 for Minecraft 1.18.2";
   version = "1.4.4+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/erJnRbFe/iris-mc1.18.2-1.4.4.jar";
@@ -899,7 +899,7 @@
   };
 };
 
-"HgbdQHa6" = lib.buildMinecraftFile {
+"HgbdQHa6" = lib.buildMinecraftMod {
   pname = "Iris 1.4.4 for Minecraft 1.16.5";
   version = "1.4.4+1.16.5";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/HgbdQHa6/iris-mc1.16.5-1.4.4.jar";
@@ -911,7 +911,7 @@
   };
 };
 
-"5Ox2LQ1C" = lib.buildMinecraftFile {
+"5Ox2LQ1C" = lib.buildMinecraftMod {
   pname = "Iris 1.4.3 for Minecraft 1.19.2";
   version = "1.4.3+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/5Ox2LQ1C/iris-mc1.19.2-1.4.3.jar";
@@ -923,7 +923,7 @@
   };
 };
 
-"KlpiaRLV" = lib.buildMinecraftFile {
+"KlpiaRLV" = lib.buildMinecraftMod {
   pname = "Iris 1.4.3 for Minecraft 1.18.2";
   version = "1.4.3+1.18.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/KlpiaRLV/iris-mc1.18.2-1.4.3.jar";
@@ -935,7 +935,7 @@
   };
 };
 
-"qLOWxC5n" = lib.buildMinecraftFile {
+"qLOWxC5n" = lib.buildMinecraftMod {
   pname = "Iris 1.4.3 for Minecraft 1.16.5";
   version = "1.16.x-v1.4.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/qLOWxC5n/iris-mc1.16.5-1.4.3.jar";
@@ -947,7 +947,7 @@
   };
 };
 
-"vujluWvJ" = lib.buildMinecraftFile {
+"vujluWvJ" = lib.buildMinecraftMod {
   pname = "Iris 1.4.2 for Minecraft 1.19.2";
   version = "1.4.2+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/vujluWvJ/iris-mc1.19.2-1.4.2.jar";
@@ -959,7 +959,7 @@
   };
 };
 
-"RoOgJaef" = lib.buildMinecraftFile {
+"RoOgJaef" = lib.buildMinecraftMod {
   pname = "Iris 1.4.2 for Minecraft 1.18.2";
   version = "1.18.x-v1.4.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/RoOgJaef/iris-mc1.18.2-1.4.2.jar";
@@ -971,7 +971,7 @@
   };
 };
 
-"61raaF2M" = lib.buildMinecraftFile {
+"61raaF2M" = lib.buildMinecraftMod {
   pname = "Iris 1.4.1 for Minecraft 1.19.2";
   version = "1.4.1+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/61raaF2M/iris-mc1.19.2-1.4.1.jar";
@@ -983,7 +983,7 @@
   };
 };
 
-"WPiyWv9b" = lib.buildMinecraftFile {
+"WPiyWv9b" = lib.buildMinecraftMod {
   pname = "Iris 1.4.1 for Minecraft 1.18.2";
   version = "1.18.x-v1.4.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/WPiyWv9b/iris-mc1.18.2-1.4.1.jar";
@@ -995,7 +995,7 @@
   };
 };
 
-"nM05XWOf" = lib.buildMinecraftFile {
+"nM05XWOf" = lib.buildMinecraftMod {
   pname = "Iris 1.4.1 for Minecraft 1.16.5";
   version = "1.16.c-v1.4.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/nM05XWOf/iris-mc1.16.5-1.4.1.jar";
@@ -1007,7 +1007,7 @@
   };
 };
 
-"RRjXTE6G" = lib.buildMinecraftFile {
+"RRjXTE6G" = lib.buildMinecraftMod {
   pname = "Iris 1.4 for Minecraft 1.19.1";
   version = "1.4.0+1.19.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/RRjXTE6G/iris-mc1.19.2-1.4.0.jar";
@@ -1019,7 +1019,7 @@
   };
 };
 
-"1BCkW8RE" = lib.buildMinecraftFile {
+"1BCkW8RE" = lib.buildMinecraftMod {
   pname = "Iris 1.4 for Minecraft 1.18.2";
   version = "1.18.x-v1.4.0";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1BCkW8RE/iris-mc1.18.2-1.4.0.jar";
@@ -1031,7 +1031,7 @@
   };
 };
 
-"3tbkyayi" = lib.buildMinecraftFile {
+"3tbkyayi" = lib.buildMinecraftMod {
   pname = "Iris 1.4 for Minecraft 1.16.5";
   version = "1.16.x-v1.4.0";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/3tbkyayi/iris-mc1.16.5-1.4.0.jar";
@@ -1043,7 +1043,7 @@
   };
 };
 
-"r8IxC3aO" = lib.buildMinecraftFile {
+"r8IxC3aO" = lib.buildMinecraftMod {
   pname = "Iris 1.3.1 for Minecraft 1.19.2";
   version = "1.19.x-v1.3.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/r8IxC3aO/iris-mc1.19.2-1.3.1.jar";
@@ -1055,7 +1055,7 @@
   };
 };
 
-"nnr56Joh" = lib.buildMinecraftFile {
+"nnr56Joh" = lib.buildMinecraftMod {
   pname = "Iris 1.3.1 for Minecraft 1.18.2";
   version = "1.18.x-v1.3.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/nnr56Joh/iris-mc1.18.2-1.3.1.jar";
@@ -1067,7 +1067,7 @@
   };
 };
 
-"wEz86aj9" = lib.buildMinecraftFile {
+"wEz86aj9" = lib.buildMinecraftMod {
   pname = "Iris 1.3.1 for Minecraft 1.16.5";
   version = "1.16.x-v1.3.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/wEz86aj9/iris-mc1.16.5-1.3.1.jar";
@@ -1079,7 +1079,7 @@
   };
 };
 
-"WwSkfJxS" = lib.buildMinecraftFile {
+"WwSkfJxS" = lib.buildMinecraftMod {
   pname = "Iris 1.3 for Minecraft 1.19.2";
   version = "1.19.x-v1.3.0";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/WwSkfJxS/iris-mc1.19.2-1.3.0.jar";
@@ -1091,7 +1091,7 @@
   };
 };
 
-"gvvRO0WD" = lib.buildMinecraftFile {
+"gvvRO0WD" = lib.buildMinecraftMod {
   pname = "Iris 1.3 for Minecraft 1.18.2";
   version = "1.18.x-v1.3.0";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/gvvRO0WD/iris-mc1.18.2-1.3.0.jar";
@@ -1103,7 +1103,7 @@
   };
 };
 
-"fylOAYZi" = lib.buildMinecraftFile {
+"fylOAYZi" = lib.buildMinecraftMod {
   pname = "Iris 1.3 for Minecraft 1.16.5";
   version = "1.16.x-v1.3.0";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/fylOAYZi/iris-mc1.16.5-1.3.0.jar";
@@ -1115,7 +1115,7 @@
   };
 };
 
-"Si7uxNXL" = lib.buildMinecraftFile {
+"Si7uxNXL" = lib.buildMinecraftMod {
   pname = "Iris 1.2.8 for Minecraft 1.19.2";
   version = "1.19.x-v1.2.8";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/Si7uxNXL/iris-mc1.19.2-1.2.8.jar";
@@ -1127,7 +1127,7 @@
   };
 };
 
-"oubLAbu3" = lib.buildMinecraftFile {
+"oubLAbu3" = lib.buildMinecraftMod {
   pname = "Iris 1.2.7 for Minecraft 1.19.2";
   version = "1.19.x-v1.2.7";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/oubLAbu3/iris-mc1.19.2-1.2.7.jar";
@@ -1139,7 +1139,7 @@
   };
 };
 
-"SEOrgwmF" = lib.buildMinecraftFile {
+"SEOrgwmF" = lib.buildMinecraftMod {
   pname = "Iris 1.2.7 for Minecraft 1.18.2";
   version = "1.18.x-v1.2.7";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/SEOrgwmF/iris-mc1.18.2-1.2.7.jar";
@@ -1151,7 +1151,7 @@
   };
 };
 
-"pkGrlTNQ" = lib.buildMinecraftFile {
+"pkGrlTNQ" = lib.buildMinecraftMod {
   pname = "Iris 1.2.7 for Minecraft 1.17.1";
   version = "1.17.x-v1.2.7";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/pkGrlTNQ/iris-mc1.17.1-1.2.7.jar";
@@ -1163,7 +1163,7 @@
   };
 };
 
-"KDxcEpjX" = lib.buildMinecraftFile {
+"KDxcEpjX" = lib.buildMinecraftMod {
   pname = "Iris 1.2.7 for Minecraft 1.16.5";
   version = "1.16.x-v1.2.7";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/KDxcEpjX/iris-mc1.16.5-1.2.7.jar";
@@ -1175,7 +1175,7 @@
   };
 };
 
-"q2kq4WQK" = lib.buildMinecraftFile {
+"q2kq4WQK" = lib.buildMinecraftMod {
   pname = "Iris 1.2.6 for Minecraft 1.19.2";
   version = "1.19.x-v1.2.6";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.19.x-v1.2.6/iris-mc1.19.1-1.2.6.jar";
@@ -1187,7 +1187,7 @@
   };
 };
 
-"F92T6Nh1" = lib.buildMinecraftFile {
+"F92T6Nh1" = lib.buildMinecraftMod {
   pname = "Iris 1.2.6 for Minecraft 1.18.2";
   version = "1.18.x-v1.2.6";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.6/iris-mc1.18.2-1.2.6.jar";
@@ -1199,7 +1199,7 @@
   };
 };
 
-"tZs9ixBh" = lib.buildMinecraftFile {
+"tZs9ixBh" = lib.buildMinecraftMod {
   pname = "Iris 1.2.6 for Minecraft 1.17.1";
   version = "1.17.x-v1.2.6";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.17.x-v1.2.6/iris-mc1.17.1-1.2.6.jar";
@@ -1211,7 +1211,7 @@
   };
 };
 
-"tKYOPll0" = lib.buildMinecraftFile {
+"tKYOPll0" = lib.buildMinecraftMod {
   pname = "Iris 1.2.6 for Minecraft 1.16.5";
   version = "1.16.x-v1.2.6";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.16.x-v1.2.6/iris-mc1.16.5-1.2.6.jar";
@@ -1223,7 +1223,7 @@
   };
 };
 
-"B9iwsuD9" = lib.buildMinecraftFile {
+"B9iwsuD9" = lib.buildMinecraftMod {
   pname = "Iris 1.2.5 for Minecraft 1.19";
   version = "1.19.x-v1.2.5";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.19.x-v1.2.5/iris-mc1.19-1.2.5.jar";
@@ -1235,7 +1235,7 @@
   };
 };
 
-"M18bSfGf" = lib.buildMinecraftFile {
+"M18bSfGf" = lib.buildMinecraftMod {
   pname = "Iris 1.2.5 for Minecraft 1.18.2";
   version = "1.18.x-v1.2.5";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.5/iris-mc1.18.2-1.2.5.jar";
@@ -1247,7 +1247,7 @@
   };
 };
 
-"IlClEy6H" = lib.buildMinecraftFile {
+"IlClEy6H" = lib.buildMinecraftMod {
   pname = "Iris 1.2.5 for Minecraft 1.17.1";
   version = "1.17.x-v1.2.5";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.17.x-v1.2.5/iris-mc1.17.1-1.2.5.jar";
@@ -1259,7 +1259,7 @@
   };
 };
 
-"sWytL469" = lib.buildMinecraftFile {
+"sWytL469" = lib.buildMinecraftMod {
   pname = "Iris 1.2.5 for Minecraft 1.16.5";
   version = "1.16.x-v1.2.5";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.16.x-v1.2.5/iris-mc1.16.5-1.2.5.jar";
@@ -1271,7 +1271,7 @@
   };
 };
 
-"Onlo6jbu" = lib.buildMinecraftFile {
+"Onlo6jbu" = lib.buildMinecraftMod {
   pname = "Iris 1.2.4 for Minecraft 1.18.2";
   version = "1.18.x-v1.2.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.4/iris-mc1.18.2-1.2.4-build.38.jar";
@@ -1283,7 +1283,7 @@
   };
 };
 
-"gXVJmMNx" = lib.buildMinecraftFile {
+"gXVJmMNx" = lib.buildMinecraftMod {
   pname = "Iris 1.2.4 for Minecraft 1.17.1";
   version = "1.17.x-v1.2.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.17.x-v1.2.4/iris-mc1.17.1-1.2.4-build.37.jar";
@@ -1295,7 +1295,7 @@
   };
 };
 
-"lIUI5vjD" = lib.buildMinecraftFile {
+"lIUI5vjD" = lib.buildMinecraftMod {
   pname = "Iris 1.2.4 for Minecraft 1.16.5";
   version = "1.16.x-v1.2.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.16.x-v1.2.4/iris-mc1.16.5-1.2.4-build.36.jar";
@@ -1307,7 +1307,7 @@
   };
 };
 
-"XU7Kt1A6" = lib.buildMinecraftFile {
+"XU7Kt1A6" = lib.buildMinecraftMod {
   pname = "Iris 1.2.3 for Minecraft 1.18.2";
   version = "1.18.x-v1.2.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.3/iris-mc1.18.2-1.2.3-build.35.jar";
@@ -1319,7 +1319,7 @@
   };
 };
 
-"nwP12ckH" = lib.buildMinecraftFile {
+"nwP12ckH" = lib.buildMinecraftMod {
   pname = "Iris 1.2.3 for Minecraft 1.17.1";
   version = "1.17.x-v1.2.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.17.x-v1.2.3/iris-mc1.17.1-1.2.3-build.34.jar";
@@ -1331,7 +1331,7 @@
   };
 };
 
-"yaROAJzO" = lib.buildMinecraftFile {
+"yaROAJzO" = lib.buildMinecraftMod {
   pname = "Iris 1.2.3 for Minecraft 1.16.5";
   version = "1.16.x-v1.2.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.16.x-v1.2.3/iris-mc1.16.5-1.2.3-build.33.jar";
@@ -1343,7 +1343,7 @@
   };
 };
 
-"L401QBlK" = lib.buildMinecraftFile {
+"L401QBlK" = lib.buildMinecraftMod {
   pname = "Iris 1.2.2 for Minecraft 1.18.2";
   version = "1.18.x-v1.2.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.2/iris-mc1.18.2-1.2.2-build.32.jar";
@@ -1355,7 +1355,7 @@
   };
 };
 
-"7GHcCn6V" = lib.buildMinecraftFile {
+"7GHcCn6V" = lib.buildMinecraftMod {
   pname = "Iris 1.2.2 for Minecraft 1.17.1";
   version = "1.17.x-v1.2.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.17.x-v1.2.2/iris-mc1.17.1-1.2.2-build.31.jar";
@@ -1367,7 +1367,7 @@
   };
 };
 
-"lFtR0yEB" = lib.buildMinecraftFile {
+"lFtR0yEB" = lib.buildMinecraftMod {
   pname = "Iris 1.2.2 for Minecraft 1.16.5";
   version = "1.16.x-v1.2.2";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.16.x-v1.2.2/iris-mc1.16.5-1.2.2-build.30.jar";
@@ -1379,7 +1379,7 @@
   };
 };
 
-"LXMLAG5t" = lib.buildMinecraftFile {
+"LXMLAG5t" = lib.buildMinecraftMod {
   pname = "Iris 1.2.1 for Minecraft 1.18.2";
   version = "1.18.x-v1.2.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.2.1/iris-mc1.18.2-1.2.1-rc2-0cc372f0-dirty.jar";
@@ -1391,7 +1391,7 @@
   };
 };
 
-"zMKAM7mH" = lib.buildMinecraftFile {
+"zMKAM7mH" = lib.buildMinecraftMod {
   pname = "Iris 1.2.1 for Minecraft 1.17.1";
   version = "1.17.x-v1.2.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.17.x-v1.2.1/iris-mc1.17.1-1.2.1-rc1-90bdb008.jar";
@@ -1403,7 +1403,7 @@
   };
 };
 
-"Ys3JxjYh" = lib.buildMinecraftFile {
+"Ys3JxjYh" = lib.buildMinecraftMod {
   pname = "Iris 1.2.1 for Minecraft 1.16.5";
   version = "1.16.x-v1.2.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.16.x-v1.2.1/iris-mc1.16.5-1.2.1-rc1-20f1aa54.jar";
@@ -1415,7 +1415,7 @@
   };
 };
 
-"I6p5WO3q" = lib.buildMinecraftFile {
+"I6p5WO3q" = lib.buildMinecraftMod {
   pname = "Iris 1.2.0 for Minecraft 1.18.1";
   version = "1.18.x-v1.2.0";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x/v1.2.0/iris-mc1.18.1-1.2.0-pre.jar";
@@ -1427,7 +1427,7 @@
   };
 };
 
-"bQeFkabl" = lib.buildMinecraftFile {
+"bQeFkabl" = lib.buildMinecraftMod {
   pname = "Iris 1.2.0 for Minecraft 1.17.1";
   version = "1.17.x-v1.2.0";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.17.x/v1.2.0/iris-mc1.17-1.2.0-pre.jar";
@@ -1439,7 +1439,7 @@
   };
 };
 
-"TzYtPcBt" = lib.buildMinecraftFile {
+"TzYtPcBt" = lib.buildMinecraftMod {
   pname = "Iris 1.2.0 for Minecraft 1.16.5";
   version = "1.16.x-v1.2.0";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.16.x/v1.2.0/iris-mc1.16.5-1.2.0-pre.jar";
@@ -1451,7 +1451,7 @@
   };
 };
 
-"QGPs4R2V" = lib.buildMinecraftFile {
+"QGPs4R2V" = lib.buildMinecraftMod {
   pname = "Iris 1.1.5 for Minecraft 1.18.1";
   version = "1.18.x-v1.1.5";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x-v1.1.5/iris-mc1.18.1-1.1.5.jar";
@@ -1463,7 +1463,7 @@
   };
 };
 
-"gYVKINAq" = lib.buildMinecraftFile {
+"gYVKINAq" = lib.buildMinecraftMod {
   pname = "Iris 1.1.5 for Minecraft 1.17.1";
   version = "1.17.x-v1.1.5";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.17.x-v1.1.5/iris-mc1.17-1.1.5.jar";
@@ -1475,7 +1475,7 @@
   };
 };
 
-"zBuHbv6a" = lib.buildMinecraftFile {
+"zBuHbv6a" = lib.buildMinecraftMod {
   pname = "Iris 1.1.4 for Minecraft 1.18.1";
   version = "1.18.x-v1.1.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.18.x/v1.1.4/iris-mc1.18.1-1.1.4.jar";
@@ -1487,7 +1487,7 @@
   };
 };
 
-"FlQkLIVP" = lib.buildMinecraftFile {
+"FlQkLIVP" = lib.buildMinecraftMod {
   pname = "Iris 1.1.4 for Minecraft 1.17.1";
   version = "1.17.x-v1.1.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.17.x/v1.1.4/iris-mc1.17-1.1.4.jar";
@@ -1499,7 +1499,7 @@
   };
 };
 
-"NSpfOv4N" = lib.buildMinecraftFile {
+"NSpfOv4N" = lib.buildMinecraftMod {
   pname = "Iris 1.1.4 for Minecraft 1.16.5";
   version = "1.16.x-v1.1.4";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.16.x/v1.1.4/iris-mc1.16.5-1.1.4.jar";
@@ -1511,7 +1511,7 @@
   };
 };
 
-"Hw3w5BnI" = lib.buildMinecraftFile {
+"Hw3w5BnI" = lib.buildMinecraftMod {
   pname = "Iris 1.1.3 for Minecraft 1.18";
   version = "mc1.18.1-1.1.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/mc1.18-1.1.3/iris-mc1.18.1-1.1.3.jar";
@@ -1523,7 +1523,7 @@
   };
 };
 
-"RtuAfhnO" = lib.buildMinecraftFile {
+"RtuAfhnO" = lib.buildMinecraftMod {
   pname = "Iris 1.1.3 for Minecraft 1.17.1";
   version = "mc1.17.1-1.1.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/mc1.17.1-1.1.3/iris-mc1.17-1.1.3.jar";
@@ -1535,7 +1535,7 @@
   };
 };
 
-"2wf4jsBO" = lib.buildMinecraftFile {
+"2wf4jsBO" = lib.buildMinecraftMod {
   pname = "Iris 1.1.3 for Minecraft 1.16.5";
   version = "mc1.16.5-1.1.3";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/mc1.16.5-1.1.3/iris-mc1.16.5-1.1.3.jar";
@@ -1547,7 +1547,7 @@
   };
 };
 
-"YwBoFV6P" = lib.buildMinecraftFile {
+"YwBoFV6P" = lib.buildMinecraftMod {
   pname = "Iris v1.1.2 + Sodium for MC 1.17.1";
   version = "mc1.17.1-1.1.2";
   url = "https://cdn.modrinth.com//data/YL57xq9U/versions/mc1.17.1-1.1.2/iris-and-sodium-mc1.17-1.1.2%2Bbuild.9.jar";
@@ -1559,7 +1559,7 @@
   };
 };
 
-"ZmYHYMB0" = lib.buildMinecraftFile {
+"ZmYHYMB0" = lib.buildMinecraftMod {
   pname = "Iris v1.1.2 + Sodium for MC 1.16.5";
   version = "mc1.16.5-1.1.2";
   url = "https://cdn.modrinth.com//data/YL57xq9U/versions/mc1.16.5-1.1.2/iris-and-sodium-mc1.16.5-1.1.2%2Bbuild.4.jar";
@@ -1571,7 +1571,7 @@
   };
 };
 
-"AosvzXCO" = lib.buildMinecraftFile {
+"AosvzXCO" = lib.buildMinecraftMod {
   pname = "Iris v1.1.1 + Sodium for MC 1.16.5";
   version = "mc1.16.5-v1.1.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/mc1.16.5-v1.1.1/iris-mc1.16.5-1.1.1.jar";
@@ -1583,7 +1583,7 @@
   };
 };
 
-"lAEtBzCu" = lib.buildMinecraftFile {
+"lAEtBzCu" = lib.buildMinecraftMod {
   pname = "Iris v1.1.1 + Sodium for MC 1.17.1";
   version = "mc1.17-v1.1.1";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/mc1.17-v1.1.1/iris-mc1.17-1.1.1.jar";
@@ -1595,7 +1595,7 @@
   };
 };
 
-"lQjKfhXZ" = lib.buildMinecraftFile {
+"lQjKfhXZ" = lib.buildMinecraftMod {
   pname = "Iris v1.1.0 + Sodium for MC 1.17";
   version = "mc1.17-v1.1.0";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/mc1.17-v1.1.0/iris-mc1.17-1.1.0.jar";
@@ -1607,7 +1607,7 @@
   };
 };
 
-"7ULwjID9" = lib.buildMinecraftFile {
+"7ULwjID9" = lib.buildMinecraftMod {
   pname = "Iris v1.1.0 + Sodium for MC 1.16.5";
   version = "mc1.16.5-v1.1.0";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/mc1.16.5-v1.1.0/iris-mc1.16.5-1.1.0.jar";
@@ -1619,7 +1619,7 @@
   };
 };
 
-"BKUpdPtO" = lib.buildMinecraftFile {
+"BKUpdPtO" = lib.buildMinecraftMod {
   pname = "Iris - Sodium";
   version = "1.0.0-sodium";
   url = "https://cdn.modrinth.com/data/YL57xq9U/versions/1.0.0-sodium/iris-mc1.16.5-1.0.0.jar";

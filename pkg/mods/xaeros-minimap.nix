@@ -1,5 +1,5 @@
 { lib, ... }: {
-"enRPivaa" = lib.buildMinecraftFile {
+"enRPivaa" = lib.buildMinecraftMod {
   pname = "24.2.1";
   version = "24.2.1_Fabric_1.21";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/enRPivaa/Xaeros_Minimap_24.2.1_Fabric_1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"pfjda4sr" = lib.buildMinecraftFile {
+"pfjda4sr" = lib.buildMinecraftMod {
   pname = "24.2.0";
   version = "24.2.0_Fabric_1.20.6";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/pfjda4sr/Xaeros_Minimap_24.2.0_Fabric_1.20.6.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"ebLQ6HBv" = lib.buildMinecraftFile {
+"ebLQ6HBv" = lib.buildMinecraftMod {
   pname = "24.2.0";
   version = "24.2.0_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/ebLQ6HBv/Xaeros_Minimap_24.2.0_Fabric_1.20.4.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"1PbPiCss" = lib.buildMinecraftFile {
+"1PbPiCss" = lib.buildMinecraftMod {
   pname = "24.2.0";
   version = "24.2.0_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/1PbPiCss/Xaeros_Minimap_24.2.0_Fabric_1.20.2.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"WQEX096d" = lib.buildMinecraftFile {
+"WQEX096d" = lib.buildMinecraftMod {
   pname = "24.2.0";
   version = "24.2.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/WQEX096d/Xaeros_Minimap_24.2.0_Fabric_1.20.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"LsUG4Ee3" = lib.buildMinecraftFile {
+"LsUG4Ee3" = lib.buildMinecraftMod {
   pname = "24.2.0";
   version = "24.2.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/LsUG4Ee3/Xaeros_Minimap_24.2.0_Fabric_1.19.4.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"73eENOzt" = lib.buildMinecraftFile {
+"73eENOzt" = lib.buildMinecraftMod {
   pname = "24.2.0";
   version = "24.2.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/73eENOzt/Xaeros_Minimap_24.2.0_Fabric_1.19.1.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"terogn4c" = lib.buildMinecraftFile {
+"terogn4c" = lib.buildMinecraftMod {
   pname = "24.2.0";
   version = "24.2.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/terogn4c/Xaeros_Minimap_24.2.0_Fabric_1.18.2.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"AZoazJZ9" = lib.buildMinecraftFile {
+"AZoazJZ9" = lib.buildMinecraftMod {
   pname = "24.2.0";
   version = "24.2.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/AZoazJZ9/Xaeros_Minimap_24.2.0_Fabric_1.16.5.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"3nguWW3k" = lib.buildMinecraftFile {
+"3nguWW3k" = lib.buildMinecraftMod {
   pname = "24.1.4";
   version = "24.1.4_Fabric_1.20.6";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/3nguWW3k/Xaeros_Minimap_24.1.4_Fabric_1.20.6.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"YtAGhx5I" = lib.buildMinecraftFile {
+"YtAGhx5I" = lib.buildMinecraftMod {
   pname = "24.1.3";
   version = "24.1.3_Fabric_1.20.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/YtAGhx5I/Xaeros_Minimap_24.1.3_Fabric_1.20.5.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"H5U9OIBR" = lib.buildMinecraftFile {
+"H5U9OIBR" = lib.buildMinecraftMod {
   pname = "24.1.2";
   version = "24.1.2_Fabric_1.20.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/H5U9OIBR/Xaeros_Minimap_24.1.2_Fabric_1.20.5.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"a1aPoO3W" = lib.buildMinecraftFile {
+"a1aPoO3W" = lib.buildMinecraftMod {
   pname = "24.1.1";
   version = "24.1.1_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/a1aPoO3W/Xaeros_Minimap_24.1.1_Fabric_1.20.4.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"8xtEYb9r" = lib.buildMinecraftFile {
+"8xtEYb9r" = lib.buildMinecraftMod {
   pname = "24.1.1";
   version = "24.1.1_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/8xtEYb9r/Xaeros_Minimap_24.1.1_Fabric_1.20.2.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"C2jbx7JG" = lib.buildMinecraftFile {
+"C2jbx7JG" = lib.buildMinecraftMod {
   pname = "24.1.1";
   version = "24.1.1_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/C2jbx7JG/Xaeros_Minimap_24.1.1_Fabric_1.20.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"SQZr10BS" = lib.buildMinecraftFile {
+"SQZr10BS" = lib.buildMinecraftMod {
   pname = "24.1.1";
   version = "24.1.1_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/SQZr10BS/Xaeros_Minimap_24.1.1_Fabric_1.19.4.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"sPZxEpDf" = lib.buildMinecraftFile {
+"sPZxEpDf" = lib.buildMinecraftMod {
   pname = "24.1.1";
   version = "24.1.1_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/sPZxEpDf/Xaeros_Minimap_24.1.1_Fabric_1.19.1.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"NNLpWIl6" = lib.buildMinecraftFile {
+"NNLpWIl6" = lib.buildMinecraftMod {
   pname = "24.1.1";
   version = "24.1.1_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/NNLpWIl6/Xaeros_Minimap_24.1.1_Fabric_1.18.2.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"j59kRx58" = lib.buildMinecraftFile {
+"j59kRx58" = lib.buildMinecraftMod {
   pname = "24.1.1";
   version = "24.1.1_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/j59kRx58/Xaeros_Minimap_24.1.1_Fabric_1.16.5.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"gtz0RXPQ" = lib.buildMinecraftFile {
+"gtz0RXPQ" = lib.buildMinecraftMod {
   pname = "24.1.0";
   version = "24.1.0_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/gtz0RXPQ/Xaeros_Minimap_24.1.0_Fabric_1.20.4.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"W4cxDNb2" = lib.buildMinecraftFile {
+"W4cxDNb2" = lib.buildMinecraftMod {
   pname = "24.1.0";
   version = "24.1.0_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/W4cxDNb2/Xaeros_Minimap_24.1.0_Fabric_1.20.2.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"6kK8jWA8" = lib.buildMinecraftFile {
+"6kK8jWA8" = lib.buildMinecraftMod {
   pname = "24.1.0";
   version = "24.1.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/6kK8jWA8/Xaeros_Minimap_24.1.0_Fabric_1.20.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"O0Nj9jLg" = lib.buildMinecraftFile {
+"O0Nj9jLg" = lib.buildMinecraftMod {
   pname = "24.1.0";
   version = "24.1.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/O0Nj9jLg/Xaeros_Minimap_24.1.0_Fabric_1.19.4.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"oYc9KpLE" = lib.buildMinecraftFile {
+"oYc9KpLE" = lib.buildMinecraftMod {
   pname = "24.1.0";
   version = "24.1.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/oYc9KpLE/Xaeros_Minimap_24.1.0_Fabric_1.19.1.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"yvQWOsPM" = lib.buildMinecraftFile {
+"yvQWOsPM" = lib.buildMinecraftMod {
   pname = "24.1.0";
   version = "24.1.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/yvQWOsPM/Xaeros_Minimap_24.1.0_Fabric_1.18.2.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"RF88GIOq" = lib.buildMinecraftFile {
+"RF88GIOq" = lib.buildMinecraftMod {
   pname = "24.1.0";
   version = "24.1.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/RF88GIOq/Xaeros_Minimap_24.1.0_Fabric_1.16.5.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"N5jBKzC0" = lib.buildMinecraftFile {
+"N5jBKzC0" = lib.buildMinecraftMod {
   pname = "24.0.3";
   version = "24.0.3_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/N5jBKzC0/Xaeros_Minimap_24.0.3_Fabric_1.20.4.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"ESCev80x" = lib.buildMinecraftFile {
+"ESCev80x" = lib.buildMinecraftMod {
   pname = "24.0.3";
   version = "24.0.3_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/ESCev80x/Xaeros_Minimap_24.0.3_Fabric_1.20.2.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"wzrBVYUb" = lib.buildMinecraftFile {
+"wzrBVYUb" = lib.buildMinecraftMod {
   pname = "24.0.3";
   version = "24.0.3_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/wzrBVYUb/Xaeros_Minimap_24.0.3_Fabric_1.20.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"pnRuTtkM" = lib.buildMinecraftFile {
+"pnRuTtkM" = lib.buildMinecraftMod {
   pname = "24.0.3";
   version = "24.0.3_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/pnRuTtkM/Xaeros_Minimap_24.0.3_Fabric_1.19.4.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"TgVPhHX1" = lib.buildMinecraftFile {
+"TgVPhHX1" = lib.buildMinecraftMod {
   pname = "24.0.3";
   version = "24.0.3_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/TgVPhHX1/Xaeros_Minimap_24.0.3_Fabric_1.19.1.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"P0Lox3gc" = lib.buildMinecraftFile {
+"P0Lox3gc" = lib.buildMinecraftMod {
   pname = "24.0.3";
   version = "24.0.3_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/P0Lox3gc/Xaeros_Minimap_24.0.3_Fabric_1.18.2.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"Gwys2mC6" = lib.buildMinecraftFile {
+"Gwys2mC6" = lib.buildMinecraftMod {
   pname = "24.0.2";
   version = "24.0.2_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Gwys2mC6/Xaeros_Minimap_24.0.2_Fabric_1.20.4.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"hLzKOgZG" = lib.buildMinecraftFile {
+"hLzKOgZG" = lib.buildMinecraftMod {
   pname = "24.0.2";
   version = "24.0.2_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/hLzKOgZG/Xaeros_Minimap_24.0.2_Fabric_1.20.2.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"W0vNiSUN" = lib.buildMinecraftFile {
+"W0vNiSUN" = lib.buildMinecraftMod {
   pname = "24.0.2";
   version = "24.0.2_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/W0vNiSUN/Xaeros_Minimap_24.0.2_Fabric_1.20.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"rnKIUx0M" = lib.buildMinecraftFile {
+"rnKIUx0M" = lib.buildMinecraftMod {
   pname = "24.0.2";
   version = "24.0.2_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/rnKIUx0M/Xaeros_Minimap_24.0.2_Fabric_1.19.4.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"xgO8iEoo" = lib.buildMinecraftFile {
+"xgO8iEoo" = lib.buildMinecraftMod {
   pname = "24.0.2";
   version = "24.0.2_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/xgO8iEoo/Xaeros_Minimap_24.0.2_Fabric_1.19.1.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"6phDIoxa" = lib.buildMinecraftFile {
+"6phDIoxa" = lib.buildMinecraftMod {
   pname = "24.0.2";
   version = "24.0.2_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/6phDIoxa/Xaeros_Minimap_24.0.2_Fabric_1.18.2.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"HR0G2gSQ" = lib.buildMinecraftFile {
+"HR0G2gSQ" = lib.buildMinecraftMod {
   pname = "24.0.2";
   version = "24.0.2_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/HR0G2gSQ/Xaeros_Minimap_24.0.2_Fabric_1.16.5.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"2sFvKLMq" = lib.buildMinecraftFile {
+"2sFvKLMq" = lib.buildMinecraftMod {
   pname = "24.0.1";
   version = "24.0.1_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/2sFvKLMq/Xaeros_Minimap_24.0.1_Fabric_1.20.4.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"hnrAEMVF" = lib.buildMinecraftFile {
+"hnrAEMVF" = lib.buildMinecraftMod {
   pname = "24.0.1";
   version = "24.0.1_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/hnrAEMVF/Xaeros_Minimap_24.0.1_Fabric_1.20.2.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"VkhLOjfb" = lib.buildMinecraftFile {
+"VkhLOjfb" = lib.buildMinecraftMod {
   pname = "24.0.1";
   version = "24.0.1_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/VkhLOjfb/Xaeros_Minimap_24.0.1_Fabric_1.20.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"DZKCme41" = lib.buildMinecraftFile {
+"DZKCme41" = lib.buildMinecraftMod {
   pname = "24.0.1";
   version = "24.0.1_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/DZKCme41/Xaeros_Minimap_24.0.1_Fabric_1.19.4.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"6nrVJMjJ" = lib.buildMinecraftFile {
+"6nrVJMjJ" = lib.buildMinecraftMod {
   pname = "24.0.1";
   version = "24.0.1_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/6nrVJMjJ/Xaeros_Minimap_24.0.1_Fabric_1.19.1.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"XNk8u9Xv" = lib.buildMinecraftFile {
+"XNk8u9Xv" = lib.buildMinecraftMod {
   pname = "24.0.1";
   version = "24.0.1_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/XNk8u9Xv/Xaeros_Minimap_24.0.1_Fabric_1.18.2.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"qwbkbzoh" = lib.buildMinecraftFile {
+"qwbkbzoh" = lib.buildMinecraftMod {
   pname = "24.0.0";
   version = "24.0.0_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/qwbkbzoh/Xaeros_Minimap_24.0.1_Fabric_1.20.4.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"F0QClxK7" = lib.buildMinecraftFile {
+"F0QClxK7" = lib.buildMinecraftMod {
   pname = "24.0.1";
   version = "24.0.1_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/F0QClxK7/Xaeros_Minimap_24.0.1_Fabric_1.16.5.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"LLE04weG" = lib.buildMinecraftFile {
+"LLE04weG" = lib.buildMinecraftMod {
   pname = "23.9.7";
   version = "23.9.7_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/LLE04weG/Xaeros_Minimap_23.9.7_Fabric_1.20.4.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"4hUSZ0XT" = lib.buildMinecraftFile {
+"4hUSZ0XT" = lib.buildMinecraftMod {
   pname = "23.9.7";
   version = "23.9.7_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/4hUSZ0XT/Xaeros_Minimap_23.9.7_Fabric_1.20.2.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"rbY8QUIj" = lib.buildMinecraftFile {
+"rbY8QUIj" = lib.buildMinecraftMod {
   pname = "23.9.7";
   version = "23.9.7_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/rbY8QUIj/Xaeros_Minimap_23.9.7_Fabric_1.20.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"dMqrko5J" = lib.buildMinecraftFile {
+"dMqrko5J" = lib.buildMinecraftMod {
   pname = "23.9.7";
   version = "23.9.7_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/dMqrko5J/Xaeros_Minimap_23.9.7_Fabric_1.19.1.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"CWHPcpYC" = lib.buildMinecraftFile {
+"CWHPcpYC" = lib.buildMinecraftMod {
   pname = "23.9.7";
   version = "23.9.7_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/CWHPcpYC/Xaeros_Minimap_23.9.7_Fabric_1.18.2.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"VuH8AYM3" = lib.buildMinecraftFile {
+"VuH8AYM3" = lib.buildMinecraftMod {
   pname = "23.9.7";
   version = "23.9.7_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/VuH8AYM3/Xaeros_Minimap_23.9.7_Fabric_1.17.1.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"KlbD3D3B" = lib.buildMinecraftFile {
+"KlbD3D3B" = lib.buildMinecraftMod {
   pname = "23.9.7";
   version = "23.9.7_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/KlbD3D3B/Xaeros_Minimap_23.9.7_Fabric_1.16.5.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"PfhJ0nzQ" = lib.buildMinecraftFile {
+"PfhJ0nzQ" = lib.buildMinecraftMod {
   pname = "23.9.6";
   version = "23.9.6_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/PfhJ0nzQ/Xaeros_Minimap_23.9.6_Fabric_1.20.4.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"SoNCC1sA" = lib.buildMinecraftFile {
+"SoNCC1sA" = lib.buildMinecraftMod {
   pname = "23.9.5";
   version = "23.9.5_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/SoNCC1sA/Xaeros_Minimap_23.9.5_Fabric_1.20.4.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"aeLjQWMH" = lib.buildMinecraftFile {
+"aeLjQWMH" = lib.buildMinecraftMod {
   pname = "23.9.4";
   version = "23.9.4_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/aeLjQWMH/Xaeros_Minimap_23.9.4_Fabric_1.20.4.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"2xUOEAxL" = lib.buildMinecraftFile {
+"2xUOEAxL" = lib.buildMinecraftMod {
   pname = "23.9.4";
   version = "23.9.4_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/2xUOEAxL/Xaeros_Minimap_23.9.4_Fabric_1.17.1.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"fRg7YyPu" = lib.buildMinecraftFile {
+"fRg7YyPu" = lib.buildMinecraftMod {
   pname = "23.9.4";
   version = "23.9.4_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/fRg7YyPu/Xaeros_Minimap_23.9.4_Fabric_1.16.5.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"lmSSKSg8" = lib.buildMinecraftFile {
+"lmSSKSg8" = lib.buildMinecraftMod {
   pname = "23.9.3";
   version = "23.9.3_Fabric_1.20.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/lmSSKSg8/Xaeros_Minimap_23.9.3_Fabric_1.20.3.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"S0r8i1Ol" = lib.buildMinecraftFile {
+"S0r8i1Ol" = lib.buildMinecraftMod {
   pname = "23.9.3";
   version = "23.9.3_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/S0r8i1Ol/Xaeros_Minimap_23.9.3_Fabric_1.20.2.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"KSDcShTK" = lib.buildMinecraftFile {
+"KSDcShTK" = lib.buildMinecraftMod {
   pname = "23.9.3";
   version = "23.9.3_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/KSDcShTK/Xaeros_Minimap_23.9.3_Fabric_1.20.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"zgNWv1OW" = lib.buildMinecraftFile {
+"zgNWv1OW" = lib.buildMinecraftMod {
   pname = "23.9.3";
   version = "23.9.3_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/zgNWv1OW/Xaeros_Minimap_23.9.3_Fabric_1.19.4.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"I0FJpqoN" = lib.buildMinecraftFile {
+"I0FJpqoN" = lib.buildMinecraftMod {
   pname = "23.9.3";
   version = "23.9.3_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/I0FJpqoN/Xaeros_Minimap_23.9.3_Fabric_1.19.3.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"e5VWn5iQ" = lib.buildMinecraftFile {
+"e5VWn5iQ" = lib.buildMinecraftMod {
   pname = "23.9.3";
   version = "23.9.3_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/e5VWn5iQ/Xaeros_Minimap_23.9.3_Fabric_1.19.1.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"Nt0HqWYv" = lib.buildMinecraftFile {
+"Nt0HqWYv" = lib.buildMinecraftMod {
   pname = "23.9.3";
   version = "23.9.3_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Nt0HqWYv/Xaeros_Minimap_23.9.3_Fabric_1.18.2.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"2du1bm0c" = lib.buildMinecraftFile {
+"2du1bm0c" = lib.buildMinecraftMod {
   pname = "23.9.3";
   version = "23.9.3_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/2du1bm0c/Xaeros_Minimap_23.9.3_Fabric_1.17.1.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"WC4MSxy8" = lib.buildMinecraftFile {
+"WC4MSxy8" = lib.buildMinecraftMod {
   pname = "23.9.3";
   version = "23.9.3_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/WC4MSxy8/Xaeros_Minimap_23.9.3_Fabric_1.16.5.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"Zp26yPOc" = lib.buildMinecraftFile {
+"Zp26yPOc" = lib.buildMinecraftMod {
   pname = "23.9.2";
   version = "23.9.2_Fabric_1.20.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Zp26yPOc/Xaeros_Minimap_23.9.2_Fabric_1.20.3.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"W5b2EPKb" = lib.buildMinecraftFile {
+"W5b2EPKb" = lib.buildMinecraftMod {
   pname = "23.9.2";
   version = "23.9.2_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/W5b2EPKb/Xaeros_Minimap_23.9.2_Fabric_1.20.2.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"fo6Bqntn" = lib.buildMinecraftFile {
+"fo6Bqntn" = lib.buildMinecraftMod {
   pname = "23.9.2";
   version = "23.9.2_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/fo6Bqntn/Xaeros_Minimap_23.9.2_Fabric_1.20.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"TxAPiOgr" = lib.buildMinecraftFile {
+"TxAPiOgr" = lib.buildMinecraftMod {
   pname = "23.9.2";
   version = "23.9.2_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/TxAPiOgr/Xaeros_Minimap_23.9.2_Fabric_1.19.4.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"S5ek5ggz" = lib.buildMinecraftFile {
+"S5ek5ggz" = lib.buildMinecraftMod {
   pname = "23.9.2";
   version = "23.9.2_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/S5ek5ggz/Xaeros_Minimap_23.9.2_Fabric_1.19.3.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"m350JutC" = lib.buildMinecraftFile {
+"m350JutC" = lib.buildMinecraftMod {
   pname = "23.9.2";
   version = "23.9.2_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/m350JutC/Xaeros_Minimap_23.9.2_Fabric_1.19.1.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"YBgP6QdM" = lib.buildMinecraftFile {
+"YBgP6QdM" = lib.buildMinecraftMod {
   pname = "23.9.1";
   version = "23.9.1_Fabric_1.20.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/YBgP6QdM/Xaeros_Minimap_23.9.1_Fabric_1.20.3.jar";
@@ -899,7 +899,7 @@
   };
 };
 
-"UdrmzjRD" = lib.buildMinecraftFile {
+"UdrmzjRD" = lib.buildMinecraftMod {
   pname = "23.9.1";
   version = "23.9.1_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/UdrmzjRD/Xaeros_Minimap_23.9.1_Fabric_1.20.2.jar";
@@ -911,7 +911,7 @@
   };
 };
 
-"xFUEtVth" = lib.buildMinecraftFile {
+"xFUEtVth" = lib.buildMinecraftMod {
   pname = "23.9.1";
   version = "23.9.1_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/xFUEtVth/Xaeros_Minimap_23.9.1_Fabric_1.20.jar";
@@ -923,7 +923,7 @@
   };
 };
 
-"U68R0rFS" = lib.buildMinecraftFile {
+"U68R0rFS" = lib.buildMinecraftMod {
   pname = "23.9.1";
   version = "23.9.1_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/U68R0rFS/Xaeros_Minimap_23.9.1_Fabric_1.19.4.jar";
@@ -935,7 +935,7 @@
   };
 };
 
-"L66gdxl9" = lib.buildMinecraftFile {
+"L66gdxl9" = lib.buildMinecraftMod {
   pname = "23.9.1";
   version = "23.9.1_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/L66gdxl9/Xaeros_Minimap_23.9.1_Fabric_1.19.3.jar";
@@ -947,7 +947,7 @@
   };
 };
 
-"Uzhe96qB" = lib.buildMinecraftFile {
+"Uzhe96qB" = lib.buildMinecraftMod {
   pname = "23.9.1";
   version = "23.9.1_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Uzhe96qB/Xaeros_Minimap_23.9.1_Fabric_1.19.1.jar";
@@ -959,7 +959,7 @@
   };
 };
 
-"JaqM6Gvz" = lib.buildMinecraftFile {
+"JaqM6Gvz" = lib.buildMinecraftMod {
   pname = "23.9.1";
   version = "23.9.1_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/JaqM6Gvz/Xaeros_Minimap_23.9.1_Fabric_1.18.2.jar";
@@ -971,7 +971,7 @@
   };
 };
 
-"2z34HtcM" = lib.buildMinecraftFile {
+"2z34HtcM" = lib.buildMinecraftMod {
   pname = "23.9.1";
   version = "23.9.1_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/2z34HtcM/Xaeros_Minimap_23.9.1_Fabric_1.17.1.jar";
@@ -983,7 +983,7 @@
   };
 };
 
-"cLnTLfUI" = lib.buildMinecraftFile {
+"cLnTLfUI" = lib.buildMinecraftMod {
   pname = "23.9.1";
   version = "23.9.1_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/cLnTLfUI/Xaeros_Minimap_23.9.1_Fabric_1.16.5.jar";
@@ -995,7 +995,7 @@
   };
 };
 
-"XxkAfYob" = lib.buildMinecraftFile {
+"XxkAfYob" = lib.buildMinecraftMod {
   pname = "23.9.0";
   version = "23.9.0_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/XxkAfYob/Xaeros_Minimap_23.9.0_Fabric_1.20.2.jar";
@@ -1007,7 +1007,7 @@
   };
 };
 
-"MmSg9jMk" = lib.buildMinecraftFile {
+"MmSg9jMk" = lib.buildMinecraftMod {
   pname = "23.9.0";
   version = "23.9.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/MmSg9jMk/Xaeros_Minimap_23.9.0_Fabric_1.20.jar";
@@ -1019,7 +1019,7 @@
   };
 };
 
-"yTnUZnVR" = lib.buildMinecraftFile {
+"yTnUZnVR" = lib.buildMinecraftMod {
   pname = "23.9.0";
   version = "23.9.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/yTnUZnVR/Xaeros_Minimap_23.9.0_Fabric_1.19.4.jar";
@@ -1031,7 +1031,7 @@
   };
 };
 
-"pLsaj6mq" = lib.buildMinecraftFile {
+"pLsaj6mq" = lib.buildMinecraftMod {
   pname = "23.9.0";
   version = "23.9.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/pLsaj6mq/Xaeros_Minimap_23.9.0_Fabric_1.19.3.jar";
@@ -1043,7 +1043,7 @@
   };
 };
 
-"CJuCOwm3" = lib.buildMinecraftFile {
+"CJuCOwm3" = lib.buildMinecraftMod {
   pname = "23.9.0";
   version = "23.9.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/CJuCOwm3/Xaeros_Minimap_23.9.0_Fabric_1.19.1.jar";
@@ -1055,7 +1055,7 @@
   };
 };
 
-"MyHLjsuc" = lib.buildMinecraftFile {
+"MyHLjsuc" = lib.buildMinecraftMod {
   pname = "23.9.0";
   version = "23.9.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/MyHLjsuc/Xaeros_Minimap_23.9.0_Fabric_1.18.2.jar";
@@ -1067,7 +1067,7 @@
   };
 };
 
-"yfdwFDVK" = lib.buildMinecraftFile {
+"yfdwFDVK" = lib.buildMinecraftMod {
   pname = "23.9.0";
   version = "23.9.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/yfdwFDVK/Xaeros_Minimap_23.9.0_Fabric_1.17.1.jar";
@@ -1079,7 +1079,7 @@
   };
 };
 
-"evziehFm" = lib.buildMinecraftFile {
+"evziehFm" = lib.buildMinecraftMod {
   pname = "23.9.0";
   version = "23.9.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/evziehFm/Xaeros_Minimap_23.9.0_Fabric_1.16.5.jar";
@@ -1091,7 +1091,7 @@
   };
 };
 
-"c30OIq97" = lib.buildMinecraftFile {
+"c30OIq97" = lib.buildMinecraftMod {
   pname = "23.8.4";
   version = "23.8.4_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/c30OIq97/Xaeros_Minimap_23.8.4_Fabric_1.20.2.jar";
@@ -1103,7 +1103,7 @@
   };
 };
 
-"3l0ZI6yD" = lib.buildMinecraftFile {
+"3l0ZI6yD" = lib.buildMinecraftMod {
   pname = "23.8.4";
   version = "23.8.4_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/3l0ZI6yD/Xaeros_Minimap_23.8.4_Fabric_1.20.jar";
@@ -1115,7 +1115,7 @@
   };
 };
 
-"RZ1qbd4C" = lib.buildMinecraftFile {
+"RZ1qbd4C" = lib.buildMinecraftMod {
   pname = "23.8.4";
   version = "23.8.4_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/RZ1qbd4C/Xaeros_Minimap_23.8.4_Fabric_1.19.4.jar";
@@ -1127,7 +1127,7 @@
   };
 };
 
-"uLqExVAM" = lib.buildMinecraftFile {
+"uLqExVAM" = lib.buildMinecraftMod {
   pname = "23.8.4";
   version = "23.8.4_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/uLqExVAM/Xaeros_Minimap_23.8.4_Fabric_1.19.3.jar";
@@ -1139,7 +1139,7 @@
   };
 };
 
-"kjc0zgWU" = lib.buildMinecraftFile {
+"kjc0zgWU" = lib.buildMinecraftMod {
   pname = "23.8.4";
   version = "23.8.4_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/kjc0zgWU/Xaeros_Minimap_23.8.4_Fabric_1.19.1.jar";
@@ -1151,7 +1151,7 @@
   };
 };
 
-"xKJ0TybH" = lib.buildMinecraftFile {
+"xKJ0TybH" = lib.buildMinecraftMod {
   pname = "23.8.4";
   version = "23.8.4_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/xKJ0TybH/Xaeros_Minimap_23.8.4_Fabric_1.18.2.jar";
@@ -1163,7 +1163,7 @@
   };
 };
 
-"ERh1PYbl" = lib.buildMinecraftFile {
+"ERh1PYbl" = lib.buildMinecraftMod {
   pname = "23.8.4";
   version = "23.8.4_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/ERh1PYbl/Xaeros_Minimap_23.8.4_Fabric_1.17.1.jar";
@@ -1175,7 +1175,7 @@
   };
 };
 
-"fTBtQrJL" = lib.buildMinecraftFile {
+"fTBtQrJL" = lib.buildMinecraftMod {
   pname = "23.8.4";
   version = "23.8.4_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/fTBtQrJL/Xaeros_Minimap_23.8.4_Fabric_1.16.5.jar";
@@ -1187,7 +1187,7 @@
   };
 };
 
-"FQAIGl4y" = lib.buildMinecraftFile {
+"FQAIGl4y" = lib.buildMinecraftMod {
   pname = "23.8.3";
   version = "23.8.3_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/FQAIGl4y/Xaeros_Minimap_23.8.3_Fabric_1.20.2.jar";
@@ -1199,7 +1199,7 @@
   };
 };
 
-"WdswP5tt" = lib.buildMinecraftFile {
+"WdswP5tt" = lib.buildMinecraftMod {
   pname = "23.8.3";
   version = "23.8.3_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/WdswP5tt/Xaeros_Minimap_23.8.3_Fabric_1.20.jar";
@@ -1211,7 +1211,7 @@
   };
 };
 
-"P5sqtKJ1" = lib.buildMinecraftFile {
+"P5sqtKJ1" = lib.buildMinecraftMod {
   pname = "23.8.3";
   version = "23.8.3_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/P5sqtKJ1/Xaeros_Minimap_23.8.3_Fabric_1.19.4.jar";
@@ -1223,7 +1223,7 @@
   };
 };
 
-"nIClWGv7" = lib.buildMinecraftFile {
+"nIClWGv7" = lib.buildMinecraftMod {
   pname = "23.8.3";
   version = "23.8.3_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/nIClWGv7/Xaeros_Minimap_23.8.3_Fabric_1.19.3.jar";
@@ -1235,7 +1235,7 @@
   };
 };
 
-"QRPuTPr2" = lib.buildMinecraftFile {
+"QRPuTPr2" = lib.buildMinecraftMod {
   pname = "23.8.3";
   version = "23.8.3_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/QRPuTPr2/Xaeros_Minimap_23.8.3_Fabric_1.19.1.jar";
@@ -1247,7 +1247,7 @@
   };
 };
 
-"NDhL08bf" = lib.buildMinecraftFile {
+"NDhL08bf" = lib.buildMinecraftMod {
   pname = "23.8.3";
   version = "23.8.3_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/NDhL08bf/Xaeros_Minimap_23.8.3_Fabric_1.18.2.jar";
@@ -1259,7 +1259,7 @@
   };
 };
 
-"Szgz2P5P" = lib.buildMinecraftFile {
+"Szgz2P5P" = lib.buildMinecraftMod {
   pname = "23.8.3";
   version = "23.8.3_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Szgz2P5P/Xaeros_Minimap_23.8.3_Fabric_1.17.1.jar";
@@ -1271,7 +1271,7 @@
   };
 };
 
-"o7s7vL8t" = lib.buildMinecraftFile {
+"o7s7vL8t" = lib.buildMinecraftMod {
   pname = "23.8.3";
   version = "23.8.3_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/o7s7vL8t/Xaeros_Minimap_23.8.3_Fabric_1.16.5.jar";
@@ -1283,7 +1283,7 @@
   };
 };
 
-"7v8Wi6tb" = lib.buildMinecraftFile {
+"7v8Wi6tb" = lib.buildMinecraftMod {
   pname = "23.8.2";
   version = "23.8.2_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/7v8Wi6tb/Xaeros_Minimap_23.8.2_Fabric_1.20.2.jar";
@@ -1295,7 +1295,7 @@
   };
 };
 
-"iztrg4XH" = lib.buildMinecraftFile {
+"iztrg4XH" = lib.buildMinecraftMod {
   pname = "23.8.2";
   version = "23.8.2_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/iztrg4XH/Xaeros_Minimap_23.8.2_Fabric_1.20.jar";
@@ -1307,7 +1307,7 @@
   };
 };
 
-"ytsMBpyZ" = lib.buildMinecraftFile {
+"ytsMBpyZ" = lib.buildMinecraftMod {
   pname = "23.8.2";
   version = "23.8.2_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/ytsMBpyZ/Xaeros_Minimap_23.8.2_Fabric_1.19.4.jar";
@@ -1319,7 +1319,7 @@
   };
 };
 
-"sxmTEQGI" = lib.buildMinecraftFile {
+"sxmTEQGI" = lib.buildMinecraftMod {
   pname = "23.8.2";
   version = "23.8.2_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/sxmTEQGI/Xaeros_Minimap_23.8.2_Fabric_1.19.3.jar";
@@ -1331,7 +1331,7 @@
   };
 };
 
-"fN0KKPHy" = lib.buildMinecraftFile {
+"fN0KKPHy" = lib.buildMinecraftMod {
   pname = "23.8.2";
   version = "23.8.2_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/fN0KKPHy/Xaeros_Minimap_23.8.2_Fabric_1.19.1.jar";
@@ -1343,7 +1343,7 @@
   };
 };
 
-"wZnIKkhI" = lib.buildMinecraftFile {
+"wZnIKkhI" = lib.buildMinecraftMod {
   pname = "23.8.2";
   version = "23.8.2_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/wZnIKkhI/Xaeros_Minimap_23.8.2_Fabric_1.18.2.jar";
@@ -1355,7 +1355,7 @@
   };
 };
 
-"MVife7I0" = lib.buildMinecraftFile {
+"MVife7I0" = lib.buildMinecraftMod {
   pname = "23.8.2";
   version = "23.8.2_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/MVife7I0/Xaeros_Minimap_23.8.2_Fabric_1.17.1.jar";
@@ -1367,7 +1367,7 @@
   };
 };
 
-"ILxXvII1" = lib.buildMinecraftFile {
+"ILxXvII1" = lib.buildMinecraftMod {
   pname = "23.8.2";
   version = "23.8.2_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/ILxXvII1/Xaeros_Minimap_23.8.2_Fabric_1.16.5.jar";
@@ -1379,7 +1379,7 @@
   };
 };
 
-"rtDIk66P" = lib.buildMinecraftFile {
+"rtDIk66P" = lib.buildMinecraftMod {
   pname = "23.8.1";
   version = "23.8.1_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/rtDIk66P/Xaeros_Minimap_23.8.1_Fabric_1.20.2.jar";
@@ -1391,7 +1391,7 @@
   };
 };
 
-"KINy3pYV" = lib.buildMinecraftFile {
+"KINy3pYV" = lib.buildMinecraftMod {
   pname = "23.8.1";
   version = "23.8.1_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/KINy3pYV/Xaeros_Minimap_23.8.1_Fabric_1.20.jar";
@@ -1403,7 +1403,7 @@
   };
 };
 
-"VLWE8oE9" = lib.buildMinecraftFile {
+"VLWE8oE9" = lib.buildMinecraftMod {
   pname = "23.8.0";
   version = "23.8.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/VLWE8oE9/Xaeros_Minimap_23.8.0_Fabric_1.20.jar";
@@ -1415,7 +1415,7 @@
   };
 };
 
-"VPlixW52" = lib.buildMinecraftFile {
+"VPlixW52" = lib.buildMinecraftMod {
   pname = "23.8.0";
   version = "23.8.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/VPlixW52/Xaeros_Minimap_23.8.0_Fabric_1.19.4.jar";
@@ -1427,7 +1427,7 @@
   };
 };
 
-"smx9Eynx" = lib.buildMinecraftFile {
+"smx9Eynx" = lib.buildMinecraftMod {
   pname = "23.8.0";
   version = "23.8.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/smx9Eynx/Xaeros_Minimap_23.8.0_Fabric_1.19.3.jar";
@@ -1439,7 +1439,7 @@
   };
 };
 
-"bSNv6PnW" = lib.buildMinecraftFile {
+"bSNv6PnW" = lib.buildMinecraftMod {
   pname = "23.8.0";
   version = "23.8.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/bSNv6PnW/Xaeros_Minimap_23.8.0_Fabric_1.19.1.jar";
@@ -1451,7 +1451,7 @@
   };
 };
 
-"7mx0aK7e" = lib.buildMinecraftFile {
+"7mx0aK7e" = lib.buildMinecraftMod {
   pname = "23.8.0";
   version = "23.8.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/7mx0aK7e/Xaeros_Minimap_23.8.0_Fabric_1.18.2.jar";
@@ -1463,7 +1463,7 @@
   };
 };
 
-"ezD5IzmS" = lib.buildMinecraftFile {
+"ezD5IzmS" = lib.buildMinecraftMod {
   pname = "23.8.0";
   version = "23.8.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/ezD5IzmS/Xaeros_Minimap_23.8.0_Fabric_1.17.1.jar";
@@ -1475,7 +1475,7 @@
   };
 };
 
-"7NZfxwRb" = lib.buildMinecraftFile {
+"7NZfxwRb" = lib.buildMinecraftMod {
   pname = "23.8.0";
   version = "23.8.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/7NZfxwRb/Xaeros_Minimap_23.8.0_Fabric_1.16.5.jar";
@@ -1487,7 +1487,7 @@
   };
 };
 
-"AmT4OYf4" = lib.buildMinecraftFile {
+"AmT4OYf4" = lib.buildMinecraftMod {
   pname = "23.7.0";
   version = "23.7.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/AmT4OYf4/Xaeros_Minimap_23.7.0_Fabric_1.20.jar";
@@ -1499,7 +1499,7 @@
   };
 };
 
-"ydk6E03s" = lib.buildMinecraftFile {
+"ydk6E03s" = lib.buildMinecraftMod {
   pname = "23.7.0";
   version = "23.7.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/ydk6E03s/Xaeros_Minimap_23.7.0_Fabric_1.19.4.jar";
@@ -1511,7 +1511,7 @@
   };
 };
 
-"hSI8GBsH" = lib.buildMinecraftFile {
+"hSI8GBsH" = lib.buildMinecraftMod {
   pname = "23.7.0";
   version = "23.7.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/hSI8GBsH/Xaeros_Minimap_23.7.0_Fabric_1.19.3.jar";
@@ -1523,7 +1523,7 @@
   };
 };
 
-"Tp2vkR4G" = lib.buildMinecraftFile {
+"Tp2vkR4G" = lib.buildMinecraftMod {
   pname = "23.7.0";
   version = "23.7.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Tp2vkR4G/Xaeros_Minimap_23.7.0_Fabric_1.19.1.jar";
@@ -1535,7 +1535,7 @@
   };
 };
 
-"6nZxo7pH" = lib.buildMinecraftFile {
+"6nZxo7pH" = lib.buildMinecraftMod {
   pname = "23.7.0";
   version = "23.7.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/6nZxo7pH/Xaeros_Minimap_23.7.0_Fabric_1.18.2.jar";
@@ -1547,7 +1547,7 @@
   };
 };
 
-"qpZABZB9" = lib.buildMinecraftFile {
+"qpZABZB9" = lib.buildMinecraftMod {
   pname = "23.7.0";
   version = "23.7.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/qpZABZB9/Xaeros_Minimap_23.7.0_Fabric_1.17.1.jar";
@@ -1559,7 +1559,7 @@
   };
 };
 
-"r0ifUzPT" = lib.buildMinecraftFile {
+"r0ifUzPT" = lib.buildMinecraftMod {
   pname = "23.7.0";
   version = "23.7.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/r0ifUzPT/Xaeros_Minimap_23.7.0_Fabric_1.16.5.jar";
@@ -1571,7 +1571,7 @@
   };
 };
 
-"vm3OXacK" = lib.buildMinecraftFile {
+"vm3OXacK" = lib.buildMinecraftMod {
   pname = "23.6.3";
   version = "23.6.3_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/vm3OXacK/Xaeros_Minimap_23.6.3_Fabric_1.20.jar";
@@ -1583,7 +1583,7 @@
   };
 };
 
-"lRxWUH4F" = lib.buildMinecraftFile {
+"lRxWUH4F" = lib.buildMinecraftMod {
   pname = "23.6.3";
   version = "23.6.3_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/lRxWUH4F/Xaeros_Minimap_23.6.3_Fabric_1.19.4.jar";
@@ -1595,7 +1595,7 @@
   };
 };
 
-"mvZkcCUb" = lib.buildMinecraftFile {
+"mvZkcCUb" = lib.buildMinecraftMod {
   pname = "23.6.3";
   version = "23.6.3_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/mvZkcCUb/Xaeros_Minimap_23.6.3_Fabric_1.19.3.jar";
@@ -1607,7 +1607,7 @@
   };
 };
 
-"Bt2DgBPL" = lib.buildMinecraftFile {
+"Bt2DgBPL" = lib.buildMinecraftMod {
   pname = "23.6.3";
   version = "23.6.3_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Bt2DgBPL/Xaeros_Minimap_23.6.3_Fabric_1.19.1.jar";
@@ -1619,7 +1619,7 @@
   };
 };
 
-"644M8I6I" = lib.buildMinecraftFile {
+"644M8I6I" = lib.buildMinecraftMod {
   pname = "23.6.3";
   version = "23.6.3_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/644M8I6I/Xaeros_Minimap_23.6.3_Fabric_1.18.2.jar";
@@ -1631,7 +1631,7 @@
   };
 };
 
-"Ie68N63H" = lib.buildMinecraftFile {
+"Ie68N63H" = lib.buildMinecraftMod {
   pname = "23.6.3";
   version = "23.6.3_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Ie68N63H/Xaeros_Minimap_23.6.3_Fabric_1.17.1.jar";
@@ -1643,7 +1643,7 @@
   };
 };
 
-"4cvJrYme" = lib.buildMinecraftFile {
+"4cvJrYme" = lib.buildMinecraftMod {
   pname = "23.6.3";
   version = "23.6.3_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/4cvJrYme/Xaeros_Minimap_23.6.3_Fabric_1.16.5.jar";
@@ -1655,7 +1655,7 @@
   };
 };
 
-"c0ZBWCnU" = lib.buildMinecraftFile {
+"c0ZBWCnU" = lib.buildMinecraftMod {
   pname = "23.6.2";
   version = "23.6.2_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/c0ZBWCnU/Xaeros_Minimap_23.6.2_Fabric_1.20.jar";
@@ -1667,7 +1667,7 @@
   };
 };
 
-"QkupKzGm" = lib.buildMinecraftFile {
+"QkupKzGm" = lib.buildMinecraftMod {
   pname = "23.6.2";
   version = "23.6.2_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/QkupKzGm/Xaeros_Minimap_23.6.2_Fabric_1.19.4.jar";
@@ -1679,7 +1679,7 @@
   };
 };
 
-"nQa4eu8m" = lib.buildMinecraftFile {
+"nQa4eu8m" = lib.buildMinecraftMod {
   pname = "23.6.2";
   version = "23.6.2_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/nQa4eu8m/Xaeros_Minimap_23.6.2_Fabric_1.19.3.jar";
@@ -1691,7 +1691,7 @@
   };
 };
 
-"CHk4H0Bw" = lib.buildMinecraftFile {
+"CHk4H0Bw" = lib.buildMinecraftMod {
   pname = "23.6.2";
   version = "23.6.2_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/CHk4H0Bw/Xaeros_Minimap_23.6.2_Fabric_1.19.1.jar";
@@ -1703,7 +1703,7 @@
   };
 };
 
-"Jwydpps9" = lib.buildMinecraftFile {
+"Jwydpps9" = lib.buildMinecraftMod {
   pname = "23.6.2";
   version = "23.6.2_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Jwydpps9/Xaeros_Minimap_23.6.2_Fabric_1.18.2.jar";
@@ -1715,7 +1715,7 @@
   };
 };
 
-"EXBvAXXM" = lib.buildMinecraftFile {
+"EXBvAXXM" = lib.buildMinecraftMod {
   pname = "23.6.2";
   version = "23.6.2_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/EXBvAXXM/Xaeros_Minimap_23.6.2_Fabric_1.17.1.jar";
@@ -1727,7 +1727,7 @@
   };
 };
 
-"DKslEExY" = lib.buildMinecraftFile {
+"DKslEExY" = lib.buildMinecraftMod {
   pname = "23.6.2";
   version = "23.6.2_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/DKslEExY/Xaeros_Minimap_23.6.2_Fabric_1.16.5.jar";
@@ -1739,7 +1739,7 @@
   };
 };
 
-"1DxAMjCv" = lib.buildMinecraftFile {
+"1DxAMjCv" = lib.buildMinecraftMod {
   pname = "23.6.1";
   version = "23.6.1_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/1DxAMjCv/Xaeros_Minimap_23.6.1_Fabric_1.20.jar";
@@ -1751,7 +1751,7 @@
   };
 };
 
-"qAFan3b8" = lib.buildMinecraftFile {
+"qAFan3b8" = lib.buildMinecraftMod {
   pname = "23.6.1";
   version = "23.6.1_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/qAFan3b8/Xaeros_Minimap_23.6.1_Fabric_1.19.4.jar";
@@ -1763,7 +1763,7 @@
   };
 };
 
-"k6hvQZGk" = lib.buildMinecraftFile {
+"k6hvQZGk" = lib.buildMinecraftMod {
   pname = "23.6.1";
   version = "23.6.1_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/k6hvQZGk/Xaeros_Minimap_23.6.1_Fabric_1.19.3.jar";
@@ -1775,7 +1775,7 @@
   };
 };
 
-"7GBpgdcp" = lib.buildMinecraftFile {
+"7GBpgdcp" = lib.buildMinecraftMod {
   pname = "23.6.1";
   version = "23.6.1_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/7GBpgdcp/Xaeros_Minimap_23.6.1_Fabric_1.19.1.jar";
@@ -1787,7 +1787,7 @@
   };
 };
 
-"nhS6BPLW" = lib.buildMinecraftFile {
+"nhS6BPLW" = lib.buildMinecraftMod {
   pname = "23.6.1";
   version = "23.6.1_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/nhS6BPLW/Xaeros_Minimap_23.6.1_Fabric_1.18.2.jar";
@@ -1799,7 +1799,7 @@
   };
 };
 
-"fpSneDSW" = lib.buildMinecraftFile {
+"fpSneDSW" = lib.buildMinecraftMod {
   pname = "23.6.1";
   version = "23.6.1_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/fpSneDSW/Xaeros_Minimap_23.6.1_Fabric_1.17.1.jar";
@@ -1811,7 +1811,7 @@
   };
 };
 
-"mMUiMak0" = lib.buildMinecraftFile {
+"mMUiMak0" = lib.buildMinecraftMod {
   pname = "23.6.1";
   version = "23.6.1_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/mMUiMak0/Xaeros_Minimap_23.6.1_Fabric_1.16.5.jar";
@@ -1823,7 +1823,7 @@
   };
 };
 
-"2aWIxg96" = lib.buildMinecraftFile {
+"2aWIxg96" = lib.buildMinecraftMod {
   pname = "23.6.0";
   version = "23.6.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/2aWIxg96/Xaeros_Minimap_23.6.0_Fabric_1.20.jar";
@@ -1835,7 +1835,7 @@
   };
 };
 
-"pv0bLIS8" = lib.buildMinecraftFile {
+"pv0bLIS8" = lib.buildMinecraftMod {
   pname = "23.6.0";
   version = "23.6.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/pv0bLIS8/Xaeros_Minimap_23.6.0_Fabric_1.19.4.jar";
@@ -1847,7 +1847,7 @@
   };
 };
 
-"Y6EQTA41" = lib.buildMinecraftFile {
+"Y6EQTA41" = lib.buildMinecraftMod {
   pname = "23.6.0";
   version = "23.6.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Y6EQTA41/Xaeros_Minimap_23.6.0_Fabric_1.19.3.jar";
@@ -1859,7 +1859,7 @@
   };
 };
 
-"LKcX5Que" = lib.buildMinecraftFile {
+"LKcX5Que" = lib.buildMinecraftMod {
   pname = "23.6.0";
   version = "23.6.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/LKcX5Que/Xaeros_Minimap_23.6.0_Fabric_1.19.1.jar";
@@ -1871,7 +1871,7 @@
   };
 };
 
-"M2P91buq" = lib.buildMinecraftFile {
+"M2P91buq" = lib.buildMinecraftMod {
   pname = "23.6.0";
   version = "23.6.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/M2P91buq/Xaeros_Minimap_23.6.0_Fabric_1.18.2.jar";
@@ -1883,7 +1883,7 @@
   };
 };
 
-"4XS19D9K" = lib.buildMinecraftFile {
+"4XS19D9K" = lib.buildMinecraftMod {
   pname = "23.6.0";
   version = "23.6.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/4XS19D9K/Xaeros_Minimap_23.6.0_Fabric_1.17.1.jar";
@@ -1895,7 +1895,7 @@
   };
 };
 
-"AG8u4P63" = lib.buildMinecraftFile {
+"AG8u4P63" = lib.buildMinecraftMod {
   pname = "23.6.0";
   version = "23.6.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/AG8u4P63/Xaeros_Minimap_23.6.0_Fabric_1.16.5.jar";
@@ -1907,7 +1907,7 @@
   };
 };
 
-"46F7j3df" = lib.buildMinecraftFile {
+"46F7j3df" = lib.buildMinecraftMod {
   pname = "23.5.0";
   version = "23.5.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/46F7j3df/Xaeros_Minimap_23.5.0_Fabric_1.20.jar";
@@ -1919,7 +1919,7 @@
   };
 };
 
-"iRhAjU2h" = lib.buildMinecraftFile {
+"iRhAjU2h" = lib.buildMinecraftMod {
   pname = "23.5.0";
   version = "23.5.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/iRhAjU2h/Xaeros_Minimap_23.5.0_Fabric_1.19.4.jar";
@@ -1931,7 +1931,7 @@
   };
 };
 
-"2smSuVIC" = lib.buildMinecraftFile {
+"2smSuVIC" = lib.buildMinecraftMod {
   pname = "23.5.0";
   version = "23.5.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/2smSuVIC/Xaeros_Minimap_23.5.0_Fabric_1.19.3.jar";
@@ -1943,7 +1943,7 @@
   };
 };
 
-"H5ELiTaK" = lib.buildMinecraftFile {
+"H5ELiTaK" = lib.buildMinecraftMod {
   pname = "23.5.0";
   version = "23.5.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/H5ELiTaK/Xaeros_Minimap_23.5.0_Fabric_1.19.1.jar";
@@ -1955,7 +1955,7 @@
   };
 };
 
-"4lEWVPp0" = lib.buildMinecraftFile {
+"4lEWVPp0" = lib.buildMinecraftMod {
   pname = "23.5.0";
   version = "23.5.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/4lEWVPp0/Xaeros_Minimap_23.5.0_Fabric_1.18.2.jar";
@@ -1967,7 +1967,7 @@
   };
 };
 
-"ldf3azl1" = lib.buildMinecraftFile {
+"ldf3azl1" = lib.buildMinecraftMod {
   pname = "23.5.0";
   version = "23.5.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/ldf3azl1/Xaeros_Minimap_23.5.0_Fabric_1.17.1.jar";
@@ -1979,7 +1979,7 @@
   };
 };
 
-"dRt8YraU" = lib.buildMinecraftFile {
+"dRt8YraU" = lib.buildMinecraftMod {
   pname = "23.5.0";
   version = "23.5.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/dRt8YraU/Xaeros_Minimap_23.5.0_Fabric_1.16.5.jar";
@@ -1991,7 +1991,7 @@
   };
 };
 
-"I8fXehdE" = lib.buildMinecraftFile {
+"I8fXehdE" = lib.buildMinecraftMod {
   pname = "23.4.4";
   version = "23.4.4_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/I8fXehdE/Xaeros_Minimap_23.4.4_Fabric_1.20.jar";
@@ -2003,7 +2003,7 @@
   };
 };
 
-"1iUK4vVw" = lib.buildMinecraftFile {
+"1iUK4vVw" = lib.buildMinecraftMod {
   pname = "23.4.4";
   version = "23.4.4_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/1iUK4vVw/Xaeros_Minimap_23.4.4_Fabric_1.19.4.jar";
@@ -2015,7 +2015,7 @@
   };
 };
 
-"EJBTntJm" = lib.buildMinecraftFile {
+"EJBTntJm" = lib.buildMinecraftMod {
   pname = "23.4.4";
   version = "23.4.4_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/EJBTntJm/Xaeros_Minimap_23.4.4_Fabric_1.19.3.jar";
@@ -2027,7 +2027,7 @@
   };
 };
 
-"XEps1Upt" = lib.buildMinecraftFile {
+"XEps1Upt" = lib.buildMinecraftMod {
   pname = "23.4.4";
   version = "23.4.4_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/XEps1Upt/Xaeros_Minimap_23.4.4_Fabric_1.19.1.jar";
@@ -2039,7 +2039,7 @@
   };
 };
 
-"lli7W8KF" = lib.buildMinecraftFile {
+"lli7W8KF" = lib.buildMinecraftMod {
   pname = "23.4.4";
   version = "23.4.4_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/lli7W8KF/Xaeros_Minimap_23.4.4_Fabric_1.18.2.jar";
@@ -2051,7 +2051,7 @@
   };
 };
 
-"KwzRNV0o" = lib.buildMinecraftFile {
+"KwzRNV0o" = lib.buildMinecraftMod {
   pname = "23.4.4";
   version = "23.4.4_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/KwzRNV0o/Xaeros_Minimap_23.4.4_Fabric_1.17.1.jar";
@@ -2063,7 +2063,7 @@
   };
 };
 
-"bAL4VcAg" = lib.buildMinecraftFile {
+"bAL4VcAg" = lib.buildMinecraftMod {
   pname = "23.4.4";
   version = "23.4.4_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/bAL4VcAg/Xaeros_Minimap_23.4.4_Fabric_1.16.5.jar";
@@ -2075,7 +2075,7 @@
   };
 };
 
-"5GPcMgHh" = lib.buildMinecraftFile {
+"5GPcMgHh" = lib.buildMinecraftMod {
   pname = "23.4.3";
   version = "23.4.3_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/5GPcMgHh/Xaeros_Minimap_23.4.3_Fabric_1.19.4.jar";
@@ -2087,7 +2087,7 @@
   };
 };
 
-"Ch6QAiVR" = lib.buildMinecraftFile {
+"Ch6QAiVR" = lib.buildMinecraftMod {
   pname = "23.4.3";
   version = "23.4.3_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Ch6QAiVR/Xaeros_Minimap_23.4.3_Fabric_1.19.3.jar";
@@ -2099,7 +2099,7 @@
   };
 };
 
-"X7nLQ7Vm" = lib.buildMinecraftFile {
+"X7nLQ7Vm" = lib.buildMinecraftMod {
   pname = "23.4.3";
   version = "23.4.3_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/X7nLQ7Vm/Xaeros_Minimap_23.4.3_Fabric_1.19.1.jar";
@@ -2111,7 +2111,7 @@
   };
 };
 
-"6X8lqJyo" = lib.buildMinecraftFile {
+"6X8lqJyo" = lib.buildMinecraftMod {
   pname = "23.4.3";
   version = "23.4.3_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/6X8lqJyo/Xaeros_Minimap_23.4.3_Fabric_1.18.2.jar";
@@ -2123,7 +2123,7 @@
   };
 };
 
-"vgcVyWHv" = lib.buildMinecraftFile {
+"vgcVyWHv" = lib.buildMinecraftMod {
   pname = "23.4.3";
   version = "23.4.3_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/vgcVyWHv/Xaeros_Minimap_23.4.3_Fabric_1.17.1.jar";
@@ -2135,7 +2135,7 @@
   };
 };
 
-"r3BpxmG2" = lib.buildMinecraftFile {
+"r3BpxmG2" = lib.buildMinecraftMod {
   pname = "23.4.3";
   version = "23.4.3_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/r3BpxmG2/Xaeros_Minimap_23.4.3_Fabric_1.16.5.jar";
@@ -2147,7 +2147,7 @@
   };
 };
 
-"2BTN3DDS" = lib.buildMinecraftFile {
+"2BTN3DDS" = lib.buildMinecraftMod {
   pname = "23.4.2";
   version = "23.4.2_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/2BTN3DDS/Xaeros_Minimap_23.4.2_Fabric_1.19.4.jar";
@@ -2159,7 +2159,7 @@
   };
 };
 
-"cme3p1dr" = lib.buildMinecraftFile {
+"cme3p1dr" = lib.buildMinecraftMod {
   pname = "23.4.2";
   version = "23.4.2_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/cme3p1dr/Xaeros_Minimap_23.4.2_Fabric_1.19.3.jar";
@@ -2171,7 +2171,7 @@
   };
 };
 
-"2Xt8KsYf" = lib.buildMinecraftFile {
+"2Xt8KsYf" = lib.buildMinecraftMod {
   pname = "23.4.2";
   version = "23.4.2_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/2Xt8KsYf/Xaeros_Minimap_23.4.2_Fabric_1.19.1.jar";
@@ -2183,7 +2183,7 @@
   };
 };
 
-"tqv1PQZK" = lib.buildMinecraftFile {
+"tqv1PQZK" = lib.buildMinecraftMod {
   pname = "23.4.2";
   version = "23.4.2_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/tqv1PQZK/Xaeros_Minimap_23.4.2_Fabric_1.18.2.jar";
@@ -2195,7 +2195,7 @@
   };
 };
 
-"IawL7pJb" = lib.buildMinecraftFile {
+"IawL7pJb" = lib.buildMinecraftMod {
   pname = "23.4.2";
   version = "23.4.2_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/IawL7pJb/Xaeros_Minimap_23.4.2_Fabric_1.17.1.jar";
@@ -2207,7 +2207,7 @@
   };
 };
 
-"5pbtWSsW" = lib.buildMinecraftFile {
+"5pbtWSsW" = lib.buildMinecraftMod {
   pname = "23.4.2";
   version = "23.4.2_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/5pbtWSsW/Xaeros_Minimap_23.4.2_Fabric_1.16.5.jar";
@@ -2219,7 +2219,7 @@
   };
 };
 
-"wA5lTfMy" = lib.buildMinecraftFile {
+"wA5lTfMy" = lib.buildMinecraftMod {
   pname = "23.4.1";
   version = "23.4.1_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/wA5lTfMy/Xaeros_Minimap_23.4.1_Fabric_1.19.4.jar";
@@ -2231,7 +2231,7 @@
   };
 };
 
-"r1kfKLex" = lib.buildMinecraftFile {
+"r1kfKLex" = lib.buildMinecraftMod {
   pname = "23.4.1";
   version = "23.4.1_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/r1kfKLex/Xaeros_Minimap_23.4.1_Fabric_1.19.3.jar";
@@ -2243,7 +2243,7 @@
   };
 };
 
-"4BuZ2uQi" = lib.buildMinecraftFile {
+"4BuZ2uQi" = lib.buildMinecraftMod {
   pname = "23.4.1";
   version = "23.4.1_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/4BuZ2uQi/Xaeros_Minimap_23.4.1_Fabric_1.19.1.jar";
@@ -2255,7 +2255,7 @@
   };
 };
 
-"bGXg9vXe" = lib.buildMinecraftFile {
+"bGXg9vXe" = lib.buildMinecraftMod {
   pname = "23.4.1";
   version = "23.4.1_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/bGXg9vXe/Xaeros_Minimap_23.4.1_Fabric_1.18.2.jar";
@@ -2267,7 +2267,7 @@
   };
 };
 
-"2gZQVfXc" = lib.buildMinecraftFile {
+"2gZQVfXc" = lib.buildMinecraftMod {
   pname = "23.4.1";
   version = "23.4.1_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/2gZQVfXc/Xaeros_Minimap_23.4.1_Fabric_1.17.1.jar";
@@ -2279,7 +2279,7 @@
   };
 };
 
-"1x0ILsMp" = lib.buildMinecraftFile {
+"1x0ILsMp" = lib.buildMinecraftMod {
   pname = "23.4.1";
   version = "23.4.1_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/1x0ILsMp/Xaeros_Minimap_23.4.1_Fabric_1.16.5.jar";
@@ -2291,7 +2291,7 @@
   };
 };
 
-"vrnch5iH" = lib.buildMinecraftFile {
+"vrnch5iH" = lib.buildMinecraftMod {
   pname = "23.4.0";
   version = "23.4.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/vrnch5iH/Xaeros_Minimap_23.4.0_Fabric_1.19.4.jar";
@@ -2303,7 +2303,7 @@
   };
 };
 
-"avJ1VxJU" = lib.buildMinecraftFile {
+"avJ1VxJU" = lib.buildMinecraftMod {
   pname = "23.4.0";
   version = "23.4.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/avJ1VxJU/Xaeros_Minimap_23.4.0_Fabric_1.19.3.jar";
@@ -2315,7 +2315,7 @@
   };
 };
 
-"FojbYoas" = lib.buildMinecraftFile {
+"FojbYoas" = lib.buildMinecraftMod {
   pname = "23.4.0";
   version = "23.4.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/FojbYoas/Xaeros_Minimap_23.4.0_Fabric_1.19.1.jar";
@@ -2327,7 +2327,7 @@
   };
 };
 
-"J6KCYRdU" = lib.buildMinecraftFile {
+"J6KCYRdU" = lib.buildMinecraftMod {
   pname = "23.4.0";
   version = "23.4.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/J6KCYRdU/Xaeros_Minimap_23.4.0_Fabric_1.18.2.jar";
@@ -2339,7 +2339,7 @@
   };
 };
 
-"iQUItHJR" = lib.buildMinecraftFile {
+"iQUItHJR" = lib.buildMinecraftMod {
   pname = "23.4.0";
   version = "23.4.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/iQUItHJR/Xaeros_Minimap_23.4.0_Fabric_1.17.1.jar";
@@ -2351,7 +2351,7 @@
   };
 };
 
-"lC4hcOVE" = lib.buildMinecraftFile {
+"lC4hcOVE" = lib.buildMinecraftMod {
   pname = "23.4.0";
   version = "23.4.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/1bokaNcj/versions/lC4hcOVE/Xaeros_Minimap_23.4.0_Fabric_1.16.5.jar";

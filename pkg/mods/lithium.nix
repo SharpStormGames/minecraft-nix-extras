@@ -1,5 +1,5 @@
 { lib, ... }: {
-"5a3sPIH2" = lib.buildMinecraftFile {
+"5a3sPIH2" = lib.buildMinecraftMod {
   pname = "Lithium 0.12.5";
   version = "mc1.20.6-0.12.5";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/5a3sPIH2/lithium-fabric-mc1.20.6-0.12.5.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"p25IJhj0" = lib.buildMinecraftFile {
+"p25IJhj0" = lib.buildMinecraftMod {
   pname = "Lithium 0.12.5";
   version = "mc1.20.5-0.12.5";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/p25IJhj0/lithium-fabric-mc1.20.5-0.12.5.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"my7uONjU" = lib.buildMinecraftFile {
+"my7uONjU" = lib.buildMinecraftMod {
   pname = "Lithium 0.12.7";
   version = "mc1.21-0.12.7";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/my7uONjU/lithium-fabric-mc1.21-0.12.7.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"OC4JOVBe" = lib.buildMinecraftFile {
+"OC4JOVBe" = lib.buildMinecraftMod {
   pname = "Lithium 0.12.5";
   version = "mc1.21-0.12.5";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OC4JOVBe/lithium-fabric-mc1.21-0.12.5.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"fsK2ycFx" = lib.buildMinecraftFile {
+"fsK2ycFx" = lib.buildMinecraftMod {
   pname = "Lithium 0.12.4";
   version = "mc1.20.6-0.12.4";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/fsK2ycFx/lithium-fabric-mc1.20.6-0.12.4.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"g2qXxjsR" = lib.buildMinecraftFile {
+"g2qXxjsR" = lib.buildMinecraftMod {
   pname = "Lithium 0.12.4";
   version = "mc1.20.5-0.12.4";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/g2qXxjsR/lithium-fabric-mc1.20.5-0.12.4.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"bAbb09VF" = lib.buildMinecraftFile {
+"bAbb09VF" = lib.buildMinecraftMod {
   pname = "Lithium 0.12.3";
   version = "mc1.20.6-0.12.3";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/bAbb09VF/lithium-fabric-mc1.20.6-0.12.3.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"tDFVQpHO" = lib.buildMinecraftFile {
+"tDFVQpHO" = lib.buildMinecraftMod {
   pname = "Lithium 0.12.2";
   version = "mc1.20.5-0.12.2";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/tDFVQpHO/lithium-fabric-mc1.20.5-0.12.2.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"nMhjKWVE" = lib.buildMinecraftFile {
+"nMhjKWVE" = lib.buildMinecraftMod {
   pname = "Lithium 0.12.1";
   version = "mc1.20.4-0.12.1";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/nMhjKWVE/lithium-fabric-mc1.20.4-0.12.1.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"WzQmxYRa" = lib.buildMinecraftFile {
+"WzQmxYRa" = lib.buildMinecraftMod {
   pname = "Lithium 0.12.1";
   version = "mc1.20.3-0.12.1";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/WzQmxYRa/lithium-fabric-mc1.20.3-0.12.1.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"qdzL5Hkg" = lib.buildMinecraftFile {
+"qdzL5Hkg" = lib.buildMinecraftMod {
   pname = "Lithium 0.12.0";
   version = "mc1.20.2-0.12.0";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/qdzL5Hkg/lithium-fabric-mc1.20.2-0.12.0.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"ZSNsJrPI" = lib.buildMinecraftFile {
+"ZSNsJrPI" = lib.buildMinecraftMod {
   pname = "Lithium 0.11.2";
   version = "mc1.20.1-0.11.2";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ZSNsJrPI/lithium-fabric-mc1.20.1-0.11.2.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"2KMrj5c1" = lib.buildMinecraftFile {
+"2KMrj5c1" = lib.buildMinecraftMod {
   pname = "Lithium 0.11.2";
   version = "mc1.20-0.11.2";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/2KMrj5c1/lithium-fabric-mc1.20-0.11.2.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"14hWYkog" = lib.buildMinecraftFile {
+"14hWYkog" = lib.buildMinecraftMod {
   pname = "Lithium 0.11.1";
   version = "mc1.19.4-0.11.1";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/14hWYkog/lithium-fabric-mc1.19.4-0.11.1.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"53cwYYb1" = lib.buildMinecraftFile {
+"53cwYYb1" = lib.buildMinecraftMod {
   pname = "Lithium 0.11.1";
   version = "mc1.19.3-0.11.1";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/53cwYYb1/lithium-fabric-mc1.19.3-0.11.1.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"m6sVgAi6" = lib.buildMinecraftFile {
+"m6sVgAi6" = lib.buildMinecraftMod {
   pname = "Lithium 0.11.1";
   version = "mc1.19.2-0.11.1";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/m6sVgAi6/lithium-fabric-mc1.19.2-0.11.1.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"GYl3zwgt" = lib.buildMinecraftFile {
+"GYl3zwgt" = lib.buildMinecraftMod {
   pname = "Lithium 0.11.0";
   version = "mc1.19.2-0.11.0";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/GYl3zwgt/lithium-fabric-mc1.19.2-0.11.0.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"sMWkk4VU" = lib.buildMinecraftFile {
+"sMWkk4VU" = lib.buildMinecraftMod {
   pname = "Lithium 0.11.0";
   version = "mc1.19.3-0.11.0";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/sMWkk4VU/lithium-fabric-mc1.19.3-0.11.0.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"XS6vJwop" = lib.buildMinecraftFile {
+"XS6vJwop" = lib.buildMinecraftMod {
   pname = "Lithium 0.10.4";
   version = "mc1.19.3-0.10.4";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/XS6vJwop/lithium-fabric-mc1.19.3-0.10.4.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"7scJ9RTg" = lib.buildMinecraftFile {
+"7scJ9RTg" = lib.buildMinecraftMod {
   pname = "Lithium 0.10.4";
   version = "mc1.19.2-0.10.4";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/7scJ9RTg/lithium-fabric-mc1.19.2-0.10.4.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"3Gq9H7R9" = lib.buildMinecraftFile {
+"3Gq9H7R9" = lib.buildMinecraftMod {
   pname = "Lithium 0.10.3";
   version = "mc1.19.3-0.10.3";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/3Gq9H7R9/lithium-fabric-mc1.19.3-0.10.3.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"OKrb9xMn" = lib.buildMinecraftFile {
+"OKrb9xMn" = lib.buildMinecraftMod {
   pname = "Lithium 0.10.3";
   version = "mc1.19.2-0.10.3";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/OKrb9xMn/lithium-fabric-mc1.19.2-0.10.3.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"ALnv7Npy" = lib.buildMinecraftFile {
+"ALnv7Npy" = lib.buildMinecraftMod {
   pname = "Lithium 0.10.3";
   version = "mc1.18.2-0.10.3";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ALnv7Npy/lithium-fabric-mc1.18.2-0.10.3.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"FXG2XqRP" = lib.buildMinecraftFile {
+"FXG2XqRP" = lib.buildMinecraftMod {
   pname = "Lithium 0.10.2";
   version = "mc1.18.2-0.10.2";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/FXG2XqRP/lithium-fabric-mc1.18.2-0.10.2.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"IQxlSIiw" = lib.buildMinecraftFile {
+"IQxlSIiw" = lib.buildMinecraftMod {
   pname = "Lithium 0.10.2";
   version = "mc1.19.2-0.10.2";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/IQxlSIiw/lithium-fabric-mc1.19.2-0.10.2.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"xVm1caOt" = lib.buildMinecraftFile {
+"xVm1caOt" = lib.buildMinecraftMod {
   pname = "Lithium 0.10.1";
   version = "mc1.19.2-0.10.1";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/xVm1caOt/lithium-fabric-mc1.19.2-0.10.1.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"ySBrfN8N" = lib.buildMinecraftFile {
+"ySBrfN8N" = lib.buildMinecraftMod {
   pname = "Lithium 0.10.0";
   version = "mc1.19.2-0.10.0";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/ySBrfN8N/lithium-fabric-mc1.19.2-0.10.0.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"2ysRxhIL" = lib.buildMinecraftFile {
+"2ysRxhIL" = lib.buildMinecraftMod {
   pname = "Lithium 0.9.1";
   version = "mc1.19.2-0.9.1";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/2ysRxhIL/lithium-fabric-mc1.19.2-0.9.1.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"Nba2vozh" = lib.buildMinecraftFile {
+"Nba2vozh" = lib.buildMinecraftMod {
   pname = "Lithium 0.9.0";
   version = "mc1.19.2-0.9.0";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/Nba2vozh/lithium-fabric-mc1.19.2-0.9.0.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"Zs3sdHjK" = lib.buildMinecraftFile {
+"Zs3sdHjK" = lib.buildMinecraftMod {
   pname = "Lithium 0.8.3";
   version = "mc1.19.2-0.8.3";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19.2-0.8.3/lithium-fabric-mc1.19.2-0.8.3.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"ZRR9yqHD" = lib.buildMinecraftFile {
+"ZRR9yqHD" = lib.buildMinecraftMod {
   pname = "Lithium 0.8.3";
   version = "mc1.19.1-0.8.3";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19.1-0.8.3/lithium-fabric-mc1.19.1-0.8.3.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"sIKhU9s4" = lib.buildMinecraftFile {
+"sIKhU9s4" = lib.buildMinecraftMod {
   pname = "Lithium 0.8.1";
   version = "mc1.19-0.8.1";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19-0.8.1/lithium-fabric-mc1.19-0.8.1.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"pXdccFQf" = lib.buildMinecraftFile {
+"pXdccFQf" = lib.buildMinecraftMod {
   pname = "Lithium 0.8.0";
   version = "mc1.19-0.8.0";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.19-0.8.0/lithium-fabric-mc1.19-0.8.0.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"pHl1Vi6k" = lib.buildMinecraftFile {
+"pHl1Vi6k" = lib.buildMinecraftMod {
   pname = "Lithium 0.7.10";
   version = "mc1.18.2-0.7.10";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.10/lithium-fabric-mc1.18.2-0.7.10.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"MoF1cn6g" = lib.buildMinecraftFile {
+"MoF1cn6g" = lib.buildMinecraftMod {
   pname = "Lithium 0.7.9";
   version = "mc1.18.2-0.7.9";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.2-0.7.9/lithium-fabric-mc1.18.2-0.7.9.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"Ehsd7YUl" = lib.buildMinecraftFile {
+"Ehsd7YUl" = lib.buildMinecraftMod {
   pname = "Lithium 0.7.8";
   version = "mc1.18.1-0.7.8";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.8/lithium-fabric-mc1.18.1-0.7.8.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"2aoHIXuK" = lib.buildMinecraftFile {
+"2aoHIXuK" = lib.buildMinecraftMod {
   pname = "Lithium 0.7.7";
   version = "mc1.18.1-0.7.7";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.7/lithium-fabric-mc1.18.1-0.7.7.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"2CbyxeU0" = lib.buildMinecraftFile {
+"2CbyxeU0" = lib.buildMinecraftMod {
   pname = "Lithium 0.7.6";
   version = "mc1.18.1-0.7.6";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18.1-0.7.6/lithium-fabric-mc1.18.1-0.7.6.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"2w527DB2" = lib.buildMinecraftFile {
+"2w527DB2" = lib.buildMinecraftMod {
   pname = "Lithium 0.7.6-rc1";
   version = "mc1.18-0.7.6-rc1";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.18-0.7.6-rc1/lithium-fabric-mc1.18-0.7.6-rc1.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"FHFKMKeu" = lib.buildMinecraftFile {
+"FHFKMKeu" = lib.buildMinecraftMod {
   pname = "Lithium 0.7.5";
   version = "mc1.17.1-0.7.5";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.5/lithium-fabric-mc1.17.1-0.7.5.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"nVR7Q63z" = lib.buildMinecraftFile {
+"nVR7Q63z" = lib.buildMinecraftMod {
   pname = "Lithium 0.7.4";
   version = "mc1.17.1-0.7.4";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.4/lithium-fabric-mc1.17.1-0.7.4.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"cTZv31gu" = lib.buildMinecraftFile {
+"cTZv31gu" = lib.buildMinecraftMod {
   pname = "Lithium 0.7.3";
   version = "mc1.17.1-0.7.3";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17.1-0.7.3/lithium-fabric-mc1.17.1-0.7.3.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"aZ0JFf08" = lib.buildMinecraftFile {
+"aZ0JFf08" = lib.buildMinecraftMod {
   pname = "Lithium 0.7.2";
   version = "mc1.17-0.7.2";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17-0.7.2/lithium-fabric-mc1.17-0.7.2.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"7jxErppe" = lib.buildMinecraftFile {
+"7jxErppe" = lib.buildMinecraftMod {
   pname = "Lithium 0.7.1";
   version = "mc1.17-0.7.1";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17-0.7.1/lithium-fabric-mc1.17-0.7.1.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"rvsW1zhb" = lib.buildMinecraftFile {
+"rvsW1zhb" = lib.buildMinecraftMod {
   pname = "Lithium 0.6.6";
   version = "mc1.16.5-0.6.6";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.6/lithium-fabric-mc1.16.5-0.6.6.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"Le0tKjFX" = lib.buildMinecraftFile {
+"Le0tKjFX" = lib.buildMinecraftMod {
   pname = "Lithium 0.7.0";
   version = "mc1.17-0.7.0";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.17-0.7.0/lithium-fabric-mc1.17-0.7.0.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"pGhOMdTm" = lib.buildMinecraftFile {
+"pGhOMdTm" = lib.buildMinecraftMod {
   pname = "Lithium 0.6.5";
   version = "mc1.16.5-0.6.5";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.5/lithium-fabric-mc1.16.5-0.6.5.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"igqdFUYG" = lib.buildMinecraftFile {
+"igqdFUYG" = lib.buildMinecraftMod {
   pname = "Lithium 0.6.4";
   version = "mc1.16.5-0.6.4";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.4/lithium-fabric-mc1.16.5-0.6.4.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"ouTdXXWj" = lib.buildMinecraftFile {
+"ouTdXXWj" = lib.buildMinecraftMod {
   pname = "Lithium 0.6.3";
   version = "mc1.16.5-0.6.3";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-0.6.3/lithium-fabric-mc1.16.5-0.6.3.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"5fmGl08Y" = lib.buildMinecraftFile {
+"5fmGl08Y" = lib.buildMinecraftMod {
   pname = "Lithium 0.6.1";
   version = "mc1.16.5-0.6.1";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.5-v0.6.1/lithium-fabric-mc1.16.5-0.6.1.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"EhG1mQzx" = lib.buildMinecraftFile {
+"EhG1mQzx" = lib.buildMinecraftMod {
   pname = "Lithium 0.6.0";
   version = "mc1.16.4-0.6.0";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/mc1.16.4-0.6.0/lithium-fabric-mc1.16.4-0.6.0.jar";

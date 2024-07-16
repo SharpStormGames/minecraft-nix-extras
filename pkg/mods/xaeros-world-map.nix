@@ -1,5 +1,5 @@
 { lib, ... }: {
-"ekubtdIk" = lib.buildMinecraftFile {
+"ekubtdIk" = lib.buildMinecraftMod {
   pname = "1.38.8";
   version = "1.38.8_Fabric_1.21";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/ekubtdIk/XaerosWorldMap_1.38.8_Fabric_1.21.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"o7mEAkNb" = lib.buildMinecraftFile {
+"o7mEAkNb" = lib.buildMinecraftMod {
   pname = "1.38.8";
   version = "1.38.8_Fabric_1.20.6";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/o7mEAkNb/XaerosWorldMap_1.38.8_Fabric_1.20.6.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"jEhoJmNF" = lib.buildMinecraftFile {
+"jEhoJmNF" = lib.buildMinecraftMod {
   pname = "1.38.8";
   version = "1.38.8_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/jEhoJmNF/XaerosWorldMap_1.38.8_Fabric_1.20.4.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"SMSdfLOQ" = lib.buildMinecraftFile {
+"SMSdfLOQ" = lib.buildMinecraftMod {
   pname = "1.38.8";
   version = "1.38.8_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/SMSdfLOQ/XaerosWorldMap_1.38.8_Fabric_1.20.2.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"szULGs3b" = lib.buildMinecraftFile {
+"szULGs3b" = lib.buildMinecraftMod {
   pname = "1.38.8";
   version = "1.38.8_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/szULGs3b/XaerosWorldMap_1.38.8_Fabric_1.20.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"bId5K1EM" = lib.buildMinecraftFile {
+"bId5K1EM" = lib.buildMinecraftMod {
   pname = "1.38.8";
   version = "1.38.8_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/bId5K1EM/XaerosWorldMap_1.38.8_Fabric_1.19.4.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"zpobQtXe" = lib.buildMinecraftFile {
+"zpobQtXe" = lib.buildMinecraftMod {
   pname = "1.38.8";
   version = "1.38.8_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/zpobQtXe/XaerosWorldMap_1.38.8_Fabric_1.19.1.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"3gmYeL8R" = lib.buildMinecraftFile {
+"3gmYeL8R" = lib.buildMinecraftMod {
   pname = "1.38.8";
   version = "1.38.8_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/3gmYeL8R/XaerosWorldMap_1.38.8_Fabric_1.18.2.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"I7KNlIg7" = lib.buildMinecraftFile {
+"I7KNlIg7" = lib.buildMinecraftMod {
   pname = "1.38.8";
   version = "1.38.8_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/I7KNlIg7/XaerosWorldMap_1.38.8_Fabric_1.16.5.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"aWXGiFVe" = lib.buildMinecraftFile {
+"aWXGiFVe" = lib.buildMinecraftMod {
   pname = "1.38.6";
   version = "1.38.6_Fabric_1.20.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/aWXGiFVe/XaerosWorldMap_1.38.6_Fabric_1.20.5.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"Jm03NtYN" = lib.buildMinecraftFile {
+"Jm03NtYN" = lib.buildMinecraftMod {
   pname = "1.38.5";
   version = "1.38.5_Fabric_1.20.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/Jm03NtYN/XaerosWorldMap_1.38.5_Fabric_1.20.5.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"ciwrnpWQ" = lib.buildMinecraftFile {
+"ciwrnpWQ" = lib.buildMinecraftMod {
   pname = "1.38.4";
   version = "1.38.4_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/ciwrnpWQ/XaerosWorldMap_1.38.4_Fabric_1.20.4.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"vtaHEcnA" = lib.buildMinecraftFile {
+"vtaHEcnA" = lib.buildMinecraftMod {
   pname = "1.38.4";
   version = "1.38.4_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/vtaHEcnA/XaerosWorldMap_1.38.4_Fabric_1.20.2.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"GOh0fFoJ" = lib.buildMinecraftFile {
+"GOh0fFoJ" = lib.buildMinecraftMod {
   pname = "1.38.4";
   version = "1.38.4_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/GOh0fFoJ/XaerosWorldMap_1.38.4_Fabric_1.20.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"cWnkuNpP" = lib.buildMinecraftFile {
+"cWnkuNpP" = lib.buildMinecraftMod {
   pname = "1.38.4";
   version = "1.38.4_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/cWnkuNpP/XaerosWorldMap_1.38.4_Fabric_1.19.4.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"AFdUAvnz" = lib.buildMinecraftFile {
+"AFdUAvnz" = lib.buildMinecraftMod {
   pname = "1.38.4";
   version = "1.38.4_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/AFdUAvnz/XaerosWorldMap_1.38.4_Fabric_1.19.1.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"n9H74LC6" = lib.buildMinecraftFile {
+"n9H74LC6" = lib.buildMinecraftMod {
   pname = "1.38.4";
   version = "1.38.4_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/n9H74LC6/XaerosWorldMap_1.38.4_Fabric_1.18.2.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"mTb5Uwa7" = lib.buildMinecraftFile {
+"mTb5Uwa7" = lib.buildMinecraftMod {
   pname = "1.38.4";
   version = "1.38.4_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/mTb5Uwa7/XaerosWorldMap_1.38.4_Fabric_1.16.5.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"xoWyMT9q" = lib.buildMinecraftFile {
+"xoWyMT9q" = lib.buildMinecraftMod {
   pname = "1.38.3";
   version = "1.38.3_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/xoWyMT9q/XaerosWorldMap_1.38.3_Fabric_1.20.4.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"RVSNzF7P" = lib.buildMinecraftFile {
+"RVSNzF7P" = lib.buildMinecraftMod {
   pname = "1.38.3";
   version = "1.38.3_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/RVSNzF7P/XaerosWorldMap_1.38.3_Fabric_1.20.2.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"1ZFOZLG2" = lib.buildMinecraftFile {
+"1ZFOZLG2" = lib.buildMinecraftMod {
   pname = "1.38.3";
   version = "1.38.3_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/1ZFOZLG2/XaerosWorldMap_1.38.3_Fabric_1.20.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"U7wvj4vx" = lib.buildMinecraftFile {
+"U7wvj4vx" = lib.buildMinecraftMod {
   pname = "1.38.3";
   version = "1.38.3_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/U7wvj4vx/XaerosWorldMap_1.38.3_Fabric_1.19.4.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"HvnvVG2s" = lib.buildMinecraftFile {
+"HvnvVG2s" = lib.buildMinecraftMod {
   pname = "1.38.3";
   version = "1.38.3_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/HvnvVG2s/XaerosWorldMap_1.38.3_Fabric_1.19.1.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"bQjVTElj" = lib.buildMinecraftFile {
+"bQjVTElj" = lib.buildMinecraftMod {
   pname = "1.38.3";
   version = "1.38.3_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/bQjVTElj/XaerosWorldMap_1.38.3_Fabric_1.18.2.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"bgYKlna4" = lib.buildMinecraftFile {
+"bgYKlna4" = lib.buildMinecraftMod {
   pname = "1.38.3";
   version = "1.38.3_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/bgYKlna4/XaerosWorldMap_1.38.3_Fabric_1.16.5.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"2lbtkEPK" = lib.buildMinecraftFile {
+"2lbtkEPK" = lib.buildMinecraftMod {
   pname = "1.38.1";
   version = "1.38.1_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/2lbtkEPK/XaerosWorldMap_1.38.1_Fabric_1.20.4.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"bNTafyGZ" = lib.buildMinecraftFile {
+"bNTafyGZ" = lib.buildMinecraftMod {
   pname = "1.38.1";
   version = "1.38.1_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/bNTafyGZ/XaerosWorldMap_1.38.1_Fabric_1.20.2.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"RtG1V19k" = lib.buildMinecraftFile {
+"RtG1V19k" = lib.buildMinecraftMod {
   pname = "1.38.1";
   version = "1.38.1_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/RtG1V19k/XaerosWorldMap_1.38.1_Fabric_1.20.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"J3gWZ9Y7" = lib.buildMinecraftFile {
+"J3gWZ9Y7" = lib.buildMinecraftMod {
   pname = "1.38.1";
   version = "1.38.1_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/J3gWZ9Y7/XaerosWorldMap_1.38.1_Fabric_1.19.4.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"q81YjdCr" = lib.buildMinecraftFile {
+"q81YjdCr" = lib.buildMinecraftMod {
   pname = "1.38.1";
   version = "1.38.1_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/q81YjdCr/XaerosWorldMap_1.38.1_Fabric_1.19.1.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"RWQIMBFG" = lib.buildMinecraftFile {
+"RWQIMBFG" = lib.buildMinecraftMod {
   pname = "1.38.1";
   version = "1.38.1_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/RWQIMBFG/XaerosWorldMap_1.38.1_Fabric_1.18.2.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"Nl5li4IQ" = lib.buildMinecraftFile {
+"Nl5li4IQ" = lib.buildMinecraftMod {
   pname = "1.38.1";
   version = "1.38.1_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/Nl5li4IQ/XaerosWorldMap_1.38.1_Fabric_1.16.5.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"4PRqBjBF" = lib.buildMinecraftFile {
+"4PRqBjBF" = lib.buildMinecraftMod {
   pname = "1.37.8";
   version = "1.37.8_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/4PRqBjBF/XaerosWorldMap_1.37.8_Fabric_1.19.4.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"p3T8tHy4" = lib.buildMinecraftFile {
+"p3T8tHy4" = lib.buildMinecraftMod {
   pname = "1.37.8";
   version = "1.37.8_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/p3T8tHy4/XaerosWorldMap_1.37.8_Fabric_1.19.3.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"Kh1mGgGA" = lib.buildMinecraftFile {
+"Kh1mGgGA" = lib.buildMinecraftMod {
   pname = "1.37.8";
   version = "1.37.8_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/Kh1mGgGA/XaerosWorldMap_1.37.8_Fabric_1.20.4.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"MtYKhP1z" = lib.buildMinecraftFile {
+"MtYKhP1z" = lib.buildMinecraftMod {
   pname = "1.37.8";
   version = "1.37.8_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/MtYKhP1z/XaerosWorldMap_1.37.8_Fabric_1.20.2.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"RR2qcEow" = lib.buildMinecraftFile {
+"RR2qcEow" = lib.buildMinecraftMod {
   pname = "1.37.8";
   version = "1.37.8_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/RR2qcEow/XaerosWorldMap_1.37.8_Fabric_1.20.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"MGnsRoAP" = lib.buildMinecraftFile {
+"MGnsRoAP" = lib.buildMinecraftMod {
   pname = "1.37.8";
   version = "1.37.8_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/MGnsRoAP/XaerosWorldMap_1.37.8_Fabric_1.19.1.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"YEqpZsUQ" = lib.buildMinecraftFile {
+"YEqpZsUQ" = lib.buildMinecraftMod {
   pname = "1.37.8";
   version = "1.37.8_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/YEqpZsUQ/XaerosWorldMap_1.37.8_Fabric_1.18.2.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"X5l3pEeo" = lib.buildMinecraftFile {
+"X5l3pEeo" = lib.buildMinecraftMod {
   pname = "1.37.8";
   version = "1.37.8_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/X5l3pEeo/XaerosWorldMap_1.37.8_Fabric_1.17.1.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"7jiibugv" = lib.buildMinecraftFile {
+"7jiibugv" = lib.buildMinecraftMod {
   pname = "1.37.8";
   version = "1.37.8_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/7jiibugv/XaerosWorldMap_1.37.8_Fabric_1.16.5.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"IwNGlfAn" = lib.buildMinecraftFile {
+"IwNGlfAn" = lib.buildMinecraftMod {
   pname = "1.37.7";
   version = "1.37.7_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/IwNGlfAn/XaerosWorldMap_1.37.7_Fabric_1.20.4.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"CpzbT4d9" = lib.buildMinecraftFile {
+"CpzbT4d9" = lib.buildMinecraftMod {
   pname = "1.37.7";
   version = "1.37.7_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/CpzbT4d9/XaerosWorldMap_1.37.7_Fabric_1.20.2.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"sldtuPfE" = lib.buildMinecraftFile {
+"sldtuPfE" = lib.buildMinecraftMod {
   pname = "1.37.7";
   version = "1.37.7_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/sldtuPfE/XaerosWorldMap_1.37.7_Fabric_1.20.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"dOXO1ekR" = lib.buildMinecraftFile {
+"dOXO1ekR" = lib.buildMinecraftMod {
   pname = "1.37.7";
   version = "1.37.7_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/dOXO1ekR/XaerosWorldMap_1.37.7_Fabric_1.19.4.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"IALYw1J1" = lib.buildMinecraftFile {
+"IALYw1J1" = lib.buildMinecraftMod {
   pname = "1.37.7";
   version = "1.37.7_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/IALYw1J1/XaerosWorldMap_1.37.7_Fabric_1.19.3.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"jJPQdz1d" = lib.buildMinecraftFile {
+"jJPQdz1d" = lib.buildMinecraftMod {
   pname = "1.37.7";
   version = "1.37.7_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/jJPQdz1d/XaerosWorldMap_1.37.7_Fabric_1.19.1.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"ZjP3Pq4E" = lib.buildMinecraftFile {
+"ZjP3Pq4E" = lib.buildMinecraftMod {
   pname = "1.37.7";
   version = "1.37.7_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/ZjP3Pq4E/XaerosWorldMap_1.37.7_Fabric_1.18.2.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"yvmI3XeP" = lib.buildMinecraftFile {
+"yvmI3XeP" = lib.buildMinecraftMod {
   pname = "1.37.7";
   version = "1.37.7_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/yvmI3XeP/XaerosWorldMap_1.37.7_Fabric_1.17.1.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"ExJndpW1" = lib.buildMinecraftFile {
+"ExJndpW1" = lib.buildMinecraftMod {
   pname = "1.37.7";
   version = "1.37.7_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/ExJndpW1/XaerosWorldMap_1.37.7_Fabric_1.16.5.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"UXPdKH9b" = lib.buildMinecraftFile {
+"UXPdKH9b" = lib.buildMinecraftMod {
   pname = "1.37.6";
   version = "1.37.6_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/UXPdKH9b/XaerosWorldMap_1.37.6_Fabric_1.20.4.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"77dzlHmz" = lib.buildMinecraftFile {
+"77dzlHmz" = lib.buildMinecraftMod {
   pname = "1.37.5";
   version = "1.37.5_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/77dzlHmz/XaerosWorldMap_1.37.5_Fabric_1.20.4.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"MCZrzmFk" = lib.buildMinecraftFile {
+"MCZrzmFk" = lib.buildMinecraftMod {
   pname = "1.37.4";
   version = "1.37.4_Fabric_1.20.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/MCZrzmFk/XaerosWorldMap_1.37.4_Fabric_1.20.4.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"g3LVdy2b" = lib.buildMinecraftFile {
+"g3LVdy2b" = lib.buildMinecraftMod {
   pname = "1.37.4";
   version = "1.37.4_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/g3LVdy2b/XaerosWorldMap_1.37.4_Fabric_1.17.1.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"mWKcgDr7" = lib.buildMinecraftFile {
+"mWKcgDr7" = lib.buildMinecraftMod {
   pname = "1.37.4";
   version = "1.37.4_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/mWKcgDr7/XaerosWorldMap_1.37.4_Fabric_1.16.5.jar";
@@ -659,7 +659,7 @@
   };
 };
 
-"jZxGCO8l" = lib.buildMinecraftFile {
+"jZxGCO8l" = lib.buildMinecraftMod {
   pname = "1.37.3";
   version = "1.37.3_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/jZxGCO8l/XaerosWorldMap_1.37.3_Fabric_1.18.2.jar";
@@ -671,7 +671,7 @@
   };
 };
 
-"F61FCdMV" = lib.buildMinecraftFile {
+"F61FCdMV" = lib.buildMinecraftMod {
   pname = "1.37.3";
   version = "1.37.3_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/F61FCdMV/XaerosWorldMap_1.37.3_Fabric_1.17.1.jar";
@@ -683,7 +683,7 @@
   };
 };
 
-"SEcAUikr" = lib.buildMinecraftFile {
+"SEcAUikr" = lib.buildMinecraftMod {
   pname = "1.37.3";
   version = "1.37.3_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/SEcAUikr/XaerosWorldMap_1.37.3_Fabric_1.16.5.jar";
@@ -695,7 +695,7 @@
   };
 };
 
-"QPu5GIcD" = lib.buildMinecraftFile {
+"QPu5GIcD" = lib.buildMinecraftMod {
   pname = "1.37.2";
   version = "1.37.2_Fabric_1.20.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/QPu5GIcD/XaerosWorldMap_1.37.2_Fabric_1.20.3.jar";
@@ -707,7 +707,7 @@
   };
 };
 
-"TiU9A6SF" = lib.buildMinecraftFile {
+"TiU9A6SF" = lib.buildMinecraftMod {
   pname = "1.37.2";
   version = "1.37.2_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/TiU9A6SF/XaerosWorldMap_1.37.2_Fabric_1.20.2.jar";
@@ -719,7 +719,7 @@
   };
 };
 
-"EKlLbMF8" = lib.buildMinecraftFile {
+"EKlLbMF8" = lib.buildMinecraftMod {
   pname = "1.37.2";
   version = "1.37.2_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/EKlLbMF8/XaerosWorldMap_1.37.2_Fabric_1.20.jar";
@@ -731,7 +731,7 @@
   };
 };
 
-"fDOxFLoy" = lib.buildMinecraftFile {
+"fDOxFLoy" = lib.buildMinecraftMod {
   pname = "1.37.2";
   version = "1.37.2_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/fDOxFLoy/XaerosWorldMap_1.37.2_Fabric_1.19.4.jar";
@@ -743,7 +743,7 @@
   };
 };
 
-"GVhMC0jF" = lib.buildMinecraftFile {
+"GVhMC0jF" = lib.buildMinecraftMod {
   pname = "1.37.2";
   version = "1.37.2_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/GVhMC0jF/XaerosWorldMap_1.37.2_Fabric_1.19.3.jar";
@@ -755,7 +755,7 @@
   };
 };
 
-"NPmEADqc" = lib.buildMinecraftFile {
+"NPmEADqc" = lib.buildMinecraftMod {
   pname = "1.37.2";
   version = "1.37.2_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/NPmEADqc/XaerosWorldMap_1.37.2_Fabric_1.19.1.jar";
@@ -767,7 +767,7 @@
   };
 };
 
-"4Vb09gB8" = lib.buildMinecraftFile {
+"4Vb09gB8" = lib.buildMinecraftMod {
   pname = "1.37.1";
   version = "1.37.1_Fabric_1.20.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/4Vb09gB8/XaerosWorldMap_1.37.1_Fabric_1.20.3.jar";
@@ -779,7 +779,7 @@
   };
 };
 
-"GjpvNeP5" = lib.buildMinecraftFile {
+"GjpvNeP5" = lib.buildMinecraftMod {
   pname = "1.37.1";
   version = "1.37.1_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/GjpvNeP5/XaerosWorldMap_1.37.1_Fabric_1.20.2.jar";
@@ -791,7 +791,7 @@
   };
 };
 
-"2xFoqT9G" = lib.buildMinecraftFile {
+"2xFoqT9G" = lib.buildMinecraftMod {
   pname = "1.37.1";
   version = "1.37.1_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/2xFoqT9G/XaerosWorldMap_1.37.1_Fabric_1.20.jar";
@@ -803,7 +803,7 @@
   };
 };
 
-"2OrOlxct" = lib.buildMinecraftFile {
+"2OrOlxct" = lib.buildMinecraftMod {
   pname = "1.37.1";
   version = "1.37.1_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/2OrOlxct/XaerosWorldMap_1.37.1_Fabric_1.19.4.jar";
@@ -815,7 +815,7 @@
   };
 };
 
-"FbRcjoyo" = lib.buildMinecraftFile {
+"FbRcjoyo" = lib.buildMinecraftMod {
   pname = "1.37.1";
   version = "1.37.1_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/FbRcjoyo/XaerosWorldMap_1.37.1_Fabric_1.19.3.jar";
@@ -827,7 +827,7 @@
   };
 };
 
-"uUqFPVSu" = lib.buildMinecraftFile {
+"uUqFPVSu" = lib.buildMinecraftMod {
   pname = "1.37.1";
   version = "1.37.1_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/uUqFPVSu/XaerosWorldMap_1.37.1_Fabric_1.19.1.jar";
@@ -839,7 +839,7 @@
   };
 };
 
-"5IAIDmsq" = lib.buildMinecraftFile {
+"5IAIDmsq" = lib.buildMinecraftMod {
   pname = "1.37.1";
   version = "1.37.1_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/5IAIDmsq/XaerosWorldMap_1.37.1_Fabric_1.18.2.jar";
@@ -851,7 +851,7 @@
   };
 };
 
-"87qG0mcP" = lib.buildMinecraftFile {
+"87qG0mcP" = lib.buildMinecraftMod {
   pname = "1.37.1";
   version = "1.37.1_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/87qG0mcP/XaerosWorldMap_1.37.1_Fabric_1.17.1.jar";
@@ -863,7 +863,7 @@
   };
 };
 
-"HVD97oSC" = lib.buildMinecraftFile {
+"HVD97oSC" = lib.buildMinecraftMod {
   pname = "1.37.1";
   version = "1.37.1_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/HVD97oSC/XaerosWorldMap_1.37.1_Fabric_1.16.5.jar";
@@ -875,7 +875,7 @@
   };
 };
 
-"z6UXt0JA" = lib.buildMinecraftFile {
+"z6UXt0JA" = lib.buildMinecraftMod {
   pname = "1.37.0";
   version = "1.37.0_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/z6UXt0JA/XaerosWorldMap_1.37.0_Fabric_1.20.2.jar";
@@ -887,7 +887,7 @@
   };
 };
 
-"upEWzPL7" = lib.buildMinecraftFile {
+"upEWzPL7" = lib.buildMinecraftMod {
   pname = "1.37.0";
   version = "1.37.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/upEWzPL7/XaerosWorldMap_1.37.0_Fabric_1.20.jar";
@@ -899,7 +899,7 @@
   };
 };
 
-"uL35xaJ6" = lib.buildMinecraftFile {
+"uL35xaJ6" = lib.buildMinecraftMod {
   pname = "1.37.0";
   version = "1.37.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/uL35xaJ6/XaerosWorldMap_1.37.0_Fabric_1.19.4.jar";
@@ -911,7 +911,7 @@
   };
 };
 
-"kDPMXqXY" = lib.buildMinecraftFile {
+"kDPMXqXY" = lib.buildMinecraftMod {
   pname = "1.37.0";
   version = "1.37.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/kDPMXqXY/XaerosWorldMap_1.37.0_Fabric_1.19.3.jar";
@@ -923,7 +923,7 @@
   };
 };
 
-"pdz4XbYo" = lib.buildMinecraftFile {
+"pdz4XbYo" = lib.buildMinecraftMod {
   pname = "1.37.0";
   version = "1.37.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/pdz4XbYo/XaerosWorldMap_1.37.0_Fabric_1.19.1.jar";
@@ -935,7 +935,7 @@
   };
 };
 
-"4VrpnEqL" = lib.buildMinecraftFile {
+"4VrpnEqL" = lib.buildMinecraftMod {
   pname = "1.37.0";
   version = "1.37.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/4VrpnEqL/XaerosWorldMap_1.37.0_Fabric_1.18.2.jar";
@@ -947,7 +947,7 @@
   };
 };
 
-"zNVieoBv" = lib.buildMinecraftFile {
+"zNVieoBv" = lib.buildMinecraftMod {
   pname = "1.37.0";
   version = "1.37.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/zNVieoBv/XaerosWorldMap_1.37.0_Fabric_1.17.1.jar";
@@ -959,7 +959,7 @@
   };
 };
 
-"JaxVlPsg" = lib.buildMinecraftFile {
+"JaxVlPsg" = lib.buildMinecraftMod {
   pname = "1.37.0";
   version = "1.37.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/JaxVlPsg/XaerosWorldMap_1.37.0_Fabric_1.16.5.jar";
@@ -971,7 +971,7 @@
   };
 };
 
-"IWg1Z5mJ" = lib.buildMinecraftFile {
+"IWg1Z5mJ" = lib.buildMinecraftMod {
   pname = "1.36.0";
   version = "1.36.0_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/IWg1Z5mJ/XaerosWorldMap_1.36.0_Fabric_1.20.2.jar";
@@ -983,7 +983,7 @@
   };
 };
 
-"s974wWCK" = lib.buildMinecraftFile {
+"s974wWCK" = lib.buildMinecraftMod {
   pname = "1.36.0";
   version = "1.36.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/s974wWCK/XaerosWorldMap_1.36.0_Fabric_1.20.jar";
@@ -995,7 +995,7 @@
   };
 };
 
-"gwxBAfOC" = lib.buildMinecraftFile {
+"gwxBAfOC" = lib.buildMinecraftMod {
   pname = "1.36.0";
   version = "1.36.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/gwxBAfOC/XaerosWorldMap_1.36.0_Fabric_1.19.4.jar";
@@ -1007,7 +1007,7 @@
   };
 };
 
-"O4jmfApS" = lib.buildMinecraftFile {
+"O4jmfApS" = lib.buildMinecraftMod {
   pname = "1.36.0";
   version = "1.36.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/O4jmfApS/XaerosWorldMap_1.36.0_Fabric_1.19.3.jar";
@@ -1019,7 +1019,7 @@
   };
 };
 
-"nzTSf2JK" = lib.buildMinecraftFile {
+"nzTSf2JK" = lib.buildMinecraftMod {
   pname = "1.36.0";
   version = "1.36.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/nzTSf2JK/XaerosWorldMap_1.36.0_Fabric_1.19.1.jar";
@@ -1031,7 +1031,7 @@
   };
 };
 
-"l3AnBhDH" = lib.buildMinecraftFile {
+"l3AnBhDH" = lib.buildMinecraftMod {
   pname = "1.36.0";
   version = "1.36.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/l3AnBhDH/XaerosWorldMap_1.36.0_Fabric_1.18.2.jar";
@@ -1043,7 +1043,7 @@
   };
 };
 
-"6QJf3buJ" = lib.buildMinecraftFile {
+"6QJf3buJ" = lib.buildMinecraftMod {
   pname = "1.36.0";
   version = "1.36.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/6QJf3buJ/XaerosWorldMap_1.36.0_Fabric_1.17.1.jar";
@@ -1055,7 +1055,7 @@
   };
 };
 
-"kl5ajjgu" = lib.buildMinecraftFile {
+"kl5ajjgu" = lib.buildMinecraftMod {
   pname = "1.36.0";
   version = "1.36.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/kl5ajjgu/XaerosWorldMap_1.36.0_Fabric_1.16.5.jar";
@@ -1067,7 +1067,7 @@
   };
 };
 
-"oN97q1bh" = lib.buildMinecraftFile {
+"oN97q1bh" = lib.buildMinecraftMod {
   pname = "1.35.0";
   version = "1.35.0_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/oN97q1bh/XaerosWorldMap_1.35.0_Fabric_1.20.2.jar";
@@ -1079,7 +1079,7 @@
   };
 };
 
-"Qdu4Ovks" = lib.buildMinecraftFile {
+"Qdu4Ovks" = lib.buildMinecraftMod {
   pname = "1.35.0";
   version = "1.35.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/Qdu4Ovks/XaerosWorldMap_1.35.0_Fabric_1.20.jar";
@@ -1091,7 +1091,7 @@
   };
 };
 
-"oTjgUXpl" = lib.buildMinecraftFile {
+"oTjgUXpl" = lib.buildMinecraftMod {
   pname = "1.35.0";
   version = "1.35.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/oTjgUXpl/XaerosWorldMap_1.35.0_Fabric_1.19.4.jar";
@@ -1103,7 +1103,7 @@
   };
 };
 
-"HuhuMQWY" = lib.buildMinecraftFile {
+"HuhuMQWY" = lib.buildMinecraftMod {
   pname = "1.35.0";
   version = "1.35.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/HuhuMQWY/XaerosWorldMap_1.35.0_Fabric_1.19.3.jar";
@@ -1115,7 +1115,7 @@
   };
 };
 
-"TVqZB00s" = lib.buildMinecraftFile {
+"TVqZB00s" = lib.buildMinecraftMod {
   pname = "1.35.0";
   version = "1.35.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/TVqZB00s/XaerosWorldMap_1.35.0_Fabric_1.19.1.jar";
@@ -1127,7 +1127,7 @@
   };
 };
 
-"dvJ1c1nB" = lib.buildMinecraftFile {
+"dvJ1c1nB" = lib.buildMinecraftMod {
   pname = "1.35.0";
   version = "1.35.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/dvJ1c1nB/XaerosWorldMap_1.35.0_Fabric_1.18.2.jar";
@@ -1139,7 +1139,7 @@
   };
 };
 
-"ltXk1K5K" = lib.buildMinecraftFile {
+"ltXk1K5K" = lib.buildMinecraftMod {
   pname = "1.35.0";
   version = "1.35.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/ltXk1K5K/XaerosWorldMap_1.35.0_Fabric_1.17.1.jar";
@@ -1151,7 +1151,7 @@
   };
 };
 
-"PRpy2It3" = lib.buildMinecraftFile {
+"PRpy2It3" = lib.buildMinecraftMod {
   pname = "1.35.0";
   version = "1.35.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/PRpy2It3/XaerosWorldMap_1.35.0_Fabric_1.16.5.jar";
@@ -1163,7 +1163,7 @@
   };
 };
 
-"6SwHv13Z" = lib.buildMinecraftFile {
+"6SwHv13Z" = lib.buildMinecraftMod {
   pname = "1.34.1";
   version = "1.34.1_Fabric_1.20.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/6SwHv13Z/XaerosWorldMap_1.34.1_Fabric_1.20.2.jar";
@@ -1175,7 +1175,7 @@
   };
 };
 
-"L8OA3xGI" = lib.buildMinecraftFile {
+"L8OA3xGI" = lib.buildMinecraftMod {
   pname = "1.34.1";
   version = "1.34.1_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/L8OA3xGI/XaerosWorldMap_1.34.1_Fabric_1.20.jar";
@@ -1187,7 +1187,7 @@
   };
 };
 
-"hGDx5zLv" = lib.buildMinecraftFile {
+"hGDx5zLv" = lib.buildMinecraftMod {
   pname = "1.34.1";
   version = "1.34.1_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/hGDx5zLv/XaerosWorldMap_1.34.1_Fabric_1.19.4.jar";
@@ -1199,7 +1199,7 @@
   };
 };
 
-"brFplhUj" = lib.buildMinecraftFile {
+"brFplhUj" = lib.buildMinecraftMod {
   pname = "1.34.1";
   version = "1.34.1_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/brFplhUj/XaerosWorldMap_1.34.1_Fabric_1.19.3.jar";
@@ -1211,7 +1211,7 @@
   };
 };
 
-"ZXboExuA" = lib.buildMinecraftFile {
+"ZXboExuA" = lib.buildMinecraftMod {
   pname = "1.34.1";
   version = "1.34.1_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/ZXboExuA/XaerosWorldMap_1.34.1_Fabric_1.19.1.jar";
@@ -1223,7 +1223,7 @@
   };
 };
 
-"zspa7tIH" = lib.buildMinecraftFile {
+"zspa7tIH" = lib.buildMinecraftMod {
   pname = "1.34.1";
   version = "1.34.1_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/zspa7tIH/XaerosWorldMap_1.34.1_Fabric_1.18.2.jar";
@@ -1235,7 +1235,7 @@
   };
 };
 
-"jd9dVlUv" = lib.buildMinecraftFile {
+"jd9dVlUv" = lib.buildMinecraftMod {
   pname = "1.34.1";
   version = "1.34.1_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/jd9dVlUv/XaerosWorldMap_1.34.1_Fabric_1.17.1.jar";
@@ -1247,7 +1247,7 @@
   };
 };
 
-"X7q6wKAa" = lib.buildMinecraftFile {
+"X7q6wKAa" = lib.buildMinecraftMod {
   pname = "1.34.1";
   version = "1.34.1_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/X7q6wKAa/XaerosWorldMap_1.34.1_Fabric_1.16.5.jar";
@@ -1259,7 +1259,7 @@
   };
 };
 
-"qwwKbodF" = lib.buildMinecraftFile {
+"qwwKbodF" = lib.buildMinecraftMod {
   pname = "1.34.0";
   version = "1.34.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/qwwKbodF/XaerosWorldMap_1.34.0_Fabric_1.20.jar";
@@ -1271,7 +1271,7 @@
   };
 };
 
-"LAQjDJ8V" = lib.buildMinecraftFile {
+"LAQjDJ8V" = lib.buildMinecraftMod {
   pname = "1.34.0";
   version = "1.34.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/LAQjDJ8V/XaerosWorldMap_1.34.0_Fabric_1.19.4.jar";
@@ -1283,7 +1283,7 @@
   };
 };
 
-"BwjsEkNB" = lib.buildMinecraftFile {
+"BwjsEkNB" = lib.buildMinecraftMod {
   pname = "1.34.0";
   version = "1.34.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/BwjsEkNB/XaerosWorldMap_1.34.0_Fabric_1.19.3.jar";
@@ -1295,7 +1295,7 @@
   };
 };
 
-"MXSnuNhR" = lib.buildMinecraftFile {
+"MXSnuNhR" = lib.buildMinecraftMod {
   pname = "1.34.0";
   version = "1.34.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/MXSnuNhR/XaerosWorldMap_1.34.0_Fabric_1.19.1.jar";
@@ -1307,7 +1307,7 @@
   };
 };
 
-"sGllzk9n" = lib.buildMinecraftFile {
+"sGllzk9n" = lib.buildMinecraftMod {
   pname = "1.34.0";
   version = "1.34.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/sGllzk9n/XaerosWorldMap_1.34.0_Fabric_1.18.2.jar";
@@ -1319,7 +1319,7 @@
   };
 };
 
-"cADC7mM3" = lib.buildMinecraftFile {
+"cADC7mM3" = lib.buildMinecraftMod {
   pname = "1.34.0";
   version = "1.34.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/cADC7mM3/XaerosWorldMap_1.34.0_Fabric_1.17.1.jar";
@@ -1331,7 +1331,7 @@
   };
 };
 
-"s3sEjbJu" = lib.buildMinecraftFile {
+"s3sEjbJu" = lib.buildMinecraftMod {
   pname = "1.34.0";
   version = "1.34.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/s3sEjbJu/XaerosWorldMap_1.34.0_Fabric_1.16.5.jar";
@@ -1343,7 +1343,7 @@
   };
 };
 
-"4PJpJJKj" = lib.buildMinecraftFile {
+"4PJpJJKj" = lib.buildMinecraftMod {
   pname = "1.33.1";
   version = "1.33.1_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/4PJpJJKj/XaerosWorldMap_1.33.1_Fabric_1.20.jar";
@@ -1355,7 +1355,7 @@
   };
 };
 
-"meEp9J6P" = lib.buildMinecraftFile {
+"meEp9J6P" = lib.buildMinecraftMod {
   pname = "1.33.1";
   version = "1.33.1_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/meEp9J6P/XaerosWorldMap_1.33.1_Fabric_1.19.4.jar";
@@ -1367,7 +1367,7 @@
   };
 };
 
-"Ewl9bPOE" = lib.buildMinecraftFile {
+"Ewl9bPOE" = lib.buildMinecraftMod {
   pname = "1.33.1";
   version = "1.33.1_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/Ewl9bPOE/XaerosWorldMap_1.33.1_Fabric_1.19.3.jar";
@@ -1379,7 +1379,7 @@
   };
 };
 
-"UsGIMJ2a" = lib.buildMinecraftFile {
+"UsGIMJ2a" = lib.buildMinecraftMod {
   pname = "1.33.1";
   version = "1.33.1_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/UsGIMJ2a/XaerosWorldMap_1.33.1_Fabric_1.19.1.jar";
@@ -1391,7 +1391,7 @@
   };
 };
 
-"zf7etcWk" = lib.buildMinecraftFile {
+"zf7etcWk" = lib.buildMinecraftMod {
   pname = "1.33.1";
   version = "1.33.1_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/zf7etcWk/XaerosWorldMap_1.33.1_Fabric_1.18.2.jar";
@@ -1403,7 +1403,7 @@
   };
 };
 
-"LRc3Y10v" = lib.buildMinecraftFile {
+"LRc3Y10v" = lib.buildMinecraftMod {
   pname = "1.33.1";
   version = "1.33.1_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/LRc3Y10v/XaerosWorldMap_1.33.1_Fabric_1.17.1.jar";
@@ -1415,7 +1415,7 @@
   };
 };
 
-"VigDSi15" = lib.buildMinecraftFile {
+"VigDSi15" = lib.buildMinecraftMod {
   pname = "1.33.1";
   version = "1.33.1_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/VigDSi15/XaerosWorldMap_1.33.1_Fabric_1.16.5.jar";
@@ -1427,7 +1427,7 @@
   };
 };
 
-"VTlrn9zn" = lib.buildMinecraftFile {
+"VTlrn9zn" = lib.buildMinecraftMod {
   pname = "1.33.0";
   version = "1.33.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/VTlrn9zn/XaerosWorldMap_1.33.0_Fabric_1.20.jar";
@@ -1439,7 +1439,7 @@
   };
 };
 
-"IO0epD4H" = lib.buildMinecraftFile {
+"IO0epD4H" = lib.buildMinecraftMod {
   pname = "1.33.0";
   version = "1.33.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/IO0epD4H/XaerosWorldMap_1.33.0_Fabric_1.19.4.jar";
@@ -1451,7 +1451,7 @@
   };
 };
 
-"GnVgI8Tc" = lib.buildMinecraftFile {
+"GnVgI8Tc" = lib.buildMinecraftMod {
   pname = "1.33.0";
   version = "1.33.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/GnVgI8Tc/XaerosWorldMap_1.33.0_Fabric_1.19.3.jar";
@@ -1463,7 +1463,7 @@
   };
 };
 
-"nWD5LilR" = lib.buildMinecraftFile {
+"nWD5LilR" = lib.buildMinecraftMod {
   pname = "1.33.0";
   version = "1.33.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/nWD5LilR/XaerosWorldMap_1.33.0_Fabric_1.19.1.jar";
@@ -1475,7 +1475,7 @@
   };
 };
 
-"4qJUjLux" = lib.buildMinecraftFile {
+"4qJUjLux" = lib.buildMinecraftMod {
   pname = "1.33.0";
   version = "1.33.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/4qJUjLux/XaerosWorldMap_1.33.0_Fabric_1.18.2.jar";
@@ -1487,7 +1487,7 @@
   };
 };
 
-"o5C0YrDg" = lib.buildMinecraftFile {
+"o5C0YrDg" = lib.buildMinecraftMod {
   pname = "1.33.0";
   version = "1.33.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/o5C0YrDg/XaerosWorldMap_1.33.0_Fabric_1.17.1.jar";
@@ -1499,7 +1499,7 @@
   };
 };
 
-"cHNqHQ7K" = lib.buildMinecraftFile {
+"cHNqHQ7K" = lib.buildMinecraftMod {
   pname = "1.33.0";
   version = "1.33.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/cHNqHQ7K/XaerosWorldMap_1.33.0_Fabric_1.16.5.jar";
@@ -1511,7 +1511,7 @@
   };
 };
 
-"RBZYvZJ4" = lib.buildMinecraftFile {
+"RBZYvZJ4" = lib.buildMinecraftMod {
   pname = "1.32.0";
   version = "1.32.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/RBZYvZJ4/XaerosWorldMap_1.32.0_Fabric_1.20.jar";
@@ -1523,7 +1523,7 @@
   };
 };
 
-"d44dMHzw" = lib.buildMinecraftFile {
+"d44dMHzw" = lib.buildMinecraftMod {
   pname = "1.32.0";
   version = "1.32.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/d44dMHzw/XaerosWorldMap_1.32.0_Fabric_1.19.4.jar";
@@ -1535,7 +1535,7 @@
   };
 };
 
-"m1xFZhrl" = lib.buildMinecraftFile {
+"m1xFZhrl" = lib.buildMinecraftMod {
   pname = "1.32.0";
   version = "1.32.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/m1xFZhrl/XaerosWorldMap_1.32.0_Fabric_1.19.3.jar";
@@ -1547,7 +1547,7 @@
   };
 };
 
-"FX41W6zb" = lib.buildMinecraftFile {
+"FX41W6zb" = lib.buildMinecraftMod {
   pname = "1.32.0";
   version = "1.32.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/FX41W6zb/XaerosWorldMap_1.32.0_Fabric_1.19.1.jar";
@@ -1559,7 +1559,7 @@
   };
 };
 
-"svlAeqb1" = lib.buildMinecraftFile {
+"svlAeqb1" = lib.buildMinecraftMod {
   pname = "1.32.0";
   version = "1.32.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/svlAeqb1/XaerosWorldMap_1.32.0_Fabric_1.18.2.jar";
@@ -1571,7 +1571,7 @@
   };
 };
 
-"lxyt26N7" = lib.buildMinecraftFile {
+"lxyt26N7" = lib.buildMinecraftMod {
   pname = "1.32.0";
   version = "1.32.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/lxyt26N7/XaerosWorldMap_1.32.0_Fabric_1.17.1.jar";
@@ -1583,7 +1583,7 @@
   };
 };
 
-"4uIcYzMT" = lib.buildMinecraftFile {
+"4uIcYzMT" = lib.buildMinecraftMod {
   pname = "1.32.0";
   version = "1.32.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/4uIcYzMT/XaerosWorldMap_1.32.0_Fabric_1.16.5.jar";
@@ -1595,7 +1595,7 @@
   };
 };
 
-"hZzMR1av" = lib.buildMinecraftFile {
+"hZzMR1av" = lib.buildMinecraftMod {
   pname = "1.31.0";
   version = "1.31.0_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/hZzMR1av/XaerosWorldMap_1.31.0_Fabric_1.20.jar";
@@ -1607,7 +1607,7 @@
   };
 };
 
-"IbQ6bv6m" = lib.buildMinecraftFile {
+"IbQ6bv6m" = lib.buildMinecraftMod {
   pname = "1.31.0";
   version = "1.31.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/IbQ6bv6m/XaerosWorldMap_1.31.0_Fabric_1.19.4.jar";
@@ -1619,7 +1619,7 @@
   };
 };
 
-"zWRFHFoD" = lib.buildMinecraftFile {
+"zWRFHFoD" = lib.buildMinecraftMod {
   pname = "1.31.0";
   version = "1.31.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/zWRFHFoD/XaerosWorldMap_1.31.0_Fabric_1.19.3.jar";
@@ -1631,7 +1631,7 @@
   };
 };
 
-"st6Yi8FJ" = lib.buildMinecraftFile {
+"st6Yi8FJ" = lib.buildMinecraftMod {
   pname = "1.31.0";
   version = "1.31.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/st6Yi8FJ/XaerosWorldMap_1.31.0_Fabric_1.19.1.jar";
@@ -1643,7 +1643,7 @@
   };
 };
 
-"bkG41Vbj" = lib.buildMinecraftFile {
+"bkG41Vbj" = lib.buildMinecraftMod {
   pname = "1.31.0";
   version = "1.31.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/bkG41Vbj/XaerosWorldMap_1.31.0_Fabric_1.18.2.jar";
@@ -1655,7 +1655,7 @@
   };
 };
 
-"rIiXRyJC" = lib.buildMinecraftFile {
+"rIiXRyJC" = lib.buildMinecraftMod {
   pname = "1.31.0";
   version = "1.31.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/rIiXRyJC/XaerosWorldMap_1.31.0_Fabric_1.17.1.jar";
@@ -1667,7 +1667,7 @@
   };
 };
 
-"3fqf56PV" = lib.buildMinecraftFile {
+"3fqf56PV" = lib.buildMinecraftMod {
   pname = "1.31.0";
   version = "1.31.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/3fqf56PV/XaerosWorldMap_1.31.0_Fabric_1.16.5.jar";
@@ -1679,7 +1679,7 @@
   };
 };
 
-"J5hmblFo" = lib.buildMinecraftFile {
+"J5hmblFo" = lib.buildMinecraftMod {
   pname = "1.30.6";
   version = "1.30.6_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/J5hmblFo/XaerosWorldMap_1.30.6_Fabric_1.20.jar";
@@ -1691,7 +1691,7 @@
   };
 };
 
-"tT8MXEmG" = lib.buildMinecraftFile {
+"tT8MXEmG" = lib.buildMinecraftMod {
   pname = "1.30.6";
   version = "1.30.6_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/tT8MXEmG/XaerosWorldMap_1.30.6_Fabric_1.19.4.jar";
@@ -1703,7 +1703,7 @@
   };
 };
 
-"mIAzcHM5" = lib.buildMinecraftFile {
+"mIAzcHM5" = lib.buildMinecraftMod {
   pname = "1.30.6";
   version = "1.30.6_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/mIAzcHM5/XaerosWorldMap_1.30.6_Fabric_1.19.3.jar";
@@ -1715,7 +1715,7 @@
   };
 };
 
-"ZZRvmbyH" = lib.buildMinecraftFile {
+"ZZRvmbyH" = lib.buildMinecraftMod {
   pname = "1.30.6";
   version = "1.30.6_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/ZZRvmbyH/XaerosWorldMap_1.30.6_Fabric_1.19.1.jar";
@@ -1727,7 +1727,7 @@
   };
 };
 
-"3nAnz7eN" = lib.buildMinecraftFile {
+"3nAnz7eN" = lib.buildMinecraftMod {
   pname = "1.30.6";
   version = "1.30.6_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/3nAnz7eN/XaerosWorldMap_1.30.6_Fabric_1.18.2.jar";
@@ -1739,7 +1739,7 @@
   };
 };
 
-"jZqjpEV5" = lib.buildMinecraftFile {
+"jZqjpEV5" = lib.buildMinecraftMod {
   pname = "1.30.5";
   version = "1.30.5_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/jZqjpEV5/XaerosWorldMap_1.30.5_Fabric_1.20.jar";
@@ -1751,7 +1751,7 @@
   };
 };
 
-"KWRX7go3" = lib.buildMinecraftFile {
+"KWRX7go3" = lib.buildMinecraftMod {
   pname = "1.30.5";
   version = "1.30.5_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/KWRX7go3/XaerosWorldMap_1.30.5_Fabric_1.19.4.jar";
@@ -1763,7 +1763,7 @@
   };
 };
 
-"SgTgAga6" = lib.buildMinecraftFile {
+"SgTgAga6" = lib.buildMinecraftMod {
   pname = "1.30.5";
   version = "1.30.5_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/SgTgAga6/XaerosWorldMap_1.30.5_Fabric_1.19.3.jar";
@@ -1775,7 +1775,7 @@
   };
 };
 
-"wFjQVyYW" = lib.buildMinecraftFile {
+"wFjQVyYW" = lib.buildMinecraftMod {
   pname = "1.30.5";
   version = "1.30.5_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/wFjQVyYW/XaerosWorldMap_1.30.5_Fabric_1.19.1.jar";
@@ -1787,7 +1787,7 @@
   };
 };
 
-"9YZGdfjd" = lib.buildMinecraftFile {
+"9YZGdfjd" = lib.buildMinecraftMod {
   pname = "1.30.5";
   version = "1.30.5_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/9YZGdfjd/XaerosWorldMap_1.30.5_Fabric_1.18.2.jar";
@@ -1799,7 +1799,7 @@
   };
 };
 
-"ka6W06WC" = lib.buildMinecraftFile {
+"ka6W06WC" = lib.buildMinecraftMod {
   pname = "1.30.5";
   version = "1.30.5_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/ka6W06WC/XaerosWorldMap_1.30.5_Fabric_1.17.1.jar";
@@ -1811,7 +1811,7 @@
   };
 };
 
-"qSeRup3d" = lib.buildMinecraftFile {
+"qSeRup3d" = lib.buildMinecraftMod {
   pname = "1.30.5";
   version = "1.30.5_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/qSeRup3d/XaerosWorldMap_1.30.5_Fabric_1.16.5.jar";
@@ -1823,7 +1823,7 @@
   };
 };
 
-"rCAbt1s2" = lib.buildMinecraftFile {
+"rCAbt1s2" = lib.buildMinecraftMod {
   pname = "1.30.4";
   version = "1.30.4_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/rCAbt1s2/XaerosWorldMap_1.30.4_Fabric_1.20.jar";
@@ -1835,7 +1835,7 @@
   };
 };
 
-"oOy5ndJf" = lib.buildMinecraftFile {
+"oOy5ndJf" = lib.buildMinecraftMod {
   pname = "1.30.3";
   version = "1.30.3_Fabric_1.20";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/oOy5ndJf/XaerosWorldMap_1.30.3_Fabric_1.20.jar";
@@ -1847,7 +1847,7 @@
   };
 };
 
-"16lBdJRZ" = lib.buildMinecraftFile {
+"16lBdJRZ" = lib.buildMinecraftMod {
   pname = "1.30.3";
   version = "1.30.3_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/16lBdJRZ/XaerosWorldMap_1.30.3_Fabric_1.19.4.jar";
@@ -1859,7 +1859,7 @@
   };
 };
 
-"LKz8LFts" = lib.buildMinecraftFile {
+"LKz8LFts" = lib.buildMinecraftMod {
   pname = "1.30.3";
   version = "1.30.3_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/LKz8LFts/XaerosWorldMap_1.30.3_Fabric_1.19.3.jar";
@@ -1871,7 +1871,7 @@
   };
 };
 
-"xrQzeBh0" = lib.buildMinecraftFile {
+"xrQzeBh0" = lib.buildMinecraftMod {
   pname = "1.30.3";
   version = "1.30.3_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/xrQzeBh0/XaerosWorldMap_1.30.3_Fabric_1.19.1.jar";
@@ -1883,7 +1883,7 @@
   };
 };
 
-"2CLZEyLl" = lib.buildMinecraftFile {
+"2CLZEyLl" = lib.buildMinecraftMod {
   pname = "1.30.3";
   version = "1.30.3_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/2CLZEyLl/XaerosWorldMap_1.30.3_Fabric_1.18.2.jar";
@@ -1895,7 +1895,7 @@
   };
 };
 
-"IYdHD4ew" = lib.buildMinecraftFile {
+"IYdHD4ew" = lib.buildMinecraftMod {
   pname = "1.30.3";
   version = "1.30.3_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/IYdHD4ew/XaerosWorldMap_1.30.3_Fabric_1.17.1.jar";
@@ -1907,7 +1907,7 @@
   };
 };
 
-"vhVUuszi" = lib.buildMinecraftFile {
+"vhVUuszi" = lib.buildMinecraftMod {
   pname = "1.30.3";
   version = "1.30.3_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/vhVUuszi/XaerosWorldMap_1.30.3_Fabric_1.16.5.jar";
@@ -1919,7 +1919,7 @@
   };
 };
 
-"kIscoBGn" = lib.buildMinecraftFile {
+"kIscoBGn" = lib.buildMinecraftMod {
   pname = "1.30.2";
   version = "1.30.2_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/kIscoBGn/XaerosWorldMap_1.30.2_Fabric_1.19.4.jar";
@@ -1931,7 +1931,7 @@
   };
 };
 
-"yTrargyD" = lib.buildMinecraftFile {
+"yTrargyD" = lib.buildMinecraftMod {
   pname = "1.30.2";
   version = "1.30.2_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/yTrargyD/XaerosWorldMap_1.30.2_Fabric_1.19.3.jar";
@@ -1943,7 +1943,7 @@
   };
 };
 
-"lSgnePcA" = lib.buildMinecraftFile {
+"lSgnePcA" = lib.buildMinecraftMod {
   pname = "1.30.2";
   version = "1.30.2_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/lSgnePcA/XaerosWorldMap_1.30.2_Fabric_1.19.1.jar";
@@ -1955,7 +1955,7 @@
   };
 };
 
-"tsUJqXDi" = lib.buildMinecraftFile {
+"tsUJqXDi" = lib.buildMinecraftMod {
   pname = "1.30.2";
   version = "1.30.2_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/tsUJqXDi/XaerosWorldMap_1.30.2_Fabric_1.18.2.jar";
@@ -1967,7 +1967,7 @@
   };
 };
 
-"qPxvfkdp" = lib.buildMinecraftFile {
+"qPxvfkdp" = lib.buildMinecraftMod {
   pname = "1.30.2";
   version = "1.30.2_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/qPxvfkdp/XaerosWorldMap_1.30.2_Fabric_1.17.1.jar";
@@ -1979,7 +1979,7 @@
   };
 };
 
-"f4lwNpJy" = lib.buildMinecraftFile {
+"f4lwNpJy" = lib.buildMinecraftMod {
   pname = "1.30.2";
   version = "1.30.2_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/f4lwNpJy/XaerosWorldMap_1.30.2_Fabric_1.16.5.jar";
@@ -1991,7 +1991,7 @@
   };
 };
 
-"UsAkUS2z" = lib.buildMinecraftFile {
+"UsAkUS2z" = lib.buildMinecraftMod {
   pname = "1.30.1";
   version = "1.30.1_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/UsAkUS2z/XaerosWorldMap_1.30.1_Fabric_1.19.4.jar";
@@ -2003,7 +2003,7 @@
   };
 };
 
-"YSvtDiDJ" = lib.buildMinecraftFile {
+"YSvtDiDJ" = lib.buildMinecraftMod {
   pname = "1.30.1";
   version = "1.30.1_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/YSvtDiDJ/XaerosWorldMap_1.30.1_Fabric_1.19.3.jar";
@@ -2015,7 +2015,7 @@
   };
 };
 
-"Tfe1ecMx" = lib.buildMinecraftFile {
+"Tfe1ecMx" = lib.buildMinecraftMod {
   pname = "1.30.1";
   version = "1.30.1_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/Tfe1ecMx/XaerosWorldMap_1.30.1_Fabric_1.19.1.jar";
@@ -2027,7 +2027,7 @@
   };
 };
 
-"OWbYG8pN" = lib.buildMinecraftFile {
+"OWbYG8pN" = lib.buildMinecraftMod {
   pname = "1.30.1";
   version = "1.30.1_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/OWbYG8pN/XaerosWorldMap_1.30.1_Fabric_1.18.2.jar";
@@ -2039,7 +2039,7 @@
   };
 };
 
-"6YRIXrfW" = lib.buildMinecraftFile {
+"6YRIXrfW" = lib.buildMinecraftMod {
   pname = "1.30.1";
   version = "1.30.1_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/6YRIXrfW/XaerosWorldMap_1.30.1_Fabric_1.17.1.jar";
@@ -2051,7 +2051,7 @@
   };
 };
 
-"eIXI4OHk" = lib.buildMinecraftFile {
+"eIXI4OHk" = lib.buildMinecraftMod {
   pname = "1.30.1";
   version = "1.30.1_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/eIXI4OHk/XaerosWorldMap_1.30.1_Fabric_1.16.5.jar";
@@ -2063,7 +2063,7 @@
   };
 };
 
-"PrBF6EyY" = lib.buildMinecraftFile {
+"PrBF6EyY" = lib.buildMinecraftMod {
   pname = "1.30.0";
   version = "1.30.0_Fabric_1.19.4";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/PrBF6EyY/XaerosWorldMap_1.30.0_Fabric_1.19.4.jar";
@@ -2075,7 +2075,7 @@
   };
 };
 
-"zjxfdYdF" = lib.buildMinecraftFile {
+"zjxfdYdF" = lib.buildMinecraftMod {
   pname = "1.30.0";
   version = "1.30.0_Fabric_1.19.3";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/zjxfdYdF/XaerosWorldMap_1.30.0_Fabric_1.19.3.jar";
@@ -2087,7 +2087,7 @@
   };
 };
 
-"gyPsXrJn" = lib.buildMinecraftFile {
+"gyPsXrJn" = lib.buildMinecraftMod {
   pname = "1.30.0";
   version = "1.30.0_Fabric_1.19.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/gyPsXrJn/XaerosWorldMap_1.30.0_Fabric_1.19.1.jar";
@@ -2099,7 +2099,7 @@
   };
 };
 
-"wSGK3o4I" = lib.buildMinecraftFile {
+"wSGK3o4I" = lib.buildMinecraftMod {
   pname = "1.30.0";
   version = "1.30.0_Fabric_1.18.2";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/wSGK3o4I/XaerosWorldMap_1.30.0_Fabric_1.18.2.jar";
@@ -2111,7 +2111,7 @@
   };
 };
 
-"XAQBPZpW" = lib.buildMinecraftFile {
+"XAQBPZpW" = lib.buildMinecraftMod {
   pname = "1.30.0";
   version = "1.30.0_Fabric_1.17.1";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/XAQBPZpW/XaerosWorldMap_1.30.0_Fabric_1.17.1.jar";
@@ -2123,7 +2123,7 @@
   };
 };
 
-"8jDTpHjY" = lib.buildMinecraftFile {
+"8jDTpHjY" = lib.buildMinecraftMod {
   pname = "1.30.0";
   version = "1.30.0_Fabric_1.16.5";
   url = "https://cdn.modrinth.com/data/NcUtCpym/versions/8jDTpHjY/XaerosWorldMap_1.30.0_Fabric_1.16.5.jar";

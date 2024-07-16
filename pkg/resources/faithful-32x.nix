@@ -1,5 +1,5 @@
 { lib, ... }: {
-"SBLjnb1v" = lib.buildMinecraftFile {
+"SBLjnb1v" = lib.buildMinecraftPack {
   pname = "[1.21] Faithful 32x – July 2024 Pre-release";
   version = "1.21-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/SBLjnb1v/Faithful%2032x%20-%201.21.zip";
@@ -10,7 +10,7 @@
   };
 };
 
-"PNKI8fba" = lib.buildMinecraftFile {
+"PNKI8fba" = lib.buildMinecraftPack {
   pname = "[1.20.6] Faithful 32x – July 2024 Pre-release";
   version = "1.20.6-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/PNKI8fba/Faithful%2032x%20-%201.20.6.zip";
@@ -21,7 +21,7 @@
   };
 };
 
-"w0NRBO2h" = lib.buildMinecraftFile {
+"w0NRBO2h" = lib.buildMinecraftPack {
   pname = "[1.20.4] Faithful 32x – July 2024 Release";
   version = "1.20.4-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/w0NRBO2h/Faithful%2032x%20-%201.20.4.zip";
@@ -32,7 +32,7 @@
   };
 };
 
-"UhXMYGer" = lib.buildMinecraftFile {
+"UhXMYGer" = lib.buildMinecraftPack {
   pname = "[1.20.2] Faithful 32x – July 2024 Release";
   version = "1.20.2-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/UhXMYGer/Faithful%2032x%20-%201.20.2.zip";
@@ -43,7 +43,7 @@
   };
 };
 
-"1XJUwrQn" = lib.buildMinecraftFile {
+"1XJUwrQn" = lib.buildMinecraftPack {
   pname = "[1.20.1] Faithful 32x – July 2024 Release";
   version = "1.20.1-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1XJUwrQn/Faithful%2032x%20-%201.20.1.zip";
@@ -54,7 +54,7 @@
   };
 };
 
-"mZ1GgByf" = lib.buildMinecraftFile {
+"mZ1GgByf" = lib.buildMinecraftPack {
   pname = "[1.19.4] Faithful 32x – July 2024 Release";
   version = "1.19.4-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/mZ1GgByf/Faithful%2032x%20-%201.19.4.zip";
@@ -65,7 +65,7 @@
   };
 };
 
-"nAC50Hgu" = lib.buildMinecraftFile {
+"nAC50Hgu" = lib.buildMinecraftPack {
   pname = "[1.19.3] Faithful 32x – July 2024 Release";
   version = "1.19.3-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/nAC50Hgu/Faithful%2032x%20-%201.19.3.zip";
@@ -76,7 +76,7 @@
   };
 };
 
-"7ySXYEeF" = lib.buildMinecraftFile {
+"7ySXYEeF" = lib.buildMinecraftPack {
   pname = "[1.19.2] Faithful 32x – July 2024 Release";
   version = "1.19.2-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/7ySXYEeF/Faithful%2032x%20-%201.19.2.zip";
@@ -87,7 +87,7 @@
   };
 };
 
-"k6STgAu6" = lib.buildMinecraftFile {
+"k6STgAu6" = lib.buildMinecraftPack {
   pname = "[1.18.2] Faithful 32x – July 2024 Release";
   version = "1.18.2-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/k6STgAu6/Faithful%2032x%20-%201.18.2.zip";
@@ -98,7 +98,7 @@
   };
 };
 
-"SAn7h5Rl" = lib.buildMinecraftFile {
+"SAn7h5Rl" = lib.buildMinecraftPack {
   pname = "[1.17.1] Faithful 32x – July 2024 Release";
   version = "1.17.1-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/SAn7h5Rl/Faithful%2032x%20-%201.17.1.zip";
@@ -109,7 +109,7 @@
   };
 };
 
-"htYuUO5K" = lib.buildMinecraftFile {
+"htYuUO5K" = lib.buildMinecraftPack {
   pname = "[1.16.5] Faithful 32x – July 2024 Release";
   version = "1.16.5-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/htYuUO5K/Faithful%2032x%20-%201.16.5.zip";
@@ -120,7 +120,7 @@
   };
 };
 
-"PTcYN3eP" = lib.buildMinecraftFile {
+"PTcYN3eP" = lib.buildMinecraftPack {
   pname = "[1.15.2] Faithful 32x – July 2024 Release";
   version = "1.15.2-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/PTcYN3eP/Faithful%2032x%20-%201.15.2.zip";
@@ -131,7 +131,7 @@
   };
 };
 
-"KzPMbCOM" = lib.buildMinecraftFile {
+"KzPMbCOM" = lib.buildMinecraftPack {
   pname = "[1.14.4] Faithful 32x – July 2024 Release";
   version = "1.14.4-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/KzPMbCOM/Faithful%2032x%20-%201.14.4.zip";
@@ -142,7 +142,7 @@
   };
 };
 
-"hKDz4hQc" = lib.buildMinecraftFile {
+"hKDz4hQc" = lib.buildMinecraftPack {
   pname = "[1.13.2] Faithful 32x – July 2024 Release";
   version = "1.13.2-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/hKDz4hQc/Faithful%2032x%20-%201.13.2.zip";
@@ -153,7 +153,7 @@
   };
 };
 
-"e4HTJ3HV" = lib.buildMinecraftFile {
+"e4HTJ3HV" = lib.buildMinecraftPack {
   pname = "[1.12.2] Faithful 32x – July 2024 Release";
   version = "1.12.2-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/e4HTJ3HV/Faithful%2032x%20-%201.12.2.zip";
@@ -164,7 +164,7 @@
   };
 };
 
-"j55hkq18" = lib.buildMinecraftFile {
+"j55hkq18" = lib.buildMinecraftPack {
   pname = "[1.11.2] Faithful 32x – July 2024 Release";
   version = "1.11.2-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/j55hkq18/Faithful%2032x%20-%201.11.2.zip";
@@ -175,7 +175,7 @@
   };
 };
 
-"tNh99Zdf" = lib.buildMinecraftFile {
+"tNh99Zdf" = lib.buildMinecraftPack {
   pname = "[1.10.2] Faithful 32x – July 2024 Release";
   version = "1.10.2-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/tNh99Zdf/Faithful%2032x%20-%201.10.2.zip";
@@ -186,7 +186,7 @@
   };
 };
 
-"KUwjkapa" = lib.buildMinecraftFile {
+"KUwjkapa" = lib.buildMinecraftPack {
   pname = "[1.9.4] Faithful 32x – July 2024 Release";
   version = "1.9.4-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/KUwjkapa/Faithful%2032x%20-%201.9.4.zip";
@@ -197,7 +197,7 @@
   };
 };
 
-"MKhej1vx" = lib.buildMinecraftFile {
+"MKhej1vx" = lib.buildMinecraftPack {
   pname = "[1.8.9] Faithful 32x – July 2024 Release";
   version = "1.8.9-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/MKhej1vx/Faithful%2032x%20-%201.8.9.zip";
@@ -208,7 +208,7 @@
   };
 };
 
-"mVEInDqU" = lib.buildMinecraftFile {
+"mVEInDqU" = lib.buildMinecraftPack {
   pname = "[1.7.10] Faithful 32x – July 2024 Release";
   version = "1.7.10-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/mVEInDqU/Faithful%2032x%20-%201.7.10.zip";
@@ -219,7 +219,7 @@
   };
 };
 
-"Ex2NyOho" = lib.buildMinecraftFile {
+"Ex2NyOho" = lib.buildMinecraftPack {
   pname = "[1.6.4] Faithful 32x – July 2024 Releas";
   version = "1.6.4-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/Ex2NyOho/Faithful%2032x%20-%201.6.4.zip";
@@ -230,7 +230,7 @@
   };
 };
 
-"L7ESmAxU" = lib.buildMinecraftFile {
+"L7ESmAxU" = lib.buildMinecraftPack {
   pname = "[1.4.6] Faithful 32x – July 2024 Release";
   version = "1.4.6-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/L7ESmAxU/Faithful%2032x%20-%201.4.6.zip";
@@ -241,7 +241,7 @@
   };
 };
 
-"JGEkigtc" = lib.buildMinecraftFile {
+"JGEkigtc" = lib.buildMinecraftPack {
   pname = "[Beta 1.7.3] Faithful 32x – July 2024 Release";
   version = "b1.7.3-july-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/JGEkigtc/Faithful%2032x%20-%20b1.7.3.zip";
@@ -252,7 +252,7 @@
   };
 };
 
-"xMbmcrmF" = lib.buildMinecraftFile {
+"xMbmcrmF" = lib.buildMinecraftPack {
   pname = "[1.20.4] Faithful 32x – March 2024 Release";
   version = "1.20.4-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/xMbmcrmF/Faithful%2032x%20-%201.20.4.zip";
@@ -263,7 +263,7 @@
   };
 };
 
-"B3jsk0Ot" = lib.buildMinecraftFile {
+"B3jsk0Ot" = lib.buildMinecraftPack {
   pname = "[1.20.2] Faithful 32x – March 2024 Release";
   version = "1.20.2-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/B3jsk0Ot/Faithful%2032x%20-%201.20.2.zip";
@@ -274,7 +274,7 @@
   };
 };
 
-"BvZEREsN" = lib.buildMinecraftFile {
+"BvZEREsN" = lib.buildMinecraftPack {
   pname = "[1.20.1] Faithful 32x – March 2024 Release";
   version = "1.20.1-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/BvZEREsN/Faithful%2032x%20-%201.20.1.zip";
@@ -285,7 +285,7 @@
   };
 };
 
-"q6nHzEpZ" = lib.buildMinecraftFile {
+"q6nHzEpZ" = lib.buildMinecraftPack {
   pname = "[1.19.4] Faithful 32x – March 2024 Release";
   version = "1.19.4-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/q6nHzEpZ/Faithful%2032x%20-%201.19.4.zip";
@@ -296,7 +296,7 @@
   };
 };
 
-"qb9c72md" = lib.buildMinecraftFile {
+"qb9c72md" = lib.buildMinecraftPack {
   pname = "[1.19.3] Faithful 32x – March 2024 Release";
   version = "1.19.3-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/qb9c72md/Faithful%2032x%20-%201.19.3.zip";
@@ -307,7 +307,7 @@
   };
 };
 
-"oGgyWH6r" = lib.buildMinecraftFile {
+"oGgyWH6r" = lib.buildMinecraftPack {
   pname = "[1.19.2] Faithful 32x – March 2024 Release";
   version = "1.19.2-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/oGgyWH6r/Faithful%2032x%20-%201.19.2.zip";
@@ -318,7 +318,7 @@
   };
 };
 
-"k5hmEYh0" = lib.buildMinecraftFile {
+"k5hmEYh0" = lib.buildMinecraftPack {
   pname = "[1.18.2] Faithful 32x – March 2024 Release";
   version = "1.18.2-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/k5hmEYh0/Faithful%2032x%20-%201.18.2.zip";
@@ -329,7 +329,7 @@
   };
 };
 
-"xfsG0lhO" = lib.buildMinecraftFile {
+"xfsG0lhO" = lib.buildMinecraftPack {
   pname = "[1.17.1] Faithful 32x – March 2024 Release";
   version = "1.17.1-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/xfsG0lhO/Faithful%2032x%20-%201.17.1.zip";
@@ -340,7 +340,7 @@
   };
 };
 
-"YvGS06OS" = lib.buildMinecraftFile {
+"YvGS06OS" = lib.buildMinecraftPack {
   pname = "[1.16.5] Faithful 32x – March 2024 Release";
   version = "1.16.5-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/YvGS06OS/Faithful%2032x%20-%201.16.5.zip";
@@ -351,7 +351,7 @@
   };
 };
 
-"KSVU7Zoc" = lib.buildMinecraftFile {
+"KSVU7Zoc" = lib.buildMinecraftPack {
   pname = "[1.15.2] Faithful 32x – March 2024 Release";
   version = "1.15.2-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/KSVU7Zoc/Faithful%2032x%20-%201.15.2.zip";
@@ -362,7 +362,7 @@
   };
 };
 
-"aK7Keuur" = lib.buildMinecraftFile {
+"aK7Keuur" = lib.buildMinecraftPack {
   pname = "[1.14.4] Faithful 32x – March 2024 Release";
   version = "1.14.4-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/aK7Keuur/Faithful%2032x%20-%201.14.4.zip";
@@ -373,7 +373,7 @@
   };
 };
 
-"2ImJLHQy" = lib.buildMinecraftFile {
+"2ImJLHQy" = lib.buildMinecraftPack {
   pname = "[1.13.2] Faithful 32x – March 2024 Release";
   version = "1.13.2-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/2ImJLHQy/Faithful%2032x%20-%201.13.2.zip";
@@ -384,7 +384,7 @@
   };
 };
 
-"NGDz0lhp" = lib.buildMinecraftFile {
+"NGDz0lhp" = lib.buildMinecraftPack {
   pname = "[1.12.2] Faithful 32x – March 2024 Release";
   version = "1.12.2-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/NGDz0lhp/Faithful%2032x%20-%201.12.2.zip";
@@ -395,7 +395,7 @@
   };
 };
 
-"AMv5NCyN" = lib.buildMinecraftFile {
+"AMv5NCyN" = lib.buildMinecraftPack {
   pname = "[1.11.2] Faithful 32x – March 2024 Release";
   version = "1.11.2-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/AMv5NCyN/Faithful%2032x%20-%201.11.2.zip";
@@ -406,7 +406,7 @@
   };
 };
 
-"V9mG1Sll" = lib.buildMinecraftFile {
+"V9mG1Sll" = lib.buildMinecraftPack {
   pname = "[1.10.2] Faithful 32x – March 2024 Release";
   version = "1.10.2-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/V9mG1Sll/Faithful%2032x%20-%201.10.2.zip";
@@ -417,7 +417,7 @@
   };
 };
 
-"J9HpDmHn" = lib.buildMinecraftFile {
+"J9HpDmHn" = lib.buildMinecraftPack {
   pname = "[1.9.4] Faithful 32x – March 2024 Release";
   version = "1.9.4-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/J9HpDmHn/Faithful%2032x%20-%201.9.4.zip";
@@ -428,7 +428,7 @@
   };
 };
 
-"uwANVwAE" = lib.buildMinecraftFile {
+"uwANVwAE" = lib.buildMinecraftPack {
   pname = "[1.8.9] Faithful 32x – March 2024 Release";
   version = "1.8.9-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/uwANVwAE/Faithful%2032x%20-%201.8.9.zip";
@@ -439,7 +439,7 @@
   };
 };
 
-"JZ8gIu72" = lib.buildMinecraftFile {
+"JZ8gIu72" = lib.buildMinecraftPack {
   pname = "[1.7.10] Faithful 32x – March 2024 Release";
   version = "1.7.10-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/JZ8gIu72/Faithful%2032x%20-%201.7.10.zip";
@@ -450,7 +450,7 @@
   };
 };
 
-"hKeumNa1" = lib.buildMinecraftFile {
+"hKeumNa1" = lib.buildMinecraftPack {
   pname = "[1.6.4] Faithful 32x – March 2024 Release";
   version = "1.6.4-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/hKeumNa1/Faithful%2032x%20-%201.6.4.zip";
@@ -461,7 +461,7 @@
   };
 };
 
-"GaiRVikM" = lib.buildMinecraftFile {
+"GaiRVikM" = lib.buildMinecraftPack {
   pname = "[1.4.6] Faithful 32x – March 2024 Release";
   version = "1.4.6-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/GaiRVikM/Faithful%2032x%20-%201.4.6.zip";
@@ -472,7 +472,7 @@
   };
 };
 
-"b66XBjv4" = lib.buildMinecraftFile {
+"b66XBjv4" = lib.buildMinecraftPack {
   pname = "[Beta 1.7.3] Faithful 32x – March 2024 Release";
   version = "b1.7.3-march-2024";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/b66XBjv4/Faithful%2032x%20-%20b1.7.3.zip";
@@ -483,7 +483,7 @@
   };
 };
 
-"8EknT0Tk" = lib.buildMinecraftFile {
+"8EknT0Tk" = lib.buildMinecraftPack {
   pname = "[1.20.4] Faithful 32x – December 2023 Release";
   version = "1.20.4-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/8EknT0Tk/Faithful%2032x%20-%201.20.4.zip";
@@ -494,7 +494,7 @@
   };
 };
 
-"LNvKXTcZ" = lib.buildMinecraftFile {
+"LNvKXTcZ" = lib.buildMinecraftPack {
   pname = "[1.20.2] Faithful 32x – December 2023 Release";
   version = "1.20.2-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/LNvKXTcZ/Faithful%2032x%20-%201.20.2.zip";
@@ -505,7 +505,7 @@
   };
 };
 
-"nHHI91Jl" = lib.buildMinecraftFile {
+"nHHI91Jl" = lib.buildMinecraftPack {
   pname = "[1.20.1] Faithful 32x – December 2023 Release";
   version = "1.20.1-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/nHHI91Jl/Faithful%2032x%20-%201.20.1.zip";
@@ -516,7 +516,7 @@
   };
 };
 
-"KiTT4J5W" = lib.buildMinecraftFile {
+"KiTT4J5W" = lib.buildMinecraftPack {
   pname = "[1.19.4] Faithful 32x – December 2023 Release";
   version = "1.19.4-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/KiTT4J5W/Faithful%2032x%20-%201.19.4.zip";
@@ -527,7 +527,7 @@
   };
 };
 
-"qceKnKWg" = lib.buildMinecraftFile {
+"qceKnKWg" = lib.buildMinecraftPack {
   pname = "[1.19.3] Faithful 32x – December 2023 Release";
   version = "1.19.3-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/qceKnKWg/Faithful%2032x%20-%201.19.3.zip";
@@ -538,7 +538,7 @@
   };
 };
 
-"H8wRap2c" = lib.buildMinecraftFile {
+"H8wRap2c" = lib.buildMinecraftPack {
   pname = "[1.19.2] Faithful 32x – December 2023 Release";
   version = "1.19.2-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/H8wRap2c/Faithful%2032x%20-%201.19.2.zip";
@@ -549,7 +549,7 @@
   };
 };
 
-"4BRC7in2" = lib.buildMinecraftFile {
+"4BRC7in2" = lib.buildMinecraftPack {
   pname = "[1.18.2] Faithful 32x – December 2023 Release";
   version = "1.18.2-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/4BRC7in2/Faithful%2032x%20-%201.18.2.zip";
@@ -560,7 +560,7 @@
   };
 };
 
-"Q0Qrp9KE" = lib.buildMinecraftFile {
+"Q0Qrp9KE" = lib.buildMinecraftPack {
   pname = "[1.17.1] Faithful 32x – December 2023 Release";
   version = "1.17.1-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/Q0Qrp9KE/Faithful%2032x%20-%201.17.1.zip";
@@ -571,7 +571,7 @@
   };
 };
 
-"PfzTwJ5N" = lib.buildMinecraftFile {
+"PfzTwJ5N" = lib.buildMinecraftPack {
   pname = "[1.16.5] Faithful 32x – December 2023 Release";
   version = "1.16.5-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/PfzTwJ5N/Faithful%2032x%20-%201.16.5.zip";
@@ -582,7 +582,7 @@
   };
 };
 
-"wtOphmhh" = lib.buildMinecraftFile {
+"wtOphmhh" = lib.buildMinecraftPack {
   pname = "[1.15.2] Faithful 32x – December 2023 Release";
   version = "1.15.2-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/wtOphmhh/Faithful%2032x%20-%201.15.2.zip";
@@ -593,7 +593,7 @@
   };
 };
 
-"JRubO0jC" = lib.buildMinecraftFile {
+"JRubO0jC" = lib.buildMinecraftPack {
   pname = "[1.14.4] Faithful 32x – December 2023 Release";
   version = "1.14.4-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/JRubO0jC/Faithful%2032x%20-%201.14.4.zip";
@@ -604,7 +604,7 @@
   };
 };
 
-"n5DJMrnv" = lib.buildMinecraftFile {
+"n5DJMrnv" = lib.buildMinecraftPack {
   pname = "[1.13.2] Faithful 32x – December 2023 Release";
   version = "1.13.2-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/n5DJMrnv/Faithful%2032x%20-%201.13.2.zip";
@@ -615,7 +615,7 @@
   };
 };
 
-"k2zTQG2n" = lib.buildMinecraftFile {
+"k2zTQG2n" = lib.buildMinecraftPack {
   pname = "[1.12.2] Faithful 32x – December 2023 Release";
   version = "1.12.2-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/k2zTQG2n/Faithful%2032x%20-%201.12.2.zip";
@@ -626,7 +626,7 @@
   };
 };
 
-"VOEt73wl" = lib.buildMinecraftFile {
+"VOEt73wl" = lib.buildMinecraftPack {
   pname = "[1.11.2] Faithful 32x – December 2023 Release";
   version = "1.11.2-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/VOEt73wl/Faithful%2032x%20-%201.11.2.zip";
@@ -637,7 +637,7 @@
   };
 };
 
-"346WSiFh" = lib.buildMinecraftFile {
+"346WSiFh" = lib.buildMinecraftPack {
   pname = "[1.10.2] Faithful 32x – December 2023 Release";
   version = "1.10.2-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/346WSiFh/Faithful%2032x%20-%201.10.2.zip";
@@ -648,7 +648,7 @@
   };
 };
 
-"qA20QH3W" = lib.buildMinecraftFile {
+"qA20QH3W" = lib.buildMinecraftPack {
   pname = "[1.9.4] Faithful 32x – December 2023 Release";
   version = "1.9.4-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/qA20QH3W/Faithful%2032x%20-%201.9.4.zip";
@@ -659,7 +659,7 @@
   };
 };
 
-"uP95x5uE" = lib.buildMinecraftFile {
+"uP95x5uE" = lib.buildMinecraftPack {
   pname = "[1.8.9] Faithful 32x – December 2023 Release";
   version = "1.8.9-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/uP95x5uE/Faithful%2032x%20-%201.8.9.zip";
@@ -670,7 +670,7 @@
   };
 };
 
-"MgdGV3N3" = lib.buildMinecraftFile {
+"MgdGV3N3" = lib.buildMinecraftPack {
   pname = "[1.7.10] Faithful 32x – December 2023 Release";
   version = "1.7.10-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/MgdGV3N3/Faithful%2032x%20-%201.7.10.zip";
@@ -681,7 +681,7 @@
   };
 };
 
-"8QfRApiW" = lib.buildMinecraftFile {
+"8QfRApiW" = lib.buildMinecraftPack {
   pname = "[1.6.4] Faithful 32x – December 2023 Release";
   version = "1.6.4-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/8QfRApiW/Faithful%2032x%20-%201.6.4.zip";
@@ -692,7 +692,7 @@
   };
 };
 
-"bx7MqhiG" = lib.buildMinecraftFile {
+"bx7MqhiG" = lib.buildMinecraftPack {
   pname = "[1.4.6] Faithful 32x – December 2023 Release";
   version = "1.4.6-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/bx7MqhiG/Faithful%2032x%20-%201.4.6.zip";
@@ -703,7 +703,7 @@
   };
 };
 
-"hF5wCBlW" = lib.buildMinecraftFile {
+"hF5wCBlW" = lib.buildMinecraftPack {
   pname = "[Beta 1.7.3] Faithful 32x – December 2023 Release";
   version = "b1.7.3-december-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/hF5wCBlW/Faithful%2032x%20-%20b1.7.3.zip";
@@ -714,7 +714,7 @@
   };
 };
 
-"vsMnzeD8" = lib.buildMinecraftFile {
+"vsMnzeD8" = lib.buildMinecraftPack {
   pname = "[1.20.2] Faithful 32x – October 2023 Release";
   version = "1.20.2-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/vsMnzeD8/Faithful%2032x%20-%201.20.2.zip";
@@ -725,7 +725,7 @@
   };
 };
 
-"V65dIxCx" = lib.buildMinecraftFile {
+"V65dIxCx" = lib.buildMinecraftPack {
   pname = "[1.20.1] Faithful 32x – October 2023 Release";
   version = "1.20.1-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/V65dIxCx/Faithful%2032x%20-%201.20.1.zip";
@@ -736,7 +736,7 @@
   };
 };
 
-"QxWkDxXo" = lib.buildMinecraftFile {
+"QxWkDxXo" = lib.buildMinecraftPack {
   pname = "[1.19.4] Faithful 32x – October 2023 Release";
   version = "1.19.4-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/QxWkDxXo/Faithful%2032x%20-%201.19.4.zip";
@@ -747,7 +747,7 @@
   };
 };
 
-"6dwjpMLZ" = lib.buildMinecraftFile {
+"6dwjpMLZ" = lib.buildMinecraftPack {
   pname = "[1.19.3] Faithful 32x – October 2023 Release";
   version = "1.19.3-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/6dwjpMLZ/Faithful%2032x%20-%201.19.3.zip";
@@ -758,7 +758,7 @@
   };
 };
 
-"Wm2pWukz" = lib.buildMinecraftFile {
+"Wm2pWukz" = lib.buildMinecraftPack {
   pname = "[1.19.2] Faithful 32x – October 2023 Release";
   version = "1.19.2-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/Wm2pWukz/Faithful%2032x%20-%201.19.2.zip";
@@ -769,7 +769,7 @@
   };
 };
 
-"Hjv6UPze" = lib.buildMinecraftFile {
+"Hjv6UPze" = lib.buildMinecraftPack {
   pname = "[1.18.2] Faithful 32x – October 2023 Release";
   version = "1.18.2-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/Hjv6UPze/Faithful%2032x%20-%201.18.2.zip";
@@ -780,7 +780,7 @@
   };
 };
 
-"3UrXsaDa" = lib.buildMinecraftFile {
+"3UrXsaDa" = lib.buildMinecraftPack {
   pname = "[1.17.1] Faithful 32x – October 2023 Release";
   version = "1.17.1-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/3UrXsaDa/Faithful%2032x%20-%201.17.1.zip";
@@ -791,7 +791,7 @@
   };
 };
 
-"71rJAWtn" = lib.buildMinecraftFile {
+"71rJAWtn" = lib.buildMinecraftPack {
   pname = "[1.16.5] Faithful 32x – October 2023 Release";
   version = "1.16.5-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/71rJAWtn/Faithful%2032x%20-%201.16.5.zip";
@@ -802,7 +802,7 @@
   };
 };
 
-"g54WOCZJ" = lib.buildMinecraftFile {
+"g54WOCZJ" = lib.buildMinecraftPack {
   pname = "[1.15.2] Faithful 32x – October 2023 Release";
   version = "1.15.2-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/g54WOCZJ/Faithful%2032x%20-%201.15.2.zip";
@@ -813,7 +813,7 @@
   };
 };
 
-"ElWmsLXM" = lib.buildMinecraftFile {
+"ElWmsLXM" = lib.buildMinecraftPack {
   pname = "[1.14.4] Faithful 32x – October 2023 Releases";
   version = "1.14.4-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/ElWmsLXM/Faithful%2032x%20-%201.14.4.zip";
@@ -824,7 +824,7 @@
   };
 };
 
-"kxu7shBB" = lib.buildMinecraftFile {
+"kxu7shBB" = lib.buildMinecraftPack {
   pname = "[1.13.2] Faithful 32x – October 2023 Release";
   version = "1.13.2-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/kxu7shBB/Faithful%2032x%20-%201.13.2.zip";
@@ -835,7 +835,7 @@
   };
 };
 
-"K4ksU1oD" = lib.buildMinecraftFile {
+"K4ksU1oD" = lib.buildMinecraftPack {
   pname = "[1.12.2] Faithful 32x – October 2023 Release";
   version = "1.12.2-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/K4ksU1oD/Faithful%2032x%20-%201.12.2.zip";
@@ -846,7 +846,7 @@
   };
 };
 
-"sQuEczq2" = lib.buildMinecraftFile {
+"sQuEczq2" = lib.buildMinecraftPack {
   pname = "[1.11.2] Faithful 32x – October 2023 Release";
   version = "1.11.2-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/sQuEczq2/Faithful%2032x%20-%201.11.2.zip";
@@ -857,7 +857,7 @@
   };
 };
 
-"U6jVKJTS" = lib.buildMinecraftFile {
+"U6jVKJTS" = lib.buildMinecraftPack {
   pname = "[1.10.2] Faithful 32x – October 2023 Release";
   version = "1.10.2-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/U6jVKJTS/Faithful%2032x%20-%201.10.2.zip";
@@ -868,7 +868,7 @@
   };
 };
 
-"nWWhJQip" = lib.buildMinecraftFile {
+"nWWhJQip" = lib.buildMinecraftPack {
   pname = "[1.9.4] Faithful 32x – October 2023 Release";
   version = "1.9.4-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/nWWhJQip/Faithful%2032x%20-%201.9.4.zip";
@@ -879,7 +879,7 @@
   };
 };
 
-"yN3jdsts" = lib.buildMinecraftFile {
+"yN3jdsts" = lib.buildMinecraftPack {
   pname = "[1.8.9] Faithful 32x – October 2023 Release";
   version = "1.8.9-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/yN3jdsts/Faithful%2032x%20-%201.8.9.zip";
@@ -890,7 +890,7 @@
   };
 };
 
-"MOXqNfJa" = lib.buildMinecraftFile {
+"MOXqNfJa" = lib.buildMinecraftPack {
   pname = "[1.7.10] Faithful 32x – October 2023 Release";
   version = "1.7.10-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/MOXqNfJa/Faithful%2032x%20-%201.7.10.zip";
@@ -901,7 +901,7 @@
   };
 };
 
-"sGgLOaCY" = lib.buildMinecraftFile {
+"sGgLOaCY" = lib.buildMinecraftPack {
   pname = "[1.6.4] Faithful 32x – October 2023 Release";
   version = "1.6.4-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/sGgLOaCY/Faithful%2032x%20-%201.6.4.zip";
@@ -912,7 +912,7 @@
   };
 };
 
-"j31vNLdD" = lib.buildMinecraftFile {
+"j31vNLdD" = lib.buildMinecraftPack {
   pname = "[1.4.6] Faithful 32x – October 2023 Release";
   version = "1.4.6-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/j31vNLdD/Faithful%2032x%20-%201.4.6.zip";
@@ -923,7 +923,7 @@
   };
 };
 
-"GIA87w8C" = lib.buildMinecraftFile {
+"GIA87w8C" = lib.buildMinecraftPack {
   pname = "[Beta 1.7.3] Faithful 32x – October 2023 Release";
   version = "b1.7.3-october-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/GIA87w8C/Faithful%2032x%20-%20b1.7.3.zip";
@@ -934,7 +934,7 @@
   };
 };
 
-"B5YcFnwW" = lib.buildMinecraftFile {
+"B5YcFnwW" = lib.buildMinecraftPack {
   pname = "[1.20.2] Faithful 32x – August 2023 Release";
   version = "1.20.2-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/B5YcFnwW/Faithful%2032x%20-%201.20.2.zip";
@@ -945,7 +945,7 @@
   };
 };
 
-"fi9sz9Ah" = lib.buildMinecraftFile {
+"fi9sz9Ah" = lib.buildMinecraftPack {
   pname = "[1.20.1] Faithful 32x – August 2023 Release";
   version = "1.20.1-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/fi9sz9Ah/Faithful%2032x%20-%201.20.1.zip";
@@ -956,7 +956,7 @@
   };
 };
 
-"xDbOjKTl" = lib.buildMinecraftFile {
+"xDbOjKTl" = lib.buildMinecraftPack {
   pname = "[1.19.4] Faithful 32x – August 2023 Release";
   version = "1.19.4-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/xDbOjKTl/Faithful%2032x%20-%201.19.4.zip";
@@ -967,7 +967,7 @@
   };
 };
 
-"AxGgg9T5" = lib.buildMinecraftFile {
+"AxGgg9T5" = lib.buildMinecraftPack {
   pname = "[1.19.3] Faithful 32x – August 2023 Release";
   version = "1.19.3-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/AxGgg9T5/Faithful%2032x%20-%201.19.3.zip";
@@ -978,7 +978,7 @@
   };
 };
 
-"J82FYqyH" = lib.buildMinecraftFile {
+"J82FYqyH" = lib.buildMinecraftPack {
   pname = "[1.19.2] Faithful 32x – August 2023 Release";
   version = "1.19.2-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/J82FYqyH/Faithful%2032x%20-%201.19.2.zip";
@@ -989,7 +989,7 @@
   };
 };
 
-"uzXEEThM" = lib.buildMinecraftFile {
+"uzXEEThM" = lib.buildMinecraftPack {
   pname = "[1.18.2] Faithful 32x – August 2023 Release";
   version = "1.18.2-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/uzXEEThM/Faithful%2032x%20-%201.18.2.zip";
@@ -1000,7 +1000,7 @@
   };
 };
 
-"rM5rLF0f" = lib.buildMinecraftFile {
+"rM5rLF0f" = lib.buildMinecraftPack {
   pname = "[1.17.1] Faithful 32x – August 2023 Release";
   version = "1.17.1-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/rM5rLF0f/Faithful%2032x%20-%201.17.1.zip";
@@ -1011,7 +1011,7 @@
   };
 };
 
-"uAYZTwt2" = lib.buildMinecraftFile {
+"uAYZTwt2" = lib.buildMinecraftPack {
   pname = "[1.16.5] Faithful 32x – August 2023 Release";
   version = "1.16.5-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/uAYZTwt2/Faithful%2032x%20-%201.16.5.zip";
@@ -1022,7 +1022,7 @@
   };
 };
 
-"fYKJgKC3" = lib.buildMinecraftFile {
+"fYKJgKC3" = lib.buildMinecraftPack {
   pname = "[1.15.2] Faithful 32x – August 2023 Release";
   version = "1.15.2-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/fYKJgKC3/Faithful%2032x%20-%201.15.2.zip";
@@ -1033,7 +1033,7 @@
   };
 };
 
-"7acQWl6Z" = lib.buildMinecraftFile {
+"7acQWl6Z" = lib.buildMinecraftPack {
   pname = "[1.14.4] Faithful 32x – August 2023 Release";
   version = "1.14.4-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/7acQWl6Z/Faithful%2032x%20-%201.14.4.zip";
@@ -1044,7 +1044,7 @@
   };
 };
 
-"v9oi0ma9" = lib.buildMinecraftFile {
+"v9oi0ma9" = lib.buildMinecraftPack {
   pname = "[1.13.2] Faithful 32x – August 2023 Release";
   version = "1.13.2-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/v9oi0ma9/Faithful%2032x%20-%201.13.2.zip";
@@ -1055,7 +1055,7 @@
   };
 };
 
-"K6pdwd1S" = lib.buildMinecraftFile {
+"K6pdwd1S" = lib.buildMinecraftPack {
   pname = "[1.12.2] Faithful 32x – August 2023 Release";
   version = "1.12.2-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/K6pdwd1S/Faithful%2032x%20-%201.12.2.zip";
@@ -1066,7 +1066,7 @@
   };
 };
 
-"TjQS21E8" = lib.buildMinecraftFile {
+"TjQS21E8" = lib.buildMinecraftPack {
   pname = "[1.11.2] Faithful 32x – August 2023 Release";
   version = "1.11.2-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/TjQS21E8/Faithful%2032x%20-%201.11.2.zip";
@@ -1077,7 +1077,7 @@
   };
 };
 
-"xAzuQkYq" = lib.buildMinecraftFile {
+"xAzuQkYq" = lib.buildMinecraftPack {
   pname = "[1.10.2] Faithful 32x – August 2023 Release";
   version = "1.10.2-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/xAzuQkYq/Faithful%2032x%20-%201.10.2.zip";
@@ -1088,7 +1088,7 @@
   };
 };
 
-"zEk4JEGu" = lib.buildMinecraftFile {
+"zEk4JEGu" = lib.buildMinecraftPack {
   pname = "[1.9.4] Faithful 32x – August 2023 Release";
   version = "1.9.4-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/zEk4JEGu/Faithful%2032x%20-%201.9.4.zip";
@@ -1099,7 +1099,7 @@
   };
 };
 
-"hscoX4l2" = lib.buildMinecraftFile {
+"hscoX4l2" = lib.buildMinecraftPack {
   pname = "[1.8.9] Faithful 32x – August 2023 Release";
   version = "1.8.9-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/hscoX4l2/Faithful%2032x%20-%201.8.9.zip";
@@ -1110,7 +1110,7 @@
   };
 };
 
-"rHl2H7Gr" = lib.buildMinecraftFile {
+"rHl2H7Gr" = lib.buildMinecraftPack {
   pname = "[1.7.10] Faithful 32x – August 2023 Release";
   version = "1.7.10-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/rHl2H7Gr/Faithful%2032x%20-%201.7.10.zip";
@@ -1121,7 +1121,7 @@
   };
 };
 
-"u5bbi9Sq" = lib.buildMinecraftFile {
+"u5bbi9Sq" = lib.buildMinecraftPack {
   pname = "[1.6.4] Faithful 32x – August 2023 Release";
   version = "1.6.4-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/u5bbi9Sq/Faithful%2032x%20-%201.6.4.zip";
@@ -1132,7 +1132,7 @@
   };
 };
 
-"rWo7SfoY" = lib.buildMinecraftFile {
+"rWo7SfoY" = lib.buildMinecraftPack {
   pname = "[1.4.6] Faithful 32x – August 2023 Release";
   version = "1.4.6-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/rWo7SfoY/Faithful%2032x%20-%201.4.6.zip";
@@ -1143,7 +1143,7 @@
   };
 };
 
-"f2ZukKaV" = lib.buildMinecraftFile {
+"f2ZukKaV" = lib.buildMinecraftPack {
   pname = "[Beta 1.7.3] Faithful 32x – August 2023 Release";
   version = "b1.7.3-august-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/f2ZukKaV/Faithful%2032x%20-%20b1.7.3.zip";
@@ -1154,7 +1154,7 @@
   };
 };
 
-"RVgv0Jj8" = lib.buildMinecraftFile {
+"RVgv0Jj8" = lib.buildMinecraftPack {
   pname = "[1.19.4] Faithful 32x – May 2023 Release";
   version = "1.19.4-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/RVgv0Jj8/Faithful%2032x%20-%201.19.4.zip";
@@ -1165,7 +1165,7 @@
   };
 };
 
-"YFvngjTZ" = lib.buildMinecraftFile {
+"YFvngjTZ" = lib.buildMinecraftPack {
   pname = "[1.19.3] Faithful 32x – May 2023 Release";
   version = "1.19.3-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/YFvngjTZ/Faithful%2032x%20-%201.19.3.zip";
@@ -1176,7 +1176,7 @@
   };
 };
 
-"a2uVWX9P" = lib.buildMinecraftFile {
+"a2uVWX9P" = lib.buildMinecraftPack {
   pname = "[1.19.2] Faithful 32x – May 2023 Release";
   version = "1.19.2-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/a2uVWX9P/Faithful%2032x%20-%201.19.2.zip";
@@ -1187,7 +1187,7 @@
   };
 };
 
-"wL1EwtPk" = lib.buildMinecraftFile {
+"wL1EwtPk" = lib.buildMinecraftPack {
   pname = "[1.18.2] Faithful 32x – May 2023 Release";
   version = "1.18.2-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/wL1EwtPk/Faithful%2032x%20-%201.18.2.zip";
@@ -1198,7 +1198,7 @@
   };
 };
 
-"WFSAvITR" = lib.buildMinecraftFile {
+"WFSAvITR" = lib.buildMinecraftPack {
   pname = "[1.17.1] Faithful 32x – May 2023 Release";
   version = "1.17.1-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/WFSAvITR/Faithful%2032x%20-%201.17.1.zip";
@@ -1209,7 +1209,7 @@
   };
 };
 
-"gAA9e2pL" = lib.buildMinecraftFile {
+"gAA9e2pL" = lib.buildMinecraftPack {
   pname = "[1.16.5] Faithful 32x – May 2023 Release";
   version = "1.16.5-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/gAA9e2pL/Faithful%2032x%20-%201.16.5.zip";
@@ -1220,7 +1220,7 @@
   };
 };
 
-"dXc7BGqo" = lib.buildMinecraftFile {
+"dXc7BGqo" = lib.buildMinecraftPack {
   pname = "[1.15.2] Faithful 32x – May 2023 Release";
   version = "1.15.2-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/dXc7BGqo/Faithful%2032x%20-%201.15.2.zip";
@@ -1231,7 +1231,7 @@
   };
 };
 
-"G3rUqdXp" = lib.buildMinecraftFile {
+"G3rUqdXp" = lib.buildMinecraftPack {
   pname = "[1.14.4] Faithful 32x – May 2023 Release";
   version = "1.14.4-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/G3rUqdXp/Faithful%2032x%20-%201.14.4.zip";
@@ -1242,7 +1242,7 @@
   };
 };
 
-"TrxlAqsJ" = lib.buildMinecraftFile {
+"TrxlAqsJ" = lib.buildMinecraftPack {
   pname = "[1.13.2] Faithful 32x – May 2023 Release";
   version = "1.13.2-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/TrxlAqsJ/Faithful%2032x%20-%201.13.2.zip";
@@ -1253,7 +1253,7 @@
   };
 };
 
-"UxCyEFnS" = lib.buildMinecraftFile {
+"UxCyEFnS" = lib.buildMinecraftPack {
   pname = "[1.12.2] Faithful 32x – May 2023 Release";
   version = "1.12.2-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/UxCyEFnS/Faithful%2032x%20-%201.12.2.zip";
@@ -1264,7 +1264,7 @@
   };
 };
 
-"SFLYqCAC" = lib.buildMinecraftFile {
+"SFLYqCAC" = lib.buildMinecraftPack {
   pname = "[1.11.2] Faithful 32x – May 2023 Release";
   version = "1.11.2-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/SFLYqCAC/Faithful%2032x%20-%201.11.2.zip";
@@ -1275,7 +1275,7 @@
   };
 };
 
-"9O3AQLtH" = lib.buildMinecraftFile {
+"9O3AQLtH" = lib.buildMinecraftPack {
   pname = "[1.10.2] Faithful 32x – May 2023 Release";
   version = "1.10.2-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/9O3AQLtH/Faithful%2032x%20-%201.10.2.zip";
@@ -1286,7 +1286,7 @@
   };
 };
 
-"MUtVOSMi" = lib.buildMinecraftFile {
+"MUtVOSMi" = lib.buildMinecraftPack {
   pname = "[1.9.4] Faithful 32x – May 2023 Release";
   version = "1.9.4-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/MUtVOSMi/Faithful%2032x%20-%201.9.4.zip";
@@ -1297,7 +1297,7 @@
   };
 };
 
-"hoemVxIy" = lib.buildMinecraftFile {
+"hoemVxIy" = lib.buildMinecraftPack {
   pname = "[1.8.9] Faithful 32x – May 2023 Release";
   version = "1.8.9-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/hoemVxIy/Faithful%2032x%20-%201.8.9.zip";
@@ -1308,7 +1308,7 @@
   };
 };
 
-"fUu8eqpQ" = lib.buildMinecraftFile {
+"fUu8eqpQ" = lib.buildMinecraftPack {
   pname = "[1.7.10] Faithful 32x – May 2023 Release";
   version = "1.7.10-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/fUu8eqpQ/Faithful%2032x%20-%201.7.10.zip";
@@ -1319,7 +1319,7 @@
   };
 };
 
-"ZRmQskJQ" = lib.buildMinecraftFile {
+"ZRmQskJQ" = lib.buildMinecraftPack {
   pname = "[1.6.4] Faithful 32x – May 2023 Release";
   version = "1.6.4-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/ZRmQskJQ/Faithful%2032x%20-%201.6.4.zip";
@@ -1330,7 +1330,7 @@
   };
 };
 
-"OfO4EVDv" = lib.buildMinecraftFile {
+"OfO4EVDv" = lib.buildMinecraftPack {
   pname = "[1.4.6] Faithful 32x – May 2023 Release";
   version = "1.4.6-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/OfO4EVDv/Faithful%2032x%20-%201.4.6.zip";
@@ -1341,7 +1341,7 @@
   };
 };
 
-"bOGd85gG" = lib.buildMinecraftFile {
+"bOGd85gG" = lib.buildMinecraftPack {
   pname = "[Beta 1.7.3] Faithful 32x – May 2023 Release";
   version = "b1.7.3-may-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/bOGd85gG/Faithful%2032x%20-%20b1.7.3.zip";
@@ -1352,7 +1352,7 @@
   };
 };
 
-"BHX74deX" = lib.buildMinecraftFile {
+"BHX74deX" = lib.buildMinecraftPack {
   pname = "[1.19.4] Faithful 32x – April 2023 Pre-release";
   version = "1.19.4-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/BHX74deX/Faithful%2032x%20-%201.19.4.zip";
@@ -1363,7 +1363,7 @@
   };
 };
 
-"AXEo9A4u" = lib.buildMinecraftFile {
+"AXEo9A4u" = lib.buildMinecraftPack {
   pname = "[1.19.3] Faithful 32x – April 2023 Pre-release";
   version = "1.19.3-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/AXEo9A4u/Faithful%2032x%20-%201.19.3.zip";
@@ -1374,7 +1374,7 @@
   };
 };
 
-"EFfUm3vX" = lib.buildMinecraftFile {
+"EFfUm3vX" = lib.buildMinecraftPack {
   pname = "[1.19.2] Faithful 32x – April 2023 Release";
   version = "1.19.2-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/EFfUm3vX/Faithful%2032x%20-%201.19.2.zip";
@@ -1385,7 +1385,7 @@
   };
 };
 
-"oSwNuKAp" = lib.buildMinecraftFile {
+"oSwNuKAp" = lib.buildMinecraftPack {
   pname = "[1.18.2] Faithful 32x – April 2023 Release";
   version = "1.18.2-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/oSwNuKAp/Faithful%2032x%20-%201.18.2.zip";
@@ -1396,7 +1396,7 @@
   };
 };
 
-"5FVET3hD" = lib.buildMinecraftFile {
+"5FVET3hD" = lib.buildMinecraftPack {
   pname = "[1.17.1] Faithful 32x – April 2023 Release";
   version = "1.17.1-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/5FVET3hD/Faithful%2032x%20-%201.17.1.zip";
@@ -1407,7 +1407,7 @@
   };
 };
 
-"s8Uu4h6n" = lib.buildMinecraftFile {
+"s8Uu4h6n" = lib.buildMinecraftPack {
   pname = "[1.16.5] Faithful 32x – April 2023 Release";
   version = "1.16.5-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/s8Uu4h6n/Faithful%2032x%20-%201.16.5.zip";
@@ -1418,7 +1418,7 @@
   };
 };
 
-"7HowsDuF" = lib.buildMinecraftFile {
+"7HowsDuF" = lib.buildMinecraftPack {
   pname = "[1.15.2] Faithful 32x – April 2023 Release";
   version = "1.15.2-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/7HowsDuF/Faithful%2032x%20-%201.15.2.zip";
@@ -1429,7 +1429,7 @@
   };
 };
 
-"fO4rWUI5" = lib.buildMinecraftFile {
+"fO4rWUI5" = lib.buildMinecraftPack {
   pname = "[1.14.4] Faithful 32x – April 2023 Release";
   version = "1.14.4-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/fO4rWUI5/Faithful%2032x%20-%201.14.4.zip";
@@ -1440,7 +1440,7 @@
   };
 };
 
-"9egaZImk" = lib.buildMinecraftFile {
+"9egaZImk" = lib.buildMinecraftPack {
   pname = "[1.13.2] Faithful 32x – April 2023 Release";
   version = "1.13.2-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/9egaZImk/Faithful%2032x%20-%201.13.2.zip";
@@ -1451,7 +1451,7 @@
   };
 };
 
-"UzdVhxLZ" = lib.buildMinecraftFile {
+"UzdVhxLZ" = lib.buildMinecraftPack {
   pname = "[1.12.2] Faithful 32x – April 2023 Release";
   version = "1.12.2-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/UzdVhxLZ/Faithful%2032x%20-%201.12.2.zip";
@@ -1462,7 +1462,7 @@
   };
 };
 
-"XJbgzXKv" = lib.buildMinecraftFile {
+"XJbgzXKv" = lib.buildMinecraftPack {
   pname = "[1.11.2] Faithful 32x – April 2023 Release";
   version = "1.11.2-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/XJbgzXKv/Faithful%2032x%20-%201.11.2.zip";
@@ -1473,7 +1473,7 @@
   };
 };
 
-"WXxHveMz" = lib.buildMinecraftFile {
+"WXxHveMz" = lib.buildMinecraftPack {
   pname = "[1.10.2] Faithful 32x – April 2023 Release";
   version = "1.10.2-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/WXxHveMz/Faithful%2032x%20-%201.10.2.zip";
@@ -1484,7 +1484,7 @@
   };
 };
 
-"XpWLFqZF" = lib.buildMinecraftFile {
+"XpWLFqZF" = lib.buildMinecraftPack {
   pname = "[1.9.4] Faithful 32x – April 2023 Release";
   version = "1.9.4-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/XpWLFqZF/Faithful%2032x%20-%201.9.4.zip";
@@ -1495,7 +1495,7 @@
   };
 };
 
-"lytzCdtS" = lib.buildMinecraftFile {
+"lytzCdtS" = lib.buildMinecraftPack {
   pname = "[1.8.9] Faithful 32x – April 2023 Release";
   version = "1.8.9-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/lytzCdtS/Faithful%2032x%20-%201.8.9.zip";
@@ -1506,7 +1506,7 @@
   };
 };
 
-"YUaymJc6" = lib.buildMinecraftFile {
+"YUaymJc6" = lib.buildMinecraftPack {
   pname = "[1.7.10] Faithful 32x – April 2023 Release";
   version = "1.7.10-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/YUaymJc6/Faithful%2032x%20-%201.7.10.zip";
@@ -1517,7 +1517,7 @@
   };
 };
 
-"HZbqFRZU" = lib.buildMinecraftFile {
+"HZbqFRZU" = lib.buildMinecraftPack {
   pname = "[1.6.4] Faithful 32x – April 2023 Release";
   version = "1.6.4-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/HZbqFRZU/Faithful%2032x%20-%201.6.4.zip";
@@ -1528,7 +1528,7 @@
   };
 };
 
-"oJuf4D16" = lib.buildMinecraftFile {
+"oJuf4D16" = lib.buildMinecraftPack {
   pname = "[1.4.6] Faithful 32x – April 2023 Release";
   version = "1.4.6-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/oJuf4D16/Faithful%2032x%20-%201.4.6.zip";
@@ -1539,7 +1539,7 @@
   };
 };
 
-"3vwLmYds" = lib.buildMinecraftFile {
+"3vwLmYds" = lib.buildMinecraftPack {
   pname = "[Beta 1.7.3] Faithful 32x – April 2023 Release";
   version = "b1.7.3-april-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/3vwLmYds/Faithful%2032x%20-%20b1.7.3.zip";
@@ -1550,7 +1550,7 @@
   };
 };
 
-"lah94IL3" = lib.buildMinecraftFile {
+"lah94IL3" = lib.buildMinecraftPack {
   pname = "[1.19.3] Faithful 32x – February 2023 Pre-release";
   version = "1.19.2-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/lah94IL3/Faithful%2032x%20-%201.19.3.zip";
@@ -1561,7 +1561,7 @@
   };
 };
 
-"Mc2tYKMK" = lib.buildMinecraftFile {
+"Mc2tYKMK" = lib.buildMinecraftPack {
   pname = "[1.19.2] Faithful 32x – February 2023 Release";
   version = "1.19.2-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/Mc2tYKMK/Faithful%2032x%20-%201.19.2.zip";
@@ -1572,7 +1572,7 @@
   };
 };
 
-"fdgoMbW4" = lib.buildMinecraftFile {
+"fdgoMbW4" = lib.buildMinecraftPack {
   pname = "[1.18.2] Faithful 32x – February 2023 Release";
   version = "1.18.2-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/fdgoMbW4/Faithful%2032x%20-%201.18.2.zip";
@@ -1583,7 +1583,7 @@
   };
 };
 
-"bCCszw00" = lib.buildMinecraftFile {
+"bCCszw00" = lib.buildMinecraftPack {
   pname = "[1.17.1] Faithful 32x – February 2023 Release";
   version = "1.17.1-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/bCCszw00/Faithful%2032x%20-%201.17.1.zip";
@@ -1594,7 +1594,7 @@
   };
 };
 
-"ifmlVeCR" = lib.buildMinecraftFile {
+"ifmlVeCR" = lib.buildMinecraftPack {
   pname = "[1.16.5] Faithful 32x – February 2023 Release";
   version = "1.16.5-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/ifmlVeCR/Faithful%2032x%20-%201.16.5.zip";
@@ -1605,7 +1605,7 @@
   };
 };
 
-"CV7rp3p9" = lib.buildMinecraftFile {
+"CV7rp3p9" = lib.buildMinecraftPack {
   pname = "[1.15.2] Faithful 32x – February 2023 Release";
   version = "1.15.2-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/CV7rp3p9/Faithful%2032x%20-%201.15.2.zip";
@@ -1616,7 +1616,7 @@
   };
 };
 
-"lIlA3A4j" = lib.buildMinecraftFile {
+"lIlA3A4j" = lib.buildMinecraftPack {
   pname = "[1.14.4] Faithful 32x – February 2023 Release";
   version = "1.14.4-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/lIlA3A4j/Faithful%2032x%20-%201.14.4.zip";
@@ -1627,7 +1627,7 @@
   };
 };
 
-"K6INAwm4" = lib.buildMinecraftFile {
+"K6INAwm4" = lib.buildMinecraftPack {
   pname = "[1.13.2] Faithful 32x – February 2023 Release";
   version = "1.13.2-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/K6INAwm4/Faithful%2032x%20-%201.13.2.zip";
@@ -1638,7 +1638,7 @@
   };
 };
 
-"nnu1ncxl" = lib.buildMinecraftFile {
+"nnu1ncxl" = lib.buildMinecraftPack {
   pname = "[1.12.2] Faithful 32x – February 2023 Release";
   version = "1.12.2-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/nnu1ncxl/Faithful%2032x%20-%201.12.2.zip";
@@ -1649,7 +1649,7 @@
   };
 };
 
-"YcGogmoj" = lib.buildMinecraftFile {
+"YcGogmoj" = lib.buildMinecraftPack {
   pname = "[1.11.2] Faithful 32x – February 2023 Release";
   version = "1.11.2-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/YcGogmoj/Faithful%2032x%20-%201.11.2.zip";
@@ -1660,7 +1660,7 @@
   };
 };
 
-"rXkD9KbT" = lib.buildMinecraftFile {
+"rXkD9KbT" = lib.buildMinecraftPack {
   pname = "[1.10.2] Faithful 32x – February 2023 Release";
   version = "1.10.2-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/rXkD9KbT/Faithful%2032x%20-%201.10.2.zip";
@@ -1671,7 +1671,7 @@
   };
 };
 
-"MrvXyiNF" = lib.buildMinecraftFile {
+"MrvXyiNF" = lib.buildMinecraftPack {
   pname = "[1.9.4] Faithful 32x – February 2023 Release";
   version = "1.9.4-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/MrvXyiNF/Faithful%2032x%20-%201.9.4.zip";
@@ -1682,7 +1682,7 @@
   };
 };
 
-"qmiC02XM" = lib.buildMinecraftFile {
+"qmiC02XM" = lib.buildMinecraftPack {
   pname = "[1.8.9] Faithful 32x – February 2023 Release";
   version = "1.8.9-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/qmiC02XM/Faithful%2032x%20-%201.8.9.zip";
@@ -1693,7 +1693,7 @@
   };
 };
 
-"wQFrYY0Z" = lib.buildMinecraftFile {
+"wQFrYY0Z" = lib.buildMinecraftPack {
   pname = "[1.7.10] Faithful 32x – February 2023 Release";
   version = "1.7.10-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/wQFrYY0Z/Faithful%2032x%20-%201.7.10.zip";
@@ -1704,7 +1704,7 @@
   };
 };
 
-"CX3moKuf" = lib.buildMinecraftFile {
+"CX3moKuf" = lib.buildMinecraftPack {
   pname = "[1.6.4] Faithful 32x – February 2023 Release";
   version = "1.6.4-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/CX3moKuf/Faithful%2032x%20-%201.6.4.zip";
@@ -1715,7 +1715,7 @@
   };
 };
 
-"qKJD9Mpm" = lib.buildMinecraftFile {
+"qKJD9Mpm" = lib.buildMinecraftPack {
   pname = "[1.4.6] Faithful 32x – February 2023 Release";
   version = "1.4.6-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/qKJD9Mpm/Faithful%2032x%20-%201.4.6.zip";
@@ -1726,7 +1726,7 @@
   };
 };
 
-"KYsMIPzi" = lib.buildMinecraftFile {
+"KYsMIPzi" = lib.buildMinecraftPack {
   pname = "[Beta 1.7.3] Faithful 32x – February 2023 Release";
   version = "b1.7.3-february-2023";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/KYsMIPzi/Faithful%2032x%20-%20b1.7.3.zip";
@@ -1737,7 +1737,7 @@
   };
 };
 
-"zlfBn4Dg" = lib.buildMinecraftFile {
+"zlfBn4Dg" = lib.buildMinecraftPack {
   pname = "[1.19.3] Faithful 32x – December 2022 Pre-release";
   version = "1.19.3-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/zlfBn4Dg/Faithful%2032x%20-%201.19.3.zip";
@@ -1748,7 +1748,7 @@
   };
 };
 
-"mczC4dKB" = lib.buildMinecraftFile {
+"mczC4dKB" = lib.buildMinecraftPack {
   pname = "[1.18.2] Faithful 32x – December 2022 Release";
   version = "1.18.2-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/mczC4dKB/Faithful%2032x%20-%201.18.2.zip";
@@ -1759,7 +1759,7 @@
   };
 };
 
-"s4IM9hZG" = lib.buildMinecraftFile {
+"s4IM9hZG" = lib.buildMinecraftPack {
   pname = "[1.17.1] Faithful 32x – December 2022 Release";
   version = "1.17.1-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/s4IM9hZG/Faithful%2032x%20-%201.17.1.zip";
@@ -1770,7 +1770,7 @@
   };
 };
 
-"6GUyW9V6" = lib.buildMinecraftFile {
+"6GUyW9V6" = lib.buildMinecraftPack {
   pname = "[1.16.5] Faithful 32x – December 2022 Release";
   version = "1.16.5-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/6GUyW9V6/Faithful%2032x%20-%201.16.5.zip";
@@ -1781,7 +1781,7 @@
   };
 };
 
-"oFafYWEo" = lib.buildMinecraftFile {
+"oFafYWEo" = lib.buildMinecraftPack {
   pname = "[1.15.2] Faithful 32x – December 2022 Release";
   version = "1.15.2-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/oFafYWEo/Faithful%2032x%20-%201.15.2.zip";
@@ -1792,7 +1792,7 @@
   };
 };
 
-"ltkbpKiz" = lib.buildMinecraftFile {
+"ltkbpKiz" = lib.buildMinecraftPack {
   pname = "[1.14.4] Faithful 32x – December 2022 Release";
   version = "1.14.4-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/ltkbpKiz/Faithful%2032x%20-%201.14.4.zip";
@@ -1803,7 +1803,7 @@
   };
 };
 
-"3W2pAH9Y" = lib.buildMinecraftFile {
+"3W2pAH9Y" = lib.buildMinecraftPack {
   pname = "[1.13.2] Faithful 32x – December 2022 Release";
   version = "1.13.2-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/3W2pAH9Y/Faithful%2032x%20-%201.13.2.zip";
@@ -1814,7 +1814,7 @@
   };
 };
 
-"tUOb8dP1" = lib.buildMinecraftFile {
+"tUOb8dP1" = lib.buildMinecraftPack {
   pname = "[1.12.2] Faithful 32x – December 2022 Release";
   version = "1.12.2-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/tUOb8dP1/Faithful%2032x%20-%201.12.2.zip";
@@ -1825,7 +1825,7 @@
   };
 };
 
-"sWlQopir" = lib.buildMinecraftFile {
+"sWlQopir" = lib.buildMinecraftPack {
   pname = "[1.11.2] Faithful 32x – December 2022 Release";
   version = "1.11.2-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/sWlQopir/Faithful%2032x%20-%201.11.2.zip";
@@ -1836,7 +1836,7 @@
   };
 };
 
-"2KCMmFzY" = lib.buildMinecraftFile {
+"2KCMmFzY" = lib.buildMinecraftPack {
   pname = "[1.10.2] Faithful 32x – December 2022 Release";
   version = "1.10.2-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/2KCMmFzY/Faithful%2032x%20-%201.10.2.zip";
@@ -1847,7 +1847,7 @@
   };
 };
 
-"UuBdmYlv" = lib.buildMinecraftFile {
+"UuBdmYlv" = lib.buildMinecraftPack {
   pname = "[1.9.4] Faithful 32x – December 2022 Release";
   version = "1.9.4-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/UuBdmYlv/Faithful%2032x%20-%201.9.4.zip";
@@ -1858,7 +1858,7 @@
   };
 };
 
-"7ZgAvLIt" = lib.buildMinecraftFile {
+"7ZgAvLIt" = lib.buildMinecraftPack {
   pname = "[1.8.9] Faithful 32x – December 2022 Release";
   version = "1.8.9-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/7ZgAvLIt/Faithful%2032x%20-%201.8.9.zip";
@@ -1869,7 +1869,7 @@
   };
 };
 
-"LI3dq4xp" = lib.buildMinecraftFile {
+"LI3dq4xp" = lib.buildMinecraftPack {
   pname = "[1.7.10] Faithful 32x – December 2022 Release";
   version = "1.7.10-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/LI3dq4xp/Faithful%2032x%20-%201.7.10.zip";
@@ -1880,7 +1880,7 @@
   };
 };
 
-"58vjWFUu" = lib.buildMinecraftFile {
+"58vjWFUu" = lib.buildMinecraftPack {
   pname = "[1.6.4] Faithful 32x – December 2022 Release";
   version = "1.6.4-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/58vjWFUu/Faithful%2032x%20-%201.6.4.zip";
@@ -1891,7 +1891,7 @@
   };
 };
 
-"54pE1Pyz" = lib.buildMinecraftFile {
+"54pE1Pyz" = lib.buildMinecraftPack {
   pname = "[1.4.6] Faithful 32x – December 2022 Release";
   version = "1.4.6-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/54pE1Pyz/Faithful%2032x%20-%201.4.6.zip";
@@ -1902,7 +1902,7 @@
   };
 };
 
-"ihKkSqW6" = lib.buildMinecraftFile {
+"ihKkSqW6" = lib.buildMinecraftPack {
   pname = "[Beta 1.7.3] Faithful 32x – December 2022 Release";
   version = "b1.7.3-december-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/ihKkSqW6/Faithful%2032x%20-%20b1.7.3.zip";
@@ -1913,7 +1913,7 @@
   };
 };
 
-"SjJoC0kw" = lib.buildMinecraftFile {
+"SjJoC0kw" = lib.buildMinecraftPack {
   pname = "Faithful 32x – Snapshot 22w46a";
   version = "22w46a";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/SjJoC0kw/Faithful%2032x%20-%2022w46a.zip";
@@ -1924,7 +1924,7 @@
   };
 };
 
-"DNcuc4Wo" = lib.buildMinecraftFile {
+"DNcuc4Wo" = lib.buildMinecraftPack {
   pname = "[1.19.2] Faithful 32x – October 2022 Release";
   version = "1.19.2-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/DNcuc4Wo/Faithful%2032x%20-%201.19.2.zip";
@@ -1935,7 +1935,7 @@
   };
 };
 
-"gStq5vYr" = lib.buildMinecraftFile {
+"gStq5vYr" = lib.buildMinecraftPack {
   pname = "[1.18.2] Faithful 32x – October 2022 Release";
   version = "1.18.2-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/gStq5vYr/Faithful%2032x%20-%201.18.2.zip";
@@ -1946,7 +1946,7 @@
   };
 };
 
-"bliU47DY" = lib.buildMinecraftFile {
+"bliU47DY" = lib.buildMinecraftPack {
   pname = "[1.17.1] Faithful 32x – October 2022 Release";
   version = "1.17.1-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/bliU47DY/Faithful%2032x%20-%201.17.1.zip";
@@ -1957,7 +1957,7 @@
   };
 };
 
-"IrTCndFu" = lib.buildMinecraftFile {
+"IrTCndFu" = lib.buildMinecraftPack {
   pname = "[1.16.5] Faithful 32x – October 2022 Release";
   version = "1.16.5-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/IrTCndFu/Faithful%2032x%20-%201.16.5.zip";
@@ -1968,7 +1968,7 @@
   };
 };
 
-"6lhgJwLs" = lib.buildMinecraftFile {
+"6lhgJwLs" = lib.buildMinecraftPack {
   pname = "[1.15.2] Faithful 32x – October 2022 Release";
   version = "1.15.2-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/6lhgJwLs/Faithful%2032x%20-%201.15.2.zip";
@@ -1979,7 +1979,7 @@
   };
 };
 
-"3JoHKkvv" = lib.buildMinecraftFile {
+"3JoHKkvv" = lib.buildMinecraftPack {
   pname = "[1.14.4] Faithful 32x – October 2022 Release";
   version = "1.14.4-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/3JoHKkvv/Faithful%2032x%20-%201.14.4.zip";
@@ -1990,7 +1990,7 @@
   };
 };
 
-"2JQpNUNH" = lib.buildMinecraftFile {
+"2JQpNUNH" = lib.buildMinecraftPack {
   pname = "[1.13.2] Faithful 32x – October 2022 Release";
   version = "1.13.2-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/2JQpNUNH/Faithful%2032x%20-%201.13.2.zip";
@@ -2001,7 +2001,7 @@
   };
 };
 
-"FejO1j0D" = lib.buildMinecraftFile {
+"FejO1j0D" = lib.buildMinecraftPack {
   pname = "[1.12.2] Faithful 32x – October 2022 Release";
   version = "1.12.2-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/FejO1j0D/Faithful%2032x%20-%201.12.2.zip";
@@ -2012,7 +2012,7 @@
   };
 };
 
-"Dlsel4g3" = lib.buildMinecraftFile {
+"Dlsel4g3" = lib.buildMinecraftPack {
   pname = "[1.11.2] Faithful 32x – October 2022 Release";
   version = "1.11.2-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/Dlsel4g3/Faithful%2032x%20-%201.11.2.zip";
@@ -2023,7 +2023,7 @@
   };
 };
 
-"a9qBaIZJ" = lib.buildMinecraftFile {
+"a9qBaIZJ" = lib.buildMinecraftPack {
   pname = "[1.10.2] Faithful 32x – October 2022 Release";
   version = "1.10.2-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/a9qBaIZJ/Faithful%2032x%20-%201.10.2.zip";
@@ -2034,7 +2034,7 @@
   };
 };
 
-"AbtthJvJ" = lib.buildMinecraftFile {
+"AbtthJvJ" = lib.buildMinecraftPack {
   pname = "[1.9.4] Faithful 32x – October 2022 Release";
   version = "1.9.4-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/AbtthJvJ/Faithful%2032x%20-%201.9.4.zip";
@@ -2045,7 +2045,7 @@
   };
 };
 
-"woiJfMRU" = lib.buildMinecraftFile {
+"woiJfMRU" = lib.buildMinecraftPack {
   pname = "[1.8.9] Faithful 32x – October 2022 Release";
   version = "1.8.9-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/woiJfMRU/Faithful%2032x%20-%201.8.9.zip";
@@ -2056,7 +2056,7 @@
   };
 };
 
-"ZBUQCrUv" = lib.buildMinecraftFile {
+"ZBUQCrUv" = lib.buildMinecraftPack {
   pname = "[1.7.10] Faithful 32x – October 2022 Release";
   version = "1.7.10-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/ZBUQCrUv/Faithful%2032x%20-%201.7.10.zip";
@@ -2067,7 +2067,7 @@
   };
 };
 
-"yDAKugFm" = lib.buildMinecraftFile {
+"yDAKugFm" = lib.buildMinecraftPack {
   pname = "[1.6.4] Faithful 32x – October 2022 Release";
   version = "1.6.4-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/yDAKugFm/Faithful%2032x%20-%201.6.4.zip";
@@ -2078,7 +2078,7 @@
   };
 };
 
-"nphuusNh" = lib.buildMinecraftFile {
+"nphuusNh" = lib.buildMinecraftPack {
   pname = "[1.4.6] Faithful 32x – October 2022 Release";
   version = "1.4.6-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/nphuusNh/Faithful%2032x%20-%201.4.6.zip";
@@ -2089,7 +2089,7 @@
   };
 };
 
-"oFDQWQn3" = lib.buildMinecraftFile {
+"oFDQWQn3" = lib.buildMinecraftPack {
   pname = "[Beta 1.7.3] Faithful 32x – October 2022 Release";
   version = "b1.7.3-october-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/oFDQWQn3/Faithful%2032x%20-%20b1.7.3.zip";
@@ -2100,7 +2100,7 @@
   };
 };
 
-"G2LhAr7d" = lib.buildMinecraftFile {
+"G2LhAr7d" = lib.buildMinecraftPack {
   pname = "[1.19.2] Faithful 32x – August 2022 Release";
   version = "1.19.2-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.19.2-august-2022/Faithful%2032x%20-%201.19.2.zip";
@@ -2111,7 +2111,7 @@
   };
 };
 
-"edBTbHJ1" = lib.buildMinecraftFile {
+"edBTbHJ1" = lib.buildMinecraftPack {
   pname = "[1.18.2] Faithful 32x – August 2022 Release";
   version = "1.18.2-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.18.2-august-2022/Faithful%2032x%20-%201.18.2.zip";
@@ -2122,7 +2122,7 @@
   };
 };
 
-"BI3SpiBE" = lib.buildMinecraftFile {
+"BI3SpiBE" = lib.buildMinecraftPack {
   pname = "[1.17.1] Faithful 32x – August 2022 Release";
   version = "1.17.1-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.17.1-august-2022/Faithful%2032x%20-%201.17.1.zip";
@@ -2133,7 +2133,7 @@
   };
 };
 
-"D4pRGtTY" = lib.buildMinecraftFile {
+"D4pRGtTY" = lib.buildMinecraftPack {
   pname = "[1.16.5] Faithful 32x – August 2022 Release";
   version = "1.16.5-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.16.5-august-2022/Faithful%2032x%20-%201.16.5.zip";
@@ -2144,7 +2144,7 @@
   };
 };
 
-"i1MLhTyy" = lib.buildMinecraftFile {
+"i1MLhTyy" = lib.buildMinecraftPack {
   pname = "[1.15.2] Faithful 32x – August 2022 Pre-release";
   version = "1.15.2-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.15.2-august-2022/Faithful%2032x%20-%201.15.2.zip";
@@ -2155,7 +2155,7 @@
   };
 };
 
-"IYRwLioU" = lib.buildMinecraftFile {
+"IYRwLioU" = lib.buildMinecraftPack {
   pname = "[1.14.4] Faithful 32x – August 2022 Pre-release";
   version = "1.14.4-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.14.4-august-2022/Faithful%2032x%20-%201.14.4.zip";
@@ -2166,7 +2166,7 @@
   };
 };
 
-"YbrAm5Ni" = lib.buildMinecraftFile {
+"YbrAm5Ni" = lib.buildMinecraftPack {
   pname = "[1.13.2] Faithful 32x – August 2022 Pre-release";
   version = "1.13.2-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.13.2-august-2022/Faithful%2032x%20-%201.13.2.zip";
@@ -2177,7 +2177,7 @@
   };
 };
 
-"FCVUWtt9" = lib.buildMinecraftFile {
+"FCVUWtt9" = lib.buildMinecraftPack {
   pname = "[1.12.2] Faithful 32x – August 2022 Pre-release";
   version = "1.12.2-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.12.2-august-2022/Faithful%2032x%20-%201.12.2.zip";
@@ -2188,7 +2188,7 @@
   };
 };
 
-"cBgzvJEy" = lib.buildMinecraftFile {
+"cBgzvJEy" = lib.buildMinecraftPack {
   pname = "[1.11.2] Faithful 32x – August 2022 Pre-release";
   version = "1.11.2-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.11.2-august-2022/Faithful%2032x%20-%201.11.2.zip";
@@ -2199,7 +2199,7 @@
   };
 };
 
-"zNL1tdFh" = lib.buildMinecraftFile {
+"zNL1tdFh" = lib.buildMinecraftPack {
   pname = "[1.10.2] Faithful 32x – August 2022 Pre-release";
   version = "1.10.2-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.10.2-august-2022/Faithful%2032x%20-%201.10.2.zip";
@@ -2210,7 +2210,7 @@
   };
 };
 
-"vfOA9Hvx" = lib.buildMinecraftFile {
+"vfOA9Hvx" = lib.buildMinecraftPack {
   pname = "[1.9.4] Faithful 32x – August 2022 Pre-release";
   version = "1.9.4-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.9.4-august-2022/Faithful%2032x%20-%201.9.4.zip";
@@ -2221,7 +2221,7 @@
   };
 };
 
-"erutg5E4" = lib.buildMinecraftFile {
+"erutg5E4" = lib.buildMinecraftPack {
   pname = "[1.8.9] Faithful 32x – August 2022 Pre-release";
   version = "1.8.9-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.8.9-august-2022/Faithful%2032x%20-%201.8.9.zip";
@@ -2232,7 +2232,7 @@
   };
 };
 
-"MZCx6Ngy" = lib.buildMinecraftFile {
+"MZCx6Ngy" = lib.buildMinecraftPack {
   pname = "[1.7.10] Faithful 32x – August 2022 Pre-release";
   version = "1.7.10-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.7.10-august-2022/Faithful%2032x%20-%201.7.10.zip";
@@ -2243,7 +2243,7 @@
   };
 };
 
-"7sREUzZm" = lib.buildMinecraftFile {
+"7sREUzZm" = lib.buildMinecraftPack {
   pname = "[1.6.4] Faithful 32x – August 2022 Pre-release";
   version = "1.6.4-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.6.4-august-2022/Faithful%2032x%20-%201.6.4.zip";
@@ -2254,7 +2254,7 @@
   };
 };
 
-"TGvvgsCN" = lib.buildMinecraftFile {
+"TGvvgsCN" = lib.buildMinecraftPack {
   pname = "[1.4.6] Faithful 32x – August 2022 Pre-release";
   version = "1.4.6-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/1.4.6-august-2022/Faithful%2032x%20-%201.4.6.zip";
@@ -2265,7 +2265,7 @@
   };
 };
 
-"ARNa62jf" = lib.buildMinecraftFile {
+"ARNa62jf" = lib.buildMinecraftPack {
   pname = "[b1.7.3] Faithful 32x – August 2022 Pre-release";
   version = "b1.7.3-august-2022";
   url = "https://cdn.modrinth.com/data/w0TnApzs/versions/b1.7.3-august-2022/Faithful%2032x%20-%20b1.7.3.zip";

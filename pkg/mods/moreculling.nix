@@ -1,5 +1,5 @@
 { lib, ... }: {
-"yduz8IZo" = lib.buildMinecraftFile {
+"yduz8IZo" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.25.0 for 1.20.[5-6]";
   version = "0.25.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/yduz8IZo/moreculling-1.20.5-0.25.0.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"dOy4u1kk" = lib.buildMinecraftFile {
+"dOy4u1kk" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.25.0 for 1.20.5";
   version = "0.25.0-beta.1";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/dOy4u1kk/moreculling-1.20.5-0.25.0-beta.1.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"3m5znPWm" = lib.buildMinecraftFile {
+"3m5znPWm" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.24.0 for 1.20.[1-4]";
   version = "0.24.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/3m5znPWm/moreculling-1.20.4-0.24.0.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"gZW2FlFT" = lib.buildMinecraftFile {
+"gZW2FlFT" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.23.1 for 1.20.[1-4]";
   version = "0.23.1";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/gZW2FlFT/moreculling-1.20.4-0.23.1.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"KpriJ15b" = lib.buildMinecraftFile {
+"KpriJ15b" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.22.1 for 1.20.[1-4]";
   version = "0.22.1-1.20.1+";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/KpriJ15b/moreculling-1.20.4-0.22.1.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"JTsfNvX1" = lib.buildMinecraftFile {
+"JTsfNvX1" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.22.0 for 1.20.[1-4]";
   version = "0.22.0-1.20.1+";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/JTsfNvX1/moreculling-1.20.4-0.22.0.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"jv96n9er" = lib.buildMinecraftFile {
+"jv96n9er" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.21.0 for 1.20.[0-4]";
   version = "v0.21.0-1.20.x";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/jv96n9er/moreculling-1.20.4-0.21.0.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"qLO5kLrO" = lib.buildMinecraftFile {
+"qLO5kLrO" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.20.3 for 1.20.[0-4]";
   version = "v0.20.3-1.20.x";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/qLO5kLrO/moreculling-1.20.4-0.20.3.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"Bu5pCvCn" = lib.buildMinecraftFile {
+"Bu5pCvCn" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.19.0 for 1.20.x";
   version = "v0.19.0-1.20.x";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/Bu5pCvCn/moreculling-1.20.1-0.19.0.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"BbgZWSfa" = lib.buildMinecraftFile {
+"BbgZWSfa" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.18.1 for 1.20.x";
   version = "v0.18.1-1.20.x";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/BbgZWSfa/moreculling-1.20-0.18.1.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"A9LKf67q" = lib.buildMinecraftFile {
+"A9LKf67q" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.17.0 for 1.19.4";
   version = "v0.17.0-1.19.4";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/A9LKf67q/moreculling-1.19.4-0.17.0.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"tPdgUkgf" = lib.buildMinecraftFile {
+"tPdgUkgf" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.17.0 for 1.19.3";
   version = "v0.17.0-1.19.3";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/tPdgUkgf/moreculling-1.19.3-0.17.0.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"5hjaMcPN" = lib.buildMinecraftFile {
+"5hjaMcPN" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.17.0 for 1.19.1 & 1.19.2";
   version = "v0.17.0-1.19";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/5hjaMcPN/moreculling-1.19.1-0.17.0.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"ENUmMM2R" = lib.buildMinecraftFile {
+"ENUmMM2R" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.16.0 for 1.19.3";
   version = "v0.16.0-1.19.3";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/ENUmMM2R/moreculling-1.19.3-0.16.0.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"ZVroNexd" = lib.buildMinecraftFile {
+"ZVroNexd" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.16.0 for 1.19.1 & 1.19.2";
   version = "v0.16.0-1.19";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/ZVroNexd/moreculling-1.19.1-0.16.0.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"sOIFWpF5" = lib.buildMinecraftFile {
+"sOIFWpF5" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.15.0 for 1.19.1 & 1.19.2";
   version = "v0.15.0-1.19";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/sOIFWpF5/moreculling-1.19.1-0.15.0.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"UNJJKrgF" = lib.buildMinecraftFile {
+"UNJJKrgF" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.15.0 for 1.19.3";
   version = "v0.15.0-1.19.3";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/UNJJKrgF/moreculling-1.19.3-0.15.0.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"9BKFQcLq" = lib.buildMinecraftFile {
+"9BKFQcLq" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.14.0 for 1.19.1 & 1.19.2";
   version = "v0.14.0-1.19";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/9BKFQcLq/moreculling-1.19.1-0.14.0.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"AbG6tNda" = lib.buildMinecraftFile {
+"AbG6tNda" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.14.0 for 1.19.3";
   version = "v0.14.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/AbG6tNda/moreculling-1.19.3-0.14.0.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"kC2sSBvg" = lib.buildMinecraftFile {
+"kC2sSBvg" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.13.0 for 1.19.3";
   version = "v0.13.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/kC2sSBvg/moreculling-1.19.3-0.13.0.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"NviTtila" = lib.buildMinecraftFile {
+"NviTtila" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.13.0 for 1.19.1 & 1.19.2";
   version = "v0.13.0-1.19";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/NviTtila/moreculling-1.19.1-0.13.0.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"95T8vcFd" = lib.buildMinecraftFile {
+"95T8vcFd" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.12.5 for 1.19.3";
   version = "v0.12.5";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/95T8vcFd/moreculling-1.19.3-0.12.5.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"6XKdUnE1" = lib.buildMinecraftFile {
+"6XKdUnE1" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.12.5 for 1.19.1 & 1.19.2";
   version = "v0.12.5-1.19";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/6XKdUnE1/moreculling-1.19.1-0.12.5.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"6xlsq65Y" = lib.buildMinecraftFile {
+"6xlsq65Y" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.12.4 for 1.19.1 & 1.19.2";
   version = "v0.12.4-1.19";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/6xlsq65Y/moreculling-1.19.1-0.12.4.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"oOrYf7d8" = lib.buildMinecraftFile {
+"oOrYf7d8" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.12.3 for 1.19.3";
   version = "v0.12.3";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/oOrYf7d8/moreculling-1.19.3-0.12.3.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"dSbEt6xo" = lib.buildMinecraftFile {
+"dSbEt6xo" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.12.3 for 1.19.1 & 1.19.2";
   version = "v0.12.3-1.19";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/dSbEt6xo/moreculling-1.19.1-0.12.3.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"KWDCdA85" = lib.buildMinecraftFile {
+"KWDCdA85" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.12.2 for 1.19.1 & 1.19.2";
   version = "v0.12.2-1.19";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/KWDCdA85/moreculling-1.19.1-0.12.2.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"zBfCFOON" = lib.buildMinecraftFile {
+"zBfCFOON" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.12.2 for 1.19.3";
   version = "v0.12.2";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/zBfCFOON/moreculling-1.19.3-0.12.2.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"KtW0ZvNB" = lib.buildMinecraftFile {
+"KtW0ZvNB" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.12.1 for 1.19.3";
   version = "v0.12.1";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/KtW0ZvNB/moreculling-1.19.3-0.12.1.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"BzBSulCD" = lib.buildMinecraftFile {
+"BzBSulCD" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.12.0 for 1.19.3";
   version = "v0.12.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/BzBSulCD/moreculling-1.19.3-0.12.0.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"g6mKthcL" = lib.buildMinecraftFile {
+"g6mKthcL" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.11.1 for 1.19.3";
   version = "v0.11.1";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/g6mKthcL/moreculling-1.19.3-0.11.1.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"dMVy7Ytv" = lib.buildMinecraftFile {
+"dMVy7Ytv" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.10.1 for 1.19-1.19.2";
   version = "v0.10.1";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/dMVy7Ytv/moreculling-1.19.1-0.10.1.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"cUqay68d" = lib.buildMinecraftFile {
+"cUqay68d" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.11.0 for 1.19.3";
   version = "v0.11.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/cUqay68d/moreculling-1.19.3-0.11.0.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"xO1K8c7X" = lib.buildMinecraftFile {
+"xO1K8c7X" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.10.0 for 1.19.x";
   version = "v0.10.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.10.0/moreculling-1.19.1-0.10.0.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"8XHBUEiZ" = lib.buildMinecraftFile {
+"8XHBUEiZ" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.9.1 for 1.19.x";
   version = "v0.9.1";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.9.1/moreculling-1.19.1-0.9.1.jar";
@@ -419,7 +419,7 @@
   };
 };
 
-"m8mZfvhU" = lib.buildMinecraftFile {
+"m8mZfvhU" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.9.0 for 1.19.x";
   version = "v0.9.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.9.0/moreculling-1.19.1-0.9.0.jar";
@@ -431,7 +431,7 @@
   };
 };
 
-"d2OS47y6" = lib.buildMinecraftFile {
+"d2OS47y6" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.8.2 for 1.18.x";
   version = "v0.8.2-1.18";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.8.2-1.18/moreculling-1.18.2-0.8.2.jar";
@@ -443,7 +443,7 @@
   };
 };
 
-"2eqHJxYv" = lib.buildMinecraftFile {
+"2eqHJxYv" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.8.2 for 1.19.x";
   version = "v0.8.2";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.8.2/moreculling-1.19.1-0.8.2.jar";
@@ -455,7 +455,7 @@
   };
 };
 
-"rfjlSVxg" = lib.buildMinecraftFile {
+"rfjlSVxg" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.8.1";
   version = "v0.8.1";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.8.1/moreculling-1.19.1-0.8.1.jar";
@@ -467,7 +467,7 @@
   };
 };
 
-"dwBNCszT" = lib.buildMinecraftFile {
+"dwBNCszT" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.8.0";
   version = "v0.8.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.8.0/moreculling-1.19.1-0.8.0.jar";
@@ -479,7 +479,7 @@
   };
 };
 
-"ExS3Q7fZ" = lib.buildMinecraftFile {
+"ExS3Q7fZ" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.7.0";
   version = "v0.7.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.7.0/moreculling-1.19.1-0.7.0.jar";
@@ -491,7 +491,7 @@
   };
 };
 
-"AjCb2RSK" = lib.buildMinecraftFile {
+"AjCb2RSK" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.6.1";
   version = "v0.6.1";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.6.1/moreculling-1.19-0.6.1.jar";
@@ -503,7 +503,7 @@
   };
 };
 
-"wnoTuNqB" = lib.buildMinecraftFile {
+"wnoTuNqB" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.6.0";
   version = "v0.6.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.6.0/moreculling-1.19-0.6.0.jar";
@@ -515,7 +515,7 @@
   };
 };
 
-"PIwVPkdg" = lib.buildMinecraftFile {
+"PIwVPkdg" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.6.0-pre1";
   version = "v0.6.0-pre1";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.6.0-pre1/moreculling-1.19-0.6.0-pre.jar";
@@ -527,7 +527,7 @@
   };
 };
 
-"70vJPSHi" = lib.buildMinecraftFile {
+"70vJPSHi" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.5.2";
   version = "v0.5.2";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.5.2/moreculling-1.19-0.5.2.jar";
@@ -539,7 +539,7 @@
   };
 };
 
-"4E7NgIC3" = lib.buildMinecraftFile {
+"4E7NgIC3" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.5.1";
   version = "v0.5.1";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.5.1/moreculling-1.19-0.5.1.jar";
@@ -551,7 +551,7 @@
   };
 };
 
-"OyWEPEC1" = lib.buildMinecraftFile {
+"OyWEPEC1" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.2.0";
   version = "v0.2.0-1.18";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.2.0-1.18/moreculling-1.18.2-0.2.0-alpha.jar";
@@ -563,7 +563,7 @@
   };
 };
 
-"1zTV5NFG" = lib.buildMinecraftFile {
+"1zTV5NFG" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.5.0";
   version = "v0.5.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.5.0/moreculling-1.19-0.5.0.jar";
@@ -575,7 +575,7 @@
   };
 };
 
-"EUOCxrzr" = lib.buildMinecraftFile {
+"EUOCxrzr" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.4.0";
   version = "v0.4.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.4.0/moreculling-1.19-0.4.0.jar";
@@ -587,7 +587,7 @@
   };
 };
 
-"jSOdwPjm" = lib.buildMinecraftFile {
+"jSOdwPjm" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.3.0";
   version = "v0.3.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.3.0/moreculling-1.19-0.3.0-alpha.jar";
@@ -599,7 +599,7 @@
   };
 };
 
-"BISqTb5V" = lib.buildMinecraftFile {
+"BISqTb5V" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.2.0";
   version = "v0.2.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.2.0/moreculling-1.19-0.2.0-alpha.jar";
@@ -611,7 +611,7 @@
   };
 };
 
-"uEub6pxk" = lib.buildMinecraftFile {
+"uEub6pxk" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.1.4";
   version = "v0.1.4";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.1.4/moreculling-1.18.2-0.1.4-alpha.jar";
@@ -623,7 +623,7 @@
   };
 };
 
-"rk6iCKkw" = lib.buildMinecraftFile {
+"rk6iCKkw" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.1.3";
   version = "v0.1.3";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.1.3/moreculling-1.18.2-0.1.3-alpha.jar";
@@ -635,7 +635,7 @@
   };
 };
 
-"kyoVWOaa" = lib.buildMinecraftFile {
+"kyoVWOaa" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.1.2";
   version = "v0.1.2";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.1.2/moreculling-1.18.2-0.1.2.jar";
@@ -647,7 +647,7 @@
   };
 };
 
-"bey0UTtY" = lib.buildMinecraftFile {
+"bey0UTtY" = lib.buildMinecraftMod {
   pname = "MoreCulling - v0.1.0";
   version = "0.1.0";
   url = "https://cdn.modrinth.com/data/51shyZVL/versions/0.1.0/moreculling-1.18.2-0.1.0.jar";

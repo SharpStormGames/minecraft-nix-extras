@@ -1,5 +1,5 @@
 { lib, ... }: {
-"8vtPih5h" = lib.buildMinecraftFile {
+"8vtPih5h" = lib.buildMinecraftPack {
   pname = "FA 1.9.2";
   version = "1.9.2";
   url = "https://cdn.modrinth.com/data/50dA9Sha/versions/8vtPih5h/FreshAnimations_v1.9.2.zip";
@@ -10,7 +10,7 @@
   };
 };
 
-"EuGq94MY" = lib.buildMinecraftFile {
+"EuGq94MY" = lib.buildMinecraftPack {
   pname = "FA 1.9.1";
   version = "1.9.1";
   url = "https://cdn.modrinth.com/data/50dA9Sha/versions/EuGq94MY/FreshAnimations_v1.9.1.zip";
@@ -21,7 +21,7 @@
   };
 };
 
-"DimjJDVT" = lib.buildMinecraftFile {
+"DimjJDVT" = lib.buildMinecraftPack {
   pname = "FA 1.9";
   version = "1.9.0";
   url = "https://cdn.modrinth.com/data/50dA9Sha/versions/DimjJDVT/FreshAnimations_v1.9.zip";
@@ -32,7 +32,7 @@
   };
 };
 
-"SaV3drbz" = lib.buildMinecraftFile {
+"SaV3drbz" = lib.buildMinecraftPack {
   pname = "FA 1.8.1";
   version = "1.8.1";
   url = "https://cdn.modrinth.com/data/50dA9Sha/versions/SaV3drbz/FreshAnimations_v1.8.1.zip";
@@ -43,7 +43,7 @@
   };
 };
 
-"WhoErU2P" = lib.buildMinecraftFile {
+"WhoErU2P" = lib.buildMinecraftPack {
   pname = "FA 1.8";
   version = "1.8.0";
   url = "https://cdn.modrinth.com/data/50dA9Sha/versions/WhoErU2P/FreshAnimations_v1.8.zip";
@@ -54,7 +54,7 @@
   };
 };
 
-"E3rgzhGg" = lib.buildMinecraftFile {
+"E3rgzhGg" = lib.buildMinecraftPack {
   pname = "FA 1.7";
   version = "1.7.0";
   url = "https://cdn.modrinth.com/data/50dA9Sha/versions/E3rgzhGg/FreshAnimations_v1.7.zip";
@@ -65,7 +65,7 @@
   };
 };
 
-"O8LeIQn4" = lib.buildMinecraftFile {
+"O8LeIQn4" = lib.buildMinecraftPack {
   pname = "FA 1.6.1";
   version = "1.6.1";
   url = "https://cdn.modrinth.com/data/50dA9Sha/versions/O8LeIQn4/FreshAnimations_v1.6.1.zip";
@@ -76,7 +76,7 @@
   };
 };
 
-"KQ9bQsZi" = lib.buildMinecraftFile {
+"KQ9bQsZi" = lib.buildMinecraftPack {
   pname = "FA 1.6";
   version = "1.6.0";
   url = "https://cdn.modrinth.com/data/50dA9Sha/versions/KQ9bQsZi/FreshAnimations_v1.6.zip";
@@ -87,7 +87,7 @@
   };
 };
 
-"s5KTavJK" = lib.buildMinecraftFile {
+"s5KTavJK" = lib.buildMinecraftPack {
   pname = "FA 1.0";
   version = "1.0.0";
   url = "https://cdn.modrinth.com/data/50dA9Sha/versions/s5KTavJK/FreshAnimations_v1.0.zip";

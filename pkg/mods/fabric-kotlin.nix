@@ -1,5 +1,5 @@
 { lib, ... }: {
-"afsFajDC" = lib.buildMinecraftFile {
+"afsFajDC" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.11.0+kotlin.2.0.0";
   version = "1.11.0+kotlin.2.0.0";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar";
@@ -11,7 +11,7 @@
   };
 };
 
-"a7MqDLdC" = lib.buildMinecraftFile {
+"a7MqDLdC" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.20+kotlin.1.9.24";
   version = "1.10.20+kotlin.1.9.24";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/a7MqDLdC/fabric-language-kotlin-1.10.20%2Bkotlin.1.9.24.jar";
@@ -23,7 +23,7 @@
   };
 };
 
-"ZMokinzs" = lib.buildMinecraftFile {
+"ZMokinzs" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.19+kotlin.1.9.23";
   version = "1.10.19+kotlin.1.9.23";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/ZMokinzs/fabric-language-kotlin-1.10.19%2Bkotlin.1.9.23.jar";
@@ -35,7 +35,7 @@
   };
 };
 
-"vlhvI5Li" = lib.buildMinecraftFile {
+"vlhvI5Li" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.18+kotlin.1.9.22";
   version = "1.10.18+kotlin.1.9.22";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/vlhvI5Li/fabric-language-kotlin-1.10.18%2Bkotlin.1.9.22.jar";
@@ -47,7 +47,7 @@
   };
 };
 
-"JjrWZ7m8" = lib.buildMinecraftFile {
+"JjrWZ7m8" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.17+kotlin.1.9.22";
   version = "1.10.17+kotlin.1.9.22";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/JjrWZ7m8/fabric-language-kotlin-1.10.17%2Bkotlin.1.9.22.jar";
@@ -59,7 +59,7 @@
   };
 };
 
-"VJUqKopR" = lib.buildMinecraftFile {
+"VJUqKopR" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.16+kotlin.1.9.21";
   version = "1.10.16+kotlin.1.9.21";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/VJUqKopR/fabric-language-kotlin-1.10.16%2Bkotlin.1.9.21.jar";
@@ -71,7 +71,7 @@
   };
 };
 
-"psNjlsLR" = lib.buildMinecraftFile {
+"psNjlsLR" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.15+kotlin.1.9.21";
   version = "1.10.15+kotlin.1.9.21";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/psNjlsLR/fabric-language-kotlin-1.10.15%2Bkotlin.1.9.21.jar";
@@ -83,7 +83,7 @@
   };
 };
 
-"vnTAITh8" = lib.buildMinecraftFile {
+"vnTAITh8" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.14+kotlin.1.9.20";
   version = "1.10.14+kotlin.1.9.20";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/vnTAITh8/fabric-language-kotlin-1.10.14%2Bkotlin.1.9.20.jar";
@@ -95,7 +95,7 @@
   };
 };
 
-"atZwzPrT" = lib.buildMinecraftFile {
+"atZwzPrT" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.13+kotlin.1.9.20";
   version = "1.10.13+kotlin.1.9.20";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/atZwzPrT/fabric-language-kotlin-1.10.13%2Bkotlin.1.9.20.jar";
@@ -107,7 +107,7 @@
   };
 };
 
-"DmCixAtU" = lib.buildMinecraftFile {
+"DmCixAtU" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.12+kotlin.1.9.20";
   version = "1.10.12+kotlin.1.9.20";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/DmCixAtU/fabric-language-kotlin-1.10.12%2Bkotlin.1.9.20.jar";
@@ -119,7 +119,7 @@
   };
 };
 
-"D8aag9dT" = lib.buildMinecraftFile {
+"D8aag9dT" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.11+kotlin.1.9.20";
   version = "1.10.11+kotlin.1.9.20";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/D8aag9dT/fabric-language-kotlin-1.10.11%2Bkotlin.1.9.20.jar";
@@ -131,7 +131,7 @@
   };
 };
 
-"48ri5y9r" = lib.buildMinecraftFile {
+"48ri5y9r" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.10+kotlin.1.9.10";
   version = "1.10.10+kotlin.1.9.10";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/48ri5y9r/fabric-language-kotlin-1.10.10%2Bkotlin.1.9.10.jar";
@@ -143,7 +143,7 @@
   };
 };
 
-"Cqe2URk8" = lib.buildMinecraftFile {
+"Cqe2URk8" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.9+kotlin.1.9.0";
   version = "1.10.9+kotlin.1.9.0";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/Cqe2URk8/fabric-language-kotlin-1.10.9%2Bkotlin.1.9.0.jar";
@@ -155,7 +155,7 @@
   };
 };
 
-"s10JMAtS" = lib.buildMinecraftFile {
+"s10JMAtS" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.8+kotlin.1.9.0";
   version = "1.10.8+kotlin.1.9.0";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/s10JMAtS/fabric-language-kotlin-1.10.8%2Bkotlin.1.9.0.jar";
@@ -167,7 +167,7 @@
   };
 };
 
-"65oEzjEs" = lib.buildMinecraftFile {
+"65oEzjEs" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.10.0+kotlin.1.9.0";
   version = "1.10.0+kotlin.1.9.0";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/65oEzjEs/fabric-language-kotlin-1.10.0%2Bkotlin.1.9.0.jar";
@@ -179,7 +179,7 @@
   };
 };
 
-"5J7lguFF" = lib.buildMinecraftFile {
+"5J7lguFF" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.9.6+kotlin.1.8.22";
   version = "1.9.6+kotlin.1.8.22";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/5J7lguFF/fabric-language-kotlin-1.9.6%2Bkotlin.1.8.22.jar";
@@ -191,7 +191,7 @@
   };
 };
 
-"ADg3gvlr" = lib.buildMinecraftFile {
+"ADg3gvlr" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.9.5+kotlin.1.8.22";
   version = "1.9.5+kotlin.1.8.22";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/ADg3gvlr/fabric-language-kotlin-1.9.5%2Bkotlin.1.8.22.jar";
@@ -203,7 +203,7 @@
   };
 };
 
-"qgTQJrUS" = lib.buildMinecraftFile {
+"qgTQJrUS" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.9.4+kotlin.1.8.21";
   version = "1.9.4+kotlin.1.8.21";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/qgTQJrUS/fabric-language-kotlin-1.9.4%2Bkotlin.1.8.21.jar";
@@ -215,7 +215,7 @@
   };
 };
 
-"MkcO8aQ0" = lib.buildMinecraftFile {
+"MkcO8aQ0" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.9.3+kotlin.1.8.20";
   version = "1.9.3+kotlin.1.8.20";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/MkcO8aQ0/fabric-language-kotlin-1.9.3%2Bkotlin.1.8.20.jar";
@@ -227,7 +227,7 @@
   };
 };
 
-"Ibros2FW" = lib.buildMinecraftFile {
+"Ibros2FW" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.9.2+kotlin.1.8.10";
   version = "1.9.2+kotlin.1.8.10";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/Ibros2FW/fabric-language-kotlin-1.9.2%2Bkotlin.1.8.10.jar";
@@ -239,7 +239,7 @@
   };
 };
 
-"lgFl3olb" = lib.buildMinecraftFile {
+"lgFl3olb" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.9.1+kotlin.1.8.10";
   version = "1.9.1+kotlin.1.8.10";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/lgFl3olb/fabric-language-kotlin-1.9.1%2Bkotlin.1.8.10.jar";
@@ -251,7 +251,7 @@
   };
 };
 
-"esSFbyFg" = lib.buildMinecraftFile {
+"esSFbyFg" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.9.0+kotlin.1.8.0";
   version = "1.9.0+kotlin.1.8.0";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/esSFbyFg/fabric-language-kotlin-1.9.0%2Bkotlin.1.8.0.jar";
@@ -263,7 +263,7 @@
   };
 };
 
-"yLIAMDzv" = lib.buildMinecraftFile {
+"yLIAMDzv" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.8.7+kotlin.1.7.22";
   version = "1.8.7+kotlin.1.7.22";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/yLIAMDzv/fabric-language-kotlin-1.8.7%2Bkotlin.1.7.22.jar";
@@ -275,7 +275,7 @@
   };
 };
 
-"UJQzC6Jw" = lib.buildMinecraftFile {
+"UJQzC6Jw" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.8.6+kotlin.1.7.21";
   version = "1.8.6+kotlin.1.7.21";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/UJQzC6Jw/fabric-language-kotlin-1.8.6%2Bkotlin.1.7.21.jar";
@@ -287,7 +287,7 @@
   };
 };
 
-"FrvEFBGt" = lib.buildMinecraftFile {
+"FrvEFBGt" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.8.5+kotlin.1.7.20";
   version = "1.8.5+kotlin.1.7.20";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/FrvEFBGt/fabric-language-kotlin-1.8.5%2Bkotlin.1.7.20.jar";
@@ -299,7 +299,7 @@
   };
 };
 
-"allNCj2E" = lib.buildMinecraftFile {
+"allNCj2E" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.8.4+kotlin.1.7.20";
   version = "1.8.4+kotlin.1.7.20";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/allNCj2E/fabric-language-kotlin-1.8.4%2Bkotlin.1.7.20.jar";
@@ -311,7 +311,7 @@
   };
 };
 
-"MrMwCJlh" = lib.buildMinecraftFile {
+"MrMwCJlh" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.8.3+kotlin.1.7.10";
   version = "1.8.3+kotlin.1.7.10";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/MrMwCJlh/fabric-language-kotlin-1.8.3%2Bkotlin.1.7.10.jar";
@@ -323,7 +323,7 @@
   };
 };
 
-"5Aq3SFbi" = lib.buildMinecraftFile {
+"5Aq3SFbi" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.8.2+kotlin.1.7.10";
   version = "1.8.2+kotlin.1.7.10";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.8.2%2Bkotlin.1.7.10/fabric-language-kotlin-1.8.2%2Bkotlin.1.7.10.jar";
@@ -335,7 +335,7 @@
   };
 };
 
-"D2Y5G2KO" = lib.buildMinecraftFile {
+"D2Y5G2KO" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.8.1+kotlin.1.7.0";
   version = "1.8.1+kotlin.1.7.0";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.8.1%2Bkotlin.1.7.0/fabric-language-kotlin-1.8.1%2Bkotlin.1.7.0.jar";
@@ -347,7 +347,7 @@
   };
 };
 
-"tmzNRXlM" = lib.buildMinecraftFile {
+"tmzNRXlM" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.8.0+kotlin.1.7.0";
   version = "1.8.0+kotlin.1.7.0";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.8.0%2Bkotlin.1.7.0/fabric-language-kotlin-1.8.0%2Bkotlin.1.7.0.jar";
@@ -359,7 +359,7 @@
   };
 };
 
-"iAzZrqan" = lib.buildMinecraftFile {
+"iAzZrqan" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.7.4+kotlin.1.6.21";
   version = "1.7.4+kotlin.1.6.21";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.7.4%2Bkotlin.1.6.21/fabric-language-kotlin-1.7.4%2Bkotlin.1.6.21.jar";
@@ -371,7 +371,7 @@
   };
 };
 
-"5VOQ5nq2" = lib.buildMinecraftFile {
+"5VOQ5nq2" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.7.2+kotlin.1.6.20";
   version = "1.7.2+kotlin.1.6.20";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.7.2%2Bkotlin.1.6.20/fabric-language-kotlin-1.7.2%2Bkotlin.1.6.20.jar";
@@ -383,7 +383,7 @@
   };
 };
 
-"nrHxebpS" = lib.buildMinecraftFile {
+"nrHxebpS" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.7.1+kotlin.1.6.10";
   version = "1.7.1+kotlin.1.6.10";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.7.1%2Bkotlin.1.6.10/fabric-language-kotlin-1.7.1%2Bkotlin.1.6.10.jar";
@@ -395,7 +395,7 @@
   };
 };
 
-"1qsZV7U7" = lib.buildMinecraftFile {
+"1qsZV7U7" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.6.4+kotlin.1.5.30";
   version = "1.6.4+kotlin.1.5.30";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.6.4%2Bkotlin.1.5.30/fabric-language-kotlin-1.6.4%2Bkotlin.1.5.30.jar";
@@ -407,7 +407,7 @@
   };
 };
 
-"wdRa3g1U" = lib.buildMinecraftFile {
+"wdRa3g1U" = lib.buildMinecraftMod {
   pname = "Fabric Language Kotlin 1.6.3+kotlin.1.5.21";
   version = "1.6.3+kotlin.1.5.21";
   url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/1.6.3%2Bkotlin.1.5.21/fabric-language-kotlin-1.6.3%2Bkotlin.1.5.21.jar";
