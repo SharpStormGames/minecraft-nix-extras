@@ -5,7 +5,7 @@ def main [id, name] {
   | from json |
   | each {
     |e| echo $"\"($e.id)\" = lib.buildMinecraftShader {
-  pname = \"($e.name)\";
+  pname = \"($name)\";
   version = \"($e.version_number | to text)\";
   url = \"($e.files.url.0)\";
   sha512 = \"($e.files.hashes.sha512.0)\";

@@ -1,6 +1,6 @@
 { lib, ... }: {
 "4SHylIO9" = lib.buildMinecraftMod {
-  pname = "0.1.3";
+  pname = "lazydfu";
   version = "0.1.3";
   url = "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.3/lazydfu-0.1.3.jar";
   sha512 = "dc3766352c645f6da92b13000dffa80584ee58093c925c2154eb3c125a2b2f9a3af298202e2658b039c6ee41e81ca9a2e9d4b942561f7085239dd4421e0cce0a";
@@ -12,7 +12,7 @@
 };
 
 "C6e265zK" = lib.buildMinecraftMod {
-  pname = "0.1.2";
+  pname = "lazydfu";
   version = "0.1.2";
   url = "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar";
   sha512 = "20b1cd3e62051c7d7498ecdc49912acb918fc4748d469c67c078cc97197289760e64b9339a4d4a03d175f648c8be8601d131776a9a6bdb8832cecdda6fc46498";
@@ -24,7 +24,7 @@
 };
 
 "aBDhdWUD" = lib.buildMinecraftMod {
-  pname = "0.1.1";
+  pname = "lazydfu";
   version = "0.1.1";
   url = "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.1/lazydfu-0.1.1.jar";
   sha512 = "c677103437d2336dd15415b32f0260db424ad9636994abf586b6ec4fb05358cbf94268af4b6680aebe0b745d63227db166f1d4de2c2f04f15ad4608462d5b16b";
@@ -36,7 +36,7 @@
 };
 
 "8tFjDrHf" = lib.buildMinecraftMod {
-  pname = "0.1.0";
+  pname = "lazydfu";
   version = "0.1.0";
   url = "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.0/lazydfu-0.1.0.jar";
   sha512 = "9fc69ba377803b4047206f01e79f07151617eb3fbb2030e13cc87c496b95f5613a9c7f69c89850f149bba229fca22fa5de23c46b2a29af79919ed586c1c736a7";

@@ -30,7 +30,7 @@
  );
  buildMinecraftShader = pkgs.lib.makeOverridable ({ pname, version, url, sha512, meta, ... }: 
   pkgs.stdenvNoCC.mkDerivation {
-   name = "${pname}-${version}";
+   name = "${pname}-${version}.zip";
    src = pkgs.fetchurl { inherit url sha512; };
    dontUnpack = true;
    preferLocalBuild = true;

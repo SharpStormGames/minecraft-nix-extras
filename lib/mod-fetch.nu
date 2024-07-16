@@ -10,7 +10,7 @@ def main [id, name] {
   ) { $e }}
   | each {
     |e| echo $"\"($e.id)\" = lib.buildMinecraftMod {
-  pname = \"($e.name)\";
+  pname = \"($name)\";
   version = \"($e.version_number | to text)\";
   url = \"($e.files.url.0)\";
   sha512 = \"($e.files.hashes.sha512.0)\";
