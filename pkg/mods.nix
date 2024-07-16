@@ -18,6 +18,7 @@
  lambdynamiclights = import ./mods/lambdynamiclights.nix { inherit lib; };
  lazydfu = import ./mods/lazydfu.nix { inherit lib; };
  lithium = import ./mods/lithium.nix { inherit lib; };
+ mod-menu = import ./mods/mod-menu.nix { inherit lib; };
  memoryleakfix = import ./mods/memoryleakfix.nix { inherit lib; };
  modernfix = import ./mods/modernfix.nix { inherit lib; };
  moreculling = import ./mods/moreculling.nix { inherit lib; };
