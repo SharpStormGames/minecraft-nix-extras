@@ -18,9 +18,12 @@
   src = pkgs.fetchurl { inherit url sha512; };
   dontUnpack = true;
   preferLocalBuild = true;
+  buildInputs = [ pkgs.unzip ];
   postInstall = ''
    mkdir -p $out
-   cp $src $out
+   cp $src $out/pack.zip
+   cd $out
+   unzip $out/pack.zip
   '';
   inherit meta;
  }
