@@ -1,4 +1,16 @@
 { lib, ... }: {
+"CVCY5mv4" = lib.buildMinecraftMod {
+  pname = "modernfix";
+  version = "5.18.9+mc1.20.1";
+  url = "https://cdn.modrinth.com/data/nmDcB62a/versions/CVCY5mv4/modernfix-fabric-5.18.9%2Bmc1.20.1.jar";
+  sha512 = "c900fb464c4a15f2bc3bd09e64dec1e1c8983a951b412511f4b8f0da68de55cea4fc2563eebde4538a48209905e45140634780818489c4c45eed9fcff5a4b3ab";
+
+  meta = {
+    gameVersions = [ ''1.20.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "Ujn5wrXH" = lib.buildMinecraftMod {
   pname = "modernfix";
   version = "5.18.8+mc1.21";
