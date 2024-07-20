@@ -1,4 +1,16 @@
 { lib, ... }: {
+"iqKljDnd" = lib.buildMinecraftMod {
+  pname = "architectury-api";
+  version = "12.0.29+fabric";
+  url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/iqKljDnd/architectury-12.0.29-fabric.jar";
+  sha512 = "83d65815589703f4806a5fc67ebd62c6a0e6f6d57202aa67a55c320296d4848ceca63c68d9ea1f5ee4602b0767280304bb4984106f57f1d60e0aaadc1ecfbd47";
+
+  meta = {
+    gameVersions = [ ''1.20.5'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "i0N0Veb4" = lib.buildMinecraftMod {
   pname = "architectury-api";
   version = "13.0.4+fabric";
