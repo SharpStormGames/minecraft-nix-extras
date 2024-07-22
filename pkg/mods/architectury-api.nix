@@ -1,4 +1,40 @@
 { lib, ... }: {
+"afBcyXjI" = lib.buildMinecraftMod {
+  pname = "architectury-api";
+  version = "13.0.6+fabric";
+  url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/afBcyXjI/architectury-13.0.6-fabric.jar";
+  sha512 = "e1b2aeeb5ce17fe05314814274cc116c8f2aba325f5edc766caaf52445c69c79fd0f3235842d24df11346b3505a5befa5782a95b1992266097e558dd394d715b";
+
+  meta = {
+    gameVersions = [ ''1.21'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"NtU0dTSY" = lib.buildMinecraftMod {
+  pname = "architectury-api";
+  version = "13.0.5+fabric";
+  url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/NtU0dTSY/architectury-13.0.5-fabric.jar";
+  sha512 = "1987f176bcb764bb4a5abba42f45c5fb6345acd4199a2c93f172e8ac9ea92d18d8cf2a9591d6ef8b39a1207fa3c9186d0687e03d4133d68ddc1f2b642cde2f9c";
+
+  meta = {
+    gameVersions = [ ''1.21'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"vvN5UGnq" = lib.buildMinecraftMod {
+  pname = "architectury-api";
+  version = "12.1.4+fabric";
+  url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/vvN5UGnq/architectury-12.1.4-fabric.jar";
+  sha512 = "d622784913c4be3ad045c0c04f2d0af937def79d84070a2724fb486cd47591375115aa929424aca5308d331317afbae9f677c31fd6e9893e419c8b3ba7dca8b2";
+
+  meta = {
+    gameVersions = [ ''1.20.6'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "iqKljDnd" = lib.buildMinecraftMod {
   pname = "architectury-api";
   version = "12.0.29+fabric";
