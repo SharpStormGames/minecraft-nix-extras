@@ -1,4 +1,28 @@
 { lib, ... }: {
+"KCOwQkKi" = lib.buildMinecraftMod {
+  pname = "modernfix";
+  version = "5.19.0+mc1.21";
+  url = "https://cdn.modrinth.com/data/nmDcB62a/versions/KCOwQkKi/modernfix-fabric-5.19.0%2Bmc1.21.jar";
+  sha512 = "086de13a22a4b8141e4b4421dca805c40dc04094d7a248244cc1d46c1d9283332797bccf5bf9b90cfb5e87fdcaeb922bcce0904b1c0110cc5cdecce28e8fe250";
+
+  meta = {
+    gameVersions = [ ''1.21'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"ZYnwHpym" = lib.buildMinecraftMod {
+  pname = "modernfix";
+  version = "5.19.0+mc1.20.1";
+  url = "https://cdn.modrinth.com/data/nmDcB62a/versions/ZYnwHpym/modernfix-fabric-5.19.0%2Bmc1.20.1.jar";
+  sha512 = "e98d6bad17d26856cc1c9c3b0f01d894c6e479819995971fa4ad84239243c49adfad94c7e4dfc691ac5adbaa32ce69489fe0dc737453fe3c8b4f050773ce0072";
+
+  meta = {
+    gameVersions = [ ''1.20.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "nHo5y93M" = lib.buildMinecraftMod {
   pname = "modernfix";
   version = "5.18.10+mc1.20.1";
