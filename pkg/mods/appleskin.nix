@@ -1,4 +1,28 @@
 { lib, ... }: {
+"fG1xJao0" = lib.buildMinecraftMod {
+  pname = "appleskin";
+  version = "3.0.5+mc1.21";
+  url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/fG1xJao0/appleskin-fabric-mc1.21-3.0.5.jar";
+  sha512 = "32176384779f6e223ce6c68bfa3c505222be0d5a21606a195562b471d29b2f7af253bb42756dd66373475bb75582fc11c72d8bd2f311bd0f0ad06816e4f61a29";
+
+  meta = {
+    gameVersions = [ ''1.21'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"DdBhbE4O" = lib.buildMinecraftMod {
+  pname = "appleskin";
+  version = "3.0.5+mc1.20.5";
+  url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/DdBhbE4O/appleskin-fabric-mc1.20.5-3.0.5.jar";
+  sha512 = "1e50b624f449bfba216d8e6b13f0c5449ce75bc14f2afa1b84e6a39dd0650cd0f54362d436526e0596fbf34bf275bd5a6c3651b6af1ed49465738c743460b851";
+
+  meta = {
+    gameVersions = [ ''1.20.5'' ''1.20.6'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "YxFxnyd4" = lib.buildMinecraftMod {
   pname = "appleskin";
   version = "3.0.2+mc1.21";
