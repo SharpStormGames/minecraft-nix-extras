@@ -1,4 +1,124 @@
 { lib, ... }: {
+"JUjalqEE" = lib.buildMinecraftMod {
+  pname = "simple-voice-chat";
+  version = "fabric-1.20.6-2.5.20";
+  url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/JUjalqEE/voicechat-fabric-1.20.6-2.5.20.jar";
+  sha512 = "a57db68ef1950cebf897c0c94d3c4f7c98969662c84644fa73b58dc403c2da56ab23f5ebc85616cd8d9a094448a247fb2bac0b431057eebb68ee07c80b292144";
+
+  meta = {
+    gameVersions = [ ''1.20.6'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"mjtFDfWA" = lib.buildMinecraftMod {
+  pname = "simple-voice-chat";
+  version = "fabric-1.20.4-2.5.20";
+  url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/mjtFDfWA/voicechat-fabric-1.20.4-2.5.20.jar";
+  sha512 = "d24fe03e5c20ff8b789693d662a08ceb825e8b70d3f3c615767ec68762e71e580b868a732fc30ac7b44c42f631d6b33716ac996c2919b9c743d9e43f22e980e9";
+
+  meta = {
+    gameVersions = [ ''1.20.4'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"I4JIbqEZ" = lib.buildMinecraftMod {
+  pname = "simple-voice-chat";
+  version = "quilt-1.20.4-2.5.20";
+  url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/I4JIbqEZ/voicechat-quilt-1.20.4-2.5.20.jar";
+  sha512 = "4c5f4fae2e0c74dd12772293d7b8f8540bc8f9c1713820036a7790ffb734299e13dc353d3376671995f8f3f318a0ae596264a0770457d9fb2133933683881199";
+
+  meta = {
+    gameVersions = [ ''1.20.4'' ];
+    loaders = [ ''quilt'' ];
+  };
+};
+
+"BiZ9ejRE" = lib.buildMinecraftMod {
+  pname = "simple-voice-chat";
+  version = "fabric-1.20.1-2.5.20";
+  url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/BiZ9ejRE/voicechat-fabric-1.20.1-2.5.20.jar";
+  sha512 = "f8aa4fba659cb11307147a262ecec490811d832096d20c2c21c6e2056c7859e855ed5a4b7d0d5f5309bca07e4a31b749add210788381c3832c3c37c348e928b7";
+
+  meta = {
+    gameVersions = [ ''1.20.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"FybfvkVQ" = lib.buildMinecraftMod {
+  pname = "simple-voice-chat";
+  version = "quilt-1.20.1-2.5.20";
+  url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/FybfvkVQ/voicechat-quilt-1.20.1-2.5.20.jar";
+  sha512 = "192632fbacb9e9d4a06a443d1d343d1ee039fe28f13d9822a236ffb68e16be27a2935447e695c3c35b00c8924723999a647e8c729c6911941d070a706becac44";
+
+  meta = {
+    gameVersions = [ ''1.20.1'' ];
+    loaders = [ ''quilt'' ];
+  };
+};
+
+"HPp8FNWp" = lib.buildMinecraftMod {
+  pname = "simple-voice-chat";
+  version = "fabric-1.19.2-2.5.20";
+  url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/HPp8FNWp/voicechat-fabric-1.19.2-2.5.20.jar";
+  sha512 = "d8cbacbfe2888451c07446c2f09099088bd447d86ff11cc26b26a586605563222f83f68befded2b66410c49224e704cd61826238531b6677009aca412e33aea3";
+
+  meta = {
+    gameVersions = [ ''1.19.2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"f23PmNhW" = lib.buildMinecraftMod {
+  pname = "simple-voice-chat";
+  version = "quilt-1.19.2-2.5.20";
+  url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/f23PmNhW/voicechat-quilt-1.19.2-2.5.20.jar";
+  sha512 = "a231aef05933593e5c027d094381fa0e4cc6ccb4aa2a5528b2acf69cb5af2dbba2ea38a149573d1cc920364a0c0236b5fbe92d745689b822fa445dfce47ba47c";
+
+  meta = {
+    gameVersions = [ ''1.19.2'' ];
+    loaders = [ ''quilt'' ];
+  };
+};
+
+"jLa2yiRW" = lib.buildMinecraftMod {
+  pname = "simple-voice-chat";
+  version = "fabric-1.18.2-2.5.20";
+  url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/jLa2yiRW/voicechat-fabric-1.18.2-2.5.20.jar";
+  sha512 = "487d26cf43a4ef0b86a5600413448598b7f982d843fada00733a3a50becd3bdb958542220264f8307e875cadae3e63f2c5f1bb752e5437c23a1f8b9e43e546fd";
+
+  meta = {
+    gameVersions = [ ''1.18.2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"lRlesOMQ" = lib.buildMinecraftMod {
+  pname = "simple-voice-chat";
+  version = "quilt-1.18.2-2.5.20";
+  url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/lRlesOMQ/voicechat-quilt-1.18.2-2.5.20.jar";
+  sha512 = "c1dd15c5c635dc84cb1089cbbbe7b039822e169323851bcfebe28f756e3aa1ee2c9d04d8f7334a985bb5a942c5187b31241e52120181a4c6e41f18085187106a";
+
+  meta = {
+    gameVersions = [ ''1.18.2'' ];
+    loaders = [ ''quilt'' ];
+  };
+};
+
+"UyV7YRVS" = lib.buildMinecraftMod {
+  pname = "simple-voice-chat";
+  version = "fabric-1.16.5-2.5.20";
+  url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/UyV7YRVS/voicechat-fabric-1.16.5-2.5.20.jar";
+  sha512 = "cfd8f8f09c76b96c79aad76a9d331c7618a9eb04a012f3717700e8c811fe1b616ff4bc8faf6af3b7ef45882b35353e6afe2a84dd596a4b092c4444d2b33c458b";
+
+  meta = {
+    gameVersions = [ ''1.16.5'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "SSk6KqP7" = lib.buildMinecraftMod {
   pname = "simple-voice-chat";
   version = "fabric-1.21-2.5.19";
