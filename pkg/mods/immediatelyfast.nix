@@ -1,4 +1,52 @@
 { lib, ... }: {
+"1wCtstqk" = lib.buildMinecraftMod {
+  pname = "immediatelyfast";
+  version = "1.2.19+1.21.1-fabric";
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/1wCtstqk/ImmediatelyFast-Fabric-1.2.19%2B1.21.1.jar";
+  sha512 = "93282cbfab6494196c5b6dbbfab8826cf371aed3e41937963c897c58eeba813077a333b254304d0c5c12191c7630db2617c1ec9188c0e934daed623003d35df1";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"99R9TBcr" = lib.buildMinecraftMod {
+  pname = "immediatelyfast";
+  version = "1.2.19+1.20.6-fabric";
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/99R9TBcr/ImmediatelyFast-Fabric-1.2.19%2B1.20.6.jar";
+  sha512 = "71691f8fb8bb942ecbad48cf89fac02d17a4a61f06102537ae466a6ca096e6b613ba0332086f4f0b88f868d8077975fc26795cff3006d2d3cc233b9a0d6ccffe";
+
+  meta = {
+    gameVersions = [ ''1.20.5'' ''1.20.6'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"15AO7hhI" = lib.buildMinecraftMod {
+  pname = "immediatelyfast";
+  version = "1.2.19+1.20.4-fabric";
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/15AO7hhI/ImmediatelyFast-Fabric-1.2.19%2B1.20.4.jar";
+  sha512 = "ba486486fdfdd22f3bec6af11366ceebb63571f829bd112bc920afa5817add9aca3a95820fc28347f6794a0f62b9a8633c3cde7f15c160ec8e614ff9d1310ac6";
+
+  meta = {
+    gameVersions = [ ''1.20'' ''1.20.1'' ''1.20.2'' ''1.20.3'' ''1.20.4'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"EYfMojUm" = lib.buildMinecraftMod {
+  pname = "immediatelyfast";
+  version = "1.2.19+1.19.2-fabric";
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/EYfMojUm/ImmediatelyFast-Fabric-1.2.19%2B1.19.2.jar";
+  sha512 = "c12aebedd1eaad187df9c6a8230be05cf770bcda8fc0c080d06fe0b1cfb20cdf63df57693d18cfd8733ca65dd278ef43bea7f701c075dee2d669579bc2308eb6";
+
+  meta = {
+    gameVersions = [ ''1.19'' ''1.19.1'' ''1.19.2'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "DA0kxiSe" = lib.buildMinecraftMod {
   pname = "immediatelyfast";
   version = "1.2.18+1.21-fabric";
