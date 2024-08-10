@@ -6,7 +6,7 @@
   sha512 = "c5f26eb4c9808d983ab255decf42fb1b0b06c37bb85da381f26afc7995120447fe4a40d5902f28b7c44a4f50a0355ab8dabf8d570287624c807969ca9bc211be";
 
   meta = {
-    gameVersions = [ ''1.21'' ];
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
     loaders = [ ''fabric'' ''quilt'' ];
   };
 };
