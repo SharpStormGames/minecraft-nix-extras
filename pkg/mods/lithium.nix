@@ -1,4 +1,28 @@
 { lib, ... }: {
+"5szYtenV" = lib.buildMinecraftMod {
+  pname = "lithium";
+  version = "mc1.21.1-0.13.0";
+  url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/5szYtenV/lithium-fabric-mc1.21.1-0.13.0.jar";
+  sha512 = "d4bd9a9cc37daad8828aa4fa9ca20e4f89d10e30cf6daf4546ef4cf4a684ba21ea0865a9c23cef9d1f4348e9ba4aca9aaca3db9f99534fc610fa78a5ca0bf151";
+
+  meta = {
+    gameVersions = [ ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"NTZCh7rb" = lib.buildMinecraftMod {
+  pname = "lithium";
+  version = "mc1.21-0.13.0";
+  url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/NTZCh7rb/lithium-fabric-mc1.21-0.13.0.jar";
+  sha512 = "f5b9ec43c05ac3de29e8bc24e28ae34bc91a48ad1235f70635165a699322dbe2b8c071655b1af392c2fb318bde5bfa4959798b837f3c2885a9a7a1f735680ed1";
+
+  meta = {
+    gameVersions = [ ''1.21'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "5a3sPIH2" = lib.buildMinecraftMod {
   pname = "lithium";
   version = "mc1.20.6-0.12.5";
