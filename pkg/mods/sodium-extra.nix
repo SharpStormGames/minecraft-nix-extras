@@ -6,7 +6,7 @@
   sha512 = "75a2e73a3cc2fc9556fbd62c9618f1d7455fb1966d993af69133aac5e9dea29dc31b80b61d963857ea4c556a9328634575d81251d782e4eb49ce64e6c60af75c";
 
   meta = {
-    gameVersions = [ ''1.21'' ];
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
     loaders = [ ''fabric'' ];
   };
 };
@@ -18,7 +18,7 @@
   sha512 = "bd2e3eccc87c9f60aaacfd6b2814f3f3b977649990c2ef82181580c8bc1b7ada9357195291fa4fb9086e1201a1c4613b788b34be68906f9caba9c22bd82174cb";
 
   meta = {
-    gameVersions = [ ''1.21'' ];
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
     loaders = [ ''fabric'' ''quilt'' ];
   };
 };

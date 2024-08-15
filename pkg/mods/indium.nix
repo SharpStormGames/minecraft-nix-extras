@@ -1,4 +1,16 @@
 { lib, ... }: {
+"Z8VpxxGh" = lib.buildMinecraftMod {
+  pname = "indium";
+  version = "1.0.35+mc1.21";
+  url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/Z8VpxxGh/indium-1.0.35%2Bmc1.21.jar";
+  sha512 = "5f5e8a6ce29e6faecf442fe1fad76a3dd3631d83daa30423ba5cdb2cacf7efd92c16f05b65c3270faa23e4a803f392db9af40a030b81ea898550eded74ea8706";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "K4hsdO9H" = lib.buildMinecraftMod {
   pname = "indium";
   version = "1.0.34+mc1.21";
