@@ -1,4 +1,64 @@
 { lib, ... }: {
+"uh3DtMnM" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.6.7";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/uh3DtMnM/entityculling-fabric-1.6.7-mc1.21.jar";
+  sha512 = "aa958f6bbdc4c99e9d1ddcc951c56d105edca8ae9454eb7b14fb38586e475776da7adebbcaf34f59b2ea175b9efaa61efcbe748b7e7d84ffa79896c103630e79";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"17GdZTv7" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.6.7";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/17GdZTv7/entityculling-fabric-1.6.7-mc1.20.6.jar";
+  sha512 = "e8adab9c9266fabcf8508b5e98ba33357598249f98992ab7fe1b1d4aae98304684b34e5e1b1541e1dffe951dcba74186f686635d043baf903c97a98c900f8723";
+
+  meta = {
+    gameVersions = [ ''1.20.6'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"xWH6Uo7w" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.6.7";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/xWH6Uo7w/entityculling-fabric-1.6.7-mc1.20.4.jar";
+  sha512 = "76f1ea624bc6e71d6b0f3ec699e0508fc6efa714901a35d58bdf9d8488aa870e10e8b920e249aa04093a6a953c4d8cdcda0c4fa2eb705c0c54d56bc7bfb792ee";
+
+  meta = {
+    gameVersions = [ ''1.20.4'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"7F6Kp0Ay" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.6.7";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/7F6Kp0Ay/entityculling-fabric-1.6.7-mc1.20.2.jar";
+  sha512 = "3a8333ae734378aa2b018700a348ca73a46c4784ac2def3b0f60eaad4c166d901701590ce3f2a3c940268c2cff5d955d530a0cb31250100152950f04ae172579";
+
+  meta = {
+    gameVersions = [ ''1.20.2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"mahLIqpj" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.6.7";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/mahLIqpj/entityculling-fabric-1.6.7-mc1.20.1.jar";
+  sha512 = "ae6cdddb9122cfdacb29873eea09c6814e5ef90cb223e3ffe1f3dffee293d3450eae8cf24119a5603fa4200cb2423d1351b4ead16bf35f9bb9706d9e425ae4b0";
+
+  meta = {
+    gameVersions = [ ''1.20.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "Bu3hSiJb" = lib.buildMinecraftMod {
   pname = "entityculling";
   version = "1.6.6";
