@@ -1,4 +1,16 @@
 { lib, ... }: {
+"FayzGq0c" = lib.buildMinecraftMod {
+  pname = "fabric-kotlin";
+  version = "1.12.1+kotlin.2.0.20";
+  url = "https://cdn.modrinth.com/data/Ha28R6CL/versions/FayzGq0c/fabric-language-kotlin-1.12.1%2Bkotlin.2.0.20.jar";
+  sha512 = "0bb8c5ef1cec3ee48e00af14fee16e4d0c72f93268952125aecc8b444197324a8f5c8a8f6535314e6d0cf0124770323bc005a0cb5a7f132030de0228f206efb7";
+
+  meta = {
+    gameVersions = [ ''1.14'' ''1.14.1'' ''1.14.2'' ''1.14.3'' ''1.14.4'' ''1.15'' ''1.15.1'' ''1.15.2'' ''1.16'' ''1.16.1'' ''1.16.2'' ''1.16.3'' ''1.16.4'' ''1.16.5'' ''1.17'' ''1.17.1'' ''1.18'' ''1.18.1'' ''1.18.2'' ''1.19'' ''1.19.1'' ''1.19.2'' ''1.19.3'' ''1.19.4'' ''1.20'' ''1.20.1'' ''1.20.2'' ''1.20.3'' ''1.20.4'' ''1.20.5'' ''1.20.6'' ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "kdDGGNEt" = lib.buildMinecraftMod {
   pname = "fabric-kotlin";
   version = "1.12.0+kotlin.2.0.10";
