@@ -1,4 +1,28 @@
 { lib, ... }: {
+"YFHMOEkE" = lib.buildMinecraftMod {
+  pname = "reeses-sodium-options";
+  version = "mc1.21.1-1.8.0-beta.2+fabric";
+  url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/YFHMOEkE/reeses-sodium-options-fabric-1.8.0-beta.2%2Bmc1.21.1.jar";
+  sha512 = "c2ce643907b6d67da145f6e180b113c8eb195f6515fdabc4a8f37c7528bb83b18211068b5b1101cb3bba7be1d3e61d164f782019acaae0d40505eee23940d50b";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"H5Nu8zIm" = lib.buildMinecraftMod {
+  pname = "reeses-sodium-options";
+  version = "mc1.21.1-1.8.0-beta.1+fabric";
+  url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/H5Nu8zIm/reeses-sodium-options-fabric-1.8.0-beta.1%2Bmc1.21.1.jar";
+  sha512 = "b5dc7b033692d08c0631503bdc7c01af3563002a8b3ff2e05657964fc0768ffc5653c80f92a340cbb5559ae77553a8355187632db6381f804a231d262f7b2aec";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "6gZ19wc6" = lib.buildMinecraftMod {
   pname = "reeses-sodium-options";
   version = "mc1.21-1.7.3";
