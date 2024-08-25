@@ -1,4 +1,28 @@
 { lib, ... }: {
+"3ib3Uvvv" = lib.buildMinecraftMod {
+  pname = "modmenu";
+  version = "11.0.2";
+  url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3ib3Uvvv/modmenu-11.0.2.jar";
+  sha512 = "740c9845a8447efa481607d1a9879a4774c7610eb5bc4072ccb2b7ed9b2afc295f0db41abb608ab2cbf589b42578bcd054fb51f7f7257d3151d5d3a0adc0b6ab";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"ixIyiMpO" = lib.buildMinecraftMod {
+  pname = "modmenu";
+  version = "12.0.0-alpha.1";
+  url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/ixIyiMpO/modmenu-12.0.0-alpha.1.jar";
+  sha512 = "913be7aea000ee2c95f0678ba16d962ff452c1983c328867eae16d385bda65c3f91207651272214ce72e2e7b446789d570cdb9f17468b9d19b834cc334093301";
+
+  meta = {
+    gameVersions = [ ''24w34a'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "xhN1IvHi" = lib.buildMinecraftMod {
   pname = "modmenu";
   version = "11.0.1";
