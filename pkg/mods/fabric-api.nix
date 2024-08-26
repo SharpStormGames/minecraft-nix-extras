@@ -1,4 +1,40 @@
 { lib, ... }: {
+"Ouxgt8PC" = lib.buildMinecraftMod {
+  pname = "fabric-api";
+  version = "0.103.0+1.21.2";
+  url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/Ouxgt8PC/fabric-api-0.103.0%2B1.21.2.jar";
+  sha512 = "97e34af638076baddf1e57376880ced662d3f709fee5a29b305a52a31e3b9a9ce54053f99975c21239f90e3cefc22c05fae6bd34467bd2c8403a073b43021bce";
+
+  meta = {
+    gameVersions = [ ''24w34a'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"gQS3JbZO" = lib.buildMinecraftMod {
+  pname = "fabric-api";
+  version = "0.103.0+1.21.1";
+  url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/gQS3JbZO/fabric-api-0.103.0%2B1.21.1.jar";
+  sha512 = "085e985d3000afb0d0d799fdf83f7f084dd240e9852ccb4d94ad13fc3d3fad90b00b02dcc493e3c38a66ae4757389582eccf89238569bacae638b9ffd9885ebc";
+
+  meta = {
+    gameVersions = [ ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"QVBohPm2" = lib.buildMinecraftMod {
+  pname = "fabric-api";
+  version = "0.97.2+1.20.4";
+  url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/QVBohPm2/fabric-api-0.97.2%2B1.20.4.jar";
+  sha512 = "8f02bf562781a2f08294736eff784b7e7463be1595b1e3b4f53d4dcb57fc0643890078265141c3bce882dfec6e77553d2db252992fdfbd55cd7d32777adb9d78";
+
+  meta = {
+    gameVersions = [ ''1.20.4'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "SKO3xQOq" = lib.buildMinecraftMod {
   pname = "fabric-api";
   version = "0.102.3+1.21.2";

@@ -1,4 +1,28 @@
 { lib, ... }: {
+"VNbys2OF" = lib.buildMinecraftMod {
+  pname = "moreculling";
+  version = "0.27.1";
+  url = "https://cdn.modrinth.com/data/51shyZVL/versions/VNbys2OF/moreculling-1.21-0.27.1.jar";
+  sha512 = "d8432be6bd4803ecf61dcac722ee70ddc7a8d8de347c124a5be88d5ac8ebbf2fdb9893e68dfad062edbf1bc4b2af857af5f9f1f69aed9ac9303555e03c62f9fc";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"8tyyZ18v" = lib.buildMinecraftMod {
+  pname = "moreculling";
+  version = "0.27.0";
+  url = "https://cdn.modrinth.com/data/51shyZVL/versions/8tyyZ18v/moreculling-1.21-0.27.0.jar";
+  sha512 = "253c5bd911e8a9299b75c9865b56d87defb54973781af8aace679d0d0aa7751ff9c6b69e08d7a9336b6822bdeade3e91fe0513e8f067459a6efbb92285c60058";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "BUxgeDdf" = lib.buildMinecraftMod {
   pname = "moreculling";
   version = "0.26.0";
