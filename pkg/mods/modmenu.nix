@@ -18,7 +18,7 @@
   sha512 = "913be7aea000ee2c95f0678ba16d962ff452c1983c328867eae16d385bda65c3f91207651272214ce72e2e7b446789d570cdb9f17468b9d19b834cc334093301";
 
   meta = {
-    gameVersions = [ ''24w34a'' ];
+    gameVersions = [ ''24w33a'' ];
     loaders = [ ''fabric'' ''quilt'' ];
   };
 };
