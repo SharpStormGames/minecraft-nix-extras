@@ -1,4 +1,136 @@
 { lib, ... }: {
+"EXt7Kt2t" = lib.buildMinecraftMod {
+  pname = "not-enough-animations";
+  version = "1.7.6";
+  url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/EXt7Kt2t/notenoughanimations-fabric-1.7.6-mc1.21.jar";
+  sha512 = "da35a6207a8cfcc7cd7227bff2987716795ba36ffe8fcb084bcd4fa51fc7b16e5fbe96b8a9fdeeaa618417905ba22f47fd6af48651b84608b8a21566bed26ec1";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"GpgBVAyE" = lib.buildMinecraftMod {
+  pname = "not-enough-animations";
+  version = "1.7.6";
+  url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/GpgBVAyE/notenoughanimations-fabric-1.7.6-mc1.20.6.jar";
+  sha512 = "9e9e1ca410c54661216e7b59e3ec125d4afe67358f4dee387ab8ac419a9b827569d547eac361d05e5981faeab295b345f5767dd1dd33af4b24e5ba56c4e1ea11";
+
+  meta = {
+    gameVersions = [ ''1.20.6'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"KqOygaoz" = lib.buildMinecraftMod {
+  pname = "not-enough-animations";
+  version = "1.7.6";
+  url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/KqOygaoz/notenoughanimations-fabric-1.7.6-mc1.20.4.jar";
+  sha512 = "303e776db1c73da907aded68cc3bab2230b4907fdacca963fa5fa36ce4aa04cc80e2b718f1a81a55b88afaeadab30fc009347f6a0a52ee1a3941cee44b437bac";
+
+  meta = {
+    gameVersions = [ ''1.20.4'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"6BvtBWK0" = lib.buildMinecraftMod {
+  pname = "not-enough-animations";
+  version = "1.7.6";
+  url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/6BvtBWK0/notenoughanimations-fabric-1.7.6-mc1.20.2.jar";
+  sha512 = "b21ef3d662b826d7028cbec6024b72518c76a817d623dadd20ec39c06ee086e7b955b1953ce68341529ebc9eda190ac205068f5bf79bdbf58dcc40ff85ccc753";
+
+  meta = {
+    gameVersions = [ ''1.20.2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"vXBVkqWZ" = lib.buildMinecraftMod {
+  pname = "not-enough-animations";
+  version = "1.7.6";
+  url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/vXBVkqWZ/notenoughanimations-fabric-1.7.6-mc1.20.1.jar";
+  sha512 = "4a0636b4ee79a9d60b392203d1297a2d2471b39cf3be42a2d64558a11cd45548d10f4a0163f19b5477f07d6b73ebc950f2d9e38efe179617586f98bf826ff00d";
+
+  meta = {
+    gameVersions = [ ''1.20.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"3uebPUS7" = lib.buildMinecraftMod {
+  pname = "not-enough-animations";
+  version = "1.7.6";
+  url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/3uebPUS7/notenoughanimations-fabric-1.7.6-mc1.19.4.jar";
+  sha512 = "9ecc8bc30458f12d743db9f0f8c55412a22b363428300dc41036b78ecb8f42316775a4ff972521ece0343a2a9e8e434d9dd29215e44bcfd85163dd48134744ff";
+
+  meta = {
+    gameVersions = [ ''1.19.4'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"Jg5M7Pb2" = lib.buildMinecraftMod {
+  pname = "not-enough-animations";
+  version = "1.7.6";
+  url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/Jg5M7Pb2/notenoughanimations-fabric-1.7.6-mc1.19.3.jar";
+  sha512 = "7b81500732d3a82ad01ec44878af784130175836ba1e3eacbfba72e15c2d9d986fbf44205ceed475c2fe9d9dd3c5d9272ee01d90d0a1e33c38562dc017eea979";
+
+  meta = {
+    gameVersions = [ ''1.19.3'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"eVeL0Vok" = lib.buildMinecraftMod {
+  pname = "not-enough-animations";
+  version = "1.7.6";
+  url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/eVeL0Vok/notenoughanimations-fabric-1.7.6-mc1.19.2.jar";
+  sha512 = "923f252bee4330070920ec8e69e3e4d37ea534b1920581a1396e08c8a97c02079dd1c847b1c7b9dfcc20caaa85a1d6b6045c5e88defbc506b6b4ddb715181329";
+
+  meta = {
+    gameVersions = [ ''1.19.2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"zcI1gILO" = lib.buildMinecraftMod {
+  pname = "not-enough-animations";
+  version = "1.7.6";
+  url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/zcI1gILO/notenoughanimations-fabric-1.7.6-mc1.18.2.jar";
+  sha512 = "a10a20dba4c6a4219a9eb9ecef58db5db675c77a770c6373cc3d06edd9bb038f692d91da3ba330a66200b864a7dff204881b14d054208c5c4991f49ab611919a";
+
+  meta = {
+    gameVersions = [ ''1.18.2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"JKvj8Xa6" = lib.buildMinecraftMod {
+  pname = "not-enough-animations";
+  version = "1.7.6";
+  url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/JKvj8Xa6/notenoughanimations-fabric-1.7.6-mc1.17.1.jar";
+  sha512 = "1ca958a6a4477173ce3ac6d37405909fd29944a6c4429f8927063593ba8d4e0b81518b63962ec0783ebafeb5f74a06105b5375e6ae1d8e8c0b48da09b3aa2d78";
+
+  meta = {
+    gameVersions = [ ''1.17.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"Ezpg2THY" = lib.buildMinecraftMod {
+  pname = "not-enough-animations";
+  version = "1.7.6";
+  url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/Ezpg2THY/notenoughanimations-fabric-1.7.6-mc1.16.5.jar";
+  sha512 = "5112b9797ab7c5b3cd652411a77ff2028c9b19782dc1588d04560e5e8c04b6074f4606e059c7c702485449abe570c0e05bbad4e0149700b02e372597f689ed87";
+
+  meta = {
+    gameVersions = [ ''1.16.5'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "BQ8qstAV" = lib.buildMinecraftMod {
   pname = "not-enough-animations";
   version = "1.7.5";
