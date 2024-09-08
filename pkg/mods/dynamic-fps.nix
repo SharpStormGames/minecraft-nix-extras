@@ -1,4 +1,28 @@
 { lib, ... }: {
+"ptYqqAo0" = lib.buildMinecraftMod {
+  pname = "dynamic-fps";
+  version = "3.7.1";
+  url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/ptYqqAo0/dynamic-fps-3.7.1%2Bminecraft-1.20.0-quilt.jar";
+  sha512 = "ba8798ade8bb6727b011cfdedc463aac8b1ee573918025fa878d8e5678738f5c61bb511ac032ef2845983e119a05181725d82c24fb448d2b755db13b86640bf6";
+
+  meta = {
+    gameVersions = [ ''1.20'' ''1.20.1'' ];
+    loaders = [ ''quilt'' ];
+  };
+};
+
+"f8GynEJ1" = lib.buildMinecraftMod {
+  pname = "dynamic-fps";
+  version = "3.7.1";
+  url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/f8GynEJ1/dynamic-fps-3.7.1%2Bminecraft-1.20.0-fabric.jar";
+  sha512 = "74c2cf53bb3eb9e9b2e7223ef640413176513735d92283148515a2d30651d5436683a50610bd2cae5976aa1bb9d2063e74e1709497338364dd35911e369653bb";
+
+  meta = {
+    gameVersions = [ ''1.20'' ''1.20.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "qqblKu56" = lib.buildMinecraftMod {
   pname = "dynamic-fps";
   version = "3.7.0";
