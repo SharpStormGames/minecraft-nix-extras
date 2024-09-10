@@ -1,4 +1,16 @@
 { lib, ... }: {
+"Nf2ezsBW" = lib.buildMinecraftMod {
+  pname = "cloth-config";
+  version = "16.0.131+fabric";
+  url = "https://cdn.modrinth.com/data/9s6osm5g/versions/Nf2ezsBW/cloth-config-16.0.131-fabric.jar";
+  sha512 = "dd9ca80fdda12348983c3f094c4520178eeee9b56c9285e2105b03a71ef9477a95b589d59298d9297c81e9eb1816c20471e112554fb72255cd92c246d15e0edd";
+
+  meta = {
+    gameVersions = [ ''24w36a'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "7jtvrmVP" = lib.buildMinecraftMod {
   pname = "cloth-config";
   version = "15.0.130+fabric";
