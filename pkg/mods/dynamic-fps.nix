@@ -30,7 +30,7 @@
   sha512 = "08de245f90a51099a20f685ed0392ffcd7c5326ec8da78c2384469a17644d9621de5c7944060e475fd8ed579976cfe2f7dc149b26283136508251127528e75c0";
 
   meta = {
-    gameVersions = [ ''24w33a'' ''24w34a'' ''24w35a'' ''24w36a'' ];
+    gameVersions = [ ''24w33a'' ''24w34a'' ''24w35a'' ''24w36a'' ''24w37a'' ];
     loaders = [ ''quilt'' ];
   };
 };
@@ -42,7 +42,7 @@
   sha512 = "954cf81756c04c13b947f92f838b557fc663c8277a523ea72f212224cac5786ffc5457b1fec5548335d057f5411164a79378083478424b17662a29dcdeb3002d";
 
   meta = {
-    gameVersions = [ ''24w33a'' ''24w34a'' ''24w35a'' ''24w36a'' ];
+    gameVersions = [ ''24w33a'' ''24w34a'' ''24w35a'' ''24w36a'' ''24w37a'' ];
     loaders = [ ''fabric'' ];
   };
 };
