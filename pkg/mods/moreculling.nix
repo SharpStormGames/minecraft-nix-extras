@@ -11,18 +11,6 @@
   };
 };
 
-"8tyyZ18v" = lib.buildMinecraftMod {
-  pname = "moreculling";
-  version = "0.27.0";
-  url = "https://cdn.modrinth.com/data/51shyZVL/versions/8tyyZ18v/moreculling-1.21-0.27.0.jar";
-  sha512 = "253c5bd911e8a9299b75c9865b56d87defb54973781af8aace679d0d0aa7751ff9c6b69e08d7a9336b6822bdeade3e91fe0513e8f067459a6efbb92285c60058";
-
-  meta = {
-    gameVersions = [ ''1.21'' ''1.21.1'' ];
-    loaders = [ ''fabric'' ''quilt'' ];
-  };
-};
-
 "BUxgeDdf" = lib.buildMinecraftMod {
   pname = "moreculling";
   version = "0.26.0";
