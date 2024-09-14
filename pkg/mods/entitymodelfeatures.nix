@@ -1,4 +1,64 @@
 { lib, ... }: {
+"Qql6TI9W" = lib.buildMinecraftMod {
+  pname = "entitymodelfeatures";
+  version = "2.2.6";
+  url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/Qql6TI9W/entity_model_features_fabric_1.21-2.2.6.jar";
+  sha512 = "5c3b7b0defc2f8f702c29b70a9765d77d5a703a8b7c4d6fc85ada4d5c95fbe377843d21b09536664abf594d054067d83ea02475acba89c34f5d5aab2db565110";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"TkjKemrg" = lib.buildMinecraftMod {
+  pname = "entitymodelfeatures";
+  version = "2.2.6";
+  url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/TkjKemrg/entity_model_features_fabric_1.20.6-2.2.6.jar";
+  sha512 = "c8e3a4c31b7147f888d0c8d6d7d6f770ab215cd29b3973aea6e10932203748077f59645b0b2c74a8e2455ff790cfa83ca469038a3a449cd0e9c32732b63be894";
+
+  meta = {
+    gameVersions = [ ''1.20.6'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"9WGdSFwb" = lib.buildMinecraftMod {
+  pname = "entitymodelfeatures";
+  version = "2.2.6";
+  url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/9WGdSFwb/entity_model_features_fabric_1.20.4-2.2.6.jar";
+  sha512 = "544ee3ca6452d1866e2e2a818425c1b3e8f6cf6cb9bd3420ab0e5a017e063872baffa0165106f4a38d9feb96774f3b99522cce61e37406fa2b093cd9d41fd924";
+
+  meta = {
+    gameVersions = [ ''1.20.4'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"pMWpMW2a" = lib.buildMinecraftMod {
+  pname = "entitymodelfeatures";
+  version = "2.2.6";
+  url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/pMWpMW2a/entity_model_features_fabric_1.20.2-2.2.6.jar";
+  sha512 = "9c8e7e61dbaaa2eac2d16d3052199971ac18d859d12d002a9c581b4761c6a1422ef78605ab1be1cf1a890a905eb46bdce61923cf28019df848cf016a54fac76b";
+
+  meta = {
+    gameVersions = [ ''1.20.2'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"QoWmvvjv" = lib.buildMinecraftMod {
+  pname = "entitymodelfeatures";
+  version = "2.2.6";
+  url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/QoWmvvjv/entity_model_features_fabric_1.20.1-2.2.6.jar";
+  sha512 = "1cce344560e9d92ddf9916774e0392895d633bf2293e216faaa4d768ca385ba7b7b995519a54379199c35930ac2e09d0133eaaa1d1c3c15ca2ac2f6ff480f52c";
+
+  meta = {
+    gameVersions = [ ''1.20'' ''1.20.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "gxkUEYca" = lib.buildMinecraftMod {
   pname = "entitymodelfeatures";
   version = "2.2.5";
