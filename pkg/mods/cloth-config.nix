@@ -1,4 +1,88 @@
 { lib, ... }: {
+"2deYQULk" = lib.buildMinecraftMod {
+  pname = "cloth-config";
+  version = "13.0.138+fabric";
+  url = "https://cdn.modrinth.com/data/9s6osm5g/versions/2deYQULk/cloth-config-13.0.138-fabric.jar";
+  sha512 = "3863fb95cc57526c6876cb60600f2e4282a5fa8d997d981e984da48f34be654cd0c5fc09e7d77079a393b2d7e3e48baabb756ad84ea58881b22ea771f43baa4a";
+
+  meta = {
+    gameVersions = [ ''1.20.3'' ''1.20.4'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"HpMb5wGb" = lib.buildMinecraftMod {
+  pname = "cloth-config";
+  version = "15.0.140+fabric";
+  url = "https://cdn.modrinth.com/data/9s6osm5g/versions/HpMb5wGb/cloth-config-15.0.140-fabric.jar";
+  sha512 = "1b3f5db4fc1d481704053db9837d530919374bf7518d7cede607360f0348c04fc6347a3a72ccfef355559e1f4aef0b650cd58e5ee79c73b12ff0fc2746797a00";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"9YwAqtuZ" = lib.buildMinecraftMod {
+  pname = "cloth-config";
+  version = "12.0.137+fabric";
+  url = "https://cdn.modrinth.com/data/9s6osm5g/versions/9YwAqtuZ/cloth-config-12.0.137-fabric.jar";
+  sha512 = "01b21e32bbe1219dae33696c11c57abeeddb3deeec15ce61003b8065c464a82649328bc43ca732e1e56d79643a38560bd0092fef6a075649460c3e92d13b6713";
+
+  meta = {
+    gameVersions = [ ''1.20.2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"g0uTATyM" = lib.buildMinecraftMod {
+  pname = "cloth-config";
+  version = "14.0.139+fabric";
+  url = "https://cdn.modrinth.com/data/9s6osm5g/versions/g0uTATyM/cloth-config-14.0.139-fabric.jar";
+  sha512 = "edfd38319ed73a620a11a8d50a93f8ec8b30cd8cd02819f194589a7d6e7b8b3f6619056856f85de25e6de0d7202d4a8ad3e9c1deabbeb643d15d8610124a03b0";
+
+  meta = {
+    gameVersions = [ ''1.20.5'' ''1.20.6'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"2xQdCMyG" = lib.buildMinecraftMod {
+  pname = "cloth-config";
+  version = "11.1.136+fabric";
+  url = "https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar";
+  sha512 = "2da85c071c854223cc30c8e46794391b77e53f28ecdbbde59dc83b3dbbdfc74be9e68da9ed464e7f98b4361033899ba4f681ebff1f35edc2c60e599a59796f1c";
+
+  meta = {
+    gameVersions = [ ''1.20'' ''1.20.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"ZTMfeJij" = lib.buildMinecraftMod {
+  pname = "cloth-config";
+  version = "10.1.135+fabric";
+  url = "https://cdn.modrinth.com/data/9s6osm5g/versions/ZTMfeJij/cloth-config-10.1.135-fabric.jar";
+  sha512 = "b9aed46cff0bb4f33b55632de2234efc223d406cb33f264fc52048965c3570ae03d2493c5a93f46efd3bcf8c13f1d9cb420ff567f6c768108ddacb60918efbe6";
+
+  meta = {
+    gameVersions = [ ''1.19.4'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"ZpV0fKbO" = lib.buildMinecraftMod {
+  pname = "cloth-config";
+  version = "8.3.134+fabric";
+  url = "https://cdn.modrinth.com/data/9s6osm5g/versions/ZpV0fKbO/cloth-config-8.3.134-fabric.jar";
+  sha512 = "b28c5c603d5dcdce298cd670fc58bd8a589f6407b7d650aac0831991b661f06ea235f3f0190e50f38eef3037ae1c906c285b8a1ccef86e424cb18df163b3c20a";
+
+  meta = {
+    gameVersions = [ ''1.19'' ''1.19.1'' ''1.19.2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "Nf2ezsBW" = lib.buildMinecraftMod {
   pname = "cloth-config";
   version = "16.0.131+fabric";
