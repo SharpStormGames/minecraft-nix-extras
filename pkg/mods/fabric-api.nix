@@ -1,4 +1,28 @@
 { lib, ... }: {
+"TwHWSyoo" = lib.buildMinecraftMod {
+  pname = "fabric-api";
+  version = "0.105.0+1.21.2";
+  url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/TwHWSyoo/fabric-api-0.105.0%2B1.21.2.jar";
+  sha512 = "385ed6131e2832ecff9292363de0855e9c8728238484320fe9d7937322535479996ad6d51bd5803b2574a03b2d4f427100f99574220bf072cde9526422993f3d";
+
+  meta = {
+    gameVersions = [ ''24w38a'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"WTaAx4ah" = lib.buildMinecraftMod {
+  pname = "fabric-api";
+  version = "0.105.0+1.21.1";
+  url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/WTaAx4ah/fabric-api-0.105.0%2B1.21.1.jar";
+  sha512 = "6e1ffcf7f5af9589c16ccec1f9bb5ef8dede5ebe52ae09d94affa8050603f6ecd71d130a793c2bdb4bd42b2a70905425e55141d39369dfa9840569eef4dace16";
+
+  meta = {
+    gameVersions = [ ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "6p73lfAV" = lib.buildMinecraftMod {
   pname = "fabric-api";
   version = "0.104.2+1.21.2";

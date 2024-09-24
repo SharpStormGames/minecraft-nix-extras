@@ -1,4 +1,16 @@
 { lib, ... }: {
+"E3M7N09H" = lib.buildMinecraftMod {
+  pname = "moreculling";
+  version = "1.0.0-beta.1";
+  url = "https://cdn.modrinth.com/data/51shyZVL/versions/E3M7N09H/moreculling-fabric-1.21.1-1.0.0-beta.1.jar";
+  sha512 = "8abbefaed290384c2645fe68b02cf91c1fbc5d51a1a693a33e9980776a63f7645154605a467e35beaf83d6db21f63fcab42d37dc36d982baf8366b45add0d923";
+
+  meta = {
+    gameVersions = [ ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "VNbys2OF" = lib.buildMinecraftMod {
   pname = "moreculling";
   version = "0.27.1";
