@@ -1,7 +1,19 @@
 { lib, ... }: {
+"zQSo4nxk" = lib.buildMinecraftMod {
+  pname = "ferrite-core";
+  version = "7.0.1-fabric";
+  url = "https://cdn.modrinth.com/data/uXXizFIs/versions/zQSo4nxk/ferritecore-7.0.1-fabric.jar";
+  sha512 = "9f52249059d5d14317292dedf08bf10860ec81aa94238d70a8fecbc372fc75fe95e80f41983379674b180d2ae458dab36a5a3c91738236211287a401ad7ba74b";
+
+  meta = {
+    gameVersions = [ ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "wmIZ4wP4" = lib.buildMinecraftMod {
   pname = "ferrite-core";
-  version = "7.0.0";
+  version = "7.0.0-fabric";
   url = "https://cdn.modrinth.com/data/uXXizFIs/versions/wmIZ4wP4/ferritecore-7.0.0-fabric.jar";
   sha512 = "0f2f9b5aebd71ef3064fc94df964296ac6ee8ea12221098b9df037bdcaaca7bccd473c981795f4d57ff3d49da3ef81f13a42566880b9f11dc64645e9c8ad5d4f";
 
