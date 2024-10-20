@@ -1,20 +1,8 @@
 { lib, ... }: {
-"57wC5Jwb" = lib.buildMinecraftMod {
-  pname = "yacl";
-  version = "3.6.0+1.20.1-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/57wC5Jwb/YetAnotherConfigLib-3.6.0%2B1.20.1-fabric.jar";
-  sha512 = "977d3adfa88091688cbd33d8331b958e93670c1a82959f0204a0dc9c65f823a1b5fb9fabe98d5649e0fe88e8b5363a6c5a236e4695a8af2a54430d1ce19d00a5";
-
-  meta = {
-    gameVersions = [ ''1.20.1'' ];
-    loaders = [ ''fabric'' ];
-  };
-};
-
-"TGCDRFhE" = lib.buildMinecraftMod {
+"WKFetSnp" = lib.buildMinecraftMod {
   pname = "yacl";
   version = "3.6.0+1.20.4-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/TGCDRFhE/YetAnotherConfigLib-3.6.0%2B1.20.4-fabric.jar";
+  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/WKFetSnp/YetAnotherConfigLib-3.6.0%2B1.20.4-fabric.jar";
   sha512 = "9909612667ea13088beb34216b20c74681b67a992fc631c1be215e85b3a74e592460671aaf3773af44aebaa4c149dd6c3d84245795930bb5dcfaede41addc64a";
 
   meta = {
@@ -23,10 +11,10 @@
   };
 };
 
-"OFazaAiM" = lib.buildMinecraftMod {
+"AAvOQ5xy" = lib.buildMinecraftMod {
   pname = "yacl";
   version = "3.6.0+1.20.6-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/OFazaAiM/YetAnotherConfigLib-3.6.0%2B1.20.6-fabric.jar";
+  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/AAvOQ5xy/YetAnotherConfigLib-3.6.0%2B1.20.6-fabric.jar";
   sha512 = "1566f7131365489942190586cc6153ed5564c549dd760c0a59e07951d40ee2d16630c3c0ebbdea7011604fd21cd8eb69aa8448ce67830ad7c29c7e0e41c6e652";
 
   meta = {
@@ -35,10 +23,10 @@
   };
 };
 
-"AsZz5xK9" = lib.buildMinecraftMod {
+"wUxT9toF" = lib.buildMinecraftMod {
   pname = "yacl";
   version = "3.6.0+1.21-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/AsZz5xK9/YetAnotherConfigLib-3.6.0%2B1.21-fabric.jar";
+  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/wUxT9toF/YetAnotherConfigLib-3.6.0%2B1.21-fabric.jar";
   sha512 = "0e5e7aa33e0afcdb9b95fa8759b145c4fee95a088a9b03af315ff766e4a783717ce0b94a00798310ea1a5716f54e518d32df98b46b662c02b51890aeebdb084e";
 
   meta = {
@@ -47,58 +35,10 @@
   };
 };
 
-"teCaBuzf" = lib.buildMinecraftMod {
-  pname = "yacl";
-  version = "3.6.0+1.21.2-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/teCaBuzf/YetAnotherConfigLib-3.6.0%2B1.21.2-fabric.jar";
-  sha512 = "66e344f9e069c8e6d19488422345bf23173ccfe6bb63372ab3c69be7fd2163f0b52be5c6f30813daff0af1257cbc525e0cfb72dda99cdba758822ee61938f7af";
-
-  meta = {
-    gameVersions = [ ''1.21.2-rc1'' ];
-    loaders = [ ''fabric'' ];
-  };
-};
-
-"Cu2A0FNj" = lib.buildMinecraftMod {
-  pname = "yacl";
-  version = "3.6.0+1.20.4-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/Cu2A0FNj/YetAnotherConfigLib-3.6.0%2B1.20.4-fabric.jar";
-  sha512 = "9909612667ea13088beb34216b20c74681b67a992fc631c1be215e85b3a74e592460671aaf3773af44aebaa4c149dd6c3d84245795930bb5dcfaede41addc64a";
-
-  meta = {
-    gameVersions = [ ''1.20.4'' ];
-    loaders = [ ''fabric'' ];
-  };
-};
-
-"cpYEKi2y" = lib.buildMinecraftMod {
-  pname = "yacl";
-  version = "3.6.0+1.20.6-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/cpYEKi2y/YetAnotherConfigLib-3.6.0%2B1.20.6-fabric.jar";
-  sha512 = "1566f7131365489942190586cc6153ed5564c549dd760c0a59e07951d40ee2d16630c3c0ebbdea7011604fd21cd8eb69aa8448ce67830ad7c29c7e0e41c6e652";
-
-  meta = {
-    gameVersions = [ ''1.20.5'' ''1.20.6'' ];
-    loaders = [ ''fabric'' ];
-  };
-};
-
-"v7wnWGzN" = lib.buildMinecraftMod {
-  pname = "yacl";
-  version = "3.6.0+1.21.2-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/v7wnWGzN/YetAnotherConfigLib-3.6.0%2B1.21.2-fabric.jar";
-  sha512 = "66e344f9e069c8e6d19488422345bf23173ccfe6bb63372ab3c69be7fd2163f0b52be5c6f30813daff0af1257cbc525e0cfb72dda99cdba758822ee61938f7af";
-
-  meta = {
-    gameVersions = [ ''1.21.2-rc1'' ];
-    loaders = [ ''fabric'' ];
-  };
-};
-
-"TBuVNKWy" = lib.buildMinecraftMod {
+"uvooYjoA" = lib.buildMinecraftMod {
   pname = "yacl";
   version = "3.6.0+1.20.1-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/TBuVNKWy/YetAnotherConfigLib-3.6.0%2B1.20.1-fabric.jar";
+  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/uvooYjoA/YetAnotherConfigLib-3.6.0%2B1.20.1-fabric.jar";
   sha512 = "977d3adfa88091688cbd33d8331b958e93670c1a82959f0204a0dc9c65f823a1b5fb9fabe98d5649e0fe88e8b5363a6c5a236e4695a8af2a54430d1ce19d00a5";
 
   meta = {
@@ -107,62 +47,14 @@
   };
 };
 
-"yJcPgXjT" = lib.buildMinecraftMod {
+"TQN6aweQ" = lib.buildMinecraftMod {
   pname = "yacl";
-  version = "3.6.0+1.21-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/yJcPgXjT/YetAnotherConfigLib-3.6.0%2B1.21-fabric.jar";
-  sha512 = "0e5e7aa33e0afcdb9b95fa8759b145c4fee95a088a9b03af315ff766e4a783717ce0b94a00798310ea1a5716f54e518d32df98b46b662c02b51890aeebdb084e";
+  version = "3.6.0+1.21.2-fabric";
+  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/TQN6aweQ/YetAnotherConfigLib-3.6.0%2B1.21.2-fabric.jar";
+  sha512 = "66e344f9e069c8e6d19488422345bf23173ccfe6bb63372ab3c69be7fd2163f0b52be5c6f30813daff0af1257cbc525e0cfb72dda99cdba758822ee61938f7af";
 
   meta = {
-    gameVersions = [ ''1.21'' ''1.21.1'' ];
-    loaders = [ ''fabric'' ];
-  };
-};
-
-"4aZx7yxW" = lib.buildMinecraftMod {
-  pname = "yacl";
-  version = "3.6.0+1.20.4-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/4aZx7yxW/YetAnotherConfigLib-3.6.0%2B1.20.4-fabric.jar";
-  sha512 = "9909612667ea13088beb34216b20c74681b67a992fc631c1be215e85b3a74e592460671aaf3773af44aebaa4c149dd6c3d84245795930bb5dcfaede41addc64a";
-
-  meta = {
-    gameVersions = [ ''1.20.4'' ];
-    loaders = [ ''fabric'' ];
-  };
-};
-
-"Ib7KDACY" = lib.buildMinecraftMod {
-  pname = "yacl";
-  version = "3.6.0+1.21-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/Ib7KDACY/YetAnotherConfigLib-3.6.0%2B1.21-fabric.jar";
-  sha512 = "0e5e7aa33e0afcdb9b95fa8759b145c4fee95a088a9b03af315ff766e4a783717ce0b94a00798310ea1a5716f54e518d32df98b46b662c02b51890aeebdb084e";
-
-  meta = {
-    gameVersions = [ ''1.21'' ];
-    loaders = [ ''fabric'' ];
-  };
-};
-
-"Dzot3Gbb" = lib.buildMinecraftMod {
-  pname = "yacl";
-  version = "3.6.0+1.20.1-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/Dzot3Gbb/YetAnotherConfigLib-3.6.0%2B1.20.1-fabric.jar";
-  sha512 = "977d3adfa88091688cbd33d8331b958e93670c1a82959f0204a0dc9c65f823a1b5fb9fabe98d5649e0fe88e8b5363a6c5a236e4695a8af2a54430d1ce19d00a5";
-
-  meta = {
-    gameVersions = [ ''1.20.1'' ];
-    loaders = [ ''fabric'' ];
-  };
-};
-
-"FO8SKzUN" = lib.buildMinecraftMod {
-  pname = "yacl";
-  version = "3.6.0+1.20.6-fabric";
-  url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/FO8SKzUN/YetAnotherConfigLib-3.6.0%2B1.20.6-fabric.jar";
-  sha512 = "1566f7131365489942190586cc6153ed5564c549dd760c0a59e07951d40ee2d16630c3c0ebbdea7011604fd21cd8eb69aa8448ce67830ad7c29c7e0e41c6e652";
-
-  meta = {
-    gameVersions = [ ''1.20.6'' ];
+    gameVersions = [ ''1.21.2-rc1'' ];
     loaders = [ ''fabric'' ];
   };
 };
