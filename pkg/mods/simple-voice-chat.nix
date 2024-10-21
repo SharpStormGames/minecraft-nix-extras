@@ -1,4 +1,16 @@
 { lib, ... }: {
+"RlYDoEvc" = lib.buildMinecraftMod {
+  pname = "simple-voice-chat";
+  version = "fabric-1.21.2-rc2-2.5.24";
+  url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/RlYDoEvc/voicechat-fabric-1.21.2-rc2-2.5.24.jar";
+  sha512 = "45091a2414054aa2ddeb33eb37641a64d31846120e6cdab83e155475b64776d08cefb2acc3089affa00f93106073aa566c91583569c3098769221c38794b987c";
+
+  meta = {
+    gameVersions = [ ''1.21.2-rc2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "ZIUjfwwq" = lib.buildMinecraftMod {
   pname = "simple-voice-chat";
   version = "fabric-1.21.2-rc1-2.5.24";
