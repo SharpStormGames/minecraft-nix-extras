@@ -1,4 +1,16 @@
 { lib, ... }: {
+"7Pu945E0" = lib.buildMinecraftMod {
+  pname = "architectury-api";
+  version = "14.0.3+fabric";
+  url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/7Pu945E0/architectury-14.0.3-fabric.jar";
+  sha512 = "957bd8d5ea629366a7a4b29c0b360959d3955a0c57f04d8743332fad6cdb03f8904363231b3e857afb0d8992a49ccb552910e30ee1d0673a51ebaa431504cdab";
+
+  meta = {
+    gameVersions = [ ''1.21.2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "M7ETXdSr" = lib.buildMinecraftMod {
   pname = "architectury-api";
   version = "14.0.1+fabric";

@@ -1,4 +1,16 @@
 { lib, ... }: {
+"JzkXlBqj" = lib.buildMinecraftMod {
+  pname = "lambdynamiclights";
+  version = "3.1.0+1.21.1";
+  url = "https://cdn.modrinth.com/data/yBW8D80W/versions/JzkXlBqj/lambdynamiclights-3.1.0%2B1.21.1.jar";
+  sha512 = "ed4fcedc1cb02bb7b3d84205cdaf6b7fe0bcb75b2d3db42f78b03f79268c9255aa5b506d605978170a22d6401337726803fd0e9ce980f9d9b071a5ea36a30d1a";
+
+  meta = {
+    gameVersions = [ ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "jMgX3AR4" = lib.buildMinecraftMod {
   pname = "lambdynamiclights";
   version = "3.0.1+1.21.1";
