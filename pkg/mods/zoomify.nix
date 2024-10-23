@@ -1,4 +1,64 @@
 { lib, ... }: {
+"RW06GEHk" = lib.buildMinecraftMod {
+  pname = "zoomify";
+  version = "2.14.2+1.20.1";
+  url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/RW06GEHk/Zoomify-2.14.2%2B1.20.1.jar";
+  sha512 = "5ab72d28f2fd3da28818256b849c38d3a0da7d8b38222785dc34ab99e301141e95e904984fb7ec693f699e71d955f7ddcf0e437d02eee1ddb058e6f2ea485afa";
+
+  meta = {
+    gameVersions = [ ''1.20'' ''1.20.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"oK8ySMgf" = lib.buildMinecraftMod {
+  pname = "zoomify";
+  version = "2.14.2+1.20.4";
+  url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/oK8ySMgf/Zoomify-2.14.2%2B1.20.4.jar";
+  sha512 = "7369f0708e8f46b5c152cb5c5ffbb82a210bc18f84742beededa9366f7766f1cf5d44ca92bd4386d4b9eea9737431ac36378c432e96985f71ded4d72fd9797df";
+
+  meta = {
+    gameVersions = [ ''1.20.3'' ''1.20.4'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"R3KFePo9" = lib.buildMinecraftMod {
+  pname = "zoomify";
+  version = "2.14.2+1.20.6";
+  url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/R3KFePo9/Zoomify-2.14.2%2B1.20.6.jar";
+  sha512 = "2d3ba959efa531087129056d2a20aca0f61432357685512515984d4e04a115215e43c0e1b7fbf0fac01dea794b4ab389bbbff2476e5ccd990f9950843938b504";
+
+  meta = {
+    gameVersions = [ ''1.20.5'' ''1.20.6'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"RKRjd2h1" = lib.buildMinecraftMod {
+  pname = "zoomify";
+  version = "2.14.2+1.21.3";
+  url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/RKRjd2h1/Zoomify-2.14.2%2B1.21.3.jar";
+  sha512 = "1fb4df13e2f2392af630407241f097b650b76738063db10c0907bb79a0e06571a4ec22ddfb98948174cdb2084bb5c1924265622525984a2af0c4e796b695c3de";
+
+  meta = {
+    gameVersions = [ ''1.21.2'' ''1.21.3'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"mGFci27z" = lib.buildMinecraftMod {
+  pname = "zoomify";
+  version = "2.14.2+1.21.1";
+  url = "https://cdn.modrinth.com/data/w7ThoJFB/versions/mGFci27z/Zoomify-2.14.2%2B1.21.1.jar";
+  sha512 = "6623b97f6a90e60b0ec82e6fe20a79c2e4da3fc620d696735bc95184e0d7371362f6c8d6c278531917f7ad104fa8b8e37c4b202c95e663a060f23676b4cf2207";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "8VBKUY5S" = lib.buildMinecraftMod {
   pname = "zoomify";
   version = "2.14.0+1.20.1";

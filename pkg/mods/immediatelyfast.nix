@@ -1,4 +1,64 @@
 { lib, ... }: {
+"bsaX5YIx" = lib.buildMinecraftMod {
+  pname = "immediatelyfast";
+  version = "1.3.0+1.21.3-fabric";
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/bsaX5YIx/ImmediatelyFast-Fabric-1.3.0%2B1.21.3.jar";
+  sha512 = "1a3545ae9d116fa3418f5eb9736698812d7c28800f961d7067a73988b6c090d8814b79d1913d5b2b00669f337809df7a0d7253dd5fa18aef553f4427ec41f197";
+
+  meta = {
+    gameVersions = [ ''1.21.2'' ''1.21.3'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"lQMxcaIl" = lib.buildMinecraftMod {
+  pname = "immediatelyfast";
+  version = "1.3.0+1.21.1-fabric";
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/lQMxcaIl/ImmediatelyFast-Fabric-1.3.0%2B1.21.1.jar";
+  sha512 = "f078e888481f273ca304318427dcc068a73ef877aa4a89b9a0e205c0790fc9c2a0331e371c940b928068beef19cf4c590f48fb34e2cecebeb335059e4d61a0bb";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"ISvVqTAo" = lib.buildMinecraftMod {
+  pname = "immediatelyfast";
+  version = "1.3.0+1.20.6-fabric";
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/ISvVqTAo/ImmediatelyFast-Fabric-1.3.0%2B1.20.6.jar";
+  sha512 = "f3caddb282f28109bc37daf20edf13062766c0525afef0cb6719247aeb2bae3ad8c6c1ce1b5af874eabfce568cd376f3e3d6c09e593d8c731f5be14a30f5e4c2";
+
+  meta = {
+    gameVersions = [ ''1.20.5'' ''1.20.6'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"pjGo59EB" = lib.buildMinecraftMod {
+  pname = "immediatelyfast";
+  version = "1.3.0+1.20.4-fabric";
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/pjGo59EB/ImmediatelyFast-Fabric-1.3.0%2B1.20.4.jar";
+  sha512 = "f5d9fd9817b396c6b0db810fca015eb4c640da706dcfd2d1c4d4c6e7d5e725820b9c0d5ce5172f55e10674a851f058fbc39ece6254030db7413ac18ac5674fc4";
+
+  meta = {
+    gameVersions = [ ''1.20'' ''1.20.1'' ''1.20.2'' ''1.20.3'' ''1.20.4'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"174CMHsg" = lib.buildMinecraftMod {
+  pname = "immediatelyfast";
+  version = "1.3.0+1.19.2-fabric";
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/174CMHsg/ImmediatelyFast-Fabric-1.3.0%2B1.19.2.jar";
+  sha512 = "debd2a27c68fa9b3259b95cf8b9a1c6c98bd45d4c3846b075c93e8c91370cf0fd28b464f79d4da052865f990d614f4111ec4a7479167dea9c4e6c1dca04fa6c7";
+
+  meta = {
+    gameVersions = [ ''1.19'' ''1.19.1'' ''1.19.2'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "ahszC7KU" = lib.buildMinecraftMod {
   pname = "immediatelyfast";
   version = "1.2.21+1.21.1-fabric";

@@ -6,7 +6,7 @@
   sha512 = "7d7879f45e37048aa8ebd37dcc150b74ebcd6f72bd52fb25c409719779edad3610dc2cab5c248c581f10e3d7f8514555c4753ad7523fce5124b8fae6676948a6";
 
   meta = {
-    gameVersions = [ ''1.21.2-pre1'' ''1.21.2-pre2'' ''1.21.2-pre3'' ];
+    gameVersions = [ ''1.21.2-pre1'' ''1.21.2-pre2'' ''1.21.2-pre3'' ''1.21.2-pre4'' ''1.21.2-pre5'' ''1.21.2-rc1'' ''1.21.2-rc2'' ''1.21.2'' ];
     loaders = [ ''fabric'' ''quilt'' ];
   };
 };
