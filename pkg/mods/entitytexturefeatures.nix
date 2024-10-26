@@ -1,4 +1,16 @@
 { lib, ... }: {
+"6vli6rDE" = lib.buildMinecraftMod {
+  pname = "entitytexturefeatures";
+  version = "6.2.6";
+  url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/6vli6rDE/entity_texture_features_fabric_1.21.2-6.2.6.jar";
+  sha512 = "4b9a1682de611d3e0de4edd54460a41a487040ec6d36bcf08abb56a12e55500a0c18b244d4074c622f7a59e70a41feb7100afc83432f88b88e9bccb81383ae4a";
+
+  meta = {
+    gameVersions = [ ''1.21.2'' ''1.21.3'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "qQQ5ffvS" = lib.buildMinecraftMod {
   pname = "entitytexturefeatures";
   version = "6.2.5";
