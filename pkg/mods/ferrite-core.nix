@@ -1,4 +1,52 @@
 { lib, ... }: {
+"a3QXXGz2" = lib.buildMinecraftMod {
+  pname = "ferrite-core";
+  version = "7.1.0-hotfix-fabric";
+  url = "https://cdn.modrinth.com/data/uXXizFIs/versions/a3QXXGz2/ferritecore-7.1.0-hotfix-fabric.jar";
+  sha512 = "ae1ab30beb5938643cf2ae7b8220769f2c917e3f5441e46e9bc900295348c0a541a325c30b8dfc38039205620d872c27809acdc6741351f08e4c8edc36ae2bcc";
+
+  meta = {
+    gameVersions = [ ''1.21.3'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"bwKMSBhn" = lib.buildMinecraftMod {
+  pname = "ferrite-core";
+  version = "7.0.2-hotfix-fabric";
+  url = "https://cdn.modrinth.com/data/uXXizFIs/versions/bwKMSBhn/ferritecore-7.0.2-hotfix-fabric.jar";
+  sha512 = "ca975bd3708cd96d30cf1447ac8883572113562eb2dd697e60c1cf382d6b70d0b1a511fcbfd042c51b2cf5d5ffc718b847f845e4c8a3e421e8c9ee741119a421";
+
+  meta = {
+    gameVersions = [ ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"zLd6ikLj" = lib.buildMinecraftMod {
+  pname = "ferrite-core";
+  version = "7.1.0-fabric";
+  url = "https://cdn.modrinth.com/data/uXXizFIs/versions/zLd6ikLj/ferritecore-7.1.0-fabric-dev.jar";
+  sha512 = "7f712caecde04dddaff4bc618012e6acb0486189c9d1a70b91a1be5fada9bc02de93c5759fef26e8f59bb9d877e8e59b87aef1f14e368ae2c2020a5a3b04627d";
+
+  meta = {
+    gameVersions = [ ''1.21.3'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"W4lg2p7U" = lib.buildMinecraftMod {
+  pname = "ferrite-core";
+  version = "7.0.2-fabric";
+  url = "https://cdn.modrinth.com/data/uXXizFIs/versions/W4lg2p7U/ferritecore-7.0.2-fabric-dev.jar";
+  sha512 = "eb40ac82999dc416890e7d035db511f69f6b8638cbdee5c5f079e82642caa95892b4ea4859d25cc350b62ee41137d8a9b818c3ca4f72af21257caccc2166cbd4";
+
+  meta = {
+    gameVersions = [ ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "zQSo4nxk" = lib.buildMinecraftMod {
   pname = "ferrite-core";
   version = "7.0.1-fabric";

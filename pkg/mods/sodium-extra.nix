@@ -1,4 +1,16 @@
 { lib, ... }: {
+"nsGodeRt" = lib.buildMinecraftMod {
+  pname = "sodium-extra";
+  version = "mc1.21.3-0.6.0-beta.4+fabric";
+  url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/nsGodeRt/sodium-extra-fabric-0.6.0-beta.4%2Bmc1.21.3.jar";
+  sha512 = "f7b87ad7e4e13e2608b386bef05a078f991fcdacbc4073c61ae0831f24776df6ef023f1b0ae9a163b93a1d96e40c98b5669de1ba1af65ac02a0c2a6efa6e2458";
+
+  meta = {
+    gameVersions = [ ''1.21.2'' ''1.21.3'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "CEAENzuT" = lib.buildMinecraftMod {
   pname = "sodium-extra";
   version = "mc1.21.1-0.6.0-beta.3+fabric";
