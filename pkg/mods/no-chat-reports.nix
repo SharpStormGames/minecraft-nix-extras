@@ -1,4 +1,28 @@
 { lib, ... }: {
+"Cylxdaqq" = lib.buildMinecraftMod {
+  pname = "no-chat-reports";
+  version = "Fabric-1.21.3-v2.10.0";
+  url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/Cylxdaqq/NoChatReports-FABRIC-1.21.3-v2.10.0.jar";
+  sha512 = "4535d06636948dae8c7e0f6066e7761195d06c5e19341c1c48e60cb6b3868de9093b88cb4458a2b640a59170c343f7f2e6793ddc945d38e69784e1a66e6c6710";
+
+  meta = {
+    gameVersions = [ ''1.21.2'' ''1.21.3'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"sOHvPS0X" = lib.buildMinecraftMod {
+  pname = "no-chat-reports";
+  version = "Fabric-1.21.1-v2.9.0";
+  url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/sOHvPS0X/NoChatReports-FABRIC-1.21.1-v2.9.0.jar";
+  sha512 = "3326d278e57cc2d7bdb4348570c3876ed096af872e166241209ef5ac7c823829596a81570db029ac751e5a11b7686046f72119f259365350ca2eba10037f6d24";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "riMhCAII" = lib.buildMinecraftMod {
   pname = "no-chat-reports";
   version = "Fabric-1.21-v2.8.0";

@@ -1,4 +1,28 @@
 { lib, ... }: {
+"EUvC0Bde" = lib.buildMinecraftMod {
+  pname = "lambdynamiclights";
+  version = "3.2.2+1.21.3";
+  url = "https://cdn.modrinth.com/data/yBW8D80W/versions/EUvC0Bde/lambdynamiclights-3.2.2%2B1.21.3.jar";
+  sha512 = "6aebe299b59d126c954688796ed22d77617e0971056f9e281e5218ba109bc7f0e372f4762420bc92d16e4cad0cf351f9d39d13c0822ce20f1f9e87eac4f0e93c";
+
+  meta = {
+    gameVersions = [ ''1.21.2'' ''1.21.3'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"f0UyHyXq" = lib.buildMinecraftMod {
+  pname = "lambdynamiclights";
+  version = "3.1.2+1.21.1";
+  url = "https://cdn.modrinth.com/data/yBW8D80W/versions/f0UyHyXq/lambdynamiclights-3.1.2%2B1.21.1.jar";
+  sha512 = "2279a80d3eacc0af379df6524209fc80323796bae8df28a93d95927ade523a7085142aaa2e71f8fd2b015ff8e2e836c4a619d8e52a718bd86b4afabecba1cefd";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "Isx1ctPV" = lib.buildMinecraftMod {
   pname = "lambdynamiclights";
   version = "3.2.1+1.21.3";
