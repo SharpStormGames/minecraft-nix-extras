@@ -1,4 +1,52 @@
 { lib, ... }: {
+"yINhkOxW" = lib.buildMinecraftMod {
+  pname = "immediatelyfast";
+  version = "1.3.1+1.21.3-fabric";
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/yINhkOxW/ImmediatelyFast-Fabric-1.3.1%2B1.21.3.jar";
+  sha512 = "5718bd02db6deb8398633156b2e0a4212ae8b5563b3e7758216043cd414ac7b58111f989f83da8f6895830eb846e07114c7bf029829d9bbd563a13b1c5b29712";
+
+  meta = {
+    gameVersions = [ ''1.21.2'' ''1.21.3'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"1jIYgnG2" = lib.buildMinecraftMod {
+  pname = "immediatelyfast";
+  version = "1.3.1+1.21.1-fabric";
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/1jIYgnG2/ImmediatelyFast-Fabric-1.3.1%2B1.21.1.jar";
+  sha512 = "a95f2fab727b6312af5b20352deda96267c36a8d285d767ee921fc15de701467616edb3472f3d8d9be43a7a66cd3b74fdd64b21326166208337b72cca22a21ed";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"MU7bOKWd" = lib.buildMinecraftMod {
+  pname = "immediatelyfast";
+  version = "1.3.1+1.20.4-fabric";
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/MU7bOKWd/ImmediatelyFast-Fabric-1.3.1%2B1.20.4.jar";
+  sha512 = "feaa58271b425a4f87306210c2c4a587d6164db8f00fb2e37e735fee586d69bad419480dc119b21d6caf5c806433a47027b5a698ff7a9f425d5f206cb3788fb3";
+
+  meta = {
+    gameVersions = [ ''1.20'' ''1.20.1'' ''1.20.2'' ''1.20.3'' ''1.20.4'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"onxZNw3d" = lib.buildMinecraftMod {
+  pname = "immediatelyfast";
+  version = "1.3.1+1.19.2-fabric";
+  url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/onxZNw3d/ImmediatelyFast-Fabric-1.3.1%2B1.19.2.jar";
+  sha512 = "7c71d79ade091c32e39b33ea88ae7285564f7c34b85978a264417f0238de412bc6538fd8545799dd03abfc5e582bc48b0eb5a2f1869ebae1b0df731b66087e70";
+
+  meta = {
+    gameVersions = [ ''1.19'' ''1.19.1'' ''1.19.2'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "bsaX5YIx" = lib.buildMinecraftMod {
   pname = "immediatelyfast";
   version = "1.3.0+1.21.3-fabric";

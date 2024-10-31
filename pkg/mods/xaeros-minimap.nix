@@ -1,4 +1,112 @@
 { lib, ... }: {
+"C6gFqr7V" = lib.buildMinecraftMod {
+  pname = "xaeros-minimap";
+  version = "24.6.1_Fabric_1.21";
+  url = "https://cdn.modrinth.com/data/1bokaNcj/versions/C6gFqr7V/Xaeros_Minimap_24.6.1_Fabric_1.21.jar";
+  sha512 = "783f5243f4d017071e26215660dafce6ff182e98583188296010d859b845f4d08d303cc930c9e98b28d67483c292ad0d00dada52916d275bda950f9975c4a222";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"K8IXFPsM" = lib.buildMinecraftMod {
+  pname = "xaeros-minimap";
+  version = "24.6.1_Fabric_1.20.6";
+  url = "https://cdn.modrinth.com/data/1bokaNcj/versions/K8IXFPsM/Xaeros_Minimap_24.6.1_Fabric_1.20.6.jar";
+  sha512 = "7e0d2e59a29f258fa41db6426ff97fb3061d31adf89ffea0e4f56dc8a632bb4335f8da7b53997a4f2342eabde3336cda3430472d3f97977d463d1ff61abe7b2c";
+
+  meta = {
+    gameVersions = [ ''1.20.5'' ''1.20.6'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"Z8KAWFKG" = lib.buildMinecraftMod {
+  pname = "xaeros-minimap";
+  version = "24.6.1_Fabric_1.20.4";
+  url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Z8KAWFKG/Xaeros_Minimap_24.6.1_Fabric_1.20.4.jar";
+  sha512 = "905b9c0cdb869eb924987865cd77b9e555b9c5a5a39fd36f49d876a3775a7d32df7ea7708f7bbe45efbf83aceb4ba923cda691233830c2ef2ceda2ea5d07ebf2";
+
+  meta = {
+    gameVersions = [ ''1.20.4'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"QwAgbWQ2" = lib.buildMinecraftMod {
+  pname = "xaeros-minimap";
+  version = "24.6.1_Fabric_1.20.2";
+  url = "https://cdn.modrinth.com/data/1bokaNcj/versions/QwAgbWQ2/Xaeros_Minimap_24.6.1_Fabric_1.20.2.jar";
+  sha512 = "2952308b829224c36985083be9976fd9e1d7db62df0c97a38d5692eb113efff076c199740ac767314557522278c581a730cb84232592d228bcda5797644181ab";
+
+  meta = {
+    gameVersions = [ ''1.20.2'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"jouP2Oob" = lib.buildMinecraftMod {
+  pname = "xaeros-minimap";
+  version = "24.6.1_Fabric_1.20";
+  url = "https://cdn.modrinth.com/data/1bokaNcj/versions/jouP2Oob/Xaeros_Minimap_24.6.1_Fabric_1.20.jar";
+  sha512 = "846929a40b8a17a49130071dc4566c5cfd4dca717cd0b6ca9af1c1f970aa29a9cdaf3e432c4f0760ae59f3abad36babb3cc0aa32dd00aecd758bbdc6ddd8573c";
+
+  meta = {
+    gameVersions = [ ''1.20'' ''1.20.1'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"taL20JAk" = lib.buildMinecraftMod {
+  pname = "xaeros-minimap";
+  version = "24.6.1_Fabric_1.19.4";
+  url = "https://cdn.modrinth.com/data/1bokaNcj/versions/taL20JAk/Xaeros_Minimap_24.6.1_Fabric_1.19.4.jar";
+  sha512 = "6659fbf7a013c98e8ce744543d03b6fba7058a204dcf1e7b705f9ae63e7dcf964a7cb16af1769693f533ab47d5e172c370029484ce7d98d62179964bd61dc396";
+
+  meta = {
+    gameVersions = [ ''1.19.4'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"iM75NCJr" = lib.buildMinecraftMod {
+  pname = "xaeros-minimap";
+  version = "24.6.1_Fabric_1.19.1";
+  url = "https://cdn.modrinth.com/data/1bokaNcj/versions/iM75NCJr/Xaeros_Minimap_24.6.1_Fabric_1.19.1.jar";
+  sha512 = "9b53ba4c79c03366ee29831dd145cf90d6aee759383d6127cbee67b25fbdaedeb3aff440d7f1c193781e7410a5c905620a72ce2a323ea77ab83c831d8bbcbb36";
+
+  meta = {
+    gameVersions = [ ''1.19.1'' ''1.19.2'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"xA2vPHvn" = lib.buildMinecraftMod {
+  pname = "xaeros-minimap";
+  version = "24.6.1_Fabric_1.18.2";
+  url = "https://cdn.modrinth.com/data/1bokaNcj/versions/xA2vPHvn/Xaeros_Minimap_24.6.1_Fabric_1.18.2.jar";
+  sha512 = "21efeb3b348580d0b874553b1b2c708bc4433919f9eff68a81960cb8fc80c2e635cb5cff9e214d032116b4d3fe89ad764695eb05499fb88dc7afffec63616982";
+
+  meta = {
+    gameVersions = [ ''1.18.2'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
+"O9t3Scfw" = lib.buildMinecraftMod {
+  pname = "xaeros-minimap";
+  version = "24.6.1_Fabric_1.16.5";
+  url = "https://cdn.modrinth.com/data/1bokaNcj/versions/O9t3Scfw/Xaeros_Minimap_24.6.1_Fabric_1.16.5.jar";
+  sha512 = "19e1928b68d2560911e5a2c35ce7040c1c29eefb95cc61b1e00a0afc9d0341cad539b8f14ad1cf2810e3cfd88ccf6082df18c994a470b1c9c40b389c272004bd";
+
+  meta = {
+    gameVersions = [ ''1.16.2'' ''1.16.3'' ''1.16.4'' ''1.16.5'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "ZAcLKIAX" = lib.buildMinecraftMod {
   pname = "xaeros-minimap";
   version = "24.5.1_Fabric_1.18.2";
