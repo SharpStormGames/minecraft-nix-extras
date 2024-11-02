@@ -1,4 +1,148 @@
 { lib, ... }: {
+"1RRKXlfZ" = lib.buildMinecraftMod {
+  pname = "3dskinlayers";
+  version = "1.7.0";
+  url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/1RRKXlfZ/skinlayers3d-fabric-1.7.0-mc1.21.3.jar";
+  sha512 = "89a3d2a07f4c327f47a9688deaead7abc4cbe7df56e5e24768d0754a714ee279ade3eb79d4d2cf95ba0f7503a8ac282a1f377fc1dbf03373ad19d733e7bb8319";
+
+  meta = {
+    gameVersions = [ ''1.21.3'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"nprGL5Jy" = lib.buildMinecraftMod {
+  pname = "3dskinlayers";
+  version = "1.7.0";
+  url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/nprGL5Jy/skinlayers3d-fabric-1.7.0-mc1.21.jar";
+  sha512 = "2a11f87d1fa04c9793da82fa307c84d6355048ea3af23ddf6b3250dbf2853c290a13f4d253e2f8e2a6901aea62fa3d02ffdd0a32730044d4d39559dcfbafc6c8";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"agDxVFAv" = lib.buildMinecraftMod {
+  pname = "3dskinlayers";
+  version = "1.7.0";
+  url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/agDxVFAv/skinlayers3d-fabric-1.7.0-mc1.20.6.jar";
+  sha512 = "7d98075f51701edac518a160cca5bbb4670700604b1a7b4e4671baf721f9c82a7105d7cb5bb2f555bef6f7712112515769d0f67b735adfa4b546feb610ceb24d";
+
+  meta = {
+    gameVersions = [ ''1.20.6'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"kqKpHIGg" = lib.buildMinecraftMod {
+  pname = "3dskinlayers";
+  version = "1.7.0";
+  url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/kqKpHIGg/skinlayers3d-fabric-1.7.0-mc1.20.4.jar";
+  sha512 = "b868c066f20349a40380251523e05d211657ac9e3d2cb9602e91963723e050c408d6479c64d57e1ebbe3ef54960c17bd834f8bbdd45fbc0086071f7ad9be4cf0";
+
+  meta = {
+    gameVersions = [ ''1.20.4'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"rq4jKqLv" = lib.buildMinecraftMod {
+  pname = "3dskinlayers";
+  version = "1.7.0";
+  url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/rq4jKqLv/skinlayers3d-fabric-1.7.0-mc1.20.2.jar";
+  sha512 = "93e22063fa5c9ef77f841e799758c8b71828a4c14e26b7b5429934552767fbbee48a693017d80ce09cc7c2270264f89f04cd0dcec520e71b8b013c2b6bd39bb2";
+
+  meta = {
+    gameVersions = [ ''1.20.2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"UyRXhtb3" = lib.buildMinecraftMod {
+  pname = "3dskinlayers";
+  version = "1.7.0";
+  url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/UyRXhtb3/skinlayers3d-fabric-1.7.0-mc1.20.1.jar";
+  sha512 = "9fa6625a218fa8fbd9b1868fdffb3304836b6eb08abf1b7a9551f6cbadac5eb11becbf7ec777618d5b38ddb749beb0461bc67f76afa6a625f80e660e2fcaa406";
+
+  meta = {
+    gameVersions = [ ''1.20.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"T3uwWiX9" = lib.buildMinecraftMod {
+  pname = "3dskinlayers";
+  version = "1.7.0";
+  url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/T3uwWiX9/skinlayers3d-fabric-1.7.0-mc1.19.4.jar";
+  sha512 = "85152c058e3b2b6c3a9cddbf515ee475e919369137cdd633c727f934e54cb6cd88265cec1732e6018b45597d1756df00cb925d4807c112d5a82607180e83649b";
+
+  meta = {
+    gameVersions = [ ''1.19.4'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"R7Hu8VsD" = lib.buildMinecraftMod {
+  pname = "3dskinlayers";
+  version = "1.7.0";
+  url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/R7Hu8VsD/skinlayers3d-fabric-1.7.0-mc1.19.3.jar";
+  sha512 = "e7835d214be520321a683a768f99730beee320c6ee69787b358fe012507668064735ea5703963dc7e592b31ca3e0798d97a0c2affa4026629a98c082d3d01676";
+
+  meta = {
+    gameVersions = [ ''1.19.3'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"aQw0aNyX" = lib.buildMinecraftMod {
+  pname = "3dskinlayers";
+  version = "1.7.0";
+  url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/aQw0aNyX/skinlayers3d-fabric-1.7.0-mc1.19.2.jar";
+  sha512 = "000da61bcf2aff012a8e29d7bd7b65deb251ad4e1f6b25998eab08b743325212bff2e76a8f4c8b684099d18508f6d90da6d0dd3e7c1488f21604c6b256354924";
+
+  meta = {
+    gameVersions = [ ''1.19.2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"7KeXO4yG" = lib.buildMinecraftMod {
+  pname = "3dskinlayers";
+  version = "1.7.0";
+  url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/7KeXO4yG/skinlayers3d-fabric-1.7.0-mc1.18.2.jar";
+  sha512 = "576b5ae71ec104b40f8c270bcea258a131cb6882ff28c383eb16982045c932c42066e62d14f5a11df5bb82f33621a8a6d53eadd9c4b3a0c71145404df1384625";
+
+  meta = {
+    gameVersions = [ ''1.18.2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"OBcAytsC" = lib.buildMinecraftMod {
+  pname = "3dskinlayers";
+  version = "1.7.0";
+  url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/OBcAytsC/skinlayers3d-fabric-1.7.0-mc1.17.1.jar";
+  sha512 = "fe8038b68f06722e7ae8ce3b000e491cacf61191ce502d020a2e96793812308eb7d57d219cb56058e1f91ac80509308ad1c11a5b6ac058169dd769fe83e6d0f4";
+
+  meta = {
+    gameVersions = [ ''1.17.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"9qw6oeda" = lib.buildMinecraftMod {
+  pname = "3dskinlayers";
+  version = "1.7.0";
+  url = "https://cdn.modrinth.com/data/zV5r3pPn/versions/9qw6oeda/skinlayers3d-fabric-1.7.0-mc1.16.5.jar";
+  sha512 = "7d3de66187c6a02681d8e253a7e84078b4daf2ad7c539a767d7e002d9b2f560eb26c37e186809847e8f69142d70489754a2cbfa95d0f85fd1fa3a85deb6dae99";
+
+  meta = {
+    gameVersions = [ ''1.16.5'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "h12GehRH" = lib.buildMinecraftMod {
   pname = "3dskinlayers";
   version = "1.6.7";

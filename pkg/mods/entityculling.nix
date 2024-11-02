@@ -1,4 +1,100 @@
 { lib, ... }: {
+"8RrU4f3Q" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.7.1";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/8RrU4f3Q/entityculling-fabric-1.7.1-mc1.21.3.jar";
+  sha512 = "1b0bef65e1c123c0e413e285a0176db8053702b93279723883805792de2de5b32adf408f8d84e9ff202088fedbd26a09ec821b9465c674a83d31f27929f5488b";
+
+  meta = {
+    gameVersions = [ ''1.21.3'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"hD1f5amG" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.7.1";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/hD1f5amG/entityculling-fabric-1.7.1-mc1.21.jar";
+  sha512 = "0440f0c0c87f2de29e0b6583d9fc6d347db30eb5f4e8fedae52ea2b38261cd2a06b5644aeffdce1680f21d7c5370bd00ddceeb776db1d63f4011fc41a7bac865";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"78EFhW55" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.7.1";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/78EFhW55/entityculling-fabric-1.7.1-mc1.20.6.jar";
+  sha512 = "1e10855cc73f11f4cb812b011cbb2ea72be3922a4f81965d788cefcb56cb226ecb6bde6aeaa2fd96c16e44171ef63bb7dd7e30a3e8d05c72a4c2fdd2cac20719";
+
+  meta = {
+    gameVersions = [ ''1.20.6'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"suQzhN9O" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.7.1";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/suQzhN9O/entityculling-fabric-1.7.1-mc1.20.4.jar";
+  sha512 = "bffa55983235ff22035377e6d95629604d29baa0ff012dccff42d2db866bc22e7f6a58a2928059e9d321cbe508a47798686ebf13ead8f1f673fe3414a33b0dc2";
+
+  meta = {
+    gameVersions = [ ''1.20.4'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"yFTJuVix" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.7.1";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/yFTJuVix/entityculling-fabric-1.7.1-mc1.20.2.jar";
+  sha512 = "f8fd5cc1da28d8e9f620aedd13fe16b45514fe26fbeb042c1de1c6ac369ff98ff78c7fb4bee5eba2ae3d5ec7192215964132f9c85e98e75bdb66426a7ec58d11";
+
+  meta = {
+    gameVersions = [ ''1.20.2'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"QVn7Zkkn" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.7.1";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/QVn7Zkkn/entityculling-fabric-1.7.1-mc1.20.1.jar";
+  sha512 = "e2bec793f921521eaec1cf2711c59b66a9722eaa4eff43c6e57ee6f20c642b12c0b027638d2bab699e5aaf719954e6fe8360725810ff08c1ee8b9c75ad53a2e4";
+
+  meta = {
+    gameVersions = [ ''1.20.1'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"HTvBVCkY" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.7.1";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/HTvBVCkY/entityculling-fabric-1.7.1-mc1.19.4.jar";
+  sha512 = "6c85a24c3965df9ca1c5be0ce73c3d0163716f1de2d1fc9081bd6bb1deb11beea6b8ee956bc13c4f700044fff197036b1d2b7f598d0ddfcd6779ec7acbfa0b83";
+
+  meta = {
+    gameVersions = [ ''1.19.4'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
+"vJd4SVYM" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.7.1";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/vJd4SVYM/entityculling-fabric-1.7.1-mc1.19.3.jar";
+  sha512 = "6f51bf0449c39785ffecfa050f7c70a91d31aabac562f4243f19614780b665b87ccd1b5e1bd31e7a303689d8a09595d19cdf59a24d468a678c2c1c5478d790a2";
+
+  meta = {
+    gameVersions = [ ''1.19.3'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "kPbJu8eF" = lib.buildMinecraftMod {
   pname = "entityculling";
   version = "1.7.0";
