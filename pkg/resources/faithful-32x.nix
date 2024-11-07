@@ -1,4 +1,268 @@
 { lib, ... }: {
+"LIidRzdH" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.21.3-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/LIidRzdH/Faithful%2032x%20-%201.21.3.zip";
+  sha512 = "5e35cd0019671b8e3f4b53278024dab191f754777fb66dd95ec3211eedd43c61fc6097b423ab66f44ac8375b5fe1e88c3e3b17f43f6a3a1dcde8dc100ed8c5c9";
+
+  meta = {
+    gameVersions = [ ''1.21.2'' ''1.21.3'' ];
+  };
+};
+
+"I7kZP94R" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.21.1-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/I7kZP94R/Faithful%2032x%20-%201.21.1.zip";
+  sha512 = "1b40a80e5d286e27afff7c8149da8a63670891f395b2b7f6d6f32eaa108ff4d227909bcf987a20fa40ed1e0ae65fed924d8d2360c8bd95d3d3c593f372efc619";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' ];
+  };
+};
+
+"nOncmnL5" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.20.6-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/nOncmnL5/Faithful%2032x%20-%201.20.6.zip";
+  sha512 = "a0dd45d144279b7120056f5e4ff520d46b35620bc7b9b6be28380e24e579a36dd2ea9bbc2966f07292cd493bc30f9234866991baf9f6fa2c8f8e6708c4855a4d";
+
+  meta = {
+    gameVersions = [ ''1.20.5'' ''1.20.6'' ];
+  };
+};
+
+"NfJfL9Tp" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.20.4-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/NfJfL9Tp/Faithful%2032x%20-%201.20.4.zip";
+  sha512 = "dbdfd0605aede553a15205e3fba9f7784fb33551bc39096cc95d5dea80b4fd7784c2a25d491d282dc97b63dfda71b16a470c1996caa0fffb1004eb3830cba61b";
+
+  meta = {
+    gameVersions = [ ''1.20.3'' ''1.20.4'' ];
+  };
+};
+
+"OdVD1Wi9" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.20.2-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/OdVD1Wi9/Faithful%2032x%20-%201.20.2.zip";
+  sha512 = "c5f0a805eb9f68e4993239a59ee2d0a2f9d6383ba25a03b6d6f234d3af86dc52f8497fb0518a6ee95116a3c7aba1c0ca20e68627a71befa324d8a26606340026";
+
+  meta = {
+    gameVersions = [ ''1.20.2'' ];
+  };
+};
+
+"HdSkATr7" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.20.1-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/HdSkATr7/Faithful%2032x%20-%201.20.1.zip";
+  sha512 = "1b0d2847c97aaa07f9a5693d74e3ddc6f69ef53b71bbb3d4612243731dbf121ef407cb80795f79792c3e2afa89acb81df2f3d70e2be68fd3f22f4247ebee99b7";
+
+  meta = {
+    gameVersions = [ ''1.20'' ''1.20.1'' ];
+  };
+};
+
+"Mak0k9kT" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.19.4-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/Mak0k9kT/Faithful%2032x%20-%201.19.4.zip";
+  sha512 = "5db749ce5fd7491460983ce3d023f35ec5bbb44dc895c4a1acf86dbb65a4e5a8c3b4ec4de01c77e83d7dd3ec2d4c33ba53035c4cdef38ff5f830d80533acc467";
+
+  meta = {
+    gameVersions = [ ''1.19.4'' ];
+  };
+};
+
+"Pfxomj5W" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.19.3-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/Pfxomj5W/Faithful%2032x%20-%201.19.3.zip";
+  sha512 = "d6a4cde899c5d7c6317b909b8585f2fa3d3ffdc59a76a85ed639c285fb72623afe999d251a0a00560ca422e7e680527b5d9207bdb5b978b2aac223132109f528";
+
+  meta = {
+    gameVersions = [ ''1.19.3'' ];
+  };
+};
+
+"31qQMvOd" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.19.2-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/31qQMvOd/Faithful%2032x%20-%201.19.2.zip";
+  sha512 = "5d387e91965511bf26f3f2d9c998c2e38e8f761dd7c55493af3309ab3c67cff5bae8b5f0e7f0f92c2501f15440c101c1b8e63000ace36b95ffc53402656b8266";
+
+  meta = {
+    gameVersions = [ ''1.19'' ''1.19.1'' ''1.19.2'' ];
+  };
+};
+
+"doO0ML0c" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.18.2-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/doO0ML0c/Faithful%2032x%20-%201.18.2.zip";
+  sha512 = "5ab1e8e76fd6eb6b40bd90d452ea6ab5da5ef9d053b85daa96df0b64b2da447594afd542a0ac946dbc842f671338f2395e85da639de0887221f018bed9ddb112";
+
+  meta = {
+    gameVersions = [ ''1.18'' ''1.18.1'' ''1.18.2'' ];
+  };
+};
+
+"fW2dt6R0" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.17.1-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/fW2dt6R0/Faithful%2032x%20-%201.17.1.zip";
+  sha512 = "0b7c02590678a1c19e0d3db43bae42f7b631e24d4a075cf07bde51afe40060e3ea3f080d8de80dd9b93fc060bae48436242a790d1d0c6f05706117a76b3af343";
+
+  meta = {
+    gameVersions = [ ''1.17'' ''1.17.1'' ];
+  };
+};
+
+"6mxik6J9" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.16.5-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/6mxik6J9/Faithful%2032x%20-%201.16.5.zip";
+  sha512 = "9a68dd3887b2449879d3a32a9ca89d9c1085928dc680c097e17f6e57f956f7fae1d86690505c1d09e697a15136b0d7fcc618f7a607814754e5d7c4263fae88da";
+
+  meta = {
+    gameVersions = [ ''1.16'' ''1.16.1'' ''1.16.2'' ''1.16.3'' ''1.16.4'' ''1.16.5'' ];
+  };
+};
+
+"JrCaNhDg" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.15.2-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/JrCaNhDg/Faithful%2032x%20-%201.15.2.zip";
+  sha512 = "ec7d6f0d9fc49ef3e215fb50bec0daee2a59cd2f4ad96ee98ec72d69f70a17e6a36bd53ebd15a961cf7116d61f7860d67a51142b8c7c455bae1cbd77529d3951";
+
+  meta = {
+    gameVersions = [ ''1.15'' ''1.15.1'' ''1.15.2'' ];
+  };
+};
+
+"6UKEyxMj" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.14.4-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/6UKEyxMj/Faithful%2032x%20-%201.14.4.zip";
+  sha512 = "bf01d266f39e97c05b41dcbca739149d46e72f484f8c32d5c9cefd2d0897b3c0ae7d37fead8318391ca3ee646929385db9d7d5c7d1c795d785179f39664e39ff";
+
+  meta = {
+    gameVersions = [ ''1.14'' ''1.14.1'' ''1.14.2'' ''1.14.3'' ''1.14.4'' ];
+  };
+};
+
+"DEmdBBeF" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.13.2-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/DEmdBBeF/Faithful%2032x%20-%201.13.2.zip";
+  sha512 = "9e2fe409deea6d1d20543b672eae313aaf8ee5df213de14697b47432e492ad1dfbbb4b0a2131d6ab0a79f64afdd060da449e169af63b76e2b8fca1e7000a1aa5";
+
+  meta = {
+    gameVersions = [ ''1.13'' ''1.13.1'' ''1.13.2'' ];
+  };
+};
+
+"JtSe7Wtp" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.12.2-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/JtSe7Wtp/Faithful%2032x%20-%201.12.2.zip";
+  sha512 = "9220d5fa6ebf4a30572a3a56b8888962e80b5aa76d3525cb5ede28ebf07ba6e7522a8d2e3c5df7a11bd934dbc4ef872e2c06096ecae00947660507371208d2ae";
+
+  meta = {
+    gameVersions = [ ''1.12'' ''1.12.1'' ''1.12.2'' ];
+  };
+};
+
+"ZuajPAPL" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.11.2-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/ZuajPAPL/Faithful%2032x%20-%201.11.2.zip";
+  sha512 = "8235c02763a4e43d81b78cf26d3ecc4248726629093ddf4363ac677b6717b2eb406c2abd6a6761db26419860bb974af5060afc147f44d50e9a3e4b588fba41b8";
+
+  meta = {
+    gameVersions = [ ''1.11'' ''1.11.1'' ''1.11.2'' ];
+  };
+};
+
+"hcQRwInr" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.10.2-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/hcQRwInr/Faithful%2032x%20-%201.10.2.zip";
+  sha512 = "18e7a3e4396a586e919fd44cf4ba00741261384bce2dc642ef385496271e5345169c028dafaf722915f74310aa2b2e185e115d6c382a912042be84bab6ec7f2b";
+
+  meta = {
+    gameVersions = [ ''1.10'' ''1.10.1'' ''1.10.2'' ];
+  };
+};
+
+"zcd4OUxd" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.9.4-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/zcd4OUxd/Faithful%2032x%20-%201.9.4.zip";
+  sha512 = "e77b652100d8b7738c13a58f6ba6aebf7f525e948eef223a62019c101ef92266b0e02c322a0a5ac83ea359f45ae20a00211d2040b4e4e91892223626cefb9794";
+
+  meta = {
+    gameVersions = [ ''1.9'' ''1.9.1'' ''1.9.2'' ''1.9.3'' ''1.9.4'' ];
+  };
+};
+
+"KzX2UMqO" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.8.9-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/KzX2UMqO/Faithful%2032x%20-%201.8.9.zip";
+  sha512 = "1a70fa2d37b115b79d6ee1081698051487c7c3714e1532799dfd78a6668f65b7e86d8ed26dfb5aa606836b5dac8daa462f23691636e85a76cde3467d971a224c";
+
+  meta = {
+    gameVersions = [ ''1.8'' ''1.8.1'' ''1.8.2'' ''1.8.3'' ''1.8.4'' ''1.8.5'' ''1.8.6'' ''1.8.7'' ''1.8.8'' ''1.8.9'' ];
+  };
+};
+
+"DV5uGb62" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.7.10-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/DV5uGb62/Faithful%2032x%20-%201.7.10.zip";
+  sha512 = "86d9019863b7823d36af2c97e6bd279b650a98739f11c99dcdbb5559621ced9b233849285d2a398a24a0e7e5856f3d8d52d974a249688760e4458f5f53a7bb5d";
+
+  meta = {
+    gameVersions = [ ''1.7.2'' ''1.7.3'' ''1.7.4'' ''1.7.5'' ''1.7.6'' ''1.7.7'' ''1.7.8'' ''1.7.9'' ''1.7.10'' ];
+  };
+};
+
+"jt2386zs" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.6.4-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/jt2386zs/Faithful%2032x%20-%201.6.4.zip";
+  sha512 = "1f0d39a694b4ccd9334152b5c28f2c2a96571f76fe06a7c1a226230ec0579204dbe9201d4f28e312b7c27b88c910e33fc39d48470c254ae588c7cbab3be0cffa";
+
+  meta = {
+    gameVersions = [ ''1.6.1'' ''1.6.2'' ''1.6.4'' ];
+  };
+};
+
+"8SUQI4dz" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "1.4.6-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/8SUQI4dz/Faithful%2032x%20-%201.4.6.zip";
+  sha512 = "91349378e780719bb2ff792edf8c9daab86fe4406598c8257e0fe5aff5e2c0ec279bcea76889983cdb6c49a99d06ffc1a299234ee40add88cf27975e414196d8";
+
+  meta = {
+    gameVersions = [ ''1.4.2'' ''1.4.4'' ''1.4.5'' ''1.4.6'' ''1.4.7'' ];
+  };
+};
+
+"NdscRFW8" = lib.buildMinecraftPack {
+  pname = "faithful-32x";
+  version = "b1.7.3-november-2024";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/NdscRFW8/Faithful%2032x%20-%20b1.7.3.zip";
+  sha512 = "af7aeaba51e383b743de66042c815cad6d18cd5c2af4e3eb67982096dfd137fe33837ab73f07be096992ebc84d99cc74347a2b00852bb58e2cc42b343682c24c";
+
+  meta = {
+    gameVersions = [ ''b1.7.3'' ];
+  };
+};
+
 "SBLjnb1v" = lib.buildMinecraftPack {
   pname = "faithful-32x";
   version = "1.21-july-2024";

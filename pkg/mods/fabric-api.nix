@@ -1,4 +1,16 @@
 { lib, ... }: {
+"psnRjnnH" = lib.buildMinecraftMod {
+  pname = "fabric-api";
+  version = "0.107.2+1.21.4";
+  url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/psnRjnnH/fabric-api-0.107.2%2B1.21.4.jar";
+  sha512 = "b832a825106c29a816b133e62d336ff29e4a96dd602ab0e6336ef4e03a1e43d81116b1bfba997f72fdb38d7991263016435319729bef6bd176b81e05d3fa1165";
+
+  meta = {
+    gameVersions = [ ''24w45a'' ];
+    loaders = [ ''fabric'' ];
+  };
+};
+
 "k13PLvlF" = lib.buildMinecraftMod {
   pname = "fabric-api";
   version = "0.107.0+1.21.4";
