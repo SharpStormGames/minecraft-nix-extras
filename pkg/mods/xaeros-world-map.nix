@@ -1,4 +1,16 @@
 { lib, ... }: {
+"c1X0YcPG" = lib.buildMinecraftMod {
+  pname = "xaeros-world-map";
+  version = "1.39.1_Fabric_1.21.3";
+  url = "https://cdn.modrinth.com/data/NcUtCpym/versions/c1X0YcPG/XaerosWorldMap_1.39.1_Fabric_1.21.3.jar";
+  sha512 = "1ee14d9a30a09a66e9854ac1072d1a2c350642418304e0c41f4426812b2d72a544f6f8df41dc1141e69870a5a993d07d627791d5a5ffd220bec498195a149722";
+
+  meta = {
+    gameVersions = [ ''1.21.3'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "373K4YJh" = lib.buildMinecraftMod {
   pname = "xaeros-world-map";
   version = "1.39.0_Fabric_1.21";

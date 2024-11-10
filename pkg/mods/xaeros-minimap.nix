@@ -1,4 +1,16 @@
 { lib, ... }: {
+"Xin6IcCV" = lib.buildMinecraftMod {
+  pname = "xaeros-minimap";
+  version = "24.6.2_Fabric_1.21.3";
+  url = "https://cdn.modrinth.com/data/1bokaNcj/versions/Xin6IcCV/Xaeros_Minimap_24.6.2_Fabric_1.21.3.jar";
+  sha512 = "36f10d5571ddc59562ac787f4902cedaaba290b5fcac401699c8fe651bb378dbf06ed86566d283a7dbefb606958230cf084e729a521ff5c038356a831fb133e7";
+
+  meta = {
+    gameVersions = [ ''1.21.3'' ];
+    loaders = [ ''fabric'' ''quilt'' ];
+  };
+};
+
 "C6gFqr7V" = lib.buildMinecraftMod {
   pname = "xaeros-minimap";
   version = "24.6.1_Fabric_1.21";
