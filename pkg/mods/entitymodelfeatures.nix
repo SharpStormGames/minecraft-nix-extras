@@ -1,4 +1,17 @@
 { lib, ... }: {
+"7QfUzC3f" = lib.buildMinecraftMod {
+  pname = "entitymodelfeatures";
+  version = "2.3.0";
+  url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/7QfUzC3f/entity_model_features_fabric_1.21.3-2.3.0.jar";
+  sha512 = "e0ced057b755369a6c840511a313a66f97f79e567862e1cb217f1573ccd3131aaa99ac437f4711b86284534c96ae4120981ad3925af480e693a5dead2baac5ea";
+
+  meta = {
+    gameVersions = [ ''1.21.2'' ''1.21.3'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
 "cnCqWodo" = lib.buildMinecraftMod {
   pname = "entitymodelfeatures";
   version = "2.2.7";
