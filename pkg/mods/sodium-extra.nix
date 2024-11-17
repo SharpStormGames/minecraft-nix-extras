@@ -1,4 +1,28 @@
 { lib, ... }: {
+"ZQ3k4KzW" = lib.buildMinecraftMod {
+  pname = "sodium-extra";
+  version = "mc1.21.3-0.6.0+fabric";
+  url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/ZQ3k4KzW/sodium-extra-fabric-0.6.0%2Bmc1.21.3.jar";
+  sha512 = "daf84c399f103c370fa1df778dc6a2597f171a0d19ec689b82fd4ac4197d3447b1a54de2f9fe203b0f10ee78f4ce643d437a9a66820a4a4a10de12db57dbe66e";
+
+  meta = {
+    gameVersions = [ ''1.21.2'' ''1.21.3'' '''' ];
+    loaders = [ ''fabric'' '''' ];
+  };
+};
+
+"anDafurZ" = lib.buildMinecraftMod {
+  pname = "sodium-extra";
+  version = "mc1.21.1-0.6.0+fabric";
+  url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/anDafurZ/sodium-extra-fabric-0.6.0%2Bmc1.21.1.jar";
+  sha512 = "fa7fa78b5d4ef19eff4b3e711f5c79cb54e71c55c6af43fa6867c86e3e54be5045a681b809b8482227c5bda4da4afdce6f30b91e8021d3fae7e34be252b9c972";
+
+  meta = {
+    gameVersions = [ ''1.21.1'' '''' ];
+    loaders = [ ''fabric'' '''' ];
+  };
+};
+
 "nsGodeRt" = lib.buildMinecraftMod {
   pname = "sodium-extra";
   version = "mc1.21.3-0.6.0-beta.4+fabric";

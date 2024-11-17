@@ -1,4 +1,30 @@
 { lib, ... }: {
+"b70slbHV" = lib.buildMinecraftMod {
+  pname = "sodium";
+  version = "mc1.21.1-0.6.0-fabric";
+  url = "https://cdn.modrinth.com/data/AANobbMI/versions/b70slbHV/sodium-fabric-0.6.0%2Bmc1.21.1.jar";
+  sha512 = "f7b92989ba6312352623d0311c5bb71eb8da14ea2e5a070f3a959a1f10cfe68cfc8487cf8dbde9187d849d6c04833df2a974be12949efae8aaffe873815ba7a5";
+
+  meta = {
+    gameVersions = [ ''1.21.1'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"SzAjFUSx" = lib.buildMinecraftMod {
+  pname = "sodium";
+  version = "mc1.21.3-0.6.0-fabric";
+  url = "https://cdn.modrinth.com/data/AANobbMI/versions/SzAjFUSx/sodium-fabric-0.6.0%2Bmc1.21.3.jar";
+  sha512 = "c1ec717a059a13f7ca6acba1ed7e58b91d14d33523f91c715097502c6b0ffc20452572f7f9a0008429381cc943c3a7ed5b6ad106f05891f0d508a67a9fff3fad";
+
+  meta = {
+    gameVersions = [ ''1.21.2'' ''1.21.3'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
 "hBlmTLJR" = lib.buildMinecraftMod {
   pname = "sodium";
   version = "mc1.21.3-0.6.0-beta.5-fabric";
