@@ -1,9 +1,9 @@
 { lib, ... }: {
-"LIidRzdH" = lib.buildMinecraftPack {
+"UIpuBfGX" = lib.buildMinecraftPack {
   pname = "faithful-32x";
   version = "1.21.3-november-2024";
-  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/LIidRzdH/Faithful%2032x%20-%201.21.3.zip";
-  sha512 = "5e35cd0019671b8e3f4b53278024dab191f754777fb66dd95ec3211eedd43c61fc6097b423ab66f44ac8375b5fe1e88c3e3b17f43f6a3a1dcde8dc100ed8c5c9";
+  url = "https://cdn.modrinth.com/data/w0TnApzs/versions/UIpuBfGX/Faithful%2032x%20-%201.21.3.zip";
+  sha512 = "c614adc150ad59e63ff0cdc1c8ff01e1c3d36603f9ac6d0696b80ea66fd58a2f20d82645f7e0ad2ff732fe25c41b99b8c17bd3300d14d2b0d18a68a342ff2763";
 
   meta = {
     gameVersions = [ ''1.21.2'' ''1.21.3'' '''' ];
