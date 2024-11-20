@@ -1,4 +1,95 @@
 { lib, ... }: {
+"mPcd76Q5" = lib.buildMinecraftMod {
+  pname = "entitytexturefeatures";
+  version = "6.2.8";
+  url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/mPcd76Q5/entity_texture_features_fabric_24w46a-6.2.8.jar";
+  sha512 = "03203d60a314c1d332014561467f190f21a5a77d3ed8baa91aaab3a2d08a1d96df4ffd99cb9dac2e2084af9b74497903db4a5c9f2870bda5e83684e1650eaec3";
+
+  meta = {
+    gameVersions = [ ''24w46a'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"LEywH685" = lib.buildMinecraftMod {
+  pname = "entitytexturefeatures";
+  version = "6.2.8";
+  url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/LEywH685/entity_texture_features_fabric_1.21.3-6.2.8.jar";
+  sha512 = "c88322bf026a875c528989283ed80fdd6eb3e8a2ceced85a05a1375f7a1e0a7aebbf594c7a4c3b8d3f187036281611f0af02eb3766d87e0435cd3a291edb07ea";
+
+  meta = {
+    gameVersions = [ ''1.21.2'' ''1.21.3'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"KmnvNiTO" = lib.buildMinecraftMod {
+  pname = "entitytexturefeatures";
+  version = "6.2.8";
+  url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/KmnvNiTO/entity_texture_features_fabric_1.21.1-6.2.8.jar";
+  sha512 = "7ed597cdede33600c0c4c55557a71cdd01a841149283f121c935948b14c9532b333201199f5422a963de6bbb383d205a7a6e746c42691d779dcf78d1ed021c60";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"oClAtuI7" = lib.buildMinecraftMod {
+  pname = "entitytexturefeatures";
+  version = "6.2.8";
+  url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/oClAtuI7/entity_texture_features_fabric_1.20.6-6.2.8.jar";
+  sha512 = "2d26e8a2176207f9470201811d7aa831cb78d0558a4533cb821a831d56f62ed59e6619caab4b669adf259981cd04e11c2181ff6cdced76e68e6c7f25c834007c";
+
+  meta = {
+    gameVersions = [ ''1.20.6'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"PNoY2lfe" = lib.buildMinecraftMod {
+  pname = "entitytexturefeatures";
+  version = "6.2.8";
+  url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/PNoY2lfe/entity_texture_features_fabric_1.20.4-6.2.8.jar";
+  sha512 = "bf173566af51c577aacea098e5e50e1f42aea0f3c7f2a6af1c25e6c85bc8aff1c311c7400d1ec8043839c23bf44c188b100011b3f570ec2ee23e6c57c789dc9b";
+
+  meta = {
+    gameVersions = [ ''1.20.4'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"OOlmmums" = lib.buildMinecraftMod {
+  pname = "entitytexturefeatures";
+  version = "6.2.8";
+  url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/OOlmmums/entity_texture_features_fabric_1.20.2-6.2.8.jar";
+  sha512 = "b2126ade8806cea4fca5f77a5479a72923c9d60ee00f59884aaa200aaa28fc0259d278e08b6cfcc7211e513c5fe4f89c36f9c6decb18590d47d80ed990fa1cbd";
+
+  meta = {
+    gameVersions = [ ''1.20.2'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"3VwlPPf2" = lib.buildMinecraftMod {
+  pname = "entitytexturefeatures";
+  version = "6.2.8";
+  url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3VwlPPf2/entity_texture_features_fabric_1.20.1-6.2.8.jar";
+  sha512 = "96ebe5da5087ee36b5dbfe447ddf8fc9e458df8ef2f01f0fe1ff468c368fe29d9ae3aef6bec132a4a726891745849401795588169250cb67a268f91646ff4f9d";
+
+  meta = {
+    gameVersions = [ ''1.20'' ''1.20.1'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
 "223aQlbK" = lib.buildMinecraftMod {
   pname = "entitytexturefeatures";
   version = "6.2.7";
