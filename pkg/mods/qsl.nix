@@ -1,4 +1,16 @@
 { lib, ... }: {
+"s8dfz9Xa" = lib.buildMinecraftMod {
+  pname = "qsl";
+  version = "7.7.0+0.92.2-1.20.1";
+  url = "https://cdn.modrinth.com/data/qvIfYCYJ/versions/s8dfz9Xa/qfapi-7.7.0_qsl-6.3.0_fapi-0.92.2_mc-1.20.1.jar";
+  sha512 = "d7bb384b961088ae6fe1e0baef9895cd495a515d8337664bb534c36ae17e48188fc1c50cd9a06e3e53898870ada73e737f63853adf43e744fee11a64bad1059a";
+
+  meta = {
+    gameVersions = [ ''1.20.1'' '''' ];
+    loaders = [ ''quilt'' '''' ];
+  };
+};
+
 "WDWNp8qJ" = lib.buildMinecraftMod {
   pname = "qsl";
   version = "11.0.0-alpha.3+0.102.0-1.21";
