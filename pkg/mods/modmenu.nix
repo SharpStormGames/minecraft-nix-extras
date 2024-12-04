@@ -1,4 +1,30 @@
 { lib, ... }: {
+"2pJcGBVh" = lib.buildMinecraftMod {
+  pname = "modmenu";
+  version = "13.0.0-beta.1";
+  url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2pJcGBVh/modmenu-13.0.0-beta.1.jar";
+  sha512 = "e142b42a007d7853fe53ca74c8cc933566a75aa3068f6f6216f55d794cd4f3344c56e3a2de3db4cd59363799aa92583c6f45633cd9a4bb6cb24115f60617dd8c";
+
+  meta = {
+    gameVersions = [ ''1.21.4-rc3'' ''1.21.4'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"4xPSbh0l" = lib.buildMinecraftMod {
+  pname = "modmenu";
+  version = "12.0.0";
+  url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4xPSbh0l/modmenu-12.0.0.jar";
+  sha512 = "d215306281e7ad1da1037bc848c806c2e200d7eca39ccd2ca5fc25a03e3eacef2eb15b70fca1d832fb249aecc29a100fc87b9dacf90565fdf822b9a6df355af7";
+
+  meta = {
+    gameVersions = [ ''1.21.2-pre1'' ''1.21.2-pre2'' ''1.21.2-pre3'' ''1.21.2-pre4'' ''1.21.2-pre5'' ''1.21.2-rc1'' ''1.21.2-rc1'' ''1.21.2'' ''1.21.3'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
 "PcJvQYqu" = lib.buildMinecraftMod {
   pname = "modmenu";
   version = "12.0.0-beta.1";

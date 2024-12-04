@@ -1,4 +1,95 @@
 { lib, ... }: {
+"kwuHTVHC" = lib.buildMinecraftMod {
+  pname = "continuity";
+  version = "3.0.0+1.21.3";
+  url = "https://cdn.modrinth.com/data/1IjD5062/versions/kwuHTVHC/continuity-3.0.0%2B1.21.3.jar";
+  sha512 = "34f8817512e5294843f0cc97faf50c6bf5bfbeed614010fa944bf3a97e33b3b7ffc5cb553d9b9f1c435cc23819d35744ff6cb86b293530d58f4711c2145c97dc";
+
+  meta = {
+    gameVersions = [ ''1.21.3'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"kSPJ4hQv" = lib.buildMinecraftMod {
+  pname = "continuity";
+  version = "3.0.0+1.21";
+  url = "https://cdn.modrinth.com/data/1IjD5062/versions/kSPJ4hQv/continuity-3.0.0%2B1.21.jar";
+  sha512 = "3601ddb50f19142c087d32525bc0afcfb5f49a2e7477b6645a98ec191218739fdf3c6ac95cd298e826eb34fc533af43bb0e78c64e51292866ecabade4d14b13a";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"RXCRb59j" = lib.buildMinecraftMod {
+  pname = "continuity";
+  version = "3.0.0+1.20.5";
+  url = "https://cdn.modrinth.com/data/1IjD5062/versions/RXCRb59j/continuity-3.0.0%2B1.20.5.jar";
+  sha512 = "99083b1289674aa8b5862112f15babfd061457268b2e225626423c732e9565c07423b8da3c3180d8039ac1b3504b320df38136cff1c3f5527752490baba76bfe";
+
+  meta = {
+    gameVersions = [ ''1.20.5'' ''1.20.6'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"WMwDkIY8" = lib.buildMinecraftMod {
+  pname = "continuity";
+  version = "3.0.0+1.20.2";
+  url = "https://cdn.modrinth.com/data/1IjD5062/versions/WMwDkIY8/continuity-3.0.0%2B1.20.2.jar";
+  sha512 = "99e5e88a6bdbed440d6971a2718f2178efb7f7c1b1e2bf7166f2d7a7edf4f659683c7f9105a90b77b16fd4bc67e4b6330bf5a6e3e7befc5235eb9cd937d174c3";
+
+  meta = {
+    gameVersions = [ ''1.20.2'' ''1.20.3'' ''1.20.4'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"qGTDcjHM" = lib.buildMinecraftMod {
+  pname = "continuity";
+  version = "3.0.0+1.20.1";
+  url = "https://cdn.modrinth.com/data/1IjD5062/versions/qGTDcjHM/continuity-3.0.0%2B1.20.1.jar";
+  sha512 = "7205cae3c534fd5d5328a9659146911381c06e54da995aabd11745ad72def5bd5120b7cb792fab2e8dcaa4670c23bdba21079b8f6da94152cfc6ea4b415edcbf";
+
+  meta = {
+    gameVersions = [ ''1.20.1'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"kHdjiepB" = lib.buildMinecraftMod {
+  pname = "continuity";
+  version = "3.0.0+1.19.4";
+  url = "https://cdn.modrinth.com/data/1IjD5062/versions/kHdjiepB/continuity-3.0.0%2B1.19.4.jar";
+  sha512 = "7d86c790aa0b93a39a2849c8437c38e79489df3c249c40527003b4eaf2d30690084c44d96eb36bc924412a9de874b24899fd49cbb584f79c776e477e20539244";
+
+  meta = {
+    gameVersions = [ ''1.19.4'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"mvRzsvHc" = lib.buildMinecraftMod {
+  pname = "continuity";
+  version = "3.0.0+1.19.3";
+  url = "https://cdn.modrinth.com/data/1IjD5062/versions/mvRzsvHc/continuity-3.0.0%2B1.19.3.jar";
+  sha512 = "8206e3b3d2a38db7676bc41b6e9dfdaf9725d6087589af1623b4decf0f4cbfc9b4aba5b571284e4cf7ef62f979af9e440fa4e6d3e980499db0f689ff03cc7506";
+
+  meta = {
+    gameVersions = [ ''1.19.3'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
 "NksUpFjf" = lib.buildMinecraftMod {
   pname = "continuity";
   version = "3.0.0-beta.5+1.21";
