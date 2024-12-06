@@ -1,4 +1,28 @@
 { lib, ... }: {
+"HKmDd12e" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.7.2";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/HKmDd12e/entityculling-fabric-1.7.2-mc1.19.4.jar";
+  sha512 = "7230289c2130be8471ac1dc5375593c6b05048a13bcfead3d8c409a3329193016168ba35b0a90408831b5c2fa94220b4afb58d4b8b7e992cc9eb0664ad04627f";
+
+  meta = {
+    gameVersions = [ ''1.19.4'' '''' ];
+    loaders = [ ''fabric'' '''' ];
+  };
+};
+
+"O4LDHBYA" = lib.buildMinecraftMod {
+  pname = "entityculling";
+  version = "1.7.2";
+  url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/O4LDHBYA/entityculling-fabric-1.7.2-mc1.19.3.jar";
+  sha512 = "9c8eadc49e1bcfb02259384a203ff474e6335113bada55d10fa448ebbc87fed11497f6a664e87c2c1350ae5f456f66ede7df4d3f797d8efa59bff9bcf8f5df9b";
+
+  meta = {
+    gameVersions = [ ''1.19.3'' '''' ];
+    loaders = [ ''fabric'' '''' ];
+  };
+};
+
 "8RrU4f3Q" = lib.buildMinecraftMod {
   pname = "entityculling";
   version = "1.7.1";

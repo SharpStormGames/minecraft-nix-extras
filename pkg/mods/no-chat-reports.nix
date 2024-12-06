@@ -1,4 +1,17 @@
 { lib, ... }: {
+"9xt05630" = lib.buildMinecraftMod {
+  pname = "no-chat-reports";
+  version = "Fabric-1.21.4-v2.11.0";
+  url = "https://cdn.modrinth.com/data/qQyHxfxd/versions/9xt05630/NoChatReports-FABRIC-1.21.4-v2.11.0.jar";
+  sha512 = "d343b05c8e50f1de15791ff622ad44eeca6cdcb21e960a267a17d71506c61ca79b1c824167779e44d778ca18dcbdebe594ff234fbe355b68d25cdb5b6afd6e4f";
+
+  meta = {
+    gameVersions = [ ''1.21.4'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
 "Cg7X9iDa" = lib.buildMinecraftMod {
   pname = "no-chat-reports";
   version = "Fabric-1.21.3-v2.10.1";
