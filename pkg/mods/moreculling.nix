@@ -1,4 +1,30 @@
 { lib, ... }: {
+"W2BKP0eC" = lib.buildMinecraftMod {
+  pname = "moreculling";
+  version = "1.2.1";
+  url = "https://cdn.modrinth.com/data/51shyZVL/versions/W2BKP0eC/moreculling-fabric-1.21.4-1.2.1.jar";
+  sha512 = "69fdaa3e3e85c8760f39e1ac35bdd5a2b7e70313149d2a27bba0e3961560e9f6d887da05c8d0a72ff790a7afeb21ea5bf0c2ee07e72286467fcc403ef3c9841d";
+
+  meta = {
+    gameVersions = [ ''1.21.4'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"gMom21nZ" = lib.buildMinecraftMod {
+  pname = "moreculling";
+  version = "1.2.0";
+  url = "https://cdn.modrinth.com/data/51shyZVL/versions/gMom21nZ/moreculling-fabric-1.21.4-1.2.0.jar";
+  sha512 = "74507b324973782c1865f32bc24c995f8e8ed421970e7504bda79409d2b903f1af8e0f2a6f61b617c3fd85e920d24312501f5374b294405030429be70e05b09f";
+
+  meta = {
+    gameVersions = [ ''1.21.4'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
 "ScTXeKPL" = lib.buildMinecraftMod {
   pname = "moreculling";
   version = "1.2.0-beta.2";
