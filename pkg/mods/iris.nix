@@ -1,4 +1,17 @@
 { lib, ... }: {
+"J55HRGSf" = lib.buildMinecraftMod {
+  pname = "iris";
+  version = "1.8.4+1.21.4-fabric";
+  url = "https://cdn.modrinth.com/data/YL57xq9U/versions/J55HRGSf/iris-fabric-1.8.4%2Bmc1.21.4.jar";
+  sha512 = "6b0e76d013a8641023a69e910ad362cb26cc80f06e35e084ac16b1ce7dc1d4c69cf37692fb8e07e0c7cbf80f1eded23c776e2310be417aff99d404b1a9ca27e4";
+
+  meta = {
+    gameVersions = [ ''1.21.4'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
 "1jDkBRQP" = lib.buildMinecraftMod {
   pname = "iris";
   version = "1.8.3+1.21.4-fabric";

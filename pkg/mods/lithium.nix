@@ -1,7 +1,7 @@
 { lib, ... }: {
 "t1FlWYl9" = lib.buildMinecraftMod {
   pname = "lithium";
-  version = "mc1.21.4-0.14.3";
+  version = "mc1.21.4-0.14.3-fabric";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/t1FlWYl9/lithium-fabric-0.14.3%2Bmc1.21.4.jar";
   sha512 = "1a4eafbdcee3886d33c04aa462d13a8c1e345ff492001add262476585b78327a2d016e56385bced869615bc97161a34a0a716f5f579c8c1d7080b278f4f11183";
 
@@ -14,7 +14,7 @@
 
 "pZRO3EKX" = lib.buildMinecraftMod {
   pname = "lithium";
-  version = "mc1.21.3-0.14.3";
+  version = "mc1.21.3-0.14.3-fabric";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/pZRO3EKX/lithium-fabric-0.14.3%2Bmc1.21.3.jar";
   sha512 = "31ad08427ac50dd54cd2215c29452bd20430ce13f2bd8f4bdb8a6e2f6222b83df47d5727edac721f9397fa296db2998f9aa3eabe2c4c5d45619f8b5b00cd21fc";
 
@@ -27,7 +27,7 @@
 
 "9xfJi96s" = lib.buildMinecraftMod {
   pname = "lithium";
-  version = "mc1.21.1-0.14.3";
+  version = "mc1.21.1-0.14.3-fabric";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/9xfJi96s/lithium-fabric-0.14.3-snapshot%2Bmc1.21.1-build.92.jar";
   sha512 = "d46a47c4ac7372b5bae629e5910a20eff5b3064053d2441760aa8c42095d8173a85d6fbb624ffc10c68fc954579630c56f55dbcf392fb0253b5c3ffd096ee0a0";
 
@@ -40,7 +40,7 @@
 
 "QhCwdt4l" = lib.buildMinecraftMod {
   pname = "lithium";
-  version = "mc1.21.3-0.14.2";
+  version = "mc1.21.3-0.14.2-fabric";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/QhCwdt4l/lithium-fabric-0.14.2-snapshot%2Bmc1.21.3-build.91.jar";
   sha512 = "6c025877e0f5de8f87baca0be08e19bbad8fb7f6e2037d064f2497fd9779cdc3b979dfc80d228374934ef84014949c9cb4740c816cac0ac9ad0d566d1d7e4f0e";
 
@@ -53,7 +53,7 @@
 
 "frXUdgvL" = lib.buildMinecraftMod {
   pname = "lithium";
-  version = "mc1.21.1-0.14.2";
+  version = "mc1.21.1-0.14.2-fabric";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/frXUdgvL/lithium-fabric-0.14.2-snapshot%2Bmc1.21.1-build.90.jar";
   sha512 = "f47cc7ce94c9e63202c940e60a8b68d2c3cdcd3eafbc8625af2596eccc02ce3712794b812c24ca88eed1a3bde0129cb3c8a54236bc3a85547ffe70db7781f225";
 
@@ -66,7 +66,7 @@
 
 "2Ea7RMWZ" = lib.buildMinecraftMod {
   pname = "lithium";
-  version = "mc1.21.3-0.14.1";
+  version = "mc1.21.3-0.14.1-fabric";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/2Ea7RMWZ/lithium-fabric-0.14.1-snapshot%2Bmc1.21.3-build.89.jar";
   sha512 = "d122b23a520cb2573c2eaba9556c07846ae5f2f8ee9aabdf5dce914334e44027a273c8cf2ef2243fe03cf86a8858eab2ddcc247d95661dee40cd783cf444aeff";
 
@@ -79,7 +79,7 @@
 
 "2mbrKlX3" = lib.buildMinecraftMod {
   pname = "lithium";
-  version = "mc1.21.1-0.14.0-beta.1";
+  version = "mc1.21.1-0.14.0-beta.1-fabric";
   url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/2mbrKlX3/lithium-fabric-0.14.0-snapshot%2Bmc1.21.1-build.88.jar";
   sha512 = "e7ff451152caa994521736b3144e7b3edc98ffee0e04bb8ce4381eb777d64fac2d4e9edf6928303c2228c02c5d09147d369e71c12b45c39b324daf6916e6d0a1";
 

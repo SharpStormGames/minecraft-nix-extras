@@ -1,4 +1,147 @@
 { lib, ... }: {
+"ylzqEmTN" = lib.buildMinecraftMod {
+  pname = "xaeros-world-map";
+  version = "1.39.2_Fabric_1.19.1";
+  url = "https://cdn.modrinth.com/data/NcUtCpym/versions/ylzqEmTN/XaerosWorldMap_1.39.2_Fabric_1.19.1.jar";
+  sha512 = "2ad0253405720ab5c6da6d20b178b995f6096685f585ead5d8b738b5c5640efec4e60bb5cabf262d56f81f4bab4ccd488eee1217f532004c5ab5d22b831664ed";
+
+  meta = {
+    gameVersions = [ ''1.19.1'' ''1.19.2'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"BnFw7PFl" = lib.buildMinecraftMod {
+  pname = "xaeros-world-map";
+  version = "1.39.2_Fabric_1.21.4";
+  url = "https://cdn.modrinth.com/data/NcUtCpym/versions/BnFw7PFl/XaerosWorldMap_1.39.2_Fabric_1.21.4.jar";
+  sha512 = "36c7b9036aa3a2899e4758cc935370ba1e7bf41f8ae0eb25d301ae2f18591bb0e4abfa748c968abd3edd471857ae7dc211217ea07d50ecbd8300df25678008a5";
+
+  meta = {
+    gameVersions = [ ''1.21.4'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"qsqkUqNm" = lib.buildMinecraftMod {
+  pname = "xaeros-world-map";
+  version = "1.39.2_Fabric_1.21.3";
+  url = "https://cdn.modrinth.com/data/NcUtCpym/versions/qsqkUqNm/XaerosWorldMap_1.39.2_Fabric_1.21.3.jar";
+  sha512 = "b63c6ebf79c06a07551b340756e8b83eb3735d9120cc9769579690fccb7485ca999e84cf5930d754c11cf7077adf7e0b1546c6a81f15aa81f81678a4f2235b8e";
+
+  meta = {
+    gameVersions = [ ''1.21.3'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"2QD9OoBs" = lib.buildMinecraftMod {
+  pname = "xaeros-world-map";
+  version = "1.39.2_Fabric_1.21";
+  url = "https://cdn.modrinth.com/data/NcUtCpym/versions/2QD9OoBs/XaerosWorldMap_1.39.2_Fabric_1.21.jar";
+  sha512 = "05ca24e912cd3cef4f83eb32ce7ee22f90787e54bd8d7eddc99071a17649a5b10bdf0fa514b9689e721edf7420f6983bd222ee62e9775386c1701b3a249fa003";
+
+  meta = {
+    gameVersions = [ ''1.21'' ''1.21.1'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"LQFoEfvj" = lib.buildMinecraftMod {
+  pname = "xaeros-world-map";
+  version = "1.39.2_Fabric_1.20.6";
+  url = "https://cdn.modrinth.com/data/NcUtCpym/versions/LQFoEfvj/XaerosWorldMap_1.39.2_Fabric_1.20.6.jar";
+  sha512 = "6f387e67ba2bb5e82c8ebbb247951119ed533d21df87b6d27b445479a451df600c8a18e8dddac907e1999820a929e94cc0888ce5f5d999fc3b98373ab7c606cc";
+
+  meta = {
+    gameVersions = [ ''1.20.5'' ''1.20.6'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"giiirWF1" = lib.buildMinecraftMod {
+  pname = "xaeros-world-map";
+  version = "1.39.2_Fabric_1.20.4";
+  url = "https://cdn.modrinth.com/data/NcUtCpym/versions/giiirWF1/XaerosWorldMap_1.39.2_Fabric_1.20.4.jar";
+  sha512 = "70aca070c345fdfb1a669f5cd3ff100bff24a36d697c67993eef02312eb1646ccbf8adb6ee4a088ff317206bc78945dadbbe85a6737f62dffc4e02e21b2cd729";
+
+  meta = {
+    gameVersions = [ ''1.20.4'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"ZRMqHBcD" = lib.buildMinecraftMod {
+  pname = "xaeros-world-map";
+  version = "1.39.2_Fabric_1.20.2";
+  url = "https://cdn.modrinth.com/data/NcUtCpym/versions/ZRMqHBcD/XaerosWorldMap_1.39.2_Fabric_1.20.2.jar";
+  sha512 = "dfc834b58a1981e911bdbb18237f6bcb73de4e190c7da7fc818dd5a4558887011a919b9d2e0b702392704dab0b05f147bd2e07ab7b91266dabc7437742de2296";
+
+  meta = {
+    gameVersions = [ ''1.20.2'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"VXCG8MnU" = lib.buildMinecraftMod {
+  pname = "xaeros-world-map";
+  version = "1.39.2_Fabric_1.20";
+  url = "https://cdn.modrinth.com/data/NcUtCpym/versions/VXCG8MnU/XaerosWorldMap_1.39.2_Fabric_1.20.jar";
+  sha512 = "92cfae3f90b13cd2fe17c3e539cf278a6dbcbc29dc40cf741070933fc8874b6e4ecbf7d619522d54d4c23a1f5510f956b42018ea74bd863e84be1a47e16685f8";
+
+  meta = {
+    gameVersions = [ ''1.20'' ''1.20.1'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"415wkunH" = lib.buildMinecraftMod {
+  pname = "xaeros-world-map";
+  version = "1.39.2_Fabric_1.19.4";
+  url = "https://cdn.modrinth.com/data/NcUtCpym/versions/415wkunH/XaerosWorldMap_1.39.2_Fabric_1.19.4.jar";
+  sha512 = "610f76c04935c3904d13bd70d99fd892e9f5221322f88fc391cb1f3111e6b2f50e3717c83d06b48c378a37c96c5c065123e9d5894d1122e1d4b1ffef76b83673";
+
+  meta = {
+    gameVersions = [ ''1.19.4'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"xX4O8Ot5" = lib.buildMinecraftMod {
+  pname = "xaeros-world-map";
+  version = "1.39.2_Fabric_1.18.2";
+  url = "https://cdn.modrinth.com/data/NcUtCpym/versions/xX4O8Ot5/XaerosWorldMap_1.39.2_Fabric_1.18.2.jar";
+  sha512 = "b705b8125d2895462258068d5dce27cb31c9a2fea9f5d76a1cbfd8878dce84cfe684f9467a3200f7d89a88262a7ca72fff727cf4bf84d060ede9f2016a47cdf2";
+
+  meta = {
+    gameVersions = [ ''1.18.2'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
+"WrE08iiB" = lib.buildMinecraftMod {
+  pname = "xaeros-world-map";
+  version = "1.39.2_Fabric_1.16.5";
+  url = "https://cdn.modrinth.com/data/NcUtCpym/versions/WrE08iiB/XaerosWorldMap_1.39.2_Fabric_1.16.5.jar";
+  sha512 = "a3ac62190025d855b351c3ea00e688875a89508412062843cbb4a7bbdb2ea0ebb5435cdd0258de0244aa019db803f5915d62a3090bad6665724decdfff148774";
+
+  meta = {
+    gameVersions = [ ''1.16.5'' '''' ];
+    loaders = [ ''fabric'' ''quilt
+'' ];
+  };
+};
+
 "2KJYmhQu" = lib.buildMinecraftMod {
   pname = "xaeros-world-map";
   version = "1.39.1_Fabric_1.21.4";
